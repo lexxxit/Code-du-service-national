@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1976-07-10
+Version Consolidée au 1976-10-21
 
 # Partie législative
 
@@ -3863,6 +3863,72 @@ l'Etat.
 
 ##### PARAGRAPHE 1 : Soutiens de famille.
 
+###### Article R*55
+
+Pour la reconnaissance de la qualification de soutien de famille au sens des articles L. 32 et L. 32 bis, il est tenu compte,
+d'une part, de la situation familiale des jeunes gens, d'autre part, du montant des ressources dont dispose la famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-237 1972-03-29 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 1 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+	  - Code du service national - art. L32 bis (M)
+
+
+###### Article R*58
+
+Ne peuvent être classés soutiens de famille au sens des articles L. 32 et L. 32 bis, et dispensés comme tels des obligations
+du service national actif, les jeunes gens qui n'appartiennent à aucune des catégories familiales définies à l'article R.* 56
+et ceux pour lesquels le quotient des ressources par personne à charge, calculé comme il est dit à l'article R.* 57, est
+supérieur au salaire mensuel de base et entraîne le classement en sous-catégorie b.
+
+En outre, la dispense ne peut être accordée lorsqu'il ressort de renseignements portant notamment sur le patrimoine et le
+train de vie du jeune homme et, sous réserve de l'application des dispositions de l'article L. 32 bis, de sa famille que,
+malgré l'incorporation de celui-ci, l'entretien des personnes dont il a la charge continuera à être suffisamment assuré. Les
+intéressés sont alors classés dans la sous-catégorie b, quel que soit le quotient des ressources par personne à charge.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-237 1972-03-29 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 2 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+	  - Code du service national - art. L32 bis (M)
+	  - Code du service national L32, L32 bis, R57, R56
+
+
 ###### Article R*59
 
 Le décret prévu au troisième alinéa de l'article L. 32 détermine, le cas échéant, en fonction des nécessités du service et
@@ -4134,6 +4200,261 @@ l'intéressé par le délégué du Gouvernement. Une copie de cette décision es
 	**Cite**:
 
 	  - Code du service national - art. L32 (M)
+
+
+##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.
+
+###### Article R*68-5
+
+Dans le cas d'incapacité d'un parent ou beau-parent, le préfet peut demander la production d'un certificat médical délivré
+par un médecin assermenté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+##### PARAGRAPHE 3 : Résidence à l'étranger.
+
+###### Article R*69
+
+L'appel au service national actif est différé pour les jeunes Français qui résident effectivement à l'âge de dix-huit ans et
+qui continuent de résider habituellement jusqu'à l'âge de vingt-neuf ans dans un pays étranger, sauf dans les territoires
+européens relevant d'un des Etats ou pays énumérés ci-dessous :
+
+Autriche, Belgique, Danemark, Espagne, Irlande, Italie, Lichtenstein, Luxembourg, Monaco, Pays-Bas, Portugal, République
+fédérale d'Allemagne, Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, Saint-Marin, Suisse, Vatican ainsi que dans les
+vallées d'Andorre.
+
+La résidence dans un pays étranger est considérée comme effective lorsque les jeunes gens demeurent eux-mêmes dans ce pays,
+quel que soit le lieu d'établissement de leurs parents ou tuteur.
+
+La résidence à l'étranger est considérée comme habituelle si les jeunes gens y poursuivent des études ou y exercent leur
+principale activité professionnelle. Les absences temporaires, notamment à l'occasion de vacances scolaires ou de missions
+professionnelles d'une durée maximum de trois mois par an, ne modifient pas le caractère habituel de cette résidence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-213 1972-03-15 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JONC 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*70
+
+La preuve de la résidence à dix-huit ans dans un pays étranger résulte, soit de la notice individuelle établie par le consul
+et souscrite par l'intéressé lors du recensement, soit, à défaut, d'une attestation délivrée par le consul indiquant la
+résidence effective de l'intéressé dans sa circonscription.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-213 1972-03-15 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*71
+
+Les jeunes Français ^agés de moins de vingt-neuf ans dont l'appel est différé en application des dispositions de l'article R.
+69 doivent, pour ^etre maintenus dans cette position, adresser à leur bureau de recrutement, chaque année avant le 1er mai,
+par l'intermédiaire et sous le contr^ole des autorités consulaires, une déclaration de résidence à la date du 1er janvier de
+l'année considérée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-213 1972-03-15 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R69
+
+
+###### Article R*73
+
+Les jeunes gens qui cessent, avant l'^age de vingt-neuf ans, de se trouver dans la situation prévue à l'article R. 69 sont
+appelés au service national actif dans les quatre mois qui suivent la date de leur changement de résidence. Toutefois, s'ils
+ont moins de vingt-deux ans, ils peuvent demander à bénéficier des dispositions des articles L. 5-2°, L. 5 bis et L. 5 ter.
+
+Ceux qui n'ont pas cessé de remplir jusqu'à l'^age de vingt-neuf ans les conditions exigées reçoivent du commandant de leur
+bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la dispense prévue à l'article L. 37.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-213 1972-03-15 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°74-759 1974-08-30 art. 6 JORF 4 septembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L37 (M)
+	  - Code du service national - art. L5 (M)
+	  - Code du service national - art. L5 bis (M)
+	  - Code du service national - art. L5 ter (M)
+	  - Code du service national R69, L5, L37, L5 bis, L5 ter
+
+
+###### Article R72
+
+Les jeunes gens dont la déclaration de résidence n'est pas parvenue au bureau de recrutement avant le 1er mai sont
+susceptibles d'^etre appelés au service actif à partir du 1er ao^ut suivant, sauf s'il est établi, entre-temps, qu'ils ont
+toujours leur résidence effective et habituelle dans un pays étranger autre que ceux énumérés à l'article R. 69.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R69
+
+	**Modifié par**:
+
+	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+
+
+###### Article R74
+
+La dispense des obligations du service national actif accordée aux jeunes Français visés au deuxième alinéa de l'article L.
+37 est notifiée par le commandant de leur bureau de recrutement sur le vu d'une attestation de résidence délivrée par le
+consul et d'un document émanant de l'autorité militaire de l'Etat de résidence attestant qu'ils ont été appelés au service
+dans cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R76 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L37 (M)
+
+
+###### Article R76
+
+Les jeunes gens à qui une dispense des obligations du service national actif a été notifiée en application des dispositions
+des articles R. 74 et R. 75 ont la faculté de renoncer à cette dispense à condition de n'avoir pas atteint l'^age de vingt-
+neuf ans et de résider effectivement en France ou dans la zone de proximité définie à l'article R. 69.
+
+Ils sont alors appelés au service actif dans les quatre mois qui suivent la date de leur renonciation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R74 (M)
+	  - Code du service national - art. R75 (M)
+	  - Code du service national R74, R75, R69
+
+
+###### Article R77
+
+Les modalités d'application des articles R. 69 à R. 76 sont fixées par arrêté du ministre chargé de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R69 à R76
 
 
 #### SECTION II : Objecteurs de conscience.
