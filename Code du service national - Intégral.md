@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1977-10-05
+Version Consolidée au 1977-11-08
 
 # Partie législative
 
@@ -5272,6 +5272,35 @@ service.
 	  - Code du service national - art. R114 (V)
 
 
+###### Article R111
+
+Les ayants droit des militaires servant en qualité de rappelés ou de maintenus sous les drapeaux, lorsqu'ils ne bénéficient
+pas des prestations d'un régime de sécurité sociale et qu'ils se trouvent, par ailleurs, dans une situation justifiant l'aide
+sollicitée, peuvent obtenir :
+
+1° Des allocations en remboursement de frais de soins ;
+
+2° Des allocations en remboursement de frais d'accouchement et de surveillance médicale de la maternité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°77-1217 1977-10-28 art. 1 JORF 8 novembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R113
 
 Les allocations en remboursement de frais de soins ne sont versées que lorsque ces frais ont été exposés en métropole, dans
@@ -5290,6 +5319,37 @@ les départements d'outre-mer, en Algérie, en Tunisie, au Maroc et sur le terri
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R114
+
+Les ayants droit des militaires visés à l'article R. 110 dont le décès est consécutif à une affection ou à un accident
+survenu pendant leur présence sous les drapeaux peuvent obtenir une allocation en capital, s'ils ne peuvent bénéficier ni
+d'un capital décès ni d'une allocation sur le fonds de prévoyance militaire ou le fonds de prévoyance aéronautique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°77-1217 1977-10-28 art. 2 JORF 8 novembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R118 (V)
+	  - Code du service national - art. R119 (Ab)
+
+	**Cite**:
+
+	  - Code du service national - art. R110 (M)
 
 
 ###### Article R119
