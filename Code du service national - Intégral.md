@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1994-11-11
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -402,6 +402,9 @@ En vue de l'accomplissement du service national, les jeunes Français du sexe ma
 les conditions fixées par décret en Conseil d'Etat, à des obligations de recensement et de déclaration concernant leur état
 civil et leur situation familiale et professionnelle.
 
+Les jeunes étrangers mentionnés à l'article 21-7 du code civil peuvent participer volontairement aux opérations de
+recensement.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -421,14 +424,23 @@ civil et leur situation familiale et professionnelle.
 	  - Code du service national - art. L33 (V)
 	  - Code du service national - art. R*60 (M)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
+
+	**Cite**:
+
+	  - Code civil - art. 21-7 (M)
+
 
 ###### Article L16
 
-Les jeunes gens qui ont eu la faculté de répudier ou de décliner la nationalité française et qui n'ont pas usé de cette
-faculté sont soumis aux obligations prévues à l'article précédent.
+Les jeunes Français du sexe masculin qui avaient la faculté de répudier la nationalité française et qui n'y ont pas renoncé
+sont soumis, à l'expiration du délai dont ils disposent pour exercer cette faculté, aux obligations prévues à l'article
+précédent.
 
 Toutefois, ils peuvent, sur leur demande, être inscrits sur les listes de recensement avant cet âge ; ils perdent alors de ce
-fait la faculté de répudier ou de décliner la nationalité française.
+fait la faculté de répudier la nationalité française.
 
 **Liens relatifs à cet article**
 
@@ -436,15 +448,15 @@ fait la faculté de répudier ou de décliner la nationalité française.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Modifié par**:
-
-	  - Loi n°74-631 1974-07-05 art. 18-I JORF 7 juillet 1974
-
 	**Cité par**:
 
 	  - Arrêté du 11 avril 1990 - art. 2 (V)
 	  - Décret n°98-719 du 20 août 1998 - art. 10 (V)
 	  - Code du service national - art. R14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -457,26 +469,30 @@ fait la faculté de répudier ou de décliner la nationalité française.
 
 ###### Article L17
 
-Les hommes devenus Français entre dix-huit et cinquante ans par voie de naturalisation, de réintégration, de déclaration ou
-d'option et ceux dont la nationalité française a été établie entre ces deux âges à la suite d'un jugement ou d'une
-déclaration récognitive sont soumis aux obligations de recensement dès qu'ils ont acquis la nationalité française ou dès que
-celle-ci leur a été reconnue.
+Les hommes devenus français entre dix-sept et cinquante ans par voie de naturalisation, de réintégration, de déclaration, de
+manifestation de volonté ou d'option et ceux dont la nationalité française a été établie entre ces deux âges à la suite d'un
+jugement ou d'une décision récognitive sont soumis aux obligations de recensement dès qu'ils ont acquis la nationalité
+française ou dès que celle-ci a été reconnue.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 13 al. 1
 
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
 
 	**Cité par**:
 
 	  - Code du service national - art. L40-1 (V)
 	  - Code du service national - art. L68 (V)
 	  - Code du service national - art. R14 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1928-03-31 art. 13 al. 1
 
 
 ###### Article L18
