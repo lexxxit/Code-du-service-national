@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1985-09-03
+Version Consolidée au 1986-03-07
 
 # Partie législative
 
@@ -3921,6 +3921,31 @@ décret prévu à l'article R. 15.
 	**Cite**:
 
 	  - Code du service national R27, R15
+
+
+###### Article R*18
+
+L'appel au service actif du contingent dans l'une de ses formes incombe au ministre chargé des armées, en accord avec le
+ministre responsable, lorsque l'appel concerne le service dans la police nationale, le service de défense, le service de
+l'aide technique ou le service de la coopération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-728 1972-08-01 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°86-312 1986-03-03 art. 2 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R13
@@ -8551,6 +8576,370 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 	**Cite**:
 
 	  - Code du service national R195, R186
+
+
+### CHAPITRE II bis : Service dans la police nationale
+
+#### PARAGRAPHE 1 : Dispositions générales.
+
+###### Article R*201-1
+
+Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi dans la
+police nationale peuvent, sur leur demande, ^etre admis à accomplir leur service national actif dans la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-2
+
+Les candidatures sont déposées par les intéressés auprès du bureau du service national dont ils relèvent.
+
+Lorsque leur demande est agréée par le ministre de l'intérieur, les jeunes gens sont mis pour emploi à sa disposition. Ils
+reçoivent une affectation dans les services de la direction générale de la police nationale, selon des modalités qui seront
+déterminées par le ministre de l'intérieur.
+
+Pendant l'accomplissement de leur service national, ils sont soumis à l'autorité de ce ministre.
+
+Ils sont réputés incorporés le jour où, répondant à la convocation du ministre de l'intérieur, ils sont enregistrés sur les
+contr^oles de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-3
+
+Les jeunes gens qui n'ont pas répondu à la convocation du ministre de l'intérieur dans un délai de huit jours sont soumis de
+plein droit aux obligations du service militaire ou du service de défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-4
+
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur servent en qualité de policiers auxiliaires. Ils
+effectuent un stage de formation spécialisé permettant leur emploi dans la police nationale. Les modalités de cette formation
+sont définies par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-5
+
+Les policiers auxiliaires participent à l'exécution des missions de la police nationale dans les conditions prévues au
+présent article.
+
+Ils assistent les fonctionnaires de police sous les ordres desquels ils sont placés. Ils peuvent ^etre affectés à des t^aches
+leur permettant de participer au maintien de la sécurité publique ou des t^aches à caractère technique auxquelles les a
+préparés leur formation professionnelle.
+
+Dans l'exercice de leurs fonctions ils n'ont pas compétence pour établir des actes relevant de l'exercice de la police
+judiciaire ou de la police administrative.
+
+Ils ne peuvent participer à des opérations de maintien de l'ordre que dans le cas prévu au deuxième alinéa de l'article R.
+130.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R130
+
+
+###### Article R*201-6
+
+La hiérarchie des policiers auxiliaires est fixée comme suit :
+
+1° Sous-brigadier auxiliaire de 1re classe de la police nationale ;
+
+2° Sous-brigadier auxiliaire de 2e classe de la police nationale ;
+
+3° Gardien de la paix auxiliaire de 1re classe de la police nationale ;
+
+4° Gardien de la paix auxiliaire de 2e classe de la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-7
+
+Les jeunes gens affectés dans la police nationale sont tenus aux obligations qui découlent de l'accomplissement du service
+national et à celles qui sont inhérentes à leur emploi.
+
+Ils sont notamment tenus à une particulière discrétion professionnelle pour des faits et informations dont ils ont
+connaissance dans l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 2 : Permissions.
+
+###### Article R*201-8
+
+Les permissions normales dont peuvent bénéficier les policiers auxiliaires sont fixées à seize jours pour une année de
+service effectif. Elles peuvent ^etre prises soit par fraction, soit en une fois avant la libération du service actif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-9
+
+Des permissions de convalescence peuvent ^etre accordées aux policiers auxiliaires dont l'état de santé le nécessite. Elles
+ont une durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des permissions
+normales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-10
+
+Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent ^etre accordées pour la naissance d'un
+enfant, le mariage de l'intéressé, le décès du conjoint ou d'un enfant, le décès du père ou de la mère.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-11
+
+Les frais de voyage supportés à l'occasion des permissions sont à la charge des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 3 : Discipline.
+
+###### Article R*201-12
+
+Les sanctions disciplinaires qui peuvent ^etre infligées aux policiers auxiliaires sont :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° La radiation d'office du service dans la police nationale.
+
+Les sanctions sont prononcées par le ministre de l'intérieur ou l'autorité ayant reçu délégation à cet effet. Elles peuvent
+entraîner la suppression ou la réduction du nombre de jours de permission.
+
+La radiation d'office s'accompagne d'une remise à la disposition du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 4 : Soins.
+
+###### Article R*201-13
+
+Les jeunes gens ^agés affectés au service dans la police nationale sont, le cas échéant, soignés ou hospitalisés par le
+service de santé des armées. Les frais sont remboursés à l'administration militaire par le ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 5 : Inaptitude.
+
+###### Article R*201-14
+
+Les conditions dans lesquelles les intéressés sont présentés devant la commission de réforme prévues à l'article L. 61 sont
+fixées par instruction conjointe du ministre de l'intérieur et du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L61 (M)
+
+
+###### Article R*201-15
+
+Le ministre de l'intérieur peut, dans l'intér^et du service ou en cas d'inadaptation de l'intéressé à l'emploi qu'il occupe,
+mettre fin à l'affectation des appelés dans la police nationale. Ceux-ci sont remis à la disposition du ministre chargé des
+armées jusqu'au terme de leur service actif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 6 : Solde et indemnités.
+
+###### Article R*201-16
+
+Les policiers auxiliaires perçoivent une indemnité journalière dont le montant est identique à celui de la solde perçue par
+les appelés au service militaire, selon les équivalents ci-après :
+
+1° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent ;
+
+2° Sous-brigadier auxiliaire de 2e classe de la police nationale :
+
+caporal-chef ;
+
+3° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal ;
+
+4° Gardien de la paix auxiliaire de 2e classe de la police nationale : soldat de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 7 : Libération du service actif.
+
+###### Article R*201-17
+
+Avant leur libération du service actif, les jeunes gens affectés au service dans la police nationale sont soumis à un examen
+médical de contr^ole constatant leur état de santé. A l'expiration de leur service, les intéressés sont rayés des contr^oles
+du service dans la police nationale et libérés du service actif par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-18
+
+Le décompte des services accomplis au titre du service dans la police nationale est arr^eté par le ministre de l'intérieur
+lors de la libération des jeunes gens et enregistré sur les pièces matricules. Ces pièces sont adressées au bureau du service
+national d'origine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
 
 
 ### CHAPITRE III : Service de l'aide technique et service de la coopération
