@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-04-22
 
 # Partie législative
 
@@ -10461,13 +10461,13 @@ II. - L'affectation de défense est collective :
 
 1° Dans les corps de l'Etat, les services des assemblées parlementaires, les directions et services de l'Etat et des
 collectivités territoriales ainsi que dans les organismes qui leur sont rattachés. Tous leurs fonctionnaires et agents
-contractuels ou auxiliaires qui sont soumis aux obligations du service de défense y sont affectés collectifs s'ils n'ont pas
-reçu une affectation individuelle.
+contractuels ou auxiliaires qui sont soumis aux obligations du service de défense sont affectés collectifs de défense, y
+compris les titulaires d'une affectation individuelle tant qu'ils n'ont pas reçu l'ordre de rejoindre cette affectation ;
 
-2° Dans les entreprises et établissements appartenant aux catégories d'activités énumérées aux tableaux I, II, III et IV de
-l'annexe II du présent code et dont la liste est arrêtée par le Premier ministre ou par les autorités ayant reçu, à cet
-effet, sa délégation. Les personnels mentionnés à l'article L. 3 y sont affectés collectifs s'ils n'ont pas reçu une
-affectation individuelle.
+2° Dans les entreprises et établissements appartenant aux catégories énumérées aux tableaux I, II, III et IV de l'annexe II
+au présent code et dont la liste est arrêtée par le Premier ministre ou par les autorités ayant reçu, à cet effet, sa
+délégation. Leurs personnels qui sont soumis aux obligations du service de défense sont affectés collectifs de défense, y
+compris les titulaires d'une affectation individuelle tant qu'ils n'ont pas reçu l'ordre de rejoindre cette affectation.
 
 Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre, recevoir des affectés individuels de défense.
 
@@ -10479,7 +10479,7 @@ Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 32 () JORF 3 décembre 1992
+	  - Décret n°95-425 du 19 avril 1995 - art. 1 () JORF 22 avril 1995
 
 	**Codifié par**:
 
@@ -10491,9 +10491,8 @@ Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre
 
 	**Cite**:
 
-	  - Code du service national - art. L3 (M)
 	  - Code du service national - art. L89 (M)
-	  - Code du service national L89, annexe II, L3
+	  - Code du service national L89, annexe II
 
 
 ###### Article R*152
@@ -10817,9 +10816,6 @@ prescriptions des ordres d'affectation en leur possession.
 
 ###### Article R*163
 
-Pour les personnels soumis aux obligations du service de défense et non pourvus d'une affectation individuelle,
-l'appartenance aux organismes visés à l'article R. 151 vaut affectation de défense. Cette affectation est dite collective.
-
 Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le Gouvernement peut, par
 décret pris en conseil des ministres, limiter l'application de l'affectation collective de défense à une partie du
 territoire, à certaines catégories d'activité ou à certains postes.
@@ -10830,7 +10826,6 @@ territoire, à certaines catégories d'activité ou à certains postes.
 
 	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-	  - Code du service national R151
 
 	**Anciens textes**:
 
@@ -10838,7 +10833,7 @@ territoire, à certaines catégories d'activité ou à certains postes.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 38 () JORF 3 décembre 1992
+	  - Décret n°95-425 du 19 avril 1995 - art. 2 () JORF 22 avril 1995
 
 	**Codifié par**:
 
@@ -10851,15 +10846,15 @@ territoire, à certaines catégories d'activité ou à certains postes.
 
 ###### Article R*164
 
-En dehors des organismes visés à l'article R. 151, le Gouvernement peut, par décret pris en conseil des ministres, dans les
-circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, décider le maintien dans leur emploi,
-quel qu'il soit, des personnels auxquels s'appliquent les obligations du service de défense, s'ils n'ont pas à répondre à une
-affectation individuelle. Cette mesure entra^ine l'affectation collective de défense desdits personnels pour toute la durée
-de son application.
+En dehors des organismes mentionnés à l'article R.* 151, le Gouvernement peut, par décret pris en conseil des ministres, dans
+les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, décider le maintien dans leur
+emploi, quel qu'il soit, des personnels auxquels s'appliquent les obligations du service de défense, s'ils n'ont pas reçu
+l'ordre de rejoindre une affectation individuelle. Cette mesure entraîne l'affectation collective de défense desdits
+personnels pour toute la durée de son application.
 
-L'application des dispositions de l'alinéa précédent peut ^etre limitée à une partie du territoire, à certaines catégories
-d'activité ou à certains postes ; elle peut ^etre étendue à des catégories d'activité autres que celles énumérées aux
-tableaux I, II, III et IV de l'annexe II du présent code.
+L'application des dispositions de l'alinéa précédent peut être limitée à une partie du territoire, à certaines catégories
+d'activité ou à certains postes ; elle peut être étendue à des catégories d'activité autres que celles énumérées aux tableaux
+I, II, III et IV de l'annexe II du présent code.
 
 **Liens relatifs à cet article**
 
@@ -10875,7 +10870,7 @@ tableaux I, II, III et IV de l'annexe II du présent code.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 39 () JORF 3 décembre 1992
+	  - Décret n°95-425 du 19 avril 1995 - art. 3 () JORF 22 avril 1995
 
 	**Codifié par**:
 
@@ -10912,9 +10907,9 @@ se présentent à l'emploi de défense qui leur est assigné en application de l
 
 ###### Article R*166
 
-L'affectation collective de défense cesse de plein droit et sans préavis lorsque les intéressés font l'objet d'une
-affectation militaire, ou d'une affectation individuelle de défense, ou dans la réserve de la police nationale ou au titre de
-l'article L. 116-5.
+L'affectation collective de défense cesse de plein droit et sans préavis lorsque les intéressés reçoivent l'ordre de
+rejoindre une affectation individuelle soit militaire, soit de défense, soit dans la réserve de la police nationale, soit au
+titre de l'article L. 116-5.
 
 **Liens relatifs à cet article**
 
@@ -10924,7 +10919,7 @@ l'article L. 116-5.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 40 () JORF 3 décembre 1992
+	  - Décret n°95-425 du 19 avril 1995 - art. 4 () JORF 22 avril 1995
 
 	**Codifié par**:
 
