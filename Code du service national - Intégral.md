@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1989-12-27
+Version Consolidée au 1990-06-24
 
 # Partie législative
 
@@ -4414,6 +4414,41 @@ départements et territoires d'outre-mer.
 
 #### SECTION II : Composition et appel du contingent.
 
+###### Article R*15
+
+Pour chaque contingent, le Gouvernement fixe par décret :
+
+1° Le nombre des jeunes gens qui seront incorporés en vue d'effectuer leurs obligations du service actif dans les armées ;
+
+2° Après avis de la commission interministérielle des formes civiles du service national placée auprès du Premier ministre,
+le nombre, la qualification ou le niveau d'aptitude des jeunes gens qui seront incorporés respectivement dans la police
+nationale, dans le service de l'aide technique et dans le service de la coopération, ainsi que dans le service de défense
+lorsque les corps de défense sont constitués de façon permanente dans les conditions fixées à l'article L. 91.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-728 1972-08-01 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°86-312 1986-03-03 art. 1 JORF 7 mars 1986
+	  - Décret n°90-501 du 21 juin 1990 - art. 1 () JORF 24 juin 1990
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L91 (Ab)
+
+
 ###### Article R*16
 
 Pour l'application de l'article R.15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
@@ -4605,6 +4640,85 @@ national actif égale à celle de ces obligations.
 	  - Code du service national - art. L17 (M)
 	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L9 (M)
+
+
+###### Article R15-1
+
+La commission interministérielle des formes civiles du service national examine les catégories d'emplois offerts par les
+ministres responsables des formes civiles du service national et exprime un avis sur ces catégories au regard des
+dispositions du présent code.
+
+Elle étudie les besoins exprimés par ces ministres et, après s'être assurée du respect des dispositions du premier alinéa de
+l'article L. 6 du présent code, propose au Premier ministre les effectifs à incorporer dans les formes civiles du service
+national ainsi que la qualification ou l'aptitude requise pour occuper les emplois offerts.
+
+Elle procède annuellement, pour une période triennale, à l'estimation des besoins en emplois mentionnés à l'article L. 9
+compte tenu de l'évaluation prévisible du contingent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L6 (M)
+	  - Code du service national - art. L9 (M)
+
+	**Cité par**:
+
+	  - Code du service national - art. R*16 (M)
+	  - Code du service national - art. R*26 (V)
+
+
+###### Article R15-2
+
+Chaque ministre responsable de l'emploi des appelés relevant des formes civiles du service national adresse annuellement au
+Premier ministre un rapport sur les conditions d'exécution du service actif par les jeunes gens qui ont été affectés à son
+département. Après avis de la commission interministérielle des formes civiles du service national, le président de la
+commission adresse au Premier ministre un projet de directive annuelle sur les orientations à prévoir et le contrôle à
+effectuer par les ministres responsables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R15-3
+
+La commission interministérielle des formes civiles du service national comprend un président et quatre membres désignés par
+le Premier ministre ; deux des membres de la commission sont désignés sur proposition du ministre chargé des armées.
+
+Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre chargé du commerce extérieur, le ministre chargé
+de la coopération, le ministre chargé des départements et territoires d'outre-mer et le ministre chargé de la santé désignent
+en outre chacun un représentant qui siège avec voix consultative.
+
+Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
+
+Le président et les membres sont nommés pour trois ans.
+
+Le président de la commission peut convoquer toute personne dont l'audition serait utile aux travaux de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
 
 
 ###### Article R19
