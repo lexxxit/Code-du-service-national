@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1997-11-08
+Version Consolidée au 1998-03-18
 
 # Partie législative
 
@@ -9680,352 +9680,7 @@ considérés comme dispensés de leurs obligations du service national.
 
 #### SECTION I : Appel avancé et report d'incorporation
 
-##### PARAGRAPHE 1 : Appel avancé.
-
-###### Article R*1
-
-Les jeunes gens qui désirent bénéficier de l'appel avancé prévu à l'article L. 5, alinéa 2-1°, doivent déposer leur demande à
-l'autorité militaire au plus tard trois mois avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent
-être incorporés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1343 1970-12-23 art. 1
-
-	**Modifié par**:
-
-	  - Décret n°95-1052 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1052 du 25 septembre 1995 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national - art. L5 (M)
-
-
-###### Article R2
-
-Le père et la mère, lorsqu'ils exercent en commun l'autorité parentale, ou la personne qui exerce cette autorité dans les
-conditions prévues par le code civil, peuvent s'opposer à l'appel avancé dans un délai de quinze jours à compter de la
-notification des demandes des jeunes gens qui leur est faite par l'autorité militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1344 1970-12-23 art. 1 et art. 2
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-	  - Code du service national - art. R3 (V)
-	  - Code du service national - art. R4 (V)
-
-
-###### Article R3
-
-Avant l'expiration du délai fixé à l'article précédent, les jeunes gens peuvent être convoqués dans un centre de sélection en
-vue de participer aux opérations prévues à l'article L. 23.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1344 1970-12-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national - art. L23 (M)
-	  - Code du service national - art. R2 (M)
-
-
-###### Article R4
-
-Il n'est pas donné suite aux demandes d'appel avancé lorsqu'une opposition se manifeste dans les délais et les conditions
-prévus à l'article R. 2 auprès de l'autorité militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1344 1970-12-23 art. 3
-
-	**Modifié par**:
-
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 1 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national - art. R2 (M)
-
-
 ##### PARAGRAPHE 2 : Report d'incorporation.
-
-###### Article R*5
-
-Les jeunes gens qui désirent bénéficier du report d'incorporation prévu à l'article L. 5, alinéa 2-2°, peuvent en faire la
-demande lors de la déclaration de recensement souscrite dans les conditions prévues à l'article R. 35. A défaut, ils doivent
-adresser leur demande au bureau du service national dont ils relèvent avant le jour où ils atteignent l'âge de dix-huit ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1345 1970-12-23 art. 1
-
-	**Modifié par**:
-
-	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national - art. L5 (M)
-	  - Code du service national L5, R35
-
-
-###### Article R*6
-
-Les jeunes gens qui, en raison de leur situation particulière en matière de nationalité, sont recensés après avoir atteint
-l'âge de dix-huit ans peuvent obtenir un report d'incorporation en adressant une demande à la mairie de leur domicile dans le
-mois qui suit leur déclaration de recensement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1345 1970-12-23 art. 2
-
-	**Modifié par**:
-
-	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*7
-
-Les jeunes gens mentionnés aux articles R.5 et R.6 sont, à l'expiration du report d'incorporation dont ils ont bénéficié,
-appelés au service national actif dans les conditions prévues à l'article R.10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1345 1970-12-23 art. 3
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 1 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R5, R6, R10
-
-
-###### Article R*8
-
-Les jeunes gens qui désirent obtenir le report supplémentaire d'incorporation prévu à l'article L. 5 bis doivent justifier :
-
-a) Soit de la poursuite d'études en qualité d'élève ou d'étudiant des établissements d'enseignement supérieur, des écoles
-techniques supérieures, des grandes écoles et classes du second degré préparatoires à ces écoles, permettant l'affiliation
-aux assurances sociales en vertu des articles L. 381-4 et L. 381-5 du code de la sécurité sociale ou d'établissements à
-l'étranger reconnus de niveau équivalent ;
-
-b) Soit de la poursuite d'études, à l'issue du cycle de détermination de la voie professionnelle, dans le cycle terminal de
-la voie technologique, en vue de l'obtention d'un baccalauréat technologique ;
-
-c) Soit de la poursuite d'une formation professionnelle organisée par les administrations publiques, les universités ou les
-établissements privés et sanctionnée par l'attribution d'un certificat de capacité, d'un diplôme d'Etat, d'un diplôme
-nécessaire à la titularisation dans un emploi public, d'un certificat d'aptitude professionnelle, d'un brevet d'études
-professionnelles, d'un baccalauréat professionnel, d'un brevet professionnel ou de tout autre diplôme professionnel délivré
-par le ministre de l'éducation nationale ;
-
-d) Soit de la poursuite d'une formation professionnelle en vue de l'obtention d'un titre ou d'un diplôme homologué dans les
-conditions prévues par le décret n° 92-23 du 8 janvier 1992 ;
-
-e) Soit de la poursuite d'une formation professionnelle permettant d'acquérir une qualification reconnue dans les
-classifications d'une convention collective de branche ou figurant sur une liste établie par la commission paritaire
-nationale de l'emploi d'une branche professionnelle, en application des dispositions de l'article L. 900-3 du code du
-travail.
-
-A cet effet, les intéressés doivent présenter, chaque année, une attestation du chef d'établissement donnant des informations
-sur les études envisagées et, le cas échéant, antérieurement suivies.
-
-La demande de report, accompagnée de l'attestation susmentionnée, doit être adressée au bureau du service national dont
-relève l'intéressé, dans le délai fixé au deuxième alinéa de l'article L. 5 bis s'il s'agit d'une demande de mise en report,
-et, s'il s'agit d'une demande de maintien en report jusqu'à vingt-quatre, vingt-cinq ou vingt-six ans, soixante jours avant
-l'échéance du report déjà obtenu et, au plus tard, avant le 1er octobre de l'année d'échéance.
-
-Les demandes de maintien en report jusqu'à vingt-cinq ou vingt-six ans ne sont recevables que si les intéressés sont
-titulaires, au 1er octobre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-quatre ans, d'un brevet de
-préparation militaire ou de préparation militaire supérieure.
-
-Dans les cas où, du fait de l'organisation des études ou des préparations militaires, les attestations ou brevets ne peuvent
-être fournis avant le 1er octobre de l'année considérée, les demandeurs peuvent être mis ou maintenus conditionnellement en
-report. Ils sont alors tenus de remettre, avant le 1er décembre de l'année considérée, l'attestation justificative au bureau
-du service national dont ils relèvent, sauf à être appelés au service actif avec la première fraction de contingent
-incorporée après cette échéance.
-
-Dans tous les cas, l'échéance du report est fixée à la date de fin d'études ou de formation professionnelle figurant sur
-l'attestation annuelle mais ne peut excéder le 1er décembre de l'année suivant celle au cours de laquelle la demande a été
-acceptée. Néanmoins, il peut être mis fin à tout moment à ce report si le bénéficiaire a interrompu ses études ou sa
-formation professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1345 1970-12-23 art. 4
-
-	**Cite**:
-
-	  - Décret n°92-23 1992-01-08
-	  - Code du service national - art. L5 bis (M)
-	  - Code du travail - art. L900-3 (M)
-	  - Code de la sécurité sociale. - art. L381-4 (M)
-	  - Code de la sécurité sociale. - art. L381-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°95-510 du 2 mai 1995 - art. 1 () JORF 4 mai 1995
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*8-1
-
-Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu à l'article L. 5 ter doivent le demander au
-bureau du service national dont ils relèvent six mois au plus tard avant la date d'expiration du report d'incorporation dont
-ils bénéficient au titre du 2° du deuxième alinéa de l'article L. 5 en y joignant toutes pièces de nature à établir la
-gravité de leur situation familiale ou sociale. Les demandes rev^etues de l'avis du maire ou du consul du domicile des
-intéressés sont instruites par le préfet du département de recensement des jeunes gens ou, en ce qui concerne les jeunes gens
-recensés à l'étranger, par le préfet du département des Pyrénées-Orientales. Les préfets soumettent ces demandes à
-l'appréciation de la commission régionale compétente. Ils notifient la décision de cette dernière aux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. L5 (M)
-	  - Code du service national - art. L5 ter (M)
-
-
-###### Article R*8-2
-
-Le report d'incorporation prévu à l'article L. 5, alinéa 2 (2°), le report supplémentaire prévu au premier alinéa de
-l'article L. 5 bis et ses prolongations éventuelles ainsi que le report spécial prévu à l'article L. 10 sont accordés par le
-ministre chargé des armées ou par les commandants de bureau ou de centre du service national, par délégation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 3 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. L10 (M)
-	  - Code du service national - art. L5 (M)
-	  - Code du service national - art. L5 bis (M)
-
-
-###### Article R*8-3
-
-Le report d'incorporation prévu au quatrième alinéa de l'article L. 9 en faveur des jeunes gens désireux d'occuper, pendant
-le temps du service militaire actif, un emploi dans les organismes d'études, de recherche ou d'enseignement dépendant du
-ministre de la défense est accordé ou retiré, au nom de ce ministre, par l'officier supérieur relevant du chef d'état-major
-des armées chargé de la sélection et de l'affectation des candidats à ces emplois.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°94-558 du 30 juin 1994 - art. 1 () JORF 7 juillet 1994
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. L9 (M)
-
 
 ###### Article R*9-1
 
@@ -10109,90 +9764,1104 @@ lors que la fréquentation de ces classes ouvre droit au bénéfice de la sécur
 	  - Décret n°72-806 1972-08-31
 
 
-###### Article R*10
+## LIVRE Ier : Obligations du service national.
 
-Les jeunes gens qui bénéficient d'un report, d'un report supplémentaire ou d'un report spécial d'incorporation sont appelés
-au service actif avec la première fraction de contingent incorporée après la date d'expiration de ce report.
+### Chapitre Ier : Le recensement.
 
-Toutefois, ils peuvent renoncer avant terme au bénéfice du report en notifiant leur renonciation à leur bureau du service
-national trois mois au moins avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent être incorporés.
+###### Article R*111-1
+
+Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du mois suivant, de
+souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
+situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à l'appel de
+préparation à la défense et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
+cette démarche, elle peut l'être par leur représentant légal.
+
+Cette démarche peut être effectuée par les jeunes étrangers mentionnés au deuxième alinéa de l'article L. 113-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L113-3 (M)
+
+	**Cité par**:
+
+	  - Code du service national - art. R*111-6 (V)
+
+
+###### Article R*111-2
+
+Les personnes devenues françaises entre la date de leur seizième anniversaire et celle de leur vingt-cinquième anniversaire
+doivent se faire recenser entre la date à laquelle elles ont acquis la nationalité française ou celle à laquelle cette
+nationalité leur a été notifiée et celle marquant la fin du premier mois qui suit l'une ou l'autre de ces dates. Celles dont
+la nationalité a été établie entre ces deux âges à la suite d'une décision de justice accomplissent cette obligation dès que
+la décision a force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-3
+
+Les personnes qui, en vertu des lois sur la nationalité, bénéficient de la faculté de répudier la nationalité française, sont
+inscrites sur les listes de recensement à partir de l'âge de seize ans, dès lors qu'elles se présentent à la mairie de leur
+domicile ou à leur consulat de rattachement.
+
+Celles qui, ayant la faculté de répudier la nationalité française, n'ont pas exercé leur droit dans les délais prévus par la
+loi, sont tenues de se faire recenser dans le mois qui suit la date d'expiration du délai ouvert pour l'exercer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-4
+
+Les Français titulaires de l'un des titres de circulation visés aux articles 2, 4 et 5 de la loi n° 69-3 du 3 janvier 1969
+relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni
+résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R.*
+111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou au bureau du service
+national dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°69-3 du 3 janvier 1969 - art. 2 (M)
+	  - Loi n°69-3 du 3 janvier 1969 - art. 4 (V)
+	  - Loi n°69-3 du 3 janvier 1969 - art. 5 (V)
+	  - Code du service national R111-1
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-5
+
+Les renseignements fournis par les personnes mentionnées aux articles R.[* 111-1 à R.*] 111-4 sont portés par le maire à la
+réception de chaque déclaration, sur une notice individuelle dont le modèle est fixé par l'administration chargée du service
+national.
+
+Toute déclaration émanant de personnes nées hors de la commune de recensement donne lieu, de la part du maire de celle-ci ou
+de l'autorité consulaire, à l'envoi d'un avis d'inscription au maire ou à l'autorité consulaire du lieu de naissance de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R111-4
+
+
+###### Article R*111-6
+
+A l'occasion de la réception de la déclaration prévue à l'article R.[* 111-1, le maire appelle l'attention des recensés sur
+l'obligation qu'ils ont, jusqu'à l'âge de vingt-cinq ans, de faire connaître au bureau du service national dont ils relèvent,
+tout changement de domicile ou de résidence d'une durée supérieure à quatre mois d'une part, et de situation familiale et
+professionnelle d'autre part.
+
+En outre, le maire leur rappelle qu'ils devront répondre dans les délais mentionnés à l'article R.*] 112-2 au préavis
+d'appel, se présenter à l'appel de préparation à la défense après réception de leur convocation. Il les informe des
+conséquences d'une absence ou d'un retard à cet appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R112-2
+
+
+###### Article R*111-7
+
+Dès réception de la déclaration, le maire délivre aux recensés une attestation de recensement. Ce document est conforme au
+modèle fixé par l'administration chargée du service national et comporte les informations suivantes :
+
+- nom et prénoms ;
+
+- date et lieu de naissance ;
+
+- domicile et résidence ;
+
+- commune ou consulat de recensement ;
+
+- date d'établissement de l'attestation.
+
+Ce document précise en outre que le recensé a été informé des conditions de participation à l'appel de préparation à la
+défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-8
+
+Les personnes recensées la même année civile constituent une classe de recensement. Elles sont réparties en quatre tranches
+trimestrielles, selon la date de dépôt de leur déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-9
+
+Au début des mois d'avril, juillet, octobre et janvier, les maires dressent les trois listes suivantes conformes au modèle
+fixé par l'administration chargée du service national :
+
+- la liste communale de recensement comprenant les personnes recensées au cours du trimestre précédent en souscrivant la
+déclaration prévue par l'article R.* 111-1 ;
+
+- la liste des inscrits d'office comprenant les personnes nées dans la commune et qui, bien qu'appartenant aux catégories
+mentionnées aux articles R.* 111-1 à R.* 111-4, n'ont pas souscrit cette déclaration dans les délais prévus par ces articles
+et pour lesquels un avis d'inscription n'a pas été envoyé à la commune par un autre maire ou une autorité consulaire. Pour
+chacune d'elles, les maires établissent une notice individuelle sur laquelle sont portés les renseignements en leur
+possession ;
+
+- la liste de régularisation comprenant les personnes qui, pendant le trimestre précédent, ont souscrit une déclaration après
+que les listes de recensement, sur lesquelles elles auraient dû être inscrites en se présentant dans les délais prévus aux
+articles R.* 111-1 à R.* 111-4, aient été closes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R111-1
+
+
+###### Article R*111-10
+
+La liste de recensement, la liste des inscrits d'office et la liste de régularisation, accompagnées des notices
+individuelles, sont adressées au préfet du département à la fin des mois d'avril, juillet, octobre et janvier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-11
+
+Les préfets vérifient les trois listes définies à l'article R. 111-9. Ils les rectifient en tant que de besoin, notamment en
+radiant les noms des recensés qui ne possèdent pas la nationalité française.
+
+Ils arrêtent définitivement ces listes les 30 juin, 30 septembre, 31 décembre et 31 mars. Ils les transmettent alors en y
+joignant les notices individuelles correspondantes, au bureau du service national territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-446 du 29 mars 2002 - art. 4 (V) JORF 3 avril 2002
+
+	**Cite**:
+
+	  - Code du service national R111-9
+
+
+###### Article R*111-12
+
+Lorsqu'ils atteignent l'âge de seize ans, les Français établis à l'étranger ou leur représentant légal sont tenus de
+souscrire auprès des autorités consulaires françaises la déclaration prévue à l'article R.[* 111-1. A cette occasion, ils
+sont informés des conditions dans lesquelles ils auront à accomplir l'appel de préparation à la défense. Il leur est délivré
+l'attestation de recensement prévue à l'article R.*] 111-7.
+
+Les autorités consulaires dressent à des dates définies par arrêté conjoint du ministre des affaires étrangères et du
+ministre de la défense, et au moins une fois par an, la liste de recensement et, le cas échéant, la liste de régularisation.
+Ces deux listes comprennent les personnes ayant souscrit la déclaration prévue par l'article R.[* 111-1.
+
+Elles dressent également la liste des inscrits d'office, pour les Français nés ou résidant à leur connaissance dans leur
+cisconscription qui, en âge d'être recensés, n'ont pas souscrit cette déclaration et pour lesquels elles n'ont pas reçu
+d'avis d'inscription d'un maire ou d'une autre autorité consulaire.
+
+Elles adressent les trois listes et les notices individuelles correspondantes au préfet des Pyrénées-Orientales, qui, pour
+les Français de l'étranger, est chargé des opérations prévues à l'article R.*] 111-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 (V)
+
+	**Cite**:
+
+	  - Code du service national R111-7, R111-11
+
+
+###### Article R*111-13
+
+Les personnes qui auraient été omises sur la liste de recensement sont inscrites, dès la découverte de l'omission, par le
+maire, l'autorité consulaire ou, le cas échéant, le préfet, sur la liste de régularisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-14
+
+Le bureau du service national territorialement compétent diligente les recherches pour déterminer l'adresse des Français
+figurant sur la liste des inscrits d'office.
+
+Dès qu'il a connaissance de cette adresse, il enjoint aux intéressés de régulariser leur situation à la mairie de leur
+domicile dans les trente jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-15
+
+Jusqu'à l'âge de vingt-cinq ans, les Français qui n'ont pas souscrit la déclaration de recensement dans les conditions fixées
+par les articles R.* 111-1 à R.* 111-4 peuvent régulariser leur situation, en effectuant la démarche auprès de la mairie de
+leur domicile ou de la commune de rattachement, ou de l'autorité consulaire territorialement compétente. Ils sont
+immédiatement inscrits sur les listes de régularisation de la commune ou du consulat.
+
+L'attestation de recensement définie à l'article R.* 111-7 leur est alors remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R111-4, R111-7
+
+
+###### Article R*111-16
+
+Les officiers de l'état civil adressent au bureau du service national territorialement compétent copie de l'acte de décès de
+toute personne dont l'âge est compris entre seize et vingt-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-17
+
+Les dispositions du présent chapitre sont applicables aux départements et territoires d'outre-mer ainsi qu'aux collectivités
+territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous les réserves suivantes :
+
+1° Dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les
+fonctions dévolues en métropole aux préfets et aux maires sont exercées respectivement par les représentants de l'Etat et par
+les maires ou les chefs de circonscription administrative ;
+
+2° Le recensement de chaque classe d'âge peut, dans le département de la Guyane et dans les territoires d'outre-mer,
+notamment en raison du nombre des jeunes gens à recenser ou de la dispersion des populations, être effectué en une seule
+fois, la période de recensement étant alors fixée par le préfet ou les représentants de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*111-18
+
+Dans les circonscriptions consulaires où la dispersion des résidents français le justifie, le recensement est effectué,
+chaque année, en une seule fois. Ces circonscriptions sont déterminées par arrêté du ministre des affaires étrangères et du
+ministre de la défense. 
+
+La période de recensement est alors fixée par l'ambassadeur compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+### Chapitre II : L'appel de préparation à la défense
+
+#### Section 1 : Dispositions générales.
+
+###### Article R*112-1
+
+L'appel de préparation à la défense défini aux articles L. 114-2 et L. 114-3 s'effectue au cours de sessions dont la date et
+le lieu sont précisés sur les convocations individuelles envoyées par le ministre de la défense aux Français recensés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 2009 (Ab)
+
+	**Cite**:
+
+	  - Code du service national - art. L114-2 (V)
+	  - Code du service national - art. L114-3 (M)
+
+
+###### Article R*112-2
+
+Un préavis d'appel proposant au moins trois dates possibles de participation à l'appel de préparation à la défense avant leur
+dix-huitième anniversaire, est adressé aux personnes recensées.
+
+Les intéressés sont tenus de répondre dans les trente jours qui suivent la date de l'envoi du préavis d'appel, en indiquant
+parmi les dates proposées celle qu'ils ont choisie.
+
+A défaut de réponse au préavis d'appel, l'administration peut fixer la date de convocation, dans un délai de deux à six mois
+à compter de la date d'expiration du délai de réponse mentionné à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-3
+
+Une convocation écrite pour la session choisie est adressée aux intéressés dix jours au moins avant la date de celle-ci.
+
+En cas de force majeure, interdisant aux intéressés de participer à cette session, ils doivent sans délai en informer
+l'administration chargée du service national et formuler une demande motivée de report.
+
+Après examen de la demande, l'administration fixe la date de la session à laquelle les intéressés sont convoqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-4
+
+Les appelés du service national justifient de leur identité en se présentant à l'appel de préparation à la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-5
+
+Au cours de l'appel de préparation à la défense, lorsqu'un médecin constate, à l'initiative du responsable de la session, que
+l'état de santé d'un appelé du service national est incompatible avec sa participation à la session, l'intéressé est invité à
+regagner son domicile ou, le cas échéant, hospitalisé.
+
+Dans ce cas l'administration procède comme indiqué au troisième alinéa de l'article R.* 112-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R112-3
+
+
+###### Article R*112-6
+
+Sur leur demande, ou celle de leur représentant légal, les grands infirmes au sens de l'article 169 du code de la famille et
+de l'aide sociale ne sont pas soumis à l'obligation de l'appel de préparation à la défense. Ils présentent à cet effet la
+carte d'invalidité prévue à l'article 173 du même code au moment du recensement. Si cette qualité leur est reconnue après le
+recensement, ils présentent ce document au bureau du service national dont ils dépendent.
+
+Sont également exemptés de l'obligation de l'appel de préparation à la défense les Français qui présentent à leur bureau du
+service national un certificat médical délivré par un médecin agréé auprès du ministre de la défense, indiquant qu'ils sont
+atteints d'une maladie invalidante ou d'un handicap les rendant définitivement inaptes à participer à cette obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 169 (M)
+	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+
+
+###### Article R*112-7
+
+L'administration chargée du service national fait parvenir aux Français mentionnés à l'article R.* 112-6 l'information
+correspondant à l'appel de préparation à la défense sous forme d'un dossier individuel et l'attestation leur signifiant
+qu'ils sont en règle au regard des obligations du code du service national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national R112-6
+
+
+###### Article R*112-8
+
+Les Français qui, pour un motif reconnu valable, ne peuvent pas accomplir l'appel de préparation à la défense avant leur dix-
+huitième anniversaire et dont la convocation interviendra à une date ultérieure, reçoivent une attestation précisant qu'ils
+sont en règle et en instance de convocation.
+
+Cette attestation mentionne sa durée de validité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 - art. 10 (V)
+	  - Arrêté du 11 janvier 2016 - art. 4 (V)
+	  - Arrêté du 11 janvier 2016 - art. 7 (V)
+
+
+###### Article R*112-9
+
+Le certificat individuel de participation à l'appel de préparation à la défense défini par l'article L. 114-2 est remis à
+chaque appelé, au moment de la clôture officielle de la session après constatation de la participation de l'intéressé à
+l'ensemble des activités de la session.
+
+Le ministre de la défense arrête le modèle de ce certificat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L114-2 (V)
+
+
+###### Article R*112-10
+
+Tout appelé qui, ayant répondu à la convocation prévue par l'article R.* 112-3, refuse de participer à une partie des
+activités de la session, ou qui adopte une attitude de nature à perturber son bon déroulement, est immédiatement invité à
+regagner son domicile. Il ne lui est pas délivré de certificat de participation à l'appel de préparation à la défense.
+
+Sur sa demande, il est convoqué dans les conditions fixées par l'article L. 114-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L114-5 (V)
+	  - Code du service national R112-3, L114-5
+
+
+###### Article R*112-11
+
+Tout Français qui, dans les conditions prévues à l'article L. 114-5 du présent code, entend régulariser sa situation au
+regard de l'appel de préparation à la défense adresse au bureau du service national dont il relève une demande écrite de
+participation.
+
+L'administration convoque l'intéressé à la date qu'elle fixe dans les trois mois à compter du jour de réception de la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L114-5 (V)
+
+
+#### Section 2 : Règles applicables aux appelés du service national.
+
+###### Article R*112-12
+
+La convocation pour l'appel de préparation à la défense ouvre droit à un bon de transport ou à une indemnité de déplacement
+fixée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 1993 - art. 6 (Ab)
+	  - Arrêté du 20 avril 2012 - art. 6 (V)
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-13
+
+Pendant la durée de la session les appelés bénéficient de l'alimentation fournie par les services du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-14
+
+L'appel de préparation à la défense ne compte ni pour la constitution du droit à pension de retraite, ni pour la
+détermination du montant des pensions allouées au titre de l'ancienneté des services éventuels. Il ne vient pas en déduction
+de la durée des services effectués dans les fonctions publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-15
+
+Les appelés du service national doivent respecter les obligations générales suivantes :
+
+- se conformer aux instructions du personnel d'encadrement ;
+
+- prendre soin du matériel et des installations mis à leur disposition ;
+
+- respecter les règles d'hygiène et de sécurité propres à toute vie en collectivité ;
+
+- s'abstenir d'organiser toute manifestation ou action de propagande philosophique, religieuse, politique ou syndicale et de
+participer à celles-ci ;
+
+- ne pas arborer de signes politiques ou religieux qui, par leur nature, leur caractère ostentatoire, ou les conditions dans
+lesquelles ils sont portés, constitueraient une manifestation extérieure de provocation, de prosélytisme ou de propagande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.
+
+###### Article R*112-16
+
+L'appel de préparation à la défense des Français qui résident en permanence à l'étranger entre seize et vingt-cinq ans est
+accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions soit par envoi d'un dossier
+individuel d'information. En cas d'impossibilité, les Français de l'étranger sont provisoirement dispensés de l'appel de
+préparation à la défense. Selon les cas il leur est délivré le certificat prévu à l'article L. 114-2 du présent code, ou une
+attestation établie dans les conditions prévues à l'article R.* 112-8.
+
+Un arrêté conjoint du ministre des affaires étrangères et du ministre de la défense précise les conditions d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L114-2 (V)
+	  - Code du service national L114-2, R112-8
+
+
+###### Article R*112-17
+
+Les Français de l'étranger qui, compte tenu de leur résidence à l'étranger, n'ont pu participer à une session de l'appel de
+préparation à la défense, sont tenus, dès lors qu'ils viennent résider habituellement sur le territoire national avant l'âge
+de vingt-cinq ans, de participer à une session de l'appel de préparation à la défense.
+
+Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion
+d'un séjour sur le territoire national, à participer à une session de l'appel de préparation à la défense.
+
+La date de participation à cette session est fixée par accord avec le bureau du service national dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 - art. 13 (V)
+	  - Arrêté du 11 janvier 2016 - art. 7 (V)
+
+
+#### Section 4 : Dispositions particulières à la préparation militaire.
+
+###### Article R*112-18
+
+Les Français désireux d'accomplir une préparation militaire en font la demande par écrit auprès du bureau du service national
+dont ils relèvent en précisant la force armée ou le service commun qu'ils choisissent. Leur admission est prononcée par
+l'autorité militaire après reconnaissance de l'aptitude des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-19
+
+Les cycles de formation de la préparation militaire sont organisés dans chaque armée, dans la gendarmerie nationale et dans
+les services communs, sous forme d'une ou plusieurs périodes d'instruction, selon les modalités fixées par arrêté du ministre
+de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+###### Article R*112-20
+
+Pendant la période d'instruction, les intéressés sont bénéficiaires obligés du service de santé des armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+
+## LIVRE II
+
+### Titre Ier : Définition et principes du service national
+
+#### Chapitre Ier : Dispositions générales
+
+##### Section I : Appel avancé et report d'incorporation
+
+##### Paragraphe 1er : Appel avancé.
+
+###### Article R*1
+
+Les jeunes gens qui désirent bénéficier de l'appel avancé prévu à l'article L. 5, alinéa 2-1°, doivent déposer leur demande à
+l'autorité militaire au plus tard trois mois avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent
+être incorporés.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-1345 1970-12-23 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°95-1052 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
+	  - Décret n°70-1343 1970-12-23 art. 1
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°95-1052 du 25 septembre 1995 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R9
-
-Les cycles d'enseignement pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis, dans
-la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle commencé sont les
-suivants ;
-
-1° le deuxième cycle de l'enseignement du second degré ;
-
-2° le cycle préparant à la capacité en droit ;
-
-3° le cycle d'études supérieures techniques courtes sanctionnées par l'attribution du brevet de technicien supérieur ou le
-diplôme universitaire de technologie ;
-
-4° le premier cycle, sanctionné par le diplôme d'études universitaires générales (D.E.U.G.), le deuxième cycle, sanctionné
-soit par une licence, soit par une maîtrise, le troisième cycle, sanctionné par le doctorat de l'enseignement supérieur ainsi
-que les cycles de formation conduisant à des diplômes d'université en tant qu'ils sont complémentaires ou distincts d'un
-cycle de préparation à un diplôme national ;
-
-5° le cycle d'enseignement, sanctionné par le certificat d'aptitude au professorat d'éducation physique et sportive, dispensé
-dans les centres, instituts ou unités d'enseignement et de recherche régionaux d'éducation physique et sportive (C.R.E.P.S.,
-I.R.E.P.S. ou U.E.R.E.O.S.) ;
-
-6° le premier, le deuxième ou troisième cycle de l'enseignement dispensé dans les unités pédagogiques d'architecture ;
-
-7° le cycle d'enseignement dispensé :
-
-- à l'école nationale supérieure des Beaux-Arts ;
-
-- à l'école nationale supérieure des arts décoratifs ;
-
-- dans les écoles nationales, régionales ou municipales d'arts ;
-
-- à l'école du Louvre ;
-
-8° le cycle de préparation au concours d'admission dans un établissement à nombre de places déterminé ;
-
-9° les cycles de scolarité dans les écoles d'enseignement supérieur publiques ou privées délivrant un diplôme d'ingénieur
-reconnu par la commission des titres d'ingénieurs ;
-
-10° les cycles de scolarité dans les écoles de haut enseignement commercial ;
-
-11° les cycles de scolarité dans les écoles privées d'enseignement supérieur, dès lors que la fréquentation des classes ouvre
-droit au bénéfice de la sécurité sociale des étudiants.
-
-**Liens relatifs à cet article**
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Modifié par**:
 
-	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
-
-	**Abrogé par**:
-
-	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -10204,18 +10873,547 @@ droit au bénéfice de la sécurité sociale des étudiants.
 
 	**Cite**:
 
+	  - Code du service national - art. L5 (M)
+
+
+###### Article R2
+
+Le père et la mère, lorsqu'ils exercent en commun l'autorité parentale, ou la personne qui exerce cette autorité dans les
+conditions prévues par le code civil, peuvent s'opposer à l'appel avancé dans un délai de quinze jours à compter de la
+notification des demandes des jeunes gens qui leur est faite par l'autorité militaire.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1344 1970-12-23 art. 1 et art. 2
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R3 (V)
+	  - Code du service national - art. R4 (V)
+
+
+###### Article R3
+
+Avant l'expiration du délai fixé à l'article précédent, les jeunes gens peuvent être convoqués dans un centre de sélection en
+vue de participer aux opérations prévues à l'article L. 23.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1344 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L23 (M)
+	  - Code du service national - art. R2 (M)
+
+
+###### Article R4
+
+Il n'est pas donné suite aux demandes d'appel avancé lorsqu'une opposition se manifeste dans les délais et les conditions
+prévus à l'article R. 2 auprès de l'autorité militaire.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1344 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R2 (M)
+
+
+##### Paragraphe 2 : Report d'incorporation.
+
+###### Article R*5
+
+Les jeunes gens qui désirent bénéficier du report d'incorporation prévu à l'article L. 5, alinéa 2-2°, peuvent en faire la
+demande lors de la déclaration de recensement souscrite dans les conditions prévues à l'article R. 35. A défaut, ils doivent
+adresser leur demande au bureau du service national dont ils relèvent avant le jour où ils atteignent l'âge de dix-huit ans.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L5 (M)
+	  - Code du service national L5, R35
+
+
+###### Article R*6
+
+Les jeunes gens qui, en raison de leur situation particulière en matière de nationalité, sont recensés après avoir atteint
+l'âge de dix-huit ans peuvent obtenir un report d'incorporation en adressant une demande à la mairie de leur domicile dans le
+mois qui suit leur déclaration de recensement.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*7
+
+Les jeunes gens mentionnés aux articles R.5 et R.6 sont, à l'expiration du report d'incorporation dont ils ont bénéficié,
+appelés au service national actif dans les conditions prévues à l'article R.10.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R5, R6, R10
+
+
+###### Article R*8
+
+Les jeunes gens qui désirent obtenir le report supplémentaire d'incorporation prévu à l'article L. 5 bis doivent justifier :
+
+a) Soit de la poursuite d'études en qualité d'élève ou d'étudiant des établissements d'enseignement supérieur, des écoles
+techniques supérieures, des grandes écoles et classes du second degré préparatoires à ces écoles, permettant l'affiliation
+aux assurances sociales en vertu des articles L. 381-4 et L. 381-5 du code de la sécurité sociale ou d'établissements à
+l'étranger reconnus de niveau équivalent ;
+
+b) Soit de la poursuite d'études, à l'issue du cycle de détermination de la voie professionnelle, dans le cycle terminal de
+la voie technologique, en vue de l'obtention d'un baccalauréat technologique ;
+
+c) Soit de la poursuite d'une formation professionnelle organisée par les administrations publiques, les universités ou les
+établissements privés et sanctionnée par l'attribution d'un certificat de capacité, d'un diplôme d'Etat, d'un diplôme
+nécessaire à la titularisation dans un emploi public, d'un certificat d'aptitude professionnelle, d'un brevet d'études
+professionnelles, d'un baccalauréat professionnel, d'un brevet professionnel ou de tout autre diplôme professionnel délivré
+par le ministre de l'éducation nationale ;
+
+d) Soit de la poursuite d'une formation professionnelle en vue de l'obtention d'un titre ou d'un diplôme homologué dans les
+conditions prévues par le décret n° 92-23 du 8 janvier 1992 ;
+
+e) Soit de la poursuite d'une formation professionnelle permettant d'acquérir une qualification reconnue dans les
+classifications d'une convention collective de branche ou figurant sur une liste établie par la commission paritaire
+nationale de l'emploi d'une branche professionnelle, en application des dispositions de l'article L. 900-3 du code du
+travail.
+
+A cet effet, les intéressés doivent présenter, chaque année, une attestation du chef d'établissement donnant des informations
+sur les études envisagées et, le cas échéant, antérieurement suivies.
+
+La demande de report, accompagnée de l'attestation susmentionnée, doit être adressée au bureau du service national dont
+relève l'intéressé, dans le délai fixé au deuxième alinéa de l'article L. 5 bis s'il s'agit d'une demande de mise en report,
+et, s'il s'agit d'une demande de maintien en report jusqu'à vingt-quatre, vingt-cinq ou vingt-six ans, soixante jours avant
+l'échéance du report déjà obtenu et, au plus tard, avant le 1er octobre de l'année d'échéance.
+
+Dans les cas où, du fait de l'organisation des études, les attestations ne peuvent être fournies avant le 1er octobre de
+l'année considérée, les demandeurs peuvent être mis ou maintenus conditionnellement en report. Ils sont alors tenus de
+remettre, avant le 1er décembre de l'année considérée, l'attestation justificative au bureau du service national dont ils
+relèvent, sauf à être appelés au service actif avec la première fraction de contingent incorporée après cette échéance.
+
+Dans tous les cas, l'échéance du report est fixée à la date de fin d'études ou de formation professionnelle figurant sur
+l'attestation annuelle mais ne peut excéder le 1er décembre de l'année suivant celle au cours de laquelle la demande a été
+acceptée. Néanmoins, il peut être mis fin à tout moment à ce report si le bénéficiaire a interrompu ses études ou sa
+formation professionnelle.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 4
+
+	**Cite**:
+
+	  - Décret n°92-23 1992-01-08
+	  - Code du service national - art. L5 bis (M)
+	  - Code du travail - art. L900-3 (M)
+	  - Code de la sécurité sociale. - art. L381-4 (M)
+	  - Code de la sécurité sociale. - art. L381-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*8-1
+
+Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu à l'article L. 5 ter doivent le demander au
+bureau du service national dont ils relèvent six mois au plus tard avant la date d'expiration du report d'incorporation dont
+ils bénéficient au titre du 2° du deuxième alinéa de l'article L. 5 en y joignant toutes pièces de nature à établir la
+gravité de leur situation familiale ou sociale. Les demandes revêtues de l'avis du maire ou du consul du domicile des
+intéressés sont instruites par le préfet du département de recensement des jeunes gens ou, en ce qui concerne les jeunes gens
+recensés à l'étranger, par le préfet du département des Pyrénées-Orientales. Les préfets soumettent ces demandes à
+l'appréciation de la commission régionale compétente. Ils notifient la décision de cette dernière aux intéressés.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L5 (M)
+	  - Code du service national - art. L5 ter (M)
+
+
+###### Article R*8-2
+
+Le report d'incorporation prévu à l'article L. 5, alinéa 2 (2°), le report supplémentaire prévu au premier alinéa de
+l'article L. 5 bis et ses prolongations éventuelles ainsi que le report spécial prévu à l'article L. 10 sont accordés par le
+ministre chargé des armées ou par les commandants de bureau ou de centre du service national, par délégation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L5 bis (M)
 
 
-##### PARAGRAPHE 3 : Dispositions communes.
+###### Article R*9
+
+Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée, qui désirent obtenir le report
+d'incorporation prévu à l'article L. 5 bis A envoient au bureau du service national dont ils relèvent, au plus tard trois
+mois avant la date d'expiration du report dont ils bénéficient du fait du 2° du second alinéa de l'article L. 5 ou de
+l'article L. 5 bis, une demande datée et signée sur papier libre. Ils doivent joindre à cette demande, d'une part une copie
+certifiée conforme du contrat de travail dont ils sont titulaires ou à défaut, du document sur lequel sont reproduites les
+informations contenues dans la déclaration préalable à l'embauche et d'autre part, toute pièce de nature à permettre à la
+commission mentionnée à l'article L. 32 d'établir que leur incorporation aurait pour conséquence de compromettre leur
+insertion professionnelle ou la réalisation de leur première expérience professionnelle.
+
+Les dossiers sont transmis pour avis au maire ou au consul du domicile des intéressés qui, dans les quinze jours, les envoie
+au préfet du département de recensement ou, pour les Français de l'étranger, au préfet du département des Pyrénées-
+Orientales.
+
+Après avoir instruit ces dossiers, les préfets les soumettent, dans les deux mois, à la décision de la commission régionale
+compétente. La demande de report est appréciée par rapport à la situation des intéressés au jour de l'examen de leur dossier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+	  - Code du service national - art. L5 (M)
+	  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*9-3
+
+Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée ayant déposé une demande de report au
+titre de l'article L. 5 bis A sont placés en appel différé jusqu'à la notification de la décision prise à leur égard.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*9-4
+
+La demande de prolongation prévue au premier alinéa de l'article L. 5 bis A est déposée et instruite selon les mêmes
+modalités que la demande initiale.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*10
+
+Les jeunes gens qui bénéficient d'un report, d'un report supplémentaire ou d'un report spécial d'incorporation sont appelés
+au service actif avec la première fraction de contingent incorporée après la date d'expiration de ce report.
+
+Toutefois, ils peuvent renoncer avant terme au bénéfice du report en notifiant leur renonciation à leur bureau du service
+national trois mois au moins avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent être incorporés.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 5
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1052 du 25 septembre 1995 - art. 2 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+##### Paragraphe 3 : Dispositions communes.
 
 ###### Article R*11
 
-Les jeunes gens visés aux articles R.[* 1 et R.*] 10 sont appelés au service actif à la date qu'ils ont demandée. Toutefois,
-si la composition et le fractionnement du contingent le nécessitent, leur appel ainsi que celui des jeunes gens dont le
-report arrive à échéance peuvent ^etre décalés à la fraction de contingent suivante en ce qui concerne les jeunes gens visés
-à l'article R.[* 1 et à l'une des trois fractions suivantes pour ceux visés à l'article R.*] 10, s'ils ont atteint l'^age de
-vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en fonction des dates de dép^ot des demandes.
+Les jeunes gens visés aux articles R.* 1 et R.*10 sont appelés au service actif à la date qu'ils ont demandée. Toutefois, si
+la composition et le fractionnement du contingent le nécessitent, leur appel ainsi que celui des jeunes gens dont le report
+arrive à échéance peuvent être décalés à la fraction de contingent suivante en ce qui concerne les jeunes gens visés à
+l'article R.* 1 et à l'une des trois fractions suivantes pour ceux visés à l'article R.*10, s'ils ont atteint l'âge de vingt
+ans. Pour une même fraction de contingent, ce décalage est effectué en fonction des dates de dépôt des demandes.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10223,6 +11421,14 @@ vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en 
 
 	  - Décret n°70-1343 1970-12-23 art. 2
 	  - Décret n°70-1345 1970-12-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10239,9 +11445,16 @@ vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en 
 
 ###### Article R*12
 
-Dans les départements et territoires d'outre-mer, les délais fixés aux articles R.1, R.7 et R.10 peuvent ^etre allongés dans
-la limite de deux mois, par arr^eté conjoint du ministre chargé des armées et du ministre chargé des départements et
+Dans les départements et territoires d'outre-mer, les délais fixés aux articles R.1, R.7 et R.10 peuvent être allongés dans
+la limite de deux mois, par arrêté conjoint du ministre chargé des armées et du ministre chargé des départements et
 territoires d'outre-mer.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10252,7 +11465,11 @@ territoires d'outre-mer.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10267,7 +11484,7 @@ territoires d'outre-mer.
 	  - Code du service national R1, R7, R10
 
 
-#### SECTION II : Composition et appel du contingent.
+##### Section II : Composition et appel du contingent.
 
 ###### Article R*15
 
@@ -10280,6 +11497,13 @@ le nombre, la qualification ou le niveau d'aptitude des jeunes gens qui seront i
 la police nationale, dans le service de sécurité civile, dans le service de l'aide technique et dans le service de la
 coopération.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10288,7 +11512,11 @@ coopération.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 4 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10307,11 +11535,22 @@ ministre et lui fait toute proposition en ce qui concerne l'évolution des forme
 Elle est associée, sur demande du Premier ministre, aux contrôles effectués sur place par les représentants des ministres
 responsables de l'emploi des appelés relevant des formes civiles du service national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 6 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10320,7 +11559,7 @@ responsables de l'emploi des appelés relevant des formes civiles du service nat
 
 ###### Article R*16
 
-Pour l'application de l'article R. 15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
+Pour l'application de l'article R.15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
 dans les armées les jeunes gens qui en font la demande et ceux qui ne sont pas affectés à l'une des autres formes du service
 national.
 
@@ -10329,10 +11568,14 @@ Sont notamment affectés dans les armées :
 1° Les jeunes gens titulaires du brevet de préparation militaire et les marins de la marine marchande ;
 
 2° Les jeunes gens dont la candidature a été retenue en vue d'occuper un emploi dans des laboratoires ou organismes
-scientifiques dépendant du ministre chargé des armées ou agréés par lui ;
+scientifiques dépendant du ministre chargé des armées ou agréés par lui.
 
-3° Les jeunes gens qui, ayant fait l'objet d'une décision d'agrément dans les conditions fixées par les articles R. 23 à R.
-27, se trouveraient dans l'un des cas mentionnés à l'article L. 12.
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10342,8 +11585,12 @@ scientifiques dépendant du ministre chargé des armées ou agréés par lui ;
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 7 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10355,18 +11602,23 @@ scientifiques dépendant du ministre chargé des armées ou agréés par lui ;
 
 	**Cite**:
 
-	  - Code du service national - art. L12 (Ab)
-	  - Code du service national - art. R15-1 (M)
-	  - Code du service national R15-1, R23 à R27, L12
+	  - Code du service national R15
 
 
 ###### Article R*16-1
 
 Pour l'application des articles L. 70 et R. 16 du présent code, sont considérés comme marins de la marine marchande :
 
-1° Les Français qui exercent la profession de marin au sens de l'article 1er du décret susvisé du 7 ao^ut 1967 ;
+1° Les Français qui exercent la profession de marin au sens de l'article 1er du décret susvisé du 7 août 1967 ;
 
 2° Les élèves français des établissements scolaires maritimes.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10376,9 +11628,13 @@ Pour l'application des articles L. 70 et R. 16 du présent code, sont considér�
 	  - Code du service national - art. L70 (M)
 	  - Code du service national L70, R16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-388 1978-03-17 art. 2 JORF 23 mars 1978
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10389,15 +11645,30 @@ Pour l'application des articles L. 70 et R. 16 du présent code, sont considér�
 
 Effectuent leurs obligations du service actif dans le service de l'aide technique ou dans le service de la coopération : les
 jeunes gens qui ont fait l'objet d'une décision d'agrément prononcée dans les conditions fixées par les articles R. 23 à R.
-27 et qui figurent sur la liste, établie par chaque ministre responsable de ceux de ces jeunes gens qu'il retient au cours de
-l'année pour les besoins de ses services, compte tenu du nombre, de la qualification ou du niveau d'aptitude fixés par le
+27 et qui figurent sur la liste, établie par chaque ministre responsable, de ceux de ces jeunes gens qu'il retient au cours
+de l'année pour les besoins de ses services, compte tenu du nombre, de la qualification ou du niveau d'aptitude fixés par le
 décret prévu à l'article R. 15.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-728 1972-08-01 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10425,7 +11696,11 @@ cas échéant, avec le ministre responsable d'une forme civile du service nation
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 8 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10438,14 +11713,29 @@ cas échéant, avec le ministre responsable d'une forme civile du service nation
 
 ###### Article R13
 
-Les jeunes gens qui, au cours d'une m^eme année civile, sont appelés au service national actif constituent un contingent
+Les jeunes gens qui, au cours d'une même année civile, sont appelés au service national actif constituent un contingent
 désigné par le millésime de ladite année.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-829 1971-09-30 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10471,20 +11761,27 @@ l'acquisition de la nationalité française et âgés de moins de vingt-neuf ans
 c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20 et âgés de moins de trente-quatre ans ;
 
 2° Les jeunes gens dont le report d'incorporation expire au plus tard le 31 décembre de l'année précédente et les
-bénéficiaires de l'article L. 9 qui doivent être appelés au service actif au plus tard le 1er février de l'année considérée.
+bénéficiaires de l'article L. 9 qui doivent être appelés au service actif au plus tard le 1er février de l'année considérée ;
 
 3° Les jeunes gens qui, renonçant au bénéfice de la dispense ou, avant terme, au report d'incorporation ou aux dispositions
 de l'article L. 9, demandent au plus tard le 31 août de l'année considérée à être appelés avec l'une des fractions de ce
 contingent ;
 
 4° Les jeunes gens qui demandent, au plus tard le 31 août de l'année considérée, à bénéficier de l'appel avancé prévu par
-l'article L. 5, en vue d'être incorporés avec l'une des fractions de ce contingent.
+l'article L. 5, en vue d'être incorporés avec l'une des fractions de ce contingent ;
 
-5° Les jeunes gens dont l'appel a été décalé et qui seraient de ce fait compris dans ce contingent.
+5° Les jeunes gens dont l'appel a été décalé et qui seraient de ce fait compris dans ce contingent ;
 
 6° Les jeunes gens âgés de dix-huit ans ou plus dont le contrat d'engagement a été durant l'année considérée annulé ou
 résilié avant que les intéressés n'aient accompli une durée de service venant en déduction des obligations du service
 national actif égale à celle de ces obligations.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10492,13 +11789,14 @@ national actif égale à celle de ces obligations.
 
 	  - Décret n°71-829 1971-09-30 art. 2
 
-	**Modifié par**:
-
-	  - Décret n°95-1053 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°95-1053 du 25 septembre 1995 - art. 2 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -10529,14 +11827,23 @@ Elle étudie les besoins exprimés par ces ministres et, après s'être assurée
 l'article L. 6 du présent code, propose au Premier ministre les effectifs à incorporer dans les formes civiles du service
 national ainsi que la qualification ou l'aptitude requise pour occuper les emplois offerts.
 
-Elle procède annuellement, pour une période triennale, à l'estimation des besoins en emplois mentionnés à l'article L. 9
-compte tenu de l'évaluation prévisible du contingent.
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10545,7 +11852,6 @@ compte tenu de l'évaluation prévisible du contingent.
 	**Cite**:
 
 	  - Code du service national - art. L6 (M)
-	  - Code du service national - art. L9 (M)
 
 	**Cité par**:
 
@@ -10561,11 +11867,22 @@ département. Après avis de la commission interministérielle des formes civile
 commission adresse au Premier ministre un projet de directive annuelle sur les orientations à prévoir et le contrôle à
 effectuer par les ministres responsables.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10582,7 +11899,7 @@ de l'environnement, le ministre chargé de la forêt, le ministre chargé du com
 coopération, le ministre chargé des départements et territoires d'outre-mer et le ministre chargé de la santé désignent en
 outre chacun un représentant qui siège avec voix consultative.
 
-Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
+Le secrétariat de la commission est assuré par le ministère de la défense.
 
 Le président et les membres sont nommés pour trois ans.
 
@@ -10592,7 +11909,12 @@ Le président de la commission peut convoquer toute personne dont l'audition ser
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 5 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10601,7 +11923,7 @@ Le président de la commission peut convoquer toute personne dont l'audition ser
 
 ###### Article R19
 
-L'appel des jeunes gens d'un m^eme contingent a lieu, sous réserve des dispositions de l'article R. 21, en six fractions à
+L'appel des jeunes gens d'un même contingent a lieu, sous réserve des dispositions de l'article R. 21, en six fractions à
 partir des 1er février, 1er avril, 1er juin, 1er août, 1er octobre et 1er décembre. La durée du service est décomptée à
 partir de chacune de ces dates.
 
@@ -10619,7 +11941,11 @@ peuvent être avancées ou reculées dans la limite de quarante-cinq jours.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 3 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10640,14 +11966,21 @@ c.
 Les jeunes gens visés au 2° de l'article R. 14 sont appelés dans les conditions fixées par l'article R. 10.
 
 Les jeunes gens visés aux 3° et 4° de l'article R. 14 sont compris dans la fraction de contingent avec laquelle ils ont
-demandé, dans les délais fixés, selon le cas, aux articles R. 1 ou R. 10, à ^etre incorporés. En cas d'excédent concernant
-les jeunes gens visés aux 2°, 3° et 4° de l'article R. 14, l'appel de ceux ayant déposé leur demande le plus tardivement peut
-^etre décalé dans les conditions fixées par l'article R. 11, m^eme si ce décalage a pour effet de les comprendre dans le
+demandé, dans les délais fixés, selon le cas, aux articles R. 1 ou R. 10, à être incorporés. En cas d'excédent concernant les
+jeunes gens visés aux 2°, 3° et 4° de l'article R. 14, l'appel de ceux ayant déposé leur demande le plus tardivement peut
+être décalé dans les conditions fixées par l'article R. 11, même si ce décalage a pour effet de les comprendre dans le
 contingent suivant.
 
 Les jeunes gens visés au 6° de l'article R. 14 sont maintenus sous les drapeaux lors de l'annulation ou de la résiliation de
 leur engagement et rattachés pour la durée des obligations du service actif qui leur incombe à la fraction de contingent dont
 l'incorporation a immédiatement précédé la souscription de l'engagement.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10657,7 +11990,11 @@ l'incorporation a immédiatement précédé la souscription de l'engagement.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 4 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10678,6 +12015,13 @@ l'incorporation a immédiatement précédé la souscription de l'engagement.
 Le ministre chargé des armées fixe par arrêté en fonction des besoins du service national la composition de chaque fraction
 de contingent.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10686,7 +12030,11 @@ de contingent.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 5 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10697,15 +12045,11 @@ de contingent.
 	  - Code du service national - art. ANNEXE I (V)
 	  - Code du service national - art. R19 (V)
 
-	**Cite**:
-
-	  - Code du service national - art. L41 (Ab)
-
 
 ###### Article R22
 
 La répartition entre les armées des jeunes gens affectés au service militaire qui composent une fraction de contingent est
-fixée par arr^eté du ministre chargé des armées, en tenant compte :
+fixée par arrêté du ministre chargé des armées, en tenant compte :
 
 1° Des besoins quantitatifs et qualitatifs des armées, des unités, formations et services de chacune d'elles ;
 
@@ -10714,11 +12058,22 @@ fixée par arr^eté du ministre chargé des armées, en tenant compte :
 3° De la qualification universitaire ou professionnelle acquise par les intéressés et des brevets de préparation militaire
 obtenus.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10729,29 +12084,35 @@ obtenus.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Dispositions particulières a certains emplois du service national.
+#### Chapitre II : Dispositions particulières à certains emplois du service national.
 
 ###### Article R*23
 
-Les emplois au titre desquels peut être accordé le bénéfice de l'article L. 9 aux jeunes gens qui demandent à être appelés
-pour accomplir leurs obligations légales du service national actif dans les conditions fixées audit article sont les
-suivants :
+Les emplois au titre desquels peuvent être affectés les jeunes gens qui demandent le bénéfice de l'article L. 9 pour
+accomplir leurs obligations légales du service national sont les suivants :
 
-1° Au titre du service militaire : emploi d'études, d'expérimentation, de recherche ou d'enseignement dans les laboratoires
-ou autres organismes dépendant du ministère de la défense ;
+1° Au titre du service militaire : emplois d'études, d'expérimentation, de recherche ou d'enseignement dans les laboratoires
+ou autres organismes dépendant du ministère de la défense ou liés à celui-ci par convention ;
 
 2° Au titre du service de l'aide technique dans les départements et territoires d'outre-mer : emplois de moniteurs, de
 techniciens, d'enseignants, de chercheurs, d'ingénieurs ou de cadres supérieurs dans les secteurs de l'enseignement et des
 activités culturelles, scientifiques, économiques, administratives, sanitaires et sociales dans les services de l'Etat, des
-collectivités publiques locales ou des organismes publics relevant de ces services : dans des organismes, associations ou
-oeuvres à but non lucratif concourant au développement des départements ou territoires d'outre-mer ;
+collectivités locales ou des organismes publics relevant de ces services ; dans des organismes, associations ou oeuvres à but
+non lucratif concourant au développement des départements ou territoires d'outre-mer ;
 
 3° Au titre du service de la coopération dans un Etat étranger :
 
-emplois visés au 2° ci-dessus, dans les services ou organismes publics dépendant de cet Etat, dans les services publics
-français, les entreprises françaises, les organismes, associations ou oeuvres à but non lucratif exerçant une action
-humanitaire ou concourant au développement de cet Etat, dans les organismes internationaux dont la France fait partie et qui
-exercent une activité de coopération dans cet Etat.
+emplois visés au 2° ci-dessus, dans les administrations et services publics dépendant de cet Etat ; dans les services publics
+français, les établissements scolaires français à l'étranger, les entreprises françaises, les organismes, associations ou
+oeuvres à but non lucratif exerçant une action humanitaire ou concourant au développement de cet Etat, dans les organismes
+internationaux dont la France fait partie et qui exercent une activité de coopération dans cet Etat.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10761,7 +12122,12 @@ exercent une activité de coopération dans cet Etat.
 
 	**Modifié par**:
 
-	  - Décret n°93-577 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10776,79 +12142,29 @@ exercent une activité de coopération dans cet Etat.
 	  - Code du service national - art. L9 (M)
 
 
-###### Article R*23-1
-
-Les jeunes gens, volontaires du service de la coopération, affectés dans les entreprises françaises concourant au
-développement de pays étrangers, accomplissent le service actif obligatoirement dans ces pays.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R*23-2
-
-Les jeunes gens, volontaires du service de la coopération, affectés à des emplois de recherche dans une université, un
-institut, laboratoire ou organisme concourant au développement de pays étrangers, accomplissent le service actif
-obligatoirement dans ces pays.
-
-Les catégories d'établissements concernés tels que les universités, laboratoires, instituts ou autres organismes sont fixées
-par arrêté conjoint du ministre des affaires étrangères, du ministre chargé des armées et du ministre de la coopération.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
 ###### Article R*24
 
-Les qualifications professionnelles requises des jeunes gens visés à l'article R.[* 23 sont les suivants :
+Les qualifications professionnelles requises des jeunes gens visés à l'article R.* 23 sont les suivantes :
 
-1° Emplois au titre du service militaire :
-
-a) Lors du dépôt de la demande, être titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
-réglementairement admis en dispense en vue de l'inscription dans les universités et, en outre, dans la filière d'enseignement
-correspondant à l'emploi sollicité, avoir effectué avec succès au moins une année d'études supplémentaires ; cette demande
-est visée par le directeur de l'établissement ;
-
-b) Pour occuper l'emploi au titre duquel la candidature a été agréée, avoir obtenu, au moins, selon les emplois :
+1° Emplois au titre du service militaire : lors du dépôt de la demande, avoir obtenu au moins, selon les emplois :
 
 - soit un diplôme d'ingénieur reconnu par la commission des titres d'ingénieur ou un diplôme d'architecte délivré par le
 Gouvernement ou par une école reconnue par l'Etat ;
 
 - soit la maîtrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
-laboratoires ou organismes visés à l'article R.*] 23-1° ;
+laboratoires ou organismes mentionnés à l'article R.* 23 ;
 
 - soit le certificat de fin de scolarité d'une école nationale vétérinaire ;
 
-2° Emplois au titre du service de l'aide technique ou du service de la coopération :
+2° Emplois au titre du service de l'aide technique ou du service de la coopération : détenir au moment de leur incorporation
+tout diplôme ou toute qualification permettant d'occuper l'un des emplois mentionnés au 2° ou au 3° de l'article R.* 23.
 
-a) Jeunes gens ne sollicitant pas le report d'incorporation prévu à l'article L. 9 : posséder au moment de leur incorporation
-tout diplôme ou qualification permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
+**Nota:**
 
-b) Jeunes gens sollicitant le report d'incorporation prévu à l'article L. 9 : remplir les conditions définies au a du 1° ci-
-dessus lors du dépôt de la demande ; posséder tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article
-R.*] 23 au moment de l'incorporation.
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10856,15 +12172,14 @@ R.*] 23 au moment de l'incorporation.
 
 	  - Décret n°72-727 1972-08-01 art. 2
 
-	**Cite**:
-
-	  - Décret n°85-928 1985-08-28
-	  - Code du service national - art. L9 (M)
-	  - Code du service national R23, L9
-
 	**Modifié par**:
 
-	  - Décret n°93-577 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10874,13 +12189,17 @@ R.*] 23 au moment de l'incorporation.
 
 	  - Code du service national - art. ANNEXE I (V)
 
+	**Cite**:
+
+	  - Code du service national R23
+
 
 ###### Article R*25
 
 Les jeunes gens qui souhaitent bénéficier des dispositions du premier alinéa de l'article L. 9 peuvent présenter leur acte de
 candidature directement au ministre responsable :
 
-1° Pour un emploi au titre du service militaire avant le 15 janvier pour être incorporé à partir du 1er août de l'année en
+1° Pour un emploi au titre du service militaire, avant le 15 janvier pour être incorporé à partir du 1er août de l'année en
 cours jusqu'au 1er juillet de l'année suivante ;
 
 2° Pour un emploi au titre du service de l'aide technique ou de la coopération, à toute époque de l'année, au moins huit mois
@@ -10888,6 +12207,13 @@ avant la date d'incorporation souhaitée et au plus tard six mois avant la date 
 
 Si, après agrément suivi de l'attribution d'un poste, le candidat refuse l'emploi auquel il est ainsi affecté, le ministre
 responsable peut mettre fin à l'étude de cette candidature.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10897,7 +12223,12 @@ responsable peut mettre fin à l'étude de cette candidature.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 11 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10914,35 +12245,15 @@ responsable peut mettre fin à l'étude de cette candidature.
 
 ###### Article R*26
 
-La commission chargée par l'article L. 9 d'émettre un avis sur les candidatures impliquant l'octroi d'un report
-d'incorporation est ainsi composée :
+Les jeunes gens volontaires du service de la coopération, affectés dans les entreprises françaises concourant au
+développement de pays étrangers, accomplissent le service actif obligatoirement dans ces pays.
 
-Un conseiller d'Etat, président, désigné par le Premier ministre ;
+**Nota:**
 
-Un représentant du secrétaire général de la défense nationale ;
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
 
-Un représentant de la commission interministérielle des formes civiles du service national mentionnée à l'article R. 15-1. ;
-
-Quatre représentants du ministre chargé des armées ;
-
-Un représentant du ministre des affaires étrangères ;
-
-Deux représentants du ministre de la coopération ;
-
-Un représentant de l'Agence pour l'enseignement français à l'étranger ;
-
-Un représentant du ministre chargé des départements et territoires d'outre-mer ;
-
-Un représentant du ministre de l'éducation.
-
-Des suppléants sont désignés pour chacun des titulaires visés à l'alinéa précédent.
-
-En cas de partage des voix, celle du président est prépondérante.
-
-La commission peut constituer en son sein des sections chargées d'instruire les candidatures impliquant l'octroi d'un report
-d'incorporation.
-
-Le secrétariat de la commission et des sections est assuré par le service central du recrutement.
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10952,7 +12263,12 @@ Le secrétariat de la commission et des sections est assuré par le service cent
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 12 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -10970,11 +12286,19 @@ Le secrétariat de la commission et des sections est assuré par le service cent
 
 ###### Article R*27
 
-La commission, en tenant compte du niveau technique, professionnel ou universitaire atteint par les jeunes gens, émet un avis
-sur les candidatures impliquant l'octroi d'un report d'incorporation en fonction de la qualification nécessaire pour tenir
-les emplois demandés et des besoins quantitatifs et qualitatifs exprimés chaque année par le Gouvernement.
+Les jeunes gens volontaires du service de la coopération, affectés à des emplois de recherche dans une université, un
+institut, laboratoire ou organisme concourant au développement de pays étrangers, accomplissent le service actif
+obligatoirement dans ces pays.
 
-La commission transmet son avis au ministre responsable qui statue sur ces candidatures.
+Les catégories d'établissements concernés tels que les universités, laboratoires, instituts ou autres organismes sont fixées
+par arrêté conjoint du ou des ministres compétents.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -10984,81 +12308,12 @@ La commission transmet son avis au ministre responsable qui statue sur ces candi
 
 	**Modifié par**:
 
-	  - Décret n°85-928 1985-08-28 art. 4 JORF 3 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-## TITRE II : Dispositions communes aux différentes formes du service national
-
-### CHAPITRE I : Recensement  - sélection
-
-#### SECTION I : Recensement.
-
-###### Article R*28
-
-Les jeunes Français, ou leurs parents ou tuteur, sont tenus pendant le premier mois qui suit le trimestre au cours duquel ils
-atteignent l'^age de dix-sept ans, d'effectuer à la mairie de leur domicile une déclaration mentionnant leur état civil, leur
-domicile et résidence, leur profession, leur situation familiale, ainsi que tous renseignements nécessaires en vue de
-l'accomplissement du service national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 1
-
-	**Modifié par**:
-
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
-
-	**Abrogé par**:
-
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
 	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*29
-
-Les jeunes gens sans nationalité, domiciliés en France, sont tenus de se faire recenser dans les m^emes conditions que les
-jeunes Français.
-
-Les jeunes gens domiciliés en France qui, en vertu des lois sur la nationalité, ont la faculté de répudier ou de décliner la
-nationalité française et qui n'ont pas usé de cette faculté sont tenus de se faire recenser le premier mois qui suit le
-trimestre au cours duquel ils atteignent l'âge de dix-huit ans. Ils ont toutefois la possibilité de se faire recenser avant
-cet âge.
-
-Les hommes devenus français entre dix-sept et cinquante ans par voie de naturalisation, de réintégration, de déclaration ou
-d'option ou dont la nationalité française a été établie entre ces deux âges à la suite d'un jugement ou d'une déclaration
-recognitive doivent se faire recenser le premier mois qui suit le trimestre au cours duquel ils ont acquis la nationalité
-française ou au cours duquel cette nationalité leur a été reconnue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 2
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 13 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11069,350 +12324,13 @@ française ou au cours duquel cette nationalité leur a été reconnue.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-###### Article R*30
+### Titre II : Dispositions communes aux différentes formes du service national
 
-Les jeunes gens titulaires de l'un des titres de circulation visés aux articles 2, 4 et 5 de la loi n° 69-3 du 3 janvier 1969
-sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R. 28 et de faire
-connaître tout changement survenu de la commune de rattachement dans les conditions prévues à l'article L. 21.
+#### Chapitre Ier : Recensement  - Sélection
 
-La notification des ordres de route prévue à l'article L. 123 est faite au maire de la commune de rattachement.
+##### Section II : Sélection
 
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°69-3 du 3 janvier 1969 - art. 2 (M)
-	  - Loi n°69-3 du 3 janvier 1969 - art. 4 (V)
-	  - Loi n°69-3 du 3 janvier 1969 - art. 5 (V)
-	  - Code du service national - art. L123 (M)
-	  - Code du service national - art. L21 (M)
-	  - Code du service national R28, L21, L123
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*31
-
-Les renseignements fournis par les jeunes gens visés aux articles R. 28, R. 29 et R. 30 sont mentionnés sur une notice
-individuelle établie par le maire au reçu de chaque déclaration.
-
-Toute déclaration émanant d'un jeune homme né hors de la commune de recensement donne lieu, de la part du maire de celle-ci
-ou du consul, à l'envoi d'un avis d'inscription au maire ou au consul du lieu de naissance de l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 3
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 14 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R28, R29, R30
-
-
-###### Article R*32
-
-A l'occasion de la réception de la déclaration prévue à l'article R. 28, les maires appellent l'attention des jeunes gens sur
-le choix qui leur est offert par l'article L. 5 en ce qui concerne l'époque de leur incorporation et sur le délai de trente
-jours qui leur est accordé par l'article L. 33 pour demander éventuellement le bénéfice de la dispense en application des
-articles L. 31 et L. 32.
-
-Les jeunes gens ont la faculté d'établir leurs demandes de report d'incorporation ou de dispense en m^eme temps que leur
-déclaration et de remettre ces demandes immédiatement dans les mairies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national - art. L31 (M)
-	  - Code du service national - art. L32 (M)
-	  - Code du service national - art. L33 (M)
-	  - Code du service national - art. L5 (M)
-	  - Code du service national R28, L5, L33, L31, L32
-
-
-###### Article R*33
-
-Les jeunes gens recensés la m^eme année constituent une classe de recrutement et sont répartis, selon la date de dép^ot de
-leur déclaration, en quatre tranches trimestrielles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*34
-
-Au cours du deuxième mois de chaque trimestre, les maires dressent la liste communale de recensement sur laquelle ils
-inscrivent :
-
-1° Les jeunes gens qui ont souscrit une déclaration pendant le mois précédent ;
-
-2° Les jeunes gens nés dans la commune et qui, bien qu'appartenant aux catégories visées aux articles R.[* 28, R.*] 29 et R.
-[* 30, n'ont pas souscrit cette déclaration et pour lesquels ils n'ont pas reçu un avis d'inscription d'un autre maire ou
-d'un consul. Pour chacun d'eux, les maires établissent une notice individuelle sur laquelle ils portent les renseignements en
-leur possession.
-
-La liste de recensement et les notices individuelles sont adressées au préfet à la fin du deuxième mois de chaque trimestre,
-ainsi que, le cas échéant, les demandes qui auraient été déposées en mairie en application de l'article R.*] 32.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 6
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 15 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R28, R29, R30, R32
-
-
-###### Article R*35
-
-Les préfets vérifient les listes communales de recensement, les rectifient éventuellement et les arr^etent définitivement les
-30 avril, 31 juillet, 31 octobre et 31 janvier, après y avoir mentionné les demandes qui auraient été déposées en application
-de l'article R. 32 et, le cas échéant, la suite qui y aura été donnée. Ils transmettent, alors, ces listes, auxquelles sont
-jointes les notices individuelles, aux bureaux du service national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 7
-
-	**Modifié par**:
-
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R32
-
-
-###### Article R*36
-
-Les jeunes Français établis avec leur famille à l'étranger, qu'ils soient nés en France ou à l'étranger, sont tenus de
-souscrire auprès des agents consulaires français la déclaration prévue à l'article R.[* 28.
-
-Les agents consulaires dressent, à la m^eme époque et dans les m^emes conditions que les maires en France, une liste de
-recensement. Ils y inscrivent, outre ceux qui ont souscrit la déclaration visée ci-dessus, les jeunes Français nés ou
-résidant à leur connaissance dans leur circonscription et qui, bien qu'ils aient atteint dans le trimestre précédant l'^age
-de dix-sept ans, n'ont pas souscrit cette déclaration.
-
-Ils adressent les listes de recensement et les notices individuelles au préfet des Pyrénées-Orientales, qui est chargé des
-opérations prévues à l'article R.*] 35.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 8
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 16 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R28, R35
-
-
-###### Article R*37
-
-Les jeunes gens qui auraient été omis sur les listes de recensement sont inscrits sur les listes de la première tranche de
-classe recensée après la découverte de l'omission, à moins qu'ils n'aient cinquante ans révolus.
-
-Ils sont ensuite soumis à toutes les obligations du service national en vigueur au moment de leur inscription, notamment à
-celles du service national actif. Toutefois, les obligations d'activité ne peuvent leur être imposées :
-
-- au-delà de l'âge de vingt-neuf ans si leur recensement a eu lieu avant cet âge ;
-
-- au-delà de l'âge de trente-quatre ans si leur recensement a eu lieu entre vingt-neuf et trente-quatre ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 9
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 17 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*38
-
-Les maires établissent une fois par an, en même temps que les listes de recensement de la quatrième tranche de la classe de
-recrutement, des listes annexes sur lesquelles sont inscrits les étrangers bénéficiaires du droit d'asile domiciliés dans la
-commune, appartenant à la même année de naissance que celle de la classe en formation, ou réfugiés en France au cours de
-l'année, s'ils sont âgés de moins de cinquante ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 10
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*39
-
-Les dispositions de la présente section sont applicables aux départements et territoires d'outre-mer sous les réserves
-suivantes :
-
-1° Dans les territoires d'outre-mer, les fonctions dévolues dans la métropole aux préfets et aux maires sont exercées
-respectivement par les délégués du Gouvernement de la République et par les maires ou les chefs de circonscription
-administrative ;
-
-2° Le recensement de chaque classe de recrutement peut, dans certains départements ou territoires, notamment en raison du
-petit nombre des jeunes gens à recenser ou de la dispersion des populations, ^etre effectué en une seule fois, la période de
-recensement étant alors fixée par les préfets ou les délégués du Gouvernement de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1340 1970-12-23 art. 11
-
-	**Modifié par**:
-
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-#### SECTION II : Sélection.
-
-##### PARAGRAPHE 1 : Dispositions générales.
+##### Paragraphe 1er : Dispositions générales.
 
 ###### Article R*40
 
@@ -11433,6 +12351,13 @@ Peuvent être convoqués dans les centres de sélection et dans les centres du s
 
 4° Les candidats et candidates à un engagement dans les armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11441,7 +12366,11 @@ Peuvent être convoqués dans les centres de sélection et dans les centres du s
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11466,6 +12395,13 @@ Dans tous les cas visés à la présente section, les jeunes gens qui, sans pré
 rendent pas à leur convocation sont proposés d'office pour l'aptitude au service national et reçoivent application des
 dispositions de l'article R. 50-4.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11474,7 +12410,11 @@ dispositions de l'article R. 50-4.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11497,8 +12437,8 @@ centres de sélection ou dans les centres du service national en fonction de la 
 Les jeunes gens qui bénéficient du report d'incorporation sont convoqués en fonction de la date d'échéance de ce report. Ceux
 qui y renoncent avant terme sont convoqués en fonction de la date du dépôt de leur résiliation.
 
-Les hommes inscrits sur les listes de recensement prévues à l'article R. 34 sont convoqués dans l'ordre des dates de
-naissance et avec un préavis d'au moins vingt jours.
+Les hommes inscrits sur les listes de recensement sont convoqués dans l'ordre des dates de naissance et avec un préavis d'au
+moins vingt jours.
 
 Les candidats et candidates à un engagement dans les armées ou à l'une des formes de la préparation militaire et les
 volontaires féminines sont convoqués en fonction de la date du dépôt de leur demande.
@@ -11506,6 +12446,13 @@ volontaires féminines sont convoqués en fonction de la date du dépôt de leur
 Ne sont pas convoqués les jeunes gens atteints d'une infirmité ou d'une affection les rendant manifestement et définitivement
 inaptes aux obligations du service national à charge de justifier de leur état lors des opérations de recensement. Ils font
 l'objet d'une proposition d'exemption sur pièces.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11515,7 +12462,12 @@ l'objet d'une proposition d'exemption sur pièces.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11528,16 +12480,22 @@ l'objet d'une proposition d'exemption sur pièces.
 	**Cite**:
 
 	  - Code du service national - art. L5 (M)
-	  - Code du service national L5, R34
 
 
-##### PARAGRAPHE 2 : Droits résultant des opérations de sélection.
+##### Paragraphe 2 : Droits résultant des opérations de sélection.
 
 ###### Article R*43
 
 Les convocations dans les centres de sélection, dans les centres du service national, dans les formations du service de santé
 des armées ou dans les hôpitaux conventionnés ouvrent droit au transport gratuit pour le trajet le plus direct aller et
 retour, dans les mêmes conditions que pour les appelés au service militaire.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11547,7 +12505,11 @@ retour, dans les mêmes conditions que pour les appelés au service militaire.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11563,11 +12525,22 @@ retour, dans les mêmes conditions que pour les appelés au service militaire.
 Les personnes convoquées bénéficient, pendant les opérations de sélection ou lors de leur hospitalisation, de l'alimentation
 et du logement.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11584,11 +12557,22 @@ La durée totale des opérations de sélection ou d'hospitalisation ne compte ni
 retraite ni pour la détermination du montant des pensions allouées au titre de l'ancienneté des services. Elle ne vient pas
 en déduction des obligations d'activité du service national ou de l'engagement dans les armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11606,11 +12590,22 @@ paiement d'une indemnité journalière égale à trois fois le montant minimum d
 l'article L. 321-1 du code de la sécurité sociale. Cette indemnité leur est versée à l'issue de leur hospitalisation par le
 service comptable de l'hôpital.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11626,7 +12621,7 @@ service comptable de l'hôpital.
 	  - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### PARAGRAPHE 3 : Sélection.
+##### Paragraphe 3 : Sélection.
 
 ###### Article R*44
 
@@ -11642,6 +12637,13 @@ Ces propositions sont les suivantes :
 
 - exempté.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11650,7 +12652,11 @@ Ces propositions sont les suivantes :
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11674,11 +12680,22 @@ examens de sélection et qui les informe de la proposition les concernant.
 Les jeunes gens qui contesteraient le bien-fondé de ces propositions doivent le faire connaître à la commission locale
 d'aptitude dans les quinze jours suivant la notification qui leur en est faite.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11689,7 +12706,7 @@ d'aptitude dans les quinze jours suivant la notification qui leur en est faite.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Règles de discipline.
+##### Paragraphe 4 : Règles de discipline.
 
 ###### Article R*45
 
@@ -11745,11 +12762,10 @@ période d'isolement dont la durée ne peut excéder la moitié de la punition i
 Toutefois, les punitions infligées ne peuvent conduire à une prolongation de la durée des opérations de sélection ou de
 l'hospitalisation mentionnée à l'article R. 40.
 
-Les punitions sont notifiées à l'intéressé, qui bénéficie des
-
-garanties fixées à l'article 33 du décret portant règlement de discipline générale dans les armées, Elles font l'objet d'un
-compte rendu transmis au commandant du bureau ou du centre du service national qui le joint au dossier destiné au chef de
-corps ou au responsable de l'organisme civil d'emploi qui incorporera l'intéressé.
+Les punitions sont notifiées à l'intéressé, qui bénéficie des garanties fixées à l'article 33 du décret portant règlement de
+discipline générale dans les armées. Elles font l'objet d'un compte rendu transmis au commandant du bureau ou du centre du
+service national qui le joint au dossier destiné au chef de corps ou au responsable de l'organisme civil d'emploi qui
+incorporera l'intéressé.
 
 Les punitions sont infligées dans la limite d'un barème fixé par arrêté du ministre chargé des armées.
 
@@ -11760,11 +12776,25 @@ X. - Les récompenses dont les jeunes gens convoqués aux opérations de sélect
 fait l'objet sont prises en compte par les chefs de corps ou les responsables des organismes d'incorporation. Les punitions
 peuvent l'être.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II
+du code du service national s'appliquent aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit
+d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1341 1970-12-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11779,21 +12809,28 @@ peuvent l'être.
 	  - Code du service national R40
 	  - Décret n°75-765 1975-07-28 art. 13, art. 23, art. 24, art. 27, art. 33
 
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
-
 
 ###### Article R*45-1
 
 Les jeunes gens qui individuellement refusent de participer à tout ou partie des opérations de sélection sont proposés
 d'office pour l'aptitude au service et immédiatement renvoyés dans leur foyer.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11809,11 +12846,22 @@ d'office pour l'aptitude au service et immédiatement renvoyés dans leur foyer.
 Les infractions pouvant donner lieu à des poursuites judiciaires sont immédiatement signalées par le commandant du centre de
 sélection ou du centre du service national à la brigade de gendarmerie pour établissement d'un procès-verbal.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11824,7 +12872,7 @@ sélection ou du centre du service national à la brigade de gendarmerie pour é
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Responsabilité de l'Etat.
+##### Paragraphe 5 : Responsabilité de l'Etat.
 
 ###### Article R*46
 
@@ -11838,6 +12886,13 @@ compris les trajets directs aller et retour, les personnes convoquées peuvent r
 3° Des dispositions du code des pensions militaires d'invalidité ;
 
 4° Des dispositions de l'article L. 62, deuxième alinéa.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11853,7 +12908,11 @@ compris les trajets directs aller et retour, les personnes convoquées peuvent r
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11864,12 +12923,19 @@ compris les trajets directs aller et retour, les personnes convoquées peuvent r
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.
 
 ###### Article R*47
 
 Sans préjudice des dispositions de la présente section qui leur est applicable, la sélection des jeunes gens résidant à
-l'étranger est réglée par les articles R.[* 47-1 et R.*] 47-2 du présent paragraphe.
+l'étranger est réglée par les articles R.* 47-1 et R.*47-2 du présent paragraphe.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11879,7 +12945,11 @@ l'étranger est réglée par les articles R.[* 47-1 et R.*] 47-2 du présent par
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11900,11 +12970,22 @@ Les jeunes gens qui résident à l'étranger et ne relèvent pas des disposition
 l'initiative du consul, par un médecin accrédité auprès du consulat. Les propositions du médecin et les observations du
 consul sont transmises au bureau ou au centre du service national en vue d'être soumises à la commission locale d'aptitude.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11924,11 +13005,22 @@ consul sont transmises au bureau ou au centre du service national en vue d'être
 La convocation auprès d'un médecin accrédité par le consulat donne lieu au remboursement des frais de déplacement sur la base
 de la distance aller et retour séparant le domicile déclaré du lieu de la visite médicale duquel dépend ce domicile.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11939,12 +13031,19 @@ de la distance aller et retour séparant le domicile déclaré du lieu de la vis
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 7 : Marins de la marine marchande.
+##### Paragraphe 7 : Marins de la marine marchande.
 
 ###### Article R*48
 
 Les marins de la marine marchande sont convoqués dans les centres de sélection ou les centres du service national par
 l'intermédiaire du service des affaires maritimes.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11954,7 +13053,11 @@ l'intermédiaire du service des affaires maritimes.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -11965,13 +13068,20 @@ l'intermédiaire du service des affaires maritimes.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 8 : Jeunes gens handicapés ou détenus.
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.
 
 ###### Article R*49
 
 Les jeunes gens qui ne peuvent se présenter aux opérations prévues à l'article L. 23 du fait d'une infirmité ou d'un handicap
 sont examinés par un médecin des armées désigné par le directeur ou le chef local du service de santé territorialement
 compétent.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -11981,7 +13091,11 @@ compétent.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12002,11 +13116,22 @@ Les jeunes gens qui ne peuvent se présenter aux opérations prévues à l'artic
 établissement pénitentiaire sont examinés par un médecin des armées désigné par le directeur ou le chef local du service de
 santé territorialement compétent.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12021,7 +13146,7 @@ santé territorialement compétent.
 	  - Code du service national - art. L23 (M)
 
 
-##### PARAGRAPHE 9 : Commission locale d'aptitude.
+##### Paragraphe 9 : Commission locale d'aptitude.
 
 ###### Article R*50
 
@@ -12036,6 +13161,13 @@ Le président est désigné par le directeur du service de santé des armées. S
 celui-ci sont désignés par le directeur local du service de santé des armées territorialement compétent pour le siège du
 bureau ou du centre du service national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12044,7 +13176,11 @@ bureau ou du centre du service national.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12072,11 +13208,22 @@ le cas échéant, leur représentant légal et le maire de la commune ou son rep
 Les jeunes gens convoqués devant la commission locale d'aptitude ont droit au transport gratuit pour le trajet le plus direct
 aller et retour, dans les mêmes conditions que pour les appelés au service militaire.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12111,11 +13258,22 @@ du service national, et, le cas échéant, par l'intermédiaire des autorités d
 La notification indique les conditions dans lesquelles les intéressés peuvent contester les décisions de la commission locale
 d'aptitude.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12137,11 +13295,22 @@ ajournés sont convoqués à nouveau dans un centre de sélection ou visités pa
 période d'ajournement. La proposition de classement faite à leur égard est soumise à un nouvel examen de la commission locale
 d'aptitude.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12165,11 +13334,22 @@ immédiatement incorporés.
 S'ils ne défèrent pas à cette convocation, après notification d'un ordre de route dans les formes prévues à l'article L. 123,
 ils sont déclarés insoumis à l'expiration des délais de grâce.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12191,11 +13371,22 @@ Les jeunes gens victimes d'accidents ou de maladies survenus à l'occasion des o
 pour mise en observation sont présentés devant la commission locale d'aptitude qui statue sur leur aptitude au service
 national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12214,11 +13405,22 @@ attendre la décision de la commission locale d'aptitude, dès lors que ces jeun
 sélection et que cette proposition n'a donné lieu à aucune contestation. La commission locale d'aptitude statue à leur égard
 au plus tôt après leur incorporation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12229,16 +13431,23 @@ au plus tôt après leur incorporation.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national
 
-#### SECTION I : Dispenses
+##### Section I : Dispenses
 
-##### PARAGRAPHE 1 : Soutiens de famille.
+##### Paragraphe 1er : Dispenses à caractère social
 
 ###### Article R*55
 
-Pour la reconnaissance de la qualification de soutien de famille au sens des articles L. 32 et L. 32 bis, il est tenu compte,
-d'une part, de la situation familiale des jeunes gens, d'autre part, du montant des ressources dont dispose la famille.
+Pour la reconnaissance de la qualification de soutien de famille au sens de l'article L. 32, il est tenu compte, d'une part,
+de la situation familiale des jeunes gens, d'autre part, du montant des ressources dont dispose la famille.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12248,7 +13457,12 @@ d'une part, de la situation familiale des jeunes gens, d'autre part, du montant 
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 1 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12261,20 +13475,27 @@ d'une part, de la situation familiale des jeunes gens, d'autre part, du montant 
 	**Cite**:
 
 	  - Code du service national - art. L32 (M)
-	  - Code du service national - art. L32 bis (M)
 
 
 ###### Article R*56
 
-Les jeunes gens ayant demandé le bénéfice des dispositions de l'article L. 32 sont classés dans l'une des trois catégories
-énumérées ci-après en fonction du lien de parenté qui les unit à la ou aux personnes dont ils ont la charge effective.
+Les jeunes gens ayant demandé le bénéfice des dispositions du premier alinéa de l'article L. 32 sont classés dans l'une des
+trois catégories énumérées ci-après en fonction du lien de parenté qui les unit à la ou aux personnes dont ils ont la charge
+effective.
 
-1° Enfants à charge au sens de l'article L. 511 du code de la sécurité sociale, épouse, frères ou soeurs ;
+1° Frères ou soeurs ;
 
 2° Ascendants et beaux-parents à charge au sens de l'article 206 du code civil ;
 
 3° Personnes autres que celles visées ci-dessus, mais ayant avec les intéressés un lien de parenté jusqu'au troisième degré
 inclus.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12284,7 +13505,12 @@ inclus.
 
 	**Modifié par**:
 
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12294,7 +13520,6 @@ inclus.
 
 	  - Code civil - art. 206 (V)
 	  - Code du service national - art. L32 (M)
-	  - Code de la sécurité sociale L511
 
 	**Cité par**:
 
@@ -12309,9 +13534,8 @@ ressources de leur famille.
 Les moyens d'existence des personnes à la charge effective de l'intéressé sont évalués en tenant compte de la totalité des
 ressources en espèces et des avantages en nature dont elles disposeraient si l'intéressé était appelé au service actif. Il
 est tenu compte, le cas échéant, des ressources dont l'intéressé continuerait à disposer postérieurement à son appel ainsi
-que, sous réserve de l'application des dispositions de l'article L. 32 bis, du produit des obligations alimentaires
-susceptible d'^etre perçu par les personnes à charge. Il n'est pas tenu compte de la solde et des indemnités éventuellement
-perçues par le militaire appelé.
+que du produit des obligations alimentaires susceptible d'être perçu par les personnes à charge. Il n'est pas tenu compte de
+la solde et des indemnités éventuellement perçues par le militaire appelé.
 
 La moyenne mensuelle des ressources ainsi définies est divisée par un nombre de parts calculé d'après le nombre de personnes
 dont l'intéressé a la charge effective à raison d'une part pour la première personne et d'une demi-part par personne
@@ -12327,6 +13551,13 @@ a) Inférieur ou égal au salaire mensuel de base ;
 
 b) Supérieur au salaire mensuel de base.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12335,7 +13566,12 @@ b) Supérieur au salaire mensuel de base.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12347,21 +13583,27 @@ b) Supérieur au salaire mensuel de base.
 
 	**Cite**:
 
-	  - Code du service national - art. L32 bis (M)
-	  - Code du service national R56, L32 bis
+	  - Code du service national R56
 
 
 ###### Article R*58
 
-Ne peuvent être classés soutiens de famille au sens des articles L. 32 et L. 32 bis, et dispensés comme tels des obligations
-du service national actif, les jeunes gens qui n'appartiennent à aucune des catégories familiales définies à l'article R.* 56
-et ceux pour lesquels le quotient des ressources par personne à charge, calculé comme il est dit à l'article R.* 57, est
-supérieur au salaire mensuel de base et entraîne le classement en sous-catégorie b.
+Ne peuvent être classés soutiens de famille au sens de l'article L. 32, et dispensés comme tels des obligations du service
+national actif, les jeunes gens qui n'appartiennent à aucune des catégories familiales définies à l'article R.* 56 et ceux
+pour lesquels le quotient des ressources par personne à charge, calculé comme il est dit à l'article R.* 57, est supérieur au
+salaire mensuel de base et entraîne le classement en sous-catégorie b.
 
 En outre, la dispense ne peut être accordée lorsqu'il ressort de renseignements portant notamment sur le patrimoine et le
-train de vie du jeune homme et, sous réserve de l'application des dispositions de l'article L. 32 bis, de sa famille que,
-malgré l'incorporation de celui-ci, l'entretien des personnes dont il a la charge continuera à être suffisamment assuré. Les
-intéressés sont alors classés dans la sous-catégorie b, quel que soit le quotient des ressources par personne à charge.
+train de vie du jeune homme et de sa famille que, malgré l'incorporation de celui-ci, l'entretien des personnes dont il a la
+charge continuera à être suffisamment assuré. Les intéressés sont alors classés dans la sous-catégorie b, quel que soit le
+quotient des ressources par personne à charge.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12371,7 +13613,12 @@ intéressés sont alors classés dans la sous-catégorie b, quel que soit le quo
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 2 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12384,21 +13631,35 @@ intéressés sont alors classés dans la sous-catégorie b, quel que soit le quo
 	**Cite**:
 
 	  - Code du service national - art. L32 (M)
-	  - Code du service national - art. L32 bis (M)
-	  - Code du service national L32, L32 bis, R57, R56
+	  - Code du service national L32, R57, R56
 
 
 ###### Article R*59
 
 Le décret prévu au troisième alinéa de l'article L. 32 détermine, le cas échéant, en fonction des nécessités du service et
-dans l'ordre des priorités prévu à l'article R. 56, la ou les catégories de jeunes gens à qui la dispense pourra ^etre
+dans l'ordre des priorités prévu à l'article R. 56, la ou les catégories de jeunes gens à qui la dispense pourra être
 accordée.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12414,21 +13675,141 @@ accordée.
 	  - Code du service national L32, R56
 
 
+###### Article R*59-1
+
+Les ressources de l'épouse du jeune homme qui sollicite le bénéfice de la dispense prévue au deuxième alinéa de l'article L.
+32 sont évaluées en tenant compte de la totalité des revenus en espèces et des avantages en nature dont elle disposerait si
+l'intéressé était appelé au service actif. Il n'est pas tenu compte de la solde et des indemnités éventuellement perçues par
+l'appelé ni du produit des obligations alimentaires.
+
+La moyenne mensuelle des ressources ainsi définies est comparée à un salaire mensuel de base égal à 200 fois le salaire
+horaire minimum de croissance en vigueur au moment où il est procédé à cette évaluation.
+
+Lorsque les ressources mensuelles de l'épouse sont inférieures ou égales au salaire mensuel de base défini à l'alinéa
+précédent, le jeune homme est dispensé.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+
+
+###### Article R*59-2
+
+Pour la reconnaissance de la qualité de personne ayant la charge effective d'au moins un enfant, le jeune homme qui demande
+le bénéfice de la dispense prévue au deuxième alinéa de l'article L. 32 doit remplir les deux conditions suivantes :
+
+- exercer l'autorité parentale dans les conditions prévues à l'article 372 du code civil ;
+
+- être allocataire ou attributaire des prestations familiales au sens des articles R. 513-1 ou R. 513-2 du code de la
+sécurité sociale, ou avoir l'enfant en résidence habituelle à son domicile.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code civil - art. 372 (M)
+	  - Code du service national - art. L32 (M)
+	  - Code de la sécurité sociale. - art. R513-1 (M)
+	  - Code de la sécurité sociale. - art. R513-2 (V)
+
+
+###### Article R*59-3
+
+La situation économique et sociale grave mentionnée au troisième alinéa de l'article L. 32 est celle qui, en raison de
+l'incorporation de l'appelé, se traduirait soit par l'impossibilité de maintenir les moyens d'existence des personnes dont il
+a la charge, soit par le risque d'exclusion sociale dont il serait lui-même menacé, en l'absence de toute possibilité d'aide
+matérielle de la part de tiers, après l'accomplissement de son service actif.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+
+
 ###### Article R*60
 
-Les demandes de dispense en qualité de soutien de famille qui, en application du premier alinéa de l'article L. 33, doivent
-^etre présentées au plus tard trente jours après la déclaration de recensement prévue à l'article L. 15, sont déposées à la
-mairie du domicile des intéressés.
+Les demandes de dispense au titre des premier, deuxième et troisième alinéas de l'article L. 32 doivent être déposées au plus
+tard trente jours après la déclaration de recensement à la mairie du domicile des intéressés ou à leur commune de
+rattachement.
 
-Les demandes qui n'ont pu, pour cas de force majeure, ^etre présentées dans le délai fixé ci-dessus ou qui seraient motivées
-par un fait nouveau intervenu postérieurement à l'expiration de ce délai, doivent, dans les conditions fixées au deuxième
-alinéa de l'article L. 33 précité, ^etre adressées au préfet du département de recensement jusqu'à la date à laquelle cette
-autorité arr^ete les listes de recensement, au bureau de recrutement après cette date. Les intéressés ne sont éventuellement
-placés en appel différé jusqu'à décision à intervenir que s'ils sont susceptibles d'être appelés au service national actif
-dans un délai de six mois après la date de dépôt de leur demande.
+En cas de fait nouveau survenu après ce délai, elles doivent être présentées au bureau du service national dont relèvent les
+demandeurs.
 
-Les demandes présentées par les jeunes gens résidant à l'étranger doivent ^etre adressées, dans les conditions et délais
-fixés ci-dessus, par l'intermédiaire des autorités consulaires françaises, qui les transmettent avec leur avis motivé.
+Ces derniers sont placés en appel différé jusqu'à la prise d'une décision, s'ils sont susceptibles d'être appelés au service
+national actif dans un délai de six mois après la date de dépôt de leur demande.
+
+Les demandes présentées par les jeunes gens résidant à l'étranger doivent être adressées, dans les conditions et délais fixés
+ci-dessus, par l'intermédiaire des autorités consulaires françaises, qui les transmettent avec leur avis motivé.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12438,7 +13819,12 @@ fixés ci-dessus, par l'intermédiaire des autorités consulaires françaises, q
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 20 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12450,21 +13836,35 @@ fixés ci-dessus, par l'intermédiaire des autorités consulaires françaises, q
 
 	**Cite**:
 
-	  - Code du service national - art. L15 (M)
-	  - Code du service national - art. L33 (M)
+	  - Code du service national - art. L32 (M)
 
 
 ###### Article R*61
 
 En cas de fait nouveau survenu dans la situation familiale des intéressés postérieurement à une décision de refus de dispense
 prise par la commission régionale, ceux-ci ont la faculté de présenter une nouvelle demande. S'ils n'ont pas encore été
-incorporés, leur demande est instruite et soumise à décision dans les m^emes conditions que la demande précédente.
+incorporés, leur demande est instruite et soumise à décision dans les mêmes conditions que la demande précédente.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12477,18 +13877,34 @@ incorporés, leur demande est instruite et soumise à décision dans les m^emes 
 
 ###### Article R*62
 
-Les demandes de dispense en qualité de soutien de famille donnent lieu à l'établissement d'un dossier par les soins du bureau
-d'aide sociale et, à l'étranger, par le consulat de France du domicile de recensement.
+Les demandes de dispense donnent lieu à l'établissement d'un dossier par les soins du centre communal ou intercommunal
+d'action sociale et, à l'étranger, par le consulat de France du domicile de recensement.
 
-Ce dossier, complété par l'avis motivé du maire ou du consul, est ensuite, dans les trente jours suivant le dép^ot de la
+Ce dossier, complété par l'avis motivé du maire ou du consul, est ensuite, dans les trente jours suivant le dépôt de la
 demande, transmis pour examen au préfet du département dans lequel les intéressés ont été récensés, au préfet des Pyrénées-
 Orientales pour les jeunes gens recensés à l'étranger.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 8
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12502,10 +13918,18 @@ Orientales pour les jeunes gens recensés à l'étranger.
 ###### Article R*63
 
 Le préfet du département procède à l'instruction des demandes et formule des propositions tendant à classer les jeunes gens
-dans l'une des catégories et sous-catégories prévues aux articles R.[* 56 et R.*] 57. Il transmet les dossiers, dans un délai
+dans l'une des catégories et sous-catégories prévues aux articles R.* 56 et R.* 57. Il donne son avis sur les dossiers de
+demande de dispense au titre des deuxième et troisième alinéas de l'article L. 32. Il transmet les dossiers, dans un délai
 maximum de cinq mois à compter de la date de leur réception, le cas échéant en l'état, pour décision, à la commission
 régionale prévue à l'article L. 32, ou à la commission régionale du Languedoc-Roussillon lorsque les demandes ont été
 formulées par les jeunes gens recensés à l'étranger.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12515,7 +13939,12 @@ formulées par les jeunes gens recensés à l'étranger.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 21 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12533,7 +13962,7 @@ formulées par les jeunes gens recensés à l'étranger.
 
 ###### Article R*64
 
-La commission régionale siège au chef-lieu de la circonscription de région. Le préfet de région arr^ete la liste des membres
+La commission régionale siège au chef-lieu de la circonscription de région. Le préfet de région arrête la liste des membres
 de la commission régionale, dont la composition est fixée à l'article L. 32. En cas d'empêchement, le président et les
 membres titulaires peuvent être remplacés par des suppléants désignés suivant les mêmes règles que les titulaires.
 
@@ -12544,14 +13973,21 @@ Le magistrat de l'ordre judiciaire est désigné par le premier président de la
 situé le chef-lieu de région. Il est choisi parmi les magistrats du siège en fonction dans l'une des juridictions de ce
 ressort ou parmi des magistrats honoraires.
 
-La commission régionale siège sur convocation du préfet de région. Un officier de la direction du service national assiste
-aux séances à titre consultatif. Les jeunes gens sont avisés des lieu, date et heure de la séance au cours de laquelle leur
-demande sera examinée.
+Un officier de la direction du service national assiste aux séances à titre consultatif. Les jeunes gens sont avisés des
+lieu, date et heure de la séance au cours de laquelle leur demande sera examinée.
 
 Pour la région Ile-de-France, il est constitué deux commissions dont les ressorts respectifs comprennent, d'une part, les
 départements de Paris, de la Seine-et-Marne, de la Seine-Saint-Denis et du Val-de-Marne et, d'autre part, les départements
 des Yvelines, de l'Essonne, des Hauts-de-Seine et du Val-d'Oise. Ces deux commissions siègent respectivement à Paris et à
-Versailles. Le préfet de la région Ile-de-France peut déléguer ses pouvoirs au préfet de Paris et au préfet des Yvelines.
+Versailles. Le préfet de la région Ile-de-France, préfet de Paris, peut déléguer ses pouvoirs au préfet des Yvelines, pour la
+commission siégeant à Versailles.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12561,8 +13997,13 @@ Versailles. Le préfet de la région Ile-de-France peut déléguer ses pouvoirs 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 22 () JORF 3 décembre 1992
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12577,18 +14018,66 @@ Versailles. Le préfet de la région Ile-de-France peut déléguer ses pouvoirs 
 	  - Code du service national - art. L32 (M)
 
 
+###### Article R*64-1
+
+La commission régionale siège sur convocation du préfet de région, au moins une fois tous les deux mois. Des réunions
+supplémentaires peuvent avoir lieu si nécessaire, en fonction du nombre de dossier à examiner.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
 ###### Article R*65
 
 Après avoir entendu les jeunes gens qui le demandent ainsi que, éventuellement, leur représentant légal et le maire de la
-commune de leur domicile ou son délégué, la commission régionale procède à l'examen des dossiers, classe les intéressés dans
-l'une des catégories et sous-catégories définies aux articles R.[* 56 et R.*] 57 et décide de l'attribution de la dispense en
-faisant application des dispositions du décret visé au troisième alinéa de l'article L. 32.
+commune de leur domicile ou son délégué, la commission régionale procède à l'examen des dossiers, classe ceux qui ont demandé
+une dispense en qualité de soutien de famille dans l'une des catégories et sous-catégories définies aux articles R.[* 56 et
+R.*] 57 et décide de l'attribution de la dispense en faisant application des dispositions du décret visé au troisième alinéa
+de l'article L. 32.
+
+La commission régionale décide également de l'attribution de la dispense au titre des deuxième et troisième alinéas de
+l'article L. 32.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12610,6 +14099,13 @@ Les décisions statuant sur les demandes de dispense des obligations du service 
 régionale sont notifiées aux intéressés par le préfet de leur département de recensement. Une copie de cette notification est
 adressée au bureau ou centre du service national dont ils relèvent.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12618,7 +14114,11 @@ adressée au bureau ou centre du service national dont ils relèvent.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12631,16 +14131,24 @@ adressée au bureau ou centre du service national dont ils relèvent.
 
 ###### Article R*67
 
-Les jeunes gens qui, bien qu'ayant la qualité de soutien de famille au sens du présent paragraphe 1, sont incorporés soit
-parce qu'ils n'ont pas été dispensés, soit parce qu'ils ont renoncé à leur dispense ou parce qu'ils ont contracté un
-engagement dans les armées, peuvent bénéficier pour leur famille des dispositions du décret n° 64-355 du 20 avril 1964
+Les jeunes gens qui, bien qu'ayant la qualité de soutien de famille au sens des articles R.[* 55 à R.*] 58, sont incorporés
+soit parce qu'ils n'ont pas été dispensés, soit parce qu'ils ont renoncé à leur dispense ou parce qu'ils ont contracté un
+engagement dans les armées, peuvent bénéficier pour leur famille des dispositions du décret n° 64-355 du 29 avril 1964
 modifié si la qualité de soutien indispensable de famille au sens dudit décret leur est reconnue.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°64-355 1964-04-20
+	  - Décret n°64-355 1964-04-29
+	  - Code du service national R58
 
 	**Anciens textes**:
 
@@ -12648,7 +14156,12 @@ modifié si la qualité de soutien indispensable de famille au sens dudit décre
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 23 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12662,10 +14175,16 @@ modifié si la qualité de soutien indispensable de famille au sens dudit décre
 ###### Article R*68
 
 Dans les territoires d'outre-mer, la commission prévue à l'article L. 32, dernier alinéa, comprend, sous la présidence du
-délégué du Gouvernement ou de son représentant, un membre de l'assemblée locale, un représentant de l'autorité militaire, un
-représentant du service social et un représentant des services financiers. La décision de la commission est notifiée à
-l'intéressé par le délégué du Gouvernement. Une copie de cette décision est adressée au bureau ou centre du service national
-dont il relève.
+représentant de l'Etat, un membre de l'assemblée locale, un représentant de l'autorité militaire, un représentant du service
+social et un représentant des services financiers. La décision de la commission est notifiée à l'intéressé par le délégué du
+Gouvernement. Une copie de cette décision est adressée au bureau ou centre du service national dont il relève.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12675,7 +14194,12 @@ dont il relève.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12690,19 +14214,31 @@ dont il relève.
 	  - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.
 
 ###### Article R*68-1
 
-Le jeune homme dont le cas est prévu au quatrième ou au cinquième alinéa de l'article L. 32 peut joindre à l'appui de la
-déclaration de recensement prévue à l'article R. 28, et au plus tard trente jours après cette déclaration, une demande de
-dispense des obligations du service national actif.
+Le jeune homme dont le cas est prévu au sixième, septième ou au huitième alinéa de l'article L. 32 peut joindre à l'appui de
+la déclaration de recensement, et au plus tard trente jours après cette déclaration, une demande de dispense des obligations
+du service national actif.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12711,7 +14247,6 @@ dispense des obligations du service national actif.
 	**Cite**:
 
 	  - Code du service national - art. L32 (M)
-	  - Code du service national L32, R28
 
 
 ###### Article R*68-2
@@ -12721,11 +14256,22 @@ préfet du département qui procède à son instruction et la transmet, le cas �
 régionale prévue à l'article L. 32 dans un délai maximum de cinq mois à compter de la date de réception de la demande par la
 préfecture.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12738,27 +14284,47 @@ préfecture.
 
 ###### Article R*68-3
 
-Dans le cas prévu au quatrième alinéa de l'article L. 32, la demande de dispense doit être accompagnée de toutes
-justifications relatives notamment à la date du décès ou à l'incapacité invoquée ainsi que d'une attestation délivrée, selon
-le cas, par la chambre d'agriculture, la chambre de commerce ou la chambre des métiers certifiant qu'à la suite du décès ou
-de l'incapacité invoquée, l'incorporation entraînerait l'arrêt de l'exploitation familiale. L'organisme donne son avis sur le
-point de savoir si, seul, le futur appelé est en mesure d'en assurer le fonctionnement.
+Dans le cas prévu au sixième alinéa de l'article L. 32, la demande de dispense doit être accompagnée des justifications
+relatives notamment à la date du décès ou à l'incapacité invoquée ainsi que d'une attestation délivrée, selon le cas, par la
+chambre d'agriculture, la chambre de commerce et d'industrie ou la chambre des métiers certifiant qu'à la suite du décès ou
+de l'incapacité invoquée, l'incorporation entraînerait l'arrêt de l'exploitation familiale. L'organisme concerné apprécie
+dans son avis si seul le futur appelé est en mesure d'en assurer le fonctionnement.
 
-Dans le cas prévu au cinquième alinéa de l'article L. 32, la demande de dispense doit être accompagnée de toutes
+Dans le cas prévu au septième alinéa de l'article L. 32, la demande de dispense doit être accompagnée des justifications
+concernant la qualité de chef d'une exploitation à caractère agricole, commercial ou artisanal délivrée, selon le cas, par la
+chambre d'agriculture, la chambre de commerce et d'industrie ou la chambre des métiers certifiant que l'incorporation
+entraînerait l'arrêt de l'exploitation. L'organisme concerné apprécie dans son avis si seul le futur appelé est en mesure
+d'en assurer le fonctionnement.
+
+Dans le cas prévu au huitième alinéa de l'article L. 32, la demande de dispense doit être accompagnée de toutes
 justifications concernant la qualité de chef d'entreprise, la date et les modalités d'acquisition de cette qualité,
 l'existence et le nombre de salariés et la date de leur embauche. Elle doit être également accompagnée de l'avis, selon le
-cas, de la chambre d'agriculture, de la chambre de commerce ou de la chambre des métiers au sujet des conséquences d'une
-éventuelle incorporation sur l'emploi des salariés et sur l'activité de l'entreprise.
+cas, de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre de métiers au sujet des
+conséquences d'une éventuelle incorporation sur l'emploi des salariés et sur l'activité de l'entreprise.
 
-Les demandes de dispense, dans les cas prévus au quatrième ou au cinquième alinéa de l'article L. 32, par des jeunes gens
-résidant à l'étranger doivent être adressés, dans les conditions et délais fixés par les dispositions du présent paragraphe,
-par l'intermédiaire des autorités consulaires françaises qui les transmettent avec leur avis motivé.
+Les demandes de dispense formulées par des jeunes gens résidant à l'étranger, dans les cas prévus au sixième, septième ou
+huitième alinéa de l'article L. 32, doivent être adressées, dans les conditions et délais fixés par les dispositions du
+présent article, par l'intermédiaire des autorités consulaires françaises qui les transmettent avec leur avis motivé.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II
+du code du service national s'appliquent aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit
+d'asile, nés avant le 1er janvier 1979.
+
+Le décret n° 2004-1164 du 2 novembre 2004 publié au Journal officiel du 4 novembre 2004 a remplacé " chambre de métiers " par
+" chambre de métiers et de l'artisanat ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12779,12 +14345,22 @@ service national dont relève l'intéressé qui en assure la transmission au pr�
 L'intéressé n'est placé éventuellement en appel différé jusqu'à l'intervention de la décision que s'il est susceptible d'être
 appelé au service national actif dans un délai de six mois après la date de dépôt de sa demande.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 25 () JORF 3 décembre 1992
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12797,14 +14373,26 @@ appelé au service national actif dans un délai de six mois après la date de d
 
 ###### Article R*68-5
 
-Dans le cas d'incapacité d'un parent ou beau-parent, le préfet peut demander la production d'un certificat médical délivré
+Dans le cas d'incapacité d'un ascendant ou beau-parent, le préfet peut demander la production d'un certificat médical délivré
 par un médecin assermenté.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12813,20 +14401,31 @@ par un médecin assermenté.
 
 ###### Article R*68-6
 
-Dans le cas prévu au quatrième alinéa de l'article L. 32, la dispense ne peut ^etre accordée, lorsqu'il ressort de
-renseignements portant sur le patrimoine et le train de vie du jeune homme et de sa famille, ainsi que sur les revenus à
-provenir de l'exploitation, que malgré l'incorporation du requérant, la marche de l'entreprise peut continuer à ^etre assurée
+Dans le cas prévu au sixième et au septième alinéa de l'article L. 32, la dispense ne peut être accordée, lorsqu'il ressort
+de renseignements portant sur le patrimoine et le train de vie du jeune homme et de sa famille, ainsi que sur les revenus à
+provenir de l'exploitation, que malgré l'incorporation du requérant, la marche de l'entreprise peut continuer à être assurée
 en raison des possibilités financières de remplacement de l'intéressé.
 
-Dans le cas prévu au cinquième alinéa de l'article L. 32, la dispense ne peut ^etre accordée lorsque, malgré l'incorporation
-du requérant, la marche de l'entreprise peut continuer à ^etre assurée en raison des possibilités de remplacement de
-l'intéressé.
+Dans le cas prévu au huitième alinéa de l'article L. 32, la dispense ne peut être accordée lorsque, malgré l'incorporation du
+requérant, la marche de l'entreprise peut continuer à être assurée en raison des possibilités de remplacement de l'intéressé.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12837,12 +14436,12 @@ l'intéressé.
 	  - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 3 : Résidence à l'étranger.
+##### Paragraphe 3 : Résidence à l'étranger.
 
 ###### Article R*69
 
 L'appel au service national actif est différé pour les jeunes Français qui résident effectivement à l'âge de dix-huit ans et
-qui continuent de résider habituellement jusqu'à l'âge de vingt-neuf ans dans un pays étranger, sauf dans les territoires
+qui continuent de résider habituellement jusqu'à l'âge de vingt-neuf a ns dans un pays étranger, sauf dans les territoires
 européens relevant d'un des Etats ou pays énumérés ci-dessous :
 
 Autriche, Belgique, Danemark, Espagne, Irlande, Italie, Lichtenstein, Luxembourg, Monaco, Pays-Bas, Portugal, République
@@ -12856,6 +14455,12 @@ La résidence à l'étranger est considérée comme habituelle si les jeunes gen
 principale activité professionnelle. Les absences temporaires, notamment à l'occasion de vacances scolaires ou de missions
 professionnelles d'une durée maximum de trois mois par an, ne modifient pas le caractère habituel de cette résidence.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II
+du code du service national s'appliquent aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit
+d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12864,7 +14469,11 @@ professionnelles d'une durée maximum de trois mois par an, ne modifient pas le 
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JONC 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12881,6 +14490,13 @@ La preuve de la résidence à dix-huit ans dans un pays étranger résulte, soit
 et souscrite par l'intéressé lors du recensement, soit, à défaut, d'une attestation délivrée par le consul indiquant la
 résidence effective de l'intéressé dans sa circonscription.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12889,7 +14505,11 @@ résidence effective de l'intéressé dans sa circonscription.
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12902,10 +14522,17 @@ résidence effective de l'intéressé dans sa circonscription.
 
 ###### Article R*71
 
-Les jeunes Français ^agés de moins de vingt-neuf ans dont l'appel est différé en application des dispositions de l'article R.
-69 doivent, pour ^etre maintenus dans cette position, adresser à leur bureau ou centre du service national, chaque année
-avant le 1er mai, par l'intermédiaire et sous le contr^ole des autorités consulaires, une déclaration de résidence à la date
-du 1er janvier de l'année considérée.
+Les jeunes Français âgés de moins de vingt-neuf ans dont l'appel est différé en application des dispositions de l'article R.
+69 doivent, pour être maintenus dans cette position, adresser à leur bureau ou centre du service national, chaque année avant
+le 1er mai, par l'intermédiaire et sous le contrôle des autorités consulaires, une déclaration de résidence à la date du 1er
+janvier de l'année considérée.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12915,7 +14542,11 @@ du 1er janvier de l'année considérée.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12932,13 +14563,20 @@ du 1er janvier de l'année considérée.
 
 ###### Article R*73
 
-Les jeunes gens qui cessent, avant l'^age de vingt-neuf ans, de se trouver dans la situation prévue à l'article R. 69 sont
+Les jeunes gens qui cessent, avant l'âge de vingt-neuf ans, de se trouver dans la situation prévue à l'article R. 69 sont
 appelés au service national actif dans les quatre mois qui suivent la date de leur changement de résidence. Toutefois, s'ils
-ont moins de vingt-deux ans, ils peuvent demander à bénéficier des dispositions des articles L. 5-2°, L. 5 bis, L. 5 ter, L.
-9 et L. 10.
+ont moins de vingt-deux ans, ils peuvent demander à bénéficier des dispositions des articles L. 5-2°, L. 5 bis, L. 5 ter et
+L. 10.
 
-Ceux qui n'ont pas cessé de remplir jusqu'à l'^age de vingt-neuf ans les conditions exigées reçoivent du commandant de leur
-bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la dispense prévue à l'article L. 37.
+Ceux qui n'ont pas cessé de remplir jusqu'à l'âge de vingt-neuf ans les conditions exigées reçoivent du commandant de leur
+bureau de recrutement, dès qu'ils atteignent cet âge, la notification de la dispense prévue à l'article L. 37.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -12948,7 +14586,12 @@ bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la di
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 26 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -12965,21 +14608,31 @@ bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la di
 	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L5 bis (M)
 	  - Code du service national - art. L5 ter (M)
-	  - Code du service national - art. L9 (M)
-	  - Code du service national R69, L5, L37, L5 bis, L5 ter, L9, L10
+	  - Code du service national R69, L5, L37, L5 bis, L5 ter, L10
 
 
 ###### Article R72
 
 Les jeunes gens dont la déclaration de résidence n'est pas parvenue au bureau ou centre du service national avant le 1er mai
-sont susceptibles d'^etre appelés au service actif à partir du 1er ao^ut suivant, sauf s'il est établi, entre-temps, qu'ils
-ont toujours leur résidence effective et habituelle dans un pays étranger autre que ceux énumérés à l'article R. 69.
+sont susceptibles d'être appelés au service actif à partir du 1er août suivant, sauf s'il est établi, entre-temps, qu'ils ont
+toujours leur résidence effective et habituelle dans un pays étranger autre que ceux énumérés à l'article R. 69.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13001,11 +14654,22 @@ La dispense des obligations du service national actif accordée aux jeunes Fran�
 délivrée par le consul et d'un document émanant de l'autorité militaire de l'Etat de résidence attestant qu'ils ont été
 appelés au service dans cet Etat.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13023,8 +14687,8 @@ appelés au service dans cet Etat.
 
 ###### Article R75
 
-I. - Pour obtenir le bénéfice de la dispense prévue au paragraphe a de l'article L. 38, les double-nationaux doivent fournir
-à leur bureau ou centre du service national, dans les six mois qui suivent la date à laquelle ils atteignent l'^age de vingt
+I. - Pour obtenir le bénéfice de la dispense prévue au paragraphe a de l'article L. 38, les doubles nationaux doivent fournir
+à leur bureau ou centre du service national, dans les six mois qui suivent la date à laquelle ils atteignent l'âge de vingt
 et un ans :
 
 1° Un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils sont ressortissants attestant qu'ils sont
@@ -13034,13 +14698,13 @@ n'est pas institué dans ledit Etat ;
 2° Un certificat de résidence établi par le consul attestant qu'ils ont résidé habituellement de dix-huit à vingt et un ans
 sur le territoire de l'Etat étranger dont ils sont ressortissants.
 
-Avant que ces jeunes gens atteignent l'^age de vingt et un ans et puissent obtenir la dispense, leur appel au service actif
+Avant que ces jeunes gens atteignent l'âge de vingt et un ans et puissent obtenir la dispense, leur appel au service actif
 est différé sur le vu d'un certificat provisoire de résidence établi par le consul ou de la notice individuelle en tenant
 lieu.
 
 II. - Pour obtenir le bénéfice de la dispense prévue au paragraphe b de l'article L. 38, les double-nationaux doivent fournir
 à leur bureau ou centre du service national un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils
-sont ressortissants attestant qu'ils ont été effectivement incorporés, soit comme appelés soit comme engagés, dans l'armée
+sont ressortissants attestant qu'ils ont été effectivement incorporés soit comme appelés, soit comme engagés, dans l'armée
 dudit Etat.
 
 III. - Pour obtenir le bénéfice de la dispense prévue au paragraphe c de l'article L. 38, les double-nationaux doivent
@@ -13048,11 +14712,22 @@ fournir au bureau du service national dont ils relèvent un document officiel é
 étranger dont ils sont ressortissants attestant qu'ils ont déjà accompli leur service obligatoire dans leur pays de résidence
 ou qu'ils ont obtenu un sursis d'incorporation au titre de ces études.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13071,17 +14746,27 @@ ou qu'ils ont obtenu un sursis d'incorporation au titre de ces études.
 ###### Article R76
 
 Les jeunes gens à qui une dispense des obligations du service national actif a été notifiée en application des dispositions
-des articles R. 74 et R. 75 ont la faculté de renoncer à cette dispense à condition de n'avoir pas atteint l'^age de vingt-
+des articles R. 74 et R. 75 ont la faculté de renoncer à cette dispense à condition de n'avoir pas atteint l'âge de vingt-
 neuf ans et de résider effectivement en France ou dans la zone de proximité définie à l'article R. 69.
 
 Ils sont alors appelés au service actif dans les quatre mois qui suivent la date de leur renonciation.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
-	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13102,11 +14787,22 @@ Ils sont alors appelés au service actif dans les quatre mois qui suivent la dat
 
 Les modalités d'application des articles R. 69 à R. 76 sont fixées par arrêté du ministre chargé des armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13121,7 +14817,7 @@ Les modalités d'application des articles R. 69 à R. 76 sont fixées par arrêt
 	  - Code du service national R69 à R76
 
 
-#### SECTION III : Condamnés.
+##### Section III : Condamnés.
 
 ###### Article R*98
 
@@ -13142,7 +14838,11 @@ Le ministre chargé des armées désigne le secrétaire de la commission.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13163,7 +14863,7 @@ La commission juridictionnelle est saisie par le ministre chargé des armées.
 
 L'instruction est dirigée par le président de la commission et la procédure est contradictoire.
 
-La commission peut convoquer toute personne dont l'audition lui para^it utile.
+La commission peut convoquer toute personne dont l'audition lui paraît utile.
 
 Ses décisions sont notifiées aux ministres par la voie administrative et aux intéressés par lettre recommandée avec demande
 d'accusé de réception.
@@ -13176,7 +14876,11 @@ d'accusé de réception.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13192,11 +14896,26 @@ d'accusé de réception.
 Pour l'application des dispositions du dernier alinéa de l'article L. 55 la commission juridictionnelle est saisie des
 propositions du président du comité d'assistance visé à l'article L. 54.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-218 1972-03-22 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13214,7 +14933,7 @@ propositions du président du comité d'assistance visé à l'article L. 54.
 
 ###### Article R*100-1
 
-Pour l'application dans les territoires d'outre-mer des dispositions des articles L. 54 et L. 55 du code du service national,
+Pour l'application dans les territoires d'outre-mer des dispositions des articles L. 54 et L. 55 du code du service national
 le comité d'assistance est présidé par un magistrat du siège désigné annuellement :
 
 Par le président de la cour d'appel, pour la Nouvelle-Calédonie et les îles Wallis-et-Futuna ;
@@ -13226,9 +14945,13 @@ d'appel ou du tribunal supérieur d'appel sur proposition du président du comit
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-823 1978-08-02 art. 1 JORF 6 août 1978
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13240,7 +14963,7 @@ d'appel ou du tribunal supérieur d'appel sur proposition du président du comit
 	  - Code du service national - art. L55 (M)
 
 
-### CHAPITRE III : Réforme pour inaptitude physique.
+#### Chapitre III : Réforme pour inaptitude physique.
 
 ###### Article R101
 
@@ -13250,9 +14973,8 @@ l'Ile-de-France, auprès de chaque circonscription militaire de défense, auprè
 centres de sélection ou centres du service national et, en ce qui concerne les départements et territoires d'outre-mer,
 auprès des bureaux ou centres du service national.
 
-En outre, des commissions de réforme du service national peuvent ^etre instituées, sur décision du ministre chargé des
-armées, auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-
-mer.
+En outre, des commissions de réforme du service national peuvent être instituées, sur décision du ministre chargé des armées,
+auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-mer.
 
 Les séances de la commission de réforme du service national ne sont pas publiques. La commission peut entendre toute personne
 dont elle estime l'audition utile.
@@ -13270,7 +14992,11 @@ dont elle estime l'audition utile.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 6 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13286,7 +15012,7 @@ dont elle estime l'audition utile.
 
 La composition des commissions de réforme du service national est fixée comme suit :
 
-Un médecin chef des services ou un médecin en chef, président, désigné par le ministre chargé des armées ;
+Un médecin chef des services ou un médecin en chef, président désigné par le ministre chargé des armées ;
 
 Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ;
 
@@ -13304,9 +15030,11 @@ des corps de troupe désigné par le commandant des troupes.
 
 	**Modifié par**:
 
-	  - Décret n°74-760 1974-08-30 art. 3 JORF 4 septembre 1974
-	  - Décret n°77-1122 1977-09-27 art. 2 JORF 5 octobre 1977
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13331,6 +15059,13 @@ appelés au service actif ;
 
 4° Des hommes et des femmes de la disponibilité ou de la réserve dans leurs foyers.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13339,7 +15074,11 @@ appelés au service actif ;
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 7 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13368,7 +15107,7 @@ décisions suivantes :
 - en outre, à l'égard des volontaires féminines, elle peut prononcer la suspension temporaire des obligations résultant du
 volontariat.
 
-Toutefois, lorsqu'il s'agit de jeunes gens renvoyés devant elle par la commission locale d'aptitude la commission de réforme
+Toutefois, lorsqu'il s'agit de jeunes gens renvoyés devant elle par la commission locale d'aptitude, la commission de réforme
 du service national prononce les décisions prévues à l'article L. 24.
 
 Les décisions de la commission de réforme du service national prises en présence des intéressés leur sont notifiées séance
@@ -13379,6 +15118,13 @@ La radiation des cadres des hommes et des femmes accomplissant les obligations d
 titre de l'article L. 85 du code du service national peut, sur demande des intéressés, être repoussée d'un délai au plus égal
 à un mois à compter de la date de notification de la mise en réforme, sans que ce délai puisse permettre de maintenir les
 demandeurs sous les drapeaux au-delà de la limite de la durée du service actif qui leur est applicable.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13395,7 +15141,11 @@ demandeurs sous les drapeaux au-delà de la limite de la durée du service actif
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 8 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13407,179 +15157,13 @@ demandeurs sous les drapeaux au-delà de la limite de la durée du service actif
 	  - Code du service national - art. L85 (M)
 
 
-### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.
+### Titre III : Dispositions particulières aux différentes formes du service national
 
-###### Article R*105
+#### Chapitre Ier : Service militaire
 
-Indépendamment de l'application éventuelle à leur profit des dispositions de la législation sur les emplois réservés, les
-personnes ayant effectivement accompli le service militaire actif, le service dans la police nationale ou le service de
-sécurité civile qui font acte de candidature à l'un des emplois publics énumérés ci-après et remplissent les conditions
-statutairement requises pour l'accès à l'un des corps de fonctionnaires correspondants, bénéficient d'une réserve d'emploi :
+##### Section I : Service militaire actif
 
-Gardiens de la paix de la police nationale ;
-
-Agents de police municipaux ;
-
-Sapeurs-pompiers professionnels des corps communaux ;
-
-Surveillants d'établissements pénitentiaires ;
-
-Préposés et matelots de l'administration des douanes ;
-
-Agents techniques forestiers de l'office national des for^ets.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-435 1970-05-20 art. 1
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 27 () JORF 3 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*106
-
-La réserve d'emplois prévue à l'article précédent s'applique au recrutement externe des corps de fonctionnaires susvisés,
-qu'il s'agisse de concours, d'examens ou d'admissions sur titres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-435 1970-05-20 art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R105
-
-
-###### Article R*107
-
-La liste d'aptitude établie par ordre de mérite à l'issue des épreuves prévues pour le recrutement externe dans chacun des
-corps intéressés distingue les candidats ayant accompli le service militaire.
-
-Ceux-ci sont nommés en priorité jusqu'à concurrence d'un pourcentage déterminé dans les conditions fixées à l'article R. 108
-et en fonction de leur rang sur la liste.
-
-Lorsque les nominations consécutives à un m^eme concours, examen ou admission sur titres sont fractionnées en contingents
-successifs, le pourcentage est applicable à chacun de ces contingents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-435 1970-05-20 art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R108
-
-
-###### Article R*108
-
-Le pourcentage prévu au deuxième alinéa de l'article R. 107 doit ^etre dans chaque corps d'au moins 60 p. 100 du nombre des
-nominations effectuées à l'échelon de début de carrière comme stagiaire ou élève.
-
-Ce pourcentage est fixé à l'occasion de chaque recrutement par arr^eté ministériel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-435 1970-05-20 art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R107
-
-
-###### Article R*109
-
-Au cas où les nominations ainsi effectuées n'atteindraient pas le nombre de postes résultant de l'application au nombre
-d'emplois offerts du pourcentage fixé dans les conditions définies à l'article R. 108, il pourra ^etre pourvu en partie ou en
-totalité aux vacances prévues en nommant des candidats figurant sur la liste d'aptitude ne bénéficiant pas de la réserve
-d'emplois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-435 1970-05-20 art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R108
-
-
-## TITRE III : Dispositions particulières aux différentes formes du service national
-
-### CHAPITRE I : Service militaire
-
-#### SECTION I : Service militaire actif
-
-##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.
 
 ###### Article R110
 
@@ -13596,11 +15180,26 @@ Ces dispositions s'appliquent dans les mêmes conditions aux anciens militaires 
 ou de maintenus sous les drapeaux ainsi qu'à leurs ayants droit, pour les affections ou accidents survenus pendant leur
 service.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13623,6 +15222,13 @@ sollicitée, peuvent obtenir :
 
 2° Des allocations en remboursement de frais d'accouchement et de surveillance médicale de la maternité.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13631,7 +15237,11 @@ sollicitée, peuvent obtenir :
 
 	**Modifié par**:
 
-	  - Décret n°77-1217 1977-10-28 art. 1 JORF 8 novembre 1977
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13647,12 +15257,19 @@ sollicitée, peuvent obtenir :
 Les militaires et les anciens militaires visés à l'article R. 110, qui se trouvent dans l'incapacité physique médicalement
 reconnue d'exercer une activité professionnelle rémunérée, peuvent bénéficier :
 
-1° D'une allocation journalière à partir de leur radiation des cadres.
+1° D'une allocation journalière à partir de leur radiation des cadres ;
 
 2° D'une allocation d'invalidité au cas où après leur radiation des cadres ces militaires demeureraient atteints d'une
 invalidité réduisant des deux tiers leur capacité de travail ;
 
 3° D'allocations en remboursement de frais de soins exposés par eux et par leurs ayants droit.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13662,7 +15279,11 @@ invalidité réduisant des deux tiers leur capacité de travail ;
 
 	**Modifié par**:
 
-	  - Décret n°81-213 1981-03-05 art. 1 JORF 10 mars 1981
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13686,6 +15307,13 @@ Les allocations en remboursement de frais de soins ne sont versées que lorsque 
 les départements, les territoires et collectivités territoriales d'outre-mer et sur le territoire de la République fédérale
 d'Allemagne.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13694,7 +15322,11 @@ d'Allemagne.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13711,6 +15343,13 @@ Les ayants droit des militaires visés à l'article R. 110 dont le décès est c
 survenu pendant leur présence sous les drapeaux peuvent obtenir une allocation en capital, s'ils ne peuvent bénéficier ni
 d'un capital décès ni d'une allocation sur le fonds de prévoyance militaire ou le fonds de prévoyance aéronautique.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13719,7 +15358,11 @@ d'un capital décès ni d'une allocation sur le fonds de prévoyance militaire o
 
 	**Modifié par**:
 
-	  - Décret n°77-1217 1977-10-28 art. 2 JORF 8 novembre 1977
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13739,10 +15382,17 @@ d'un capital décès ni d'une allocation sur le fonds de prévoyance militaire o
 ###### Article R115
 
 Les allocations prévues aux articles R. 111 à R. 114 sont attribuées sur proposition d'une commission par le ministre chargé
-des armées ou par l'autorité régionale qu'il habilite à cet effet par arr^eté.
+des armées ou par l'autorité régionale qu'il habilite à cet effet par arrêté.
 
 Elles sont versées par la caisse nationale militaire de sécurité sociale dans les écritures de laquelle est créé, à cet
 effet, un compte particulier alimenté par une subvention de l'Etat.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13752,7 +15402,11 @@ effet, un compte particulier alimenté par une subvention de l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°79-47 1979-01-10 art. 1 JORF 19 janvier 1979
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13773,6 +15427,13 @@ effet, un compte particulier alimenté par une subvention de l'Etat.
 L'allocation journalière visée au 1° de l'article R. 112 est égale au montant minimum de l'indemnité journalière prévue au 5°
 de l'article L. 321-1 du code de la sécurité sociale.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13781,8 +15442,11 @@ de l'article L. 321-1 du code de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Décret n°77-1217 1977-10-28 art. 3 JORF 8 novembre 1977
-	  - Décret n°89-926 1989-02-15 art. 1 JORF 27 décembre 1989
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13807,11 +15471,26 @@ Pour des invalides qui, étant incapables d'exercer une activité, sont en outre
 l'assistance d'une tierce personne pour effectuer les actes de la vie ordinaire, cette allocation est augmentée du montant
 minimum fixé pour la majoration pour aide d'une tierce personne du régime général de sécurité sociale.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13827,21 +15506,32 @@ minimum fixé pour la majoration pour aide d'une tierce personne du régime gén
 	  - Code de la sécurité sociale. - art. L341-1 (V)
 	  - Code de la sécurité sociale. - art. L341-5 (V)
 
-	**Modifié par**:
-
-	  - Décret n°89-926 1989-02-15 art. 1 JORF 27 septembre 1989
-
 
 ###### Article R118
 
 L'allocation en capital visée à l'article R. 114 est égale à quatre-vingt-dix fois la solde journalière du caporal engagé,
 échelle de solde n° 2, percevant une solde forfaitaire, augmentée du montant forfaitaire des avantages en nature.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13855,18 +15545,21 @@ L'allocation en capital visée à l'article R. 114 est égale à quatre-vingt-di
 
 	  - Code du service national - art. R114 (M)
 
-	**Modifié par**:
-
-	  - Décret n°89-926 1989-02-15 art. 1 JORF 27 septembre 1989
-
 
 ###### Article R120
 
 Les allocations visées aux articles R. 111 à R. 114 sont réglées dans les conditions prévues par le code de la sécurité
-sociale pour les prestations de m^eme nature.
+sociale pour les prestations de même nature.
 
 Le versement des allocations prévues aux 2° et 3° de l'article R. 112 prend fin à compter du jour où le bénéficiaire remplit
 les conditions d'ouverture du droit aux prestations prévues par un régime de protection sociale.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13876,7 +15569,11 @@ les conditions d'ouverture du droit aux prestations prévues par un régime de p
 
 	**Modifié par**:
 
-	  - Décret n°85-856 1985-08-07 art. 1 JORF 13 août 1985
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13911,7 +15608,14 @@ L'officier le plus ancien en grade préside la commission ; sa voix est prépond
 
 Les membres de la commission et leurs suppléants sont désignés par le ministre chargé des armées.
 
-Le contr^oleur financier ou son représentant peut participer aux séances avec voix consultative.
+Le contrôleur financier ou son représentant peut participer aux séances avec voix consultative.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13921,7 +15625,11 @@ Le contr^oleur financier ou son représentant peut participer aux séances avec 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13938,8 +15646,15 @@ Le contr^oleur financier ou son représentant peut participer aux séances avec 
 
 ###### Article R122
 
-Un arr^eté du ministre chargé des armées et du ministre de l'économie et des finances précise les modalités d'application du
+Un arrêté du ministre chargé des armées et du ministre de l'économie et des finances précise les modalités d'application du
 présent paragraphe 1.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13949,7 +15664,11 @@ présent paragraphe 1.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13960,12 +15679,19 @@ présent paragraphe 1.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Gendarmes auxiliaires.
+##### Paragraphe 3 : Gendarmes auxiliaires.
 
 ###### Article R*127
 
 Les jeunes gens volontaires pour accomplir le service militaire actif dans la gendarmerie doivent satisfaire aux conditions
 de moralité exigées des candidats à la gendarmerie ainsi qu'aux aptitudes physiques requises.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -13975,7 +15701,11 @@ de moralité exigées des candidats à la gendarmerie ainsi qu'aux aptitudes phy
 
 	**Modifié par**:
 
-	  - Décret n°91-736 du 24 juillet 1991 - art. 1 () JORF 30 juillet 1991
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -13992,6 +15722,13 @@ Les appelés dont la candidature a été retenue par le ministre chargé des arm
 Ils reçoivent une instruction militaire de base avant d'effectuer un stage de formation spécialisée permettant leur emploi
 dans la gendarmerie.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14000,7 +15737,11 @@ dans la gendarmerie.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14016,11 +15757,26 @@ dans la gendarmerie.
 Les gendarmes auxiliaires sont soumis aux règles et au régime administratif applicables aux autres jeunes gens qui effectuent
 le service militaire actif sous réserve des dispositions du présent paragraphe.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14034,13 +15790,20 @@ le service militaire actif sous réserve des dispositions du présent paragraphe
 ###### Article R*130
 
 Les gendarmes auxiliaires participent à l'exécution des missions de la gendarmerie. Ils assistent les militaires de la
-gendarmerie sous les ordres desquels ils sont placés. Ils peuvent ^etre affectés à des t^aches leur permettant de participer
-au maintien de la sécurité publique ou à des t^aches à caractère technique auxquelles les a préparés leur formation
+gendarmerie sous les ordres desquels ils sont placés. Ils peuvent être affectés à des tâches leur permettant de participer au
+maintien de la sécurité publique ou à des tâches à caractère technique auxquelles les a préparés leur formation
 professionnelle.
 
 Dans l'exercice de leurs fonctions, ils ont compétence pour établir des actes relevant de l'exercice de la police judiciaire
 ou de la police administrative dans les conditions et les limites fixées par les lois et règlements les y habilitant. Ils ne
 peuvent participer à des opérations de maintien de l'ordre autrement que dans les cas où il peut être fait appel à la troupe.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14050,7 +15813,11 @@ peuvent participer à des opérations de maintien de l'ordre autrement que dans 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 28 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14075,6 +15842,13 @@ La hiérarchie des gendarmes auxiliaires avec sa correspondance dans la hierarch
 
 - gendarme auxiliaire de 1re ou de 2e classe : soldat de 1re ou de 2e classe.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14083,7 +15857,11 @@ La hiérarchie des gendarmes auxiliaires avec sa correspondance dans la hierarch
 
 	**Modifié par**:
 
-	  - Décret n°91-736 du 24 juillet 1991 - art. 2 () JORF 30 juillet 1991
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14100,6 +15878,13 @@ Les gendarmes auxiliaires qui veulent faire carrière dans la gendarmerie et don
 sur leur demande, en activité de service jusqu'au moment de leur admission dans la gendarmerie en souscrivant un volontariat
 dans les conditions fixées à l'article L. 72.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14108,7 +15893,11 @@ dans les conditions fixées à l'article L. 72.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 29 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14123,9 +15912,9 @@ dans les conditions fixées à l'article L. 72.
 	  - Code du service national - art. L72 (M)
 
 
-#### SECTION II : Recrutement des cadres de réserve du service militaire
+##### Section II : Recrutement des cadres de réserve du service militaire
 
-##### PARAGRAPHE 1 : Préparation au service militaire.
+##### Paragraphe 1er : Préparation au service militaire.
 
 ###### Article R133
 
@@ -14138,7 +15927,22 @@ formes suivantes :
 
 - préparation militaire supérieure.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14148,20 +15952,23 @@ formes suivantes :
 
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Modifié par**:
-
-	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
-
 
 ###### Article R134
 
-La préparation militaire a pour but de donner aux jeunes gens une formation physique et technique qui les prépare à tenir des
-emplois d'encadrement ou de spécialités.
+La préparation militaire a pour but de donner aux jeunes gens une formation physique et technique, qui les prépare à tenir
+des emplois d'encadrement ou de spécialités.
 
 L'instruction est donnée par des sociétés de préparation militaire et des cadres de réserve volontaires agréés par l'autorité
 militaire.
 
 Un examen de fin de préparation est organisé pour la délivrance d'un brevet de préparation militaire.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14170,13 +15977,17 @@ Un examen de fin de préparation est organisé pour la délivrance d'un brevet d
 	  - Arrêté du 16 décembre 1993 - art. 8 (V)
 	  - Code du service national - art. ANNEXE I (V)
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
-
-	**Modifié par**:
-
-	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
 
 
 ###### Article R135
@@ -14190,7 +16001,22 @@ réserve avec l'agrément de l'autorité militaire.
 Un examen de fin de préparation est organisé pour la délivrance d'un brevet de parachutiste prémilitaire. Ses titulaires sont
 incorporés dans les troupes aéroportées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14207,20 +16033,23 @@ Chaque année, un ou plusieurs cycles de préparation militaire supérieure sont
 générale de la gendarmerie nationale sous forme d'une ou plusieurs périodes d'instruction dont les modalités sont fixées par
 le ministre chargé des armées.
 
-L'instruction est donnée par les cadres d'active. Des cadres de réserve volontaires peuvent ^etre admis à y participer.
+L'instruction est donnée par les cadres d'active. Des cadres de réserve volontaires peuvent être admis à y participer.
 
 Un examen de fin de préparation est organisé dans chaque armée pour la délivrance du brevet de préparation militaire
 supérieure.
 
-Ce brevet, qui donne droit au report d'incorporation à vingt-six ans dans les conditions de l'article L. 5 bis, permet
-l'accès direct aux cours ou pelotons de formation des élèves officiers de réserve dans les conditions fixées à l'article R.
-140, ou une affectation dans des emplois d'encadrement ou de responsabilité en fonction des besoins de chaque armée.
+Ce brevet, qui donne droit au report d'incorporation à vingt-six ans dans les conditions de l'article L. 5 bis permet l'accès
+direct aux cours ou pelotons de formation des élèves officiers de réserve dans les conditions fixées à l'article R. 140, ou
+une affectation dans des emplois d'encadrement ou de responsabilité en fonction des besoins de chaque armée.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 10 () JORF 3 décembre 1992
 
 	**Cité par**:
 
@@ -14228,6 +16057,14 @@ l'accès direct aux cours ou pelotons de formation des élèves officiers de ré
 	  - Arrêté du 16 décembre 1993 - art. 3 (V)
 	  - Code du service national - art. ANNEXE I (V)
 	  - Code du service national - art. R140 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14244,7 +16081,22 @@ L'admission des jeunes gens candidats à l'une des formes de préparation milita
 après un examen dans un centre de sélection qui doit avoir reconnu l'aptitude des intéressés à servir dans les emplois
 choisis.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14261,6 +16113,13 @@ Lorsque les séances de préparation auxquelles les jeunes gens prennent part so
 militaire, ils ont droit, ainsi que les cadres instructeurs de réserve, aux soins gratuits dans les établissements du service
 de santé des armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -14270,6 +16129,14 @@ de santé des armées.
 	  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
 	  - Code du service national - art. ANNEXE I (V)
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -14278,13 +16145,24 @@ de santé des armées.
 ###### Article R139
 
 Les modalités d'application des dispositions des articles R. 133 à R. 138, et notamment les programmes des préparations
-militaires, sont fixées par arr^eté du ministre chargé des armées.
+militaires, sont fixées par arrêté du ministre chargé des armées.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14299,7 +16177,7 @@ militaires, sont fixées par arr^eté du ministre chargé des armées.
 	  - Code du service national R133 à R138
 
 
-##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.
 
 ###### Article R140
 
@@ -14307,13 +16185,20 @@ Sont admis aux cours et pelotons de formation des élèves officiers de réserve
 armées et la gendarmerie :
 
 1° Les jeunes gens titulaires du brevet de préparation militaire supérieure qui ont obtenu à l'examen prévu à l'article R.
-136 une note suffisante : leur incorporation peut ^etre décalée dans les conditions fixées à l'article R. 11 ;
+136 une note suffisante ; leur incorporation peut être décalée dans les conditions fixées à l'article R. 11 ;
 
-2° Les jeunes gens reçus à un examen à l'issue d'un cycle préparatoire, d'une durée maximum de deux mois, organisé au début
-du service militaire actif.
+2° Les jeunes gens reçus à un examen à l'issue d'un cycle préparatoire d'une durée maximum de deux mois, organisé au début du
+service militaire actif ;
 
 3° Les jeunes gens, détenant soit un diplôme de fin d'études du second cycle de l'enseignement supérieur, soit un titre
 d'ingénieur délivré dans les conditions fixées par la loi du 10 juillet 1934.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14335,7 +16220,11 @@ d'ingénieur délivré dans les conditions fixées par la loi du 10 juillet 1934
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 11 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14345,8 +16234,15 @@ d'ingénieur délivré dans les conditions fixées par la loi du 10 juillet 1934
 ###### Article R141
 
 Les jeunes gens titulaires du brevet de préparation militaire ou du brevet de préparation militaire parachutiste qui ont été
-jugés aptes à recevoir la formation d'élève officier de réserve peuvent ^etre admis soit à la préparation militaire
+jugés aptes à recevoir la formation d'élève officier de réserve peuvent être admis soit à la préparation militaire
 supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14356,7 +16252,11 @@ supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 12 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14383,11 +16283,26 @@ officiers de réserve soit sur leur demande, soit en raison de la date d'appel d
 
 3° Les jeunes gens dont l'aptitude a été reconnue au cours de l'incorporation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 2 à art. 6
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14417,7 +16332,11 @@ du ministre chargé des armées.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 13 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14431,9 +16350,15 @@ du ministre chargé des armées.
 
 ###### Article R144
 
-Les modalités d'application des dispositions des articles R. 140 à R. 143, et notamment les programmes des cycles de
-formation des élèves officiers de réserve et des élèves sous-officiers de réserve, sont fixés par arr^eté du ministre chargé
-des armées.
+Les modalités d'application des dispositions des articles R. 140 à R. 143 et notamment les programmes des cycles de formation
+des élèves officiers de réserve et des élèves sous-officiers de réserve sont fixées par arrêté du ministre chargé des armées.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14443,7 +16368,11 @@ des armées.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14458,7 +16387,7 @@ des armées.
 	  - Code du service national R140 à R143
 
 
-##### PARAGRAPHE 3 : Nomination dans les cadres.
+##### Paragraphe 3 : Nomination dans les cadres.
 
 ###### Article R145
 
@@ -14468,6 +16397,13 @@ aux articles R. 140 et R. 143.
 Ces élèves choisissent leur affectation compte tenu des emplois disponibles dans les corps, armes ou services et en fonction
 de leur rang de classement à l'examen sanctionnant le cycle de formation prévu à l'article R. 140 ou à la fin de la période
 de formation initiale prévue à l'article R. 143.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14483,7 +16419,11 @@ de formation initiale prévue à l'article R. 143.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 14 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14497,13 +16437,20 @@ de formation initiale prévue à l'article R. 143.
 
 ###### Article R146
 
-Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade correspondant après dix mois de service militaire, s'ils
-réunissent les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des officiers de réserve. Dans le cas
-contraire, ils sont nommés sous-lieutenants de réserve, ou à un grade correspondant, lorsqu'ils réunissent ces conditions
-d'ancienneté.
+Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade correspondant, après dix mois de service militaire
+actif, s'ils réunissent les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des officiers de réserve.
+Dans le cas contraire, ils sont nommés sous-lieutenants de réserve, ou à un grade correspondant, lorsqu'ils réunissent ces
+conditions d'ancienneté.
 
 Toutefois, le ministre chargé des armées peut, sur proposition du chef de corps ou de service, surseoir à cette nomination
 compte tenu de la manière de servir de l'intéressé.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -14513,7 +16460,11 @@ compte tenu de la manière de servir de l'intéressé.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 15 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14528,14 +16479,29 @@ compte tenu de la manière de servir de l'intéressé.
 ###### Article R147
 
 Les militaires ayant suivi un peloton d'élèves sous-officiers peuvent, après confirmation de leur aptitude et dans les
-conditions fixées par le décret relatif à l'avancement des hommes du rang, ^etre nommés au grade de sergent ou à un grade
+conditions fixées par le décret relatif à l'avancement des militaires du rang, être nommés au grade de sergent ou à un grade
 correspondant. A l'issue de leur service actif, ils sont versés dans les cadres de sous-officiers de réserve.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 7 à art. 10
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14549,13 +16515,27 @@ correspondant. A l'issue de leur service actif, ils sont versés dans les cadres
 ###### Article R148
 
 Les militaires du contingent nommés aspirants ou sergents ou au grade correspondant ne peuvent, pendant la durée du service
-militaire actif, ^etre affectés qu'à l'un des emplois militaires correspondant à leur grade.
+militaire actif, être affectés qu'à l'un des emplois militaires correspondant à leur grade.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II
+du code du service national s'appliquent aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit
+d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 7 à art. 10
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -14566,16 +16546,16 @@ militaire actif, ^etre affectés qu'à l'un des emplois militaires correspondant
 	  - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Service de défense
+#### Chapitre II : Service de défense
 
-#### SECTION I : Affectation de défense
+##### Section I : Affectation de défense
 
-##### PARAGRAPHE 1 : Dispositions générales.
+##### Paragraphe 1er : Dispositions générales.
 
 ###### Article R*149
 
 Les personnels visés à l'article L. 87 qui reçoivent une affectation au service de défense en vue de leur utilisation dans
-les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 sont appelés << affectés de défense <>.
+les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 sont appelés " affectés de défense ".
 
 **Liens relatifs à cet article**
 
@@ -14591,7 +16571,15 @@ les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 30 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14614,7 +16602,15 @@ L'affectation de défense est individuelle ou collective.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 31 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14656,7 +16652,15 @@ Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre
 
 	**Modifié par**:
 
-	  - Décret n°95-425 du 19 avril 1995 - art. 1 () JORF 22 avril 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14676,13 +16680,25 @@ Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre
 
 Les personnels assujettis au service national appartenant aux organismes visés à l'article R. 151 sont tenus de faire
 connaître leur situation vis-à-vis du service national ainsi que tout changement intervenant dans cette situation aux
-autorités administratives ou aux chefs d'entreprise ou d'établissement dont ils dépendent.
+autorités administratives ou aux chefs d'entreprises ou d'établissements dont ils dépendent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14702,13 +16718,25 @@ autorités administratives ou aux chefs d'entreprise ou d'établissement dont il
 Les autorités responsables des organismes visés à l'article R. 151 tiennent à jour les renseignements relatifs à l'état civil
 et à la qualification professionnelle de leur personnel titulaire d'une affectation de défense individuelle ou collective.
 
-Ces renseignements doivent ^etre tenus en permanence à la disposition des agents chargés du contr^ole des affectations.
+Ces renseignements doivent être tenus en permanence à la disposition des agents chargés du contrôle des affectations.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14723,7 +16751,7 @@ Ces renseignements doivent ^etre tenus en permanence à la disposition des agent
 	  - Code du service national R151
 
 
-##### PARAGRAPHE 2 : Affectation individuelle de défense.
+##### Paragraphe 2 : Affectation individuelle de défense.
 
 ###### Article R*154
 
@@ -14739,7 +16767,15 @@ autorités et suivant les modalités prévues aux articles R.[* 156 et R.*] 157.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 33 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14757,8 +16793,7 @@ autorités et suivant les modalités prévues aux articles R.[* 156 et R.*] 157.
 ###### Article R*156
 
 Sauf pour les catégories de personnels définies à l'article R. 157, [*magistrats du corps judiciaire et personnel
-indispensable au fonctionnement de juridictions*], l'affectation individuelle de défense est décidée [*autorité
-compétente*] :
+indispensable au fonctionnement de juridictions*] l'affectation individuelle de défense est [*autorité compétente*] décidée :
 
 - par les généraux commandant les circonscriptions militaires de défense ou les autorités designées par le ministre chargé
 des armées en ce qui concerne les personnels soumis aux obligations du service militaire ;
@@ -14779,7 +16814,15 @@ relevant de leur compétence.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 34 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14800,13 +16843,13 @@ L'affectation individuelle de défense des magistrats du corps judiciaire et des
 des juridictions et qui sont désignés par des instructions du Premier ministre est décidée :
 
 - en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé des armées sur
-demande du ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés ;
+demande du ministre responsable de l'emploi de défense auquel ces personnels doivent être affectés ;
 
 - en ce qui concerne les personnels non soumis aux obligations du service militaire, par le ministre responsable de l'emploi
-de défense auquel ces personnels doivent ^etre affectés.
+de défense auquel ces personnels doivent être affectés.
 
 Dans le cas où l'emploi habituel des intéressés relève d'un autre ministre, l'avis conforme de ce dernier doit au préalable
-^etre recueilli. Pour les magistrats du siège, l'avis conforme du Conseil supérieur de la magistrature est, en outre,
+être recueilli. Pour les magistrats du siège, l'avis conforme du Conseil supérieur de la magistrature est, en outre,
 obligatoire.
 
 **Liens relatifs à cet article**
@@ -14817,7 +16860,15 @@ obligatoire.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14841,7 +16892,15 @@ mentionner expressément les caractéristiques de l'emploi, les qualifications p
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 35 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14871,7 +16930,15 @@ derniere enregistre et notifie les décisions d'affectation individuelle.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 36 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14899,7 +16966,15 @@ notifiée par la direction du service national.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14912,8 +16987,8 @@ notifiée par la direction du service national.
 
 ###### Article R*161
 
-Le Premier ministre dispose d'un organisme consultatif, dit commission centrale du service de défense, qui peut ^etre saisi
-de toute question concernant l'application du présent chapitre.
+Le Premier ministre dispose d'un organisme consultatif, dit commission centrale du service de défense, qui peut être saisi de
+toute question concernant l'application du présent chapitre.
 
 Cette commission est ainsi composée :
 
@@ -14940,7 +17015,15 @@ Le secrétariat de la commission est assuré par le secrétariat général de la
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14978,7 +17061,15 @@ prescriptions des ordres d'affectation en leur possession.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 37 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -14989,7 +17080,7 @@ prescriptions des ordres d'affectation en leur possession.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Affectation collective de défense.
+##### Paragraphe 3 : Affectation collective de défense.
 
 ###### Article R*163
 
@@ -15010,7 +17101,15 @@ territoire, à certaines catégories d'activité ou à certains postes.
 
 	**Modifié par**:
 
-	  - Décret n°95-425 du 19 avril 1995 - art. 2 () JORF 22 avril 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15029,7 +17128,7 @@ emploi, quel qu'il soit, des personnels auxquels s'appliquent les obligations du
 l'ordre de rejoindre une affectation individuelle. Cette mesure entraîne l'affectation collective de défense desdits
 personnels pour toute la durée de son application.
 
-L'application des dispositions de l'alinéa précédent peut être limitée à une partie du territoire, à certaines catégories
+L'application des dispositions de l'alinéa précédent peut être limitée à une partie du territoire et à certaines catégories
 d'activité ou à certains postes ; elle peut être étendue à des catégories d'activité autres que celles énumérées aux tableaux
 I, II, III et IV de l'annexe II du présent code.
 
@@ -15047,7 +17146,15 @@ I, II, III et IV de l'annexe II du présent code.
 
 	**Modifié par**:
 
-	  - Décret n°95-425 du 19 avril 1995 - art. 3 () JORF 22 avril 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15068,6 +17175,18 @@ se présentent à l'emploi de défense qui leur est assigné en application de l
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 19
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15096,7 +17215,15 @@ titre de l'article L. 116-5.
 
 	**Modifié par**:
 
-	  - Décret n°95-425 du 19 avril 1995 - art. 4 () JORF 22 avril 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15111,7 +17238,7 @@ titre de l'article L. 116-5.
 	  - Code du service national - art. L116-5 (M)
 
 
-#### SECTION II : Statut de défense.
+##### Section II : Statut de défense.
 
 ###### Article R*167
 
@@ -15126,7 +17253,15 @@ statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la pr
 
 	**Modifié par**:
 
-	  - Décret n°75-828 1975-09-02 art. 3 JORF 7 septembre 1975
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15144,11 +17279,11 @@ statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la pr
 	  - Code du service national - art. L94 (M)
 
 
-##### PARAGRAPHE 1 : Régime administratif et social.
+##### Paragraphe 1er : Régime administratif et social.
 
 ###### Article R*169
 
-Sous réserve des mesures qui pourront ^etre prises dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n°
+Sous réserve des mesures qui pourront être prises dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n°
 59-147 du 7 janvier 1959 en ce qui concerne les rémunérations de toute nature, les affectés de défense perçoivent :
 
 a) Dans les emplois publics existants, les rémunérations prévues par les textes en vigueur, afférents au grade dont ils sont
@@ -15169,6 +17304,18 @@ b) Dans les autres emplois, et suivant les dispositions qui leur sont applicable
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 24
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15195,7 +17342,15 @@ corps.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 41 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15212,14 +17367,26 @@ corps.
 
 ###### Article R*171
 
-Si l'affectation de défense entra^ine changement d'emploi, l'affecté de défense bénéficie, à l'égard de sa réintégration dans
-son emploi antérieur, du m^eme régime que s'il avait été appelé ou rappelé sous les drapeaux.
+Si l'affectation de défense entraîne changement d'emploi, l'affecté de défense bénéficie, à l'égard de sa réintégration dans
+son emploi antérieur, du même régime que s'il avait été appelé ou rappelé sous les drapeaux.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 26
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15245,6 +17412,18 @@ d'entreprise d'engager un travailleur déjà placé, à titre individuel ou coll
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 27
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15276,7 +17455,15 @@ service de défense au moment où elle rejoint son emploi.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 42 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15296,8 +17483,8 @@ peut décider soit le transfert de tout ou partie de ce personnel dans un autre 
 de défense.
 
 L'autorité compétente est le ministre responsable de l'organisme où sont opérés les licenciements. Le pouvoir de décision de
-ce ministre peut ^etre délégué au préfet de zone et sous-délégué au préfet du département, dans des conditions qui sont
-fixées par instruction du Premier ministre.
+ce ministre peut être délégué au préfet de zone et sous-délégué au préfet du département, dans des conditions qui sont fixées
+par instruction du Premier ministre.
 
 La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence de la
 direction du service national.
@@ -15316,7 +17503,15 @@ direction du service national.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15327,7 +17522,7 @@ direction du service national.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Régime disciplinaire.
+##### Paragraphe 2 : Régime disciplinaire.
 
 ###### Article R*175
 
@@ -15351,7 +17546,15 @@ marchande.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 43 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15384,7 +17587,15 @@ et celles du présent article sont applicables au cas particulier de ce corps.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 44 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15411,7 +17622,15 @@ Les sanctions prévues, d'une part, à l'article R.[* 175, d'autre part, à l'ar
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 45 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15426,7 +17645,7 @@ Les sanctions prévues, d'une part, à l'article R.[* 175, d'autre part, à l'ar
 	  - Code du service national R176, R175
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.
+##### Paragraphe 3 : Dispositions particulières aux corps de défense.
 
 ###### Article R*179
 
@@ -15444,7 +17663,15 @@ Chaque corps de défense répond à une mission particulière à laquelle est ad
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 46 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15472,6 +17699,18 @@ qu'ils ont reçue spécialement à cet effet, soit par le grade dont ils sont ti
 
 	  - Décret n°62-1386 1962-11-23 art. 35
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -15486,7 +17725,7 @@ qu'ils ont reçue spécialement à cet effet, soit par le grade dont ils sont ti
 Les cadres des corps de défense sont pourvus d'un grade d'emploi en rapport avec leur affectation de défense.
 
 Dans chaque corps de défense, une échelle de correspondance est établie entre les grades d'emploi et les grades de la
-hiérarchie militaire. Cette correspondance n'entra^ine pas assimilation.
+hiérarchie militaire. Cette correspondance n'entraîne pas assimilation.
 
 Les grades d'emploi doivent être conformes aux hiérarchies fonctionnelles des administrations et des organismes qui font
 partie du corps de défense selon un tableau d'équivalence fixé par arrêté du ministre responsable de la mise sur pied du
@@ -15497,11 +17736,11 @@ fonctionnelle dans leur organisme d'appartenance. Il est porté sur la décision
 changement de grade d'emploi doit faire l'objet d'une nouvelle décision. Les actes d'engagement prévus à l'article R. 186
 doivent également comporter, en cas d'engagement au titre d'un corps de défense, le grade d'emploi de l'intéressé.
 
-Le grade d'emploi n'est donné que pour la durée de l'emploi. Il peut ^etre retiré à tout moment par décision de l'autorité
-habilitée à le conférer, pour les motifs qui entra^inent la perte ou le retrait des grades militaires dans la réserve des
+Le grade d'emploi n'est donné que pour la durée de l'emploi. Il peut être retiré à tout moment par décision de l'autorité
+habilitée à le conférer, pour les motifs qui entraînent la perte ou le retrait des grades militaires dans la réserve des
 armées.
 
-Les grades correspondant aux grades d'officiers sont conférés par arr^eté du ministre responsable de la mise sur pied de
+Les grades correspondant aux grades d'officiers sont conférés par arrêté du ministre responsable de la mise sur pied de
 chaque corps de défense, contresigné par le ministre chargé des armées s'il s'agit d'un officier de réserve. Le décret en
 Conseil d'Etat constitutif de chaque corps de défense fixe les conditions dans lesquelles les autres grades sont conférés.
 
@@ -15521,7 +17760,15 @@ défense. Ces décrets sont contresignés par le ministre chargé des armées.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 47 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15546,7 +17793,15 @@ insignes de grade des armées.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 48 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15571,7 +17826,15 @@ modalités de ce soutien.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15609,7 +17872,15 @@ tableaux d'équivalence fixés dans les décrets en Conseil d'Etat constitutifs 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 49 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15633,7 +17904,7 @@ l'organisation territoriale de la défense, un organisme permanent ayant mission
 défense considéré.
 
 Cet organisme peut comprendre des cadres militaires détachés par les armées. Dans les circonstances prévues aux articles 2 et
-6 de l'ordonnance n° 59-147 du 7 janvier 1959, il peut ^etre renforcé par des cadres militaires de réserve.
+6 de l'ordonnance n° 59-147 du 7 janvier 1959, il peut être renforcé par des cadres militaires de réserve.
 
 Parmi les cadres militaires d'active et de réserve visés à l'alinéa précédent, seront choisis ceux à qui incombera d'assurer
 la liaison avec les armées, en particulier pour l'application de l'article R. 183 et l'organisation de la sécurité des
@@ -15651,6 +17922,18 @@ la liaison avec les armées, en particulier pour l'application de l'article R. 1
 
 	  - Décret n°62-1386 1962-11-23 art. 40
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -15660,13 +17943,13 @@ la liaison avec les armées, en particulier pour l'application de l'article R. 1
 	  - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières.
+##### Section III : Dispositions particulières.
 
 ###### Article R*186
 
 Les personnels assujettis ou non au service national, sans affectation militaire ou de défense, peuvent s'engager au titre du
 service de défense, devant le préfet du département de leur domicile ou de leur résidence, à servir dans les corps de défense
-ou dans les organismes définis à l'article R. 151. Ils peuvent ^etre appelés à remplir les obligations qui résultent de cet
+ou dans les organismes définis à l'article R. 151. Ils peuvent être appelés à remplir les obligations qui résultent de cet
 engagement dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959. L'engagement est
 toujours résiliable à la volonté de l'administration compétente, soit à son initiative, soit à la demande de l'intéressé.
 L'affectation militaire en suspend les effets.
@@ -15685,7 +17968,15 @@ L'affectation militaire en suspend les effets.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 50 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15698,7 +17989,7 @@ L'affectation militaire en suspend les effets.
 
 ###### Article R*187
 
-Les Français assujettis au service national et résidant à l'étranger peuvent ^etre l'objet d'une décision de maintien sur
+Les Français assujettis au service national et résidant à l'étranger peuvent être l'objet d'une décision de maintien sur
 place prise suivant la procédure prévue aux articles R.[* 156 et R.*] 157 lorsque, en considération de leur profession ou de
 leur emploi, cette mesure est reconnue nécessaire par le ministre des affaires étrangères.
 
@@ -15707,6 +17998,18 @@ leur emploi, cette mesure est reconnue nécessaire par le ministre des affaires 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 42
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15745,7 +18048,15 @@ tendant à assurer l'exécution ou le contrôle des obligations visées à l'ali
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 1 et 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15760,14 +18071,26 @@ tendant à assurer l'exécution ou le contrôle des obligations visées à l'ali
 
 Chaque ministre inclut, dans la communication annuelle au Premier ministre des plans concernant son action dans le domaine de
 la défense, un compte rendu de préparation de la mobilisation des personnels relevant de son autorité susceptibles de
-recevoir une affectation de défense, à titre individuel ou collectif, y compris ceux devant entrer dans les << corps de
-défense <> qu'il lui incombe de mettre sur pied.
+recevoir une affectation de défense, à titre individuel ou collectif, y compris ceux devant entrer dans les " corps de
+défense " qu'il lui incombe de mettre sur pied.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 44
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15778,7 +18101,7 @@ défense <> qu'il lui incombe de mettre sur pied.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.
+##### Section IV : Modalités d'adaptation aux départements d'outre-mer.
 
 ###### Article R*190
 
@@ -15792,8 +18115,8 @@ administrations et organismes métropolitains visés au premier alinéa de l'art
 
 - les services départementaux et les services administratifs communaux ainsi que les organismes rattachés.
 
-D'autre part, dans chacune des catégories d'activités énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
-les entreprises et établissements dont la liste est arr^etée par le préfet, qui reçoit à cet effet la délégation du Premier
+D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
+les entreprises et établissements dont la liste est arrêtée par le préfet, qui reçoit à cet effet la délégation du Premier
 ministre.
 
 **Liens relatifs à cet article**
@@ -15804,7 +18127,15 @@ ministre.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 51 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15835,6 +18166,18 @@ département dans sa zone de responsabilité ;
 
 	  - Décret n°68-63 1968-01-19 art. 2
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -15852,7 +18195,7 @@ département dans sa zone de responsabilité ;
 
 Les préfets des départements d'outre-mer reçoivent une affectation individuelle de défense prononcée par le ministre chargé
 des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire, l'avis conforme du
-ministre chargé des armées doit ^etre recueilli.
+ministre chargé des armées doit être recueilli.
 
 **Liens relatifs à cet article**
 
@@ -15862,7 +18205,15 @@ ministre chargé des armées doit ^etre recueilli.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15883,6 +18234,18 @@ administrations ou services pour les professions relevant de leur compétence.
 	**Anciens textes**:
 
 	  - Décret n°68-63 du 19 janvier 1968 - art. 4, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15905,6 +18268,18 @@ département, par délégation du ministre chargé des départements et territoi
 
 	  - Décret n°68-63 1968-01-19 art. 5
 
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -15918,7 +18293,7 @@ département, par délégation du ministre chargé des départements et territoi
 	  - Code du service national R174
 
 
-#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.
+##### Section V : Modalités d'adaptation aux territoires d'outre-mer.
 
 ###### Article R*195
 
@@ -15933,7 +18308,7 @@ D'une part :
 - les services territoriaux et les services administratifs communaux ainsi que les organismes rattachés.
 
 D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
-les entreprises et établissements dont la liste est arr^etée par le représentant de l'Etat, qui reçoit à cet effet la
+les entreprises et établissements dont la liste est arrêtée par le représentant de l'Etat, qui reçoit à cet effet la
 délégation du Premier ministre.
 
 **Liens relatifs à cet article**
@@ -15949,7 +18324,15 @@ délégation du Premier ministre.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 51 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15978,7 +18361,15 @@ armées qui a le territoire dans sa zone de responsabilité ;
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -15997,7 +18388,7 @@ armées qui a le territoire dans sa zone de responsabilité ;
 
 Les représentants de l'Etat dans les territoires d'outre-mer reçoivent une affectation individuelle de défense prononcée par
 le ministre chargé des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire,
-l'avis du ministre chargé des armées doit ^etre recueilli.
+l'avis du ministre chargé des armées doit être recueilli.
 
 **Liens relatifs à cet article**
 
@@ -16007,7 +18398,15 @@ l'avis du ministre chargé des armées doit ^etre recueilli.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -16028,6 +18427,18 @@ administrations ou services pour les professions relevant de leur compétence.
 	**Anciens textes**:
 
 	  - Décret n°68-63 du 19 janvier 1968 - art. 9, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -16053,7 +18464,11 @@ Pour les services ou organismes d'Etat, elles sont préparées dans les conditio
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 52 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16082,7 +18497,15 @@ par délégation du ministre chargé des départements et territoires d'outre-me
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -16110,7 +18533,15 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
@@ -16121,9 +18552,9 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 	  - Code du service national R195, R186
 
 
-### CHAPITRE II bis : Service dans la police nationale
+#### Chapitre II bis : Service dans la police nationale
 
-#### SECTION I : Service actif dans la police nationale.
+##### Section I : Service actif dans la police nationale.
 
 ###### Article R*201-1
 
@@ -16131,11 +18562,22 @@ Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique
 police nationale peuvent, sur leur demande, être admis à accomplir leur service national dans la police nationale en qualité
 de policiers auxiliaires.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16158,11 +18600,22 @@ des services dans lesquels ils sont affectés.
 Ils sont réputés incorporés le jour où, répondant à l'ordre d'appel du ministre de l'intérieur, ils sont enregistrés sur les
 contrôles de l'administration.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16180,11 +18633,22 @@ permettant leur emploi. Les modalités de cette formation sont définies par le 
 information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
 sécurité et les devoirs civiques de tout citoyen.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16206,11 +18670,22 @@ ou de la police administrative dans les conditions et les limites fixées par le
 Ils ne peuvent participer à des opérations de maintien de l'ordre autrement que dans le cas où il peut être fait appel à la
 troupe.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16225,11 +18700,9 @@ La hiérarchie des policiers auxiliaires et sa correspondance avec la hiérarchi
 
 2° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal ;
 
-3° Sous-brigadier auxiliaire de 2e classe de la police nationale :
+3° Gardien de la paix auxiliaire de classe exceptionnelle de la police nationale : caporal-chef ;
 
-caporal-chef ;
-
-4° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent.
+4° Gardien de la paix auxiliaire hors classe de la police nationale : sergent.
 
 L'avancement des policiers auxiliaires en service actif, et de ceux de la disponibilité et de la réserve, est subordonné au
 respect des règles suivantes :
@@ -16246,11 +18719,23 @@ de service actif dans son grade.
 classe de la police nationale s'il n'a obtenu une qualification définie par le ministre de l'intérieur et accompli deux mois
 de service actif dans son grade.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16267,11 +18752,22 @@ fixées à l'article L. 94-9, bénéficient, au-delà de la durée légale, de q
 la limite de quarante-cinq jours par an ainsi que d'une majoration de deux jours de permission par mois supplémentaire dans
 la limite de dix jours.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16287,11 +18783,22 @@ la limite de dix jours.
 Des permissions de convalescence peuvent être accordées aux policiers auxiliaires dont l'état de santé le nécessite. Elles
 ont une durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des autres permissions.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16306,11 +18813,22 @@ frère, soeur). Un supplément de huit jours de permission peut être également
 d'agriculteur lors de leur incorporation ou qui, fils d'agriculteur et n'exerçant aucune profession, étaient employés chez
 leurs parents en qualité d'aide familial agricole.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16333,11 +18851,22 @@ Les témoignages de satisfaction et les félicitations sanctionnent des actes ou
 Un arrêté du ministre de l'intérieur détermine les autorités qualifiées pour décerner les récompenses ainsi que les modalités
 de leur attribution.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16353,11 +18882,22 @@ Cette indemnité peut être augmentée d'un complément destiné à compenser ce
 pas fournies par les organismes d'emploi des appelés et dont bénéficient les militaires appelés. Son montant est fixé par
 arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16373,11 +18913,22 @@ arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 Les policiers auxiliaires ont droit à la gratuité de leur logement ainsi que de son entretien, de leur alimentation et des
 transports liés au service.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16392,11 +18943,22 @@ La description de cette tenue réglementaire est précisée par le ministre de l
 
 Cette tenue réglementaire est fournie et entretenue à titre gratuit.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16408,11 +18970,22 @@ Cette tenue réglementaire est fournie et entretenue à titre gratuit.
 Les policiers auxiliaires supportent les frais de voyage à l'occasion des permissions dans des conditions identiques à celles
 des appelés au service militaire.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16431,11 +19004,22 @@ remboursement des soins médicaux, des fournitures de médicaments et des frais 
 appelés sont assurés dans les conditions prévues par la nomenclature du régime général de la sécurité sociale. Les dépenses
 en résultant sont à la charge du ministre de l'intérieur.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16447,11 +19031,22 @@ en résultant sont à la charge du ministre de l'intérieur.
 Les conditions dans lesquelles les policiers auxiliaires sont présentés devant la commission de réforme du service national
 prévue à l'article L. 61 sont fixées par une instruction du ministre chargé des armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16468,11 +19063,22 @@ Avant leur libération du service actif, les policiers auxiliaires sont soumis �
 santé. A l'expiration de leur service, les intéressés sont rayés des contrôles de l'administration et libérés du service
 actif par le ministre de l'intérieur.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16491,12 +19097,22 @@ sont domiciliés.
 A l'expiration de l'affectation de ces policiers auxiliaires dans la réserve de la police nationale, ces pièces, après mise à
 jour, sont adressées au bureau du service national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
-	  - Décret n°95-908 du 7 août 1995 - art. 2 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16511,11 +19127,22 @@ dont la conduite a été satisfaisante reçoivent un certificat de bonne conduit
 Ils peuvent recevoir un certificat de pratique professionnelle sur lequel figurent les dates de début et de fin de service,
 les emplois tenus, leur durée et les qualifications professionnelles acquises.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16529,11 +19156,22 @@ répondent ni à leur ordre d'appel au service actif ni à leur ordre de route �
 122 et L. 123 sont pousuivis pour insoumission par le ministre de l'intérieur dans les délais fixés aux articles L. 125 et L.
 126 et selon les modalités précisées à l'article L. 149-3.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16553,18 +19191,29 @@ répondent ni à leur ordre d'appel au service actif ni à leur ordre de route �
 Les conditions d'emploi, la nature et l'exécution des missions confiées à ces jeunes gens font l'objet d'un contrôle par les
 inspections compétentes du ministère de l'intérieur.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### SECTION II : Disponibilité et réserve dans la police nationale.
+##### Section II : Disponibilité et réserve dans la police nationale.
 
 ###### Article R*201-20-1
 
@@ -16573,8 +19222,15 @@ nationale, lorsqu'ils sont rappelés en application des articles L. 94-10 et L. 
 missions de défense civile confiées au ministre de l'intérieur par l'article 17 de l'ordonnance n° 59-147 du 7 janvier 1959
 et par l'article 1er du décret n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile.
 
-Ces policiers auxiliaires peuvent être également convoqués en application de l'article L. 94-14 pur des périodes d'exercice
+Ces policiers auxiliaires peuvent être également convoqués en application de l'article L. 94-14 pour des périodes d'exercice
 afin d'acquérir ou compléter une formation.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -16586,9 +19242,13 @@ afin d'acquérir ou compléter une formation.
 	  - Code du service national - art. L94-13 (M)
 	  - Code du service national - art. L94-14 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16602,11 +19262,22 @@ l'article R.* 201-20-1, notamment à celles de sécurité générale, de protect
 défense, de surveillance et de fermeture des frontières, de protection des points sensibles et de sécurité des bâtiments
 publics.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16626,11 +19297,22 @@ Les policiers auxiliaires de la disponibilité et de la réserve titulaires d'un
 nationale sont tenus de signaler leurs changements de lieu de résidence aux services du secrétariat général pour
 l'administration de la police dans le ressort duquel ils sont domiciliés.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16642,11 +19324,22 @@ l'administration de la police dans le ressort duquel ils sont domiciliés.
 L'entraînement et l'instruction des policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation
 de réserve dans la police nationale sont assurés par la police nationale.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16658,11 +19351,22 @@ de réserve dans la police nationale sont assurés par la police nationale.
 Le ministre de l'intérieur fixe chaque année le nombre et la durée des engagements spéciaux qui peuvent être souscrits en
 application des dispositions de l'article L. 94-14.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16679,11 +19383,22 @@ La solde et les indemnités dues aux policiers auxiliaires titulaires d'un engag
 réservistes rappelés ou convoqués pour des périodes d'exercice, sont identiques à celles perçues par les personnels
 militaires de grade équivalent.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16693,14 +19408,25 @@ militaires de grade équivalent.
 ###### Article R*201-20-7
 
 Les dispositions des articles R.* 201-5, R.* 201-9, R.* 201-11, R.* 201-12, R.* 201-14, R.* 201-15, R.* 201-17, R.* 201-19 et
-R.* 201-20 sont applicables aux policiers auxiliaires disponibles et réservistes titulaires d'une affectation de réserve dans
-la police nationale.
+R.* 201-20 sont applicables aux policiers auxiliaires et réservistes titulaires d'une affectation de réserve dans la police
+nationale.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-908 1995-08-07 art. 7 JORF 12 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16711,11 +19437,11 @@ la police nationale.
 	  - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-### CHAPITRE II TER : Service de sécurité civile
+#### Chapitre II ter : Service de sécurité civile
 
-#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire
 
-##### PARAGRAPHE 1 : Affectation.
+##### Paragraphe 1er : Affectation.
 
 ###### Article R*201-21
 
@@ -16723,11 +19449,22 @@ Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique
 pompier professionnel peuvent, sur leur demande, être admis à accomplir leur service national dans la sécurité civile en
 qualité de sapeurs-pompiers auxiliaires.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16761,9 +19498,13 @@ enregistrés sur les contrôles de l'administration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16782,11 +19523,22 @@ secours. Les modalités de cette formation sont définies par arrêté du minist
 le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la sécurité et les
 devoirs civiques de tout citoyen.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16801,15 +19553,26 @@ convention prévoit notamment que l'hébergement, l'entretien, l'alimentation et
 affectés dans les services d'incendie et de secours sont pris en charge par le service départemental d'incendie et de
 secours.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°82-213 1982-03-02 art. 56
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16824,18 +19587,29 @@ sapeurs-pompiers professionnels du département.
 Dans les départements où le nombre des sapeurs-pompiers professionnels est inférieur à cinquante, le nombre maximum des
 sapeurs-pompiers auxiliaires est fixé à cinq.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.
+##### Paragraphe 2 : Missions - Obligations.
 
 ###### Article R*201-26
 
@@ -16843,6 +19617,13 @@ Les sapeurs-pompiers auxiliaires, après la formation prévue à l'article R. 20
 civile définies à l'article 1er de la loi n° 87-565 du 22 juillet 1987 modifiée et à celles des services d'incendie et de
 secours prévues à l'article 1er du décret n° 88-623 du 6 mai 1988 modifié ainsi qu'aux tâches auxquelles leur formation
 professionnelle les a préparés.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -16852,9 +19633,13 @@ professionnelle les a préparés.
 	  - Décret n°88-623 du 6 mai 1988 - art. 1 (Ab)
 	  - Code du service national R201-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16866,18 +19651,29 @@ professionnelle les a préparés.
 Les modalités d'accomplissement de ces missions et notamment les conditions d'encadrement lors des opérations et
 interventions des sapeurs-pompiers auxiliaires sont définies par arrêté du ministre chargé de la sécurité civile.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.
+##### Paragraphe 3 : Hiérarchie - Avancement.
 
 ###### Article R*201-28
 
@@ -16894,11 +19690,22 @@ suit :
 
 Lors de leur affectation, les jeunes gens sont incorporés au grade de sapeur-pompier auxiliaire de 2e classe.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16911,11 +19718,22 @@ Les sapeurs-pompiers auxiliaires de 2e classe peuvent être nommés sapeurs-pomp
 mois de service à compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une
 sanction prévue à l'article L. 149-1.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16932,11 +19750,22 @@ Les sapeurs-pompiers auxiliaires peuvent être nommés caporaux auxiliaires, apr
 quatre mois à compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une sanction
 prévue à l'article L. 149-1.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16954,11 +19783,22 @@ ou de vétérinaire peuvent être nommés lieutenants auxiliaires après avoir r
 compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une sanction prévue à
 l'article L. 149-1.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16978,11 +19818,22 @@ civile.
 Les nominations mentionnées aux articles R.* 201-29 à R.* 201-31 sont prononcées par le ministre, après avis du chef du
 service d'affectation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -16993,18 +19844,29 @@ service d'affectation.
 	  - Code du service national R201-29 à R201-31
 
 
-##### PARAGRAPHE 4.
+##### Paragraphe 4.
 
 ###### Article R*201-34
 
 Les dispositions des articles R.* 201-6 à R.* 201-20 sont applicables aux jeunes gens qui effectuent le service de sécurité
 civile en qualité de sapeurs-pompiers auxiliaires.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17023,11 +19885,22 @@ Elles sont prononcées par le ministre chargé de la sécurité civile. Toutefoi
 service départemental d'incendie et de secours, l'avertissement, le blâme et la consigne à la résidence administrative
 peuvent être prononcés par le préfet.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17038,9 +19911,9 @@ peuvent être prononcés par le préfet.
 	  - Code du service national - art. L149-1 (M)
 
 
-#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire
 
-##### PARAGRAPHE 1 : Affectation.
+##### Paragraphe 1er : Affectation.
 
 ###### Article R*201-36
 
@@ -17048,11 +19921,22 @@ Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique
 technique forestier peuvent, sur leur demande, être admis à accomplir le service de sécurité civile en qualité de forestiers
 auxiliaires.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17077,11 +19961,22 @@ directs dans les services ou organismes dans lesquels ils sont affectés.
 Les appelés sont réputés incorporés le jour où répondant à l'ordre d'appel du ministre chargé des forêts ils sont enregistrés
 sur les contrôles de l'administration.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17099,11 +19994,22 @@ forêts ou dans les organismes placés sous sa tutelle. Les modalités de ce sta
 des forêts. La formation dispensée comporte notamment une information sur le sens du service national qu'ils effectuent et
 doit permettre l'acquisition des notions indispensables sur la défense, la sécurité et les devoirs civiques de tout citoyen.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17116,11 +20022,22 @@ Une convention établie entre le préfet du département et le responsable de l'
 fixe les obligations et les contributions financières des parties relatives notamment à l'hébergement, l'entretien,
 l'alimentation, l'équipement et la formation des forestiers auxiliaires.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17131,18 +20048,29 @@ l'alimentation, l'équipement et la formation des forestiers auxiliaires.
 
 Le nombre de forestiers auxiliaires ne peut excéder 10 p. 100 des effectifs en activité dans les corps techniques forestiers.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.
+##### Paragraphe 2 : Missions - Obligations.
 
 ###### Article R*201-41
 
@@ -17150,11 +20078,22 @@ Après la formation prévue à l'article R. 201-38, les forestiers auxiliaires p
 surveillance et à la protection des massifs forestiers, à la prévention contre les feux de forêt, et à la restauration des
 terrains instables et dangereux dans les zones de montagne ou sur le littoral.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17171,11 +20110,22 @@ Les modalités d'accomplissement de ces missions et les conditions d'encadrement
 prioritairement par l'Office national des forêts, sont définies par l'arrêté du ministre chargé des forêts prévu à l'article
 R. 201-37.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17186,7 +20136,7 @@ R. 201-37.
 	  - Code du service national R201-37
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.
+##### Paragraphe 3 : Hiérarchie - Avancement.
 
 ###### Article R*201-43
 
@@ -17202,11 +20152,22 @@ La hiérarchie des grades des forestiers auxiliaires, en correspondance avec la 
 
 Lors de leur affectation, les jeunes gens sont incorporés au grade de forestier auxiliaire de 2e classe.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17218,11 +20179,22 @@ Lors de leur affectation, les jeunes gens sont incorporés au grade de forestier
 Les forestiers auxiliaires de 2e classe peuvent être nommés forestiers auxiliaires de 1re classe après avoir accompli quatre
 mois de service à compter de leur date d'incorporation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17234,11 +20206,22 @@ mois de service à compter de leur date d'incorporation.
 Les forestiers auxiliaires peuvent être nommés caporaux forestiers auxiliaires après avoir accompli au moins quatre mois de
 service à compter de la date de leur incorporation et avoir subi avec succès l'examen visé à l'article R. 201-47 ci-après.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17254,11 +20237,22 @@ service à compter de la date de leur incorporation et avoir subi avec succès l
 Les caporaux forestiers auxiliaires peuvent être nommés caporaux-chefs forestiers auxiliaires après avoir accompli deux mois
 de service actif dans leur grade.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17273,11 +20267,22 @@ qualifications requises pour présenter cet examen sont définis par arrêté du
 Les nominations visées aux articles R. 201-44 à R. 201-46 sont prononcées par le ministre chargé des forêts après avis du
 chef du service d'affectation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17288,7 +20293,7 @@ chef du service d'affectation.
 	  - Code du service national R201-44 à R201-46
 
 
-##### PARAGRAPHE 4.
+##### Paragraphe 4.
 
 ###### Article R*201-48
 
@@ -17296,11 +20301,22 @@ Les dispositions des articles R.* 201-6 à R.* 201-20 sont applicables aux jeune
 civile en qualité de forestier auxiliaire, le ministre chargé des forêts exerçant les attributions prévues aux-dits articles
 au ministre de l'intérieur.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17318,11 +20334,22 @@ Les sanctions disciplinaires qui peuvent être infligées aux forestiers auxilia
 Ces sanctions sont prononcées par le ministre chargé des forêts ou, par délégation, par le préfet du département dans lequel
 est affecté le forestier auxiliaire sanctionné.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17333,18 +20360,25 @@ est affecté le forestier auxiliaire sanctionné.
 	  - Code du service national - art. L149-1 (M)
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération
+#### Chapitre III : Service de l'aide technique et service de la coopération
 
-#### SECTION I : Dispositions communes
+##### Section I : Dispositions communes
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.
+##### Paragraphe 1er : Opérations préliminaires et appel au service.
 
 ###### Article R202
 
 Les jeunes gens candidats au service de l'aide technique ou au service de la coopération subissent dans un centre de
-sélection et avant la décision d'agrément prévue à l'article R. 27 un examen de contr^ole de leur aptitude au service
-national actif et, le cas échéant, un examen d'aptitude médicale à servir dans les régions ou pays où ils sont susceptibles
-d'^etre affectés.
+sélection et avant la décision d'agrément prévue à l'article R. 27 un examen de contrôle de leur aptitude au service national
+actif et, le cas échéant, un examen d'aptitude médicale à servir dans les régions ou pays où ils sont susceptibles d'être
+affectés.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17352,6 +20386,14 @@ d'^etre affectés.
 
 	  - Décret n°67-210 1967-03-10 art. 2
 	  - Décret n°67-209 1967-03-10 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17372,12 +20414,27 @@ Les jeunes gens retenus au titre du service de l'aide technique ou du service de
 l'article R. 17 doivent, avant leur appel au service, recevoir, outre les vaccinations prévues pour le service national
 actif, les vaccinations spéciales à la région ou au pays où ils sont appelés à servir.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 5
 	  - Décret n°67-209 1967-03-10 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17397,12 +20454,27 @@ actif, les vaccinations spéciales à la région ou au pays où ils sont appelé
 Les jeunes gens qui ne se présenteraient pas dans un délai de quinze jours à partir de la date à laquelle ils ont été
 convoqués sont appelés au service dans les conditions fixées à l'article L. 98.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 6 al. 2
 	  - Décret n°67-209 1967-03-10 art. 6 al. 2
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17429,6 +20501,13 @@ indispensables sur la défense, la sécurité et les devoirs civiques de tout ci
 Le ministre responsable du service de l'aide technique ou du service de la coopération fixe les conditions particulières de
 mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aide technique ou de coopération.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17438,7 +20517,11 @@ mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aid
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 16 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17449,7 +20532,7 @@ mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aid
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.
+##### Paragraphe 2 : Indemnités.
 
 ###### Article R206
 
@@ -17481,6 +20564,13 @@ attributions de ce dernier pour la coopération ;
 Du ministre du budget et du ministre des affaires étrangères pour les Etats étrangers qui relèvent des attributions de ce
 dernier pour la coopération.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17490,7 +20580,11 @@ dernier pour la coopération.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 17 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17512,12 +20606,27 @@ dernier pour la coopération.
 
 Les jeunes gens affectés hors d'Europe reçoivent une indemnité d'équipement à leur entrée au service.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 12
 	  - Décret n°67-209 1967-03-10 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17530,10 +20639,16 @@ Les jeunes gens affectés hors d'Europe reçoivent une indemnité d'équipement 
 
 ###### Article R208
 
-Le classement des départements et territoires, d'une part, des États et régions, d'autre part, dans les groupes visés à
+Le classement des départements et territoires, d'une part, des Etats et régions, d'autre part, dans les groupes visés à
 l'article R. 206, le taux de base afférent à chaque groupe, les coefficients de correction et le taux de l'indemnité
-d'équipement sont fixés par arr^eté du Premier ministre, du ministre responsable et du ministre de l'économie et des
-finances.
+d'équipement sont fixés par arrêté du Premier ministre, du ministre responsable et du ministre de l'économie et des finances.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17541,6 +20656,14 @@ finances.
 
 	  - Décret n°67-210 1967-03-10 art. 13
 	  - Décret n°67-209 1967-03-10 art. 13
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17582,6 +20705,13 @@ Les jeunes gens affectés au service de la coopération ont droit à la gratuit�
 Lorsque ces déplacements sont organisés à la demande des autorités françaises, ils perçoivent l'indemnité journalière de
 mission du dernier groupe prévue pour les déplacements effectués sur le territoire de l'Etat où ils exercent leurs fonctions.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17591,7 +20721,11 @@ mission du dernier groupe prévue pour les déplacements effectués sur le terri
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17602,7 +20736,7 @@ mission du dernier groupe prévue pour les déplacements effectués sur le terri
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Discipline.
+##### Paragraphe 3 : Discipline.
 
 ###### Article R210
 
@@ -17611,7 +20745,7 @@ service de l'aide technique ou celui de la coopération sont :
 
 - l'avertissement qui peut être complété par la suppression de dix jours de permission normale ;
 
-- le bl^ame qui peut être complété par la suppression de quinze jours de permission normale ;
+- le blâme qui peut être complété par la suppression de quinze jours de permission normale ;
 
 - la radiation d'office assortie du rappel en métropole, d'une majoration de la durée du service actif pouvant aller jusqu'à
 trois mois et de l'annulation des droits à permission normale acquis par le fautif pendant la durée de son service dans
@@ -17619,6 +20753,13 @@ l'aide technique ou dans la coopération.
 
 La radiation d'office est prononcée par le ministre responsable. L'avertissement et le blâme le sont par l'autorité ayant
 reçu délégation.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17629,7 +20770,11 @@ reçu délégation.
 
 	**Modifié par**:
 
-	  - Décret n°86-337 1986-03-05 art. 1 JORF 12 mars 1986
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17640,7 +20785,7 @@ reçu délégation.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.
+##### Paragraphe 4 : Permissions.
 
 ###### Article R211
 
@@ -17657,6 +20802,13 @@ Dans le service de la coopération, cette durée est de :
 
 Toute fraction de mois de service effectif supérieure à quinze jours est comptée comme un mois entier.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17666,7 +20818,11 @@ Toute fraction de mois de service effectif supérieure à quinze jours est compt
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 19 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17680,8 +20836,8 @@ Toute fraction de mois de service effectif supérieure à quinze jours est compt
 
 ###### Article R212
 
-Dans le service de l'aide technique, les permissions normales peuvent ^etre prises soit par fraction, à concurrence des
-droits acquis, soit en une fois, avant la libération du service actif.
+Dans le service de l'aide technique, les permissions normales peuvent être prises soit par fraction à concurrence des droits
+acquis, soit en une fois, avant la libération du service actif.
 
 Dans le service de la coopération, les jeunes gens en service dans les Etats étrangers d'Europe ou d'Afrique du Nord peuvent
 prendre les permissions normales soit par fraction, à concurrence des droits acquis, soit en une fois, avant la libération du
@@ -17689,11 +20845,22 @@ service actif. Pour ceux qui servent dans les autres Etats, les permissions norm
 concurrence de quinze jours pendant le séjour à titre de détente, et le reliquat pris en principe en une fois avant la
 libération du service actif.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 20 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17713,11 +20880,22 @@ fait, effectuent un contrat complémentaire, peuvent bénéficier par anticipati
 scolaires, de leurs permissions normales calculées sur la durée totale du séjour qu'ils doivent effectuer au titre du service
 actif.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 21 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17735,8 +20913,15 @@ actif.
 
 ###### Article R214
 
-Des permissions de convalescence peuvent ^etre accordées aux jeunes gens dont l'état de santé le nécessite. Elles ont une
+Des permissions de convalescence peuvent être accordées aux jeunes gens dont l'état de santé le nécessite. Elles ont une
 durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des permissions normales.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17744,6 +20929,14 @@ durée au plus égale à trente jours et sont renouvelables. Elles ne viennent p
 
 	  - Décret n°67-210 1967-03-10 art. 17
 	  - Décret n°67-209 1967-03-10 art. 17
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17761,6 +20954,13 @@ Des permissions exceptionnelles d'une durée au plus égale à dix jours peuvent
 le mariage de l'intéressé, le décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents, beaux-parents, frère,
 soeur).
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17770,7 +20970,11 @@ soeur).
 
 	**Modifié par**:
 
-	  - Décret n°95-963 du 23 août 1995 - art. 1 () JORF 30 août 1995
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17786,12 +20990,27 @@ soeur).
 
 Pour les permissions visées aux articles R. 211, R. 214 et R. 215, les frais de voyage sont à la charge des intéressés.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 19
 	  - Décret n°67-209 1967-03-10 art. 19
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17810,7 +21029,14 @@ Pour les permissions visées aux articles R. 211, R. 214 et R. 215, les frais de
 
 ###### Article R217
 
-Les modalités d'application du présent paragraphe 4 sont fixées par arr^eté des ministres responsables.
+Les modalités d'application du présent paragraphe 4 sont fixées par arrêté des ministres responsables.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17818,6 +21044,14 @@ Les modalités d'application du présent paragraphe 4 sont fixées par arr^eté 
 
 	  - Décret n°67-210 1967-03-10 art. 16 dernière phrase
 	  - Décret n°67-209 1967-03-10 art. 16 dernière phrase
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17828,7 +21062,7 @@ Les modalités d'application du présent paragraphe 4 sont fixées par arr^eté 
 	  - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.
+##### Paragraphe 5 : Soins médicaux.
 
 ###### Article R218
 
@@ -17838,12 +21072,27 @@ l'article L. 106, sont assurés dans les conditions prévues par le régime gén
 
 Les dépenses résultant de l'application dudit article sont à la charge du ministre responsable.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 20
 	  - Décret n°67-209 1967-03-10 art. 20
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17864,6 +21113,13 @@ Les jeunes gens affectés au service de l'aide technique ou au service de la coo
 hospitalisés par le service de santé des armées. Les frais sont remboursés à l'administration militaire par le ministre
 responsable.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17875,6 +21131,14 @@ responsable.
 
 	  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17893,6 +21157,13 @@ coopération est ramené à 25 p. 100 de son montant dans l'Etat de séjour, au-
 
 En cas d'hospitalisation en métropole, leur indemnité est égale à 25 p. 100 de l'élément commun.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17902,7 +21173,11 @@ En cas d'hospitalisation en métropole, leur indemnité est égale à 25 p. 100 
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 22 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17914,12 +21189,19 @@ En cas d'hospitalisation en métropole, leur indemnité est égale à 25 p. 100 
 	  - Code du service national - art. R227 (V)
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.
+##### Paragraphe 6 : Inaptitude physique.
 
 ###### Article R221
 
 Les conditions dans lesquelles, pour l'application de l'article L. 110, les intéressés sont rapatriés et présentés devant la
 commission de réforme compétente sont fixées par instruction des ministres responsables.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17927,6 +21209,14 @@ commission de réforme compétente sont fixées par instruction des ministres re
 
 	  - Décret n°67-210 1967-03-10 art. 23
 	  - Décret n°67-209 1967-03-10 art. 23
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17941,15 +21231,22 @@ commission de réforme compétente sont fixées par instruction des ministres re
 	  - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.
+##### Paragraphe 7 : Libération du service actif.
 
 ###### Article R222
 
 Avant leur libération du service actif, les jeunes gens affectés au service de l'aide technique ou au service de la
-coopération sont soumis par les soins du ministre responsable à un examen médical de contr^ole constatant leur état de santé.
+coopération sont soumis par les soins du ministre responsable à un examen médical de contrôle constatant leur état de santé.
 
-A l'expiration d'une durée de service égale à celle fixée à l'article L. 2, les intéressés sont rayés des contr^oles du
+A l'expiration d'une durée de service égale à celle fixée à l'article L. 2, les intéressés sont rayés des contrôles du
 service de l'aide technique ou du service de la coopération et libérés du service actif par le ministre responsable.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17960,7 +21257,11 @@ service de l'aide technique ou du service de la coopération et libérés du ser
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 23 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -17977,10 +21278,17 @@ service de l'aide technique ou du service de la coopération et libérés du ser
 
 ###### Article R223
 
-Le décompte des services accomplis dans le service de l'aide technique ou le service de la coopération est arr^eté par le
+Le décompte des services accomplis dans le service de l'aide technique ou le service de la coopération est arrêté par le
 ministre responsable lors de la libération des jeunes gens et enregistré sur les pièces matricules. Celles-ci, à l'exception
 de la carte du service national qui est remise à l'intéressé, sont adressées au bureau ou centre du service national
 d'origine.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -17991,7 +21299,11 @@ d'origine.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18002,19 +21314,34 @@ d'origine.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.
+##### Section II : Dispositions particulières au service de l'aide technique.
 
 ###### Article R224
 
 L'indemnité forfaitaire d'entretien mentionnée à l'article R. 206 est versée aux intéressés lorsqu'ils sont en service outre-
 mer ou en permission outre-mer. Si le logement n'est pas fourni en nature, il leur est alloué une indemnité supplémentaire
-fixée par arr^eté du ministre responsable sur proposition du représentant local du Gouvernement de la République.
+fixée par arrêté du ministre responsable sur proposition du représentant local du Gouvernement de la République.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-209 1967-03-10 art. 10
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18035,6 +21362,13 @@ Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent un
 de base minimum. Lorsqu'ils sont en permission normale, en congé de maternité ou en permission de convalescence, soit dans un
 Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire égale à 15 p. 100 du taux de base minimum.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18043,7 +21377,11 @@ Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire é
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18054,7 +21392,7 @@ Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire é
 	  - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.
+##### Section III : Dispositions particulières au service de la coopération.
 
 ###### Article R226
 
@@ -18065,6 +21403,13 @@ Lorsque les intéressés reçoivent une allocation ou des prestations de l'Etat 
 forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en nature, cette indemnité subit un abattement de
 10 p. 100.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18073,7 +21418,11 @@ forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en n
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 25 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18104,6 +21453,13 @@ Lorsque les intéressés sont hospitalisés, ils reçoivent application de l'art
 
 Dans tous les autres cas, les intéressés perçoivent l'indemnité forfaitaire d'entretien, au taux du pays d'affectation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18112,7 +21468,11 @@ Dans tous les autres cas, les intéressés perçoivent l'indemnité forfaitaire 
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 26 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18128,14 +21488,29 @@ Dans tous les autres cas, les intéressés perçoivent l'indemnité forfaitaire 
 	  - Code du service national - art. R220 (M)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.
+#### Chapitre IV : Service des objecteurs de conscience.
 
 ###### Article R227-1
 
 Le présent chapitre fixe les conditions dans lesquelles les jeunes gens admis au bénéfice de l'article L. 116-1 accomplissent
 leurs obligations de service national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18153,21 +21528,37 @@ leurs obligations de service national.
 	  - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.
+##### Paragraphe 1er : Rattachement et affectation.
 
 ###### Article R227-2
 
-Les jeunes gens visés à l'article R. 227-1 relèvent du ministre chargé des affaires sociales qui les répartit pour y ^etre
-employés dans des administrations de l'Etat ou des collectivités locales, ou les met à la disposition d'organismes à vocation
-sociale ou humanitaire assurant une mission d'intér^et général, habilités dans les conditions fixées aux articles R. 227-15
-et R. 227-16.
+Les jeunes gens visés à l'article R. 227-1 relèvent du ministre chargé des affaires sociales qui les répartit pour y être
+employés dans des administrations de l'Etat ou des collectivités locales ou les met à la disposition d'organismes à vocation
+sociale ou humanitaire assurant une mission d'intérêt général, habilités dans les conditions fixées aux articles R. 227-15 et
+R. 227-16.
 
-Le ministre chargé des affaires sociales arr^ete la liste des administrations et organismes visés à l'alinéa précédent, la
-communique aux jeunes gens admis au bénéfice du service des objecteurs de conscience, et recueille leurs candidatures. Il les
-communique, pour avis, aux ministres dont dépendent les administrations ou organismes concernés. Il affecte les jeunes gens
-compte tenu des besoins des administrations ou organismes et des candidatures exprimées.
+Le préfet de région arrête la liste des administrations et organismes visés à l'alinéa précédent, la communique aux jeunes
+gens admis au bénéfice du service des objecteurs de conscience, et recueille leurs candidatures. Il les communique, pour
+avis, aux ministres dont dépendent les administrations ou organismes concernés. Il affecte les jeunes gens compte tenu des
+besoins des administrations ou organismes et des candidatures exprimées.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18184,7 +21575,7 @@ compte tenu des besoins des administrations ou organismes et des candidatures ex
 	  - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.
+##### Paragraphe 2 : Devoirs et obligations.
 
 ###### Article R227-3
 
@@ -18195,12 +21586,27 @@ Affectés à une formation civile, ils sont soumis au règlement intérieur prop
 accomplir, à l'exclusion de tout autre, le travail défini en accord avec le ministre dont dépend cette formation et qui leur
 est confié.
 
-Pour l'accomplissement de leur travail, ils peuvent ^etre tenus de résider dans des locaux mis à leur disposition par
+Pour l'accomplissement de leur travail, ils peuvent être tenus de résider dans des locaux mis à leur disposition par
 l'administration ou l'organisme d'affectation.
 
 Il leur est interdit de s'absenter du lieu de travail sans autorisation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18211,17 +21617,33 @@ Il leur est interdit de s'absenter du lieu de travail sans autorisation.
 	  - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.
+##### Paragraphe 3 : Discipline.
 
 ###### Article R227-4
 
 Tout manquement aux devoirs et obligations visés à l'article précédent expose son auteur à des sanctions disciplinaires
-prononcées par le ministre mentionné à l'article R.* 227-2. Les jeunes gens susceptibles d'être sanctionnés doivent être mis
-en mesure de s'expliquer sur les faits qui leur sont reprochés.
+prononcées par le préfet de région mentionné à l'article R. 227-2. Les jeunes gens susceptibles d'être sanctionnés doivent
+être mis en mesure de s'expliquer sur les faits qui leur sont reprochés.
 
 Les sanctions disciplinaires sont l'avertissement et le déplacement d'office.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18234,10 +21656,25 @@ Les sanctions disciplinaires sont l'avertissement et le déplacement d'office.
 
 ###### Article R227-5
 
-L'avertissement entra^ine la suppression de deux jours de permission. Il est notifié par écrit à l'intéressé, avec insertion
-à son dossier.
+L'avertissement entraîne la suppression de deux jours de permission. Il est notifié par écrit à l'intéressé, avec insertion à
+son dossier.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18252,7 +21689,22 @@ L'avertissement entra^ine la suppression de deux jours de permission. Il est not
 
 Le déplacement d'office sanctionne une faute grave. Il est assorti de la suppression de cinq jours de permission.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18267,7 +21719,22 @@ Le déplacement d'office sanctionne une faute grave. Il est assorti de la suppre
 
 Le sursis peut être accordé en ce qui concerne la suppression des jours de permission pour la première sanction.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18276,11 +21743,26 @@ Le sursis peut être accordé en ce qui concerne la suppression des jours de per
 
 ###### Article R227-8
 
-Toute infraction mentionnée aux articles L. 146 à L. 149 doit ^etre signalée par le responsable de la formation d'affectation
-dans les conditions prévues à l'article L. 141. Un exemplaire du procès-verbal est adressé directement au ministre chargé des
-affaires sociales.
+Toute infraction mentionnée aux articles L. 146 à L. 149 doit être signalée par le responsable de la formation d'affectation
+dans les conditions prévues à l'article L. 141. Un exemplaire du procès-verbal est adressé directement au préfet de région.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18295,10 +21777,25 @@ affaires sociales.
 ###### Article R227-9
 
 Dans les conditions fixées par l'article L. 135, le temps pendant lequel les jeunes gens visés à l'article R. 227-1 ont subi,
-en vertu d'un jugement, une peine ayant eu pour effet de les emp^echer d'accomplir tout ou partie des obligations du service
+en vertu d'un jugement, une peine ayant eu pour effet de les empêcher d'accomplir tout ou partie des obligations du service
 dans l'administration ou l'organisme d'affectation, ne compte pas pour la durée de service exigée.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18310,7 +21807,7 @@ dans l'administration ou l'organisme d'affectation, ne compte pas pour la durée
 	  - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.
+##### Paragraphe 4 : Permissions.
 
 ###### Article R227-10
 
@@ -18320,15 +21817,26 @@ permission. Elles peuvent être prises soit par fraction, soit en une fois avant
 
 Vient en déduction de la durée de ces permissions un nombre de jours égal à celui :
 
-- des jours supprimés dans les conditions prévues aux articles R.[* 227-5 et R.*] 227-6 ;
+- des jours supprimés dans les conditions prévues aux articles R. 227-5 et R. 227-6 ;
 
 - des jours d'absence sans autorisation.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 56 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18348,11 +21856,22 @@ frère, soeur). Un supplément de huit jours de permission peut être également
 d'agriculteur lors de leur incorporation ou qui, fils d'agriculteur et n'exerçant aucune profession, étaient employés chez
 leurs parents en qualité d'aide familial agricole.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 57 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18362,14 +21881,26 @@ leurs parents en qualité d'aide familial agricole.
 ###### Article R227-12
 
 Des permissions de convalescence peuvent être accordées aux objecteurs de conscience dont l'état de santé le nécessite. Leur
-durée, fixée par le médecin agréé par le ministre, au plus égale à trente jours, est renouvelable. Elles ne viennent pas en
-déduction des autres permissions.
+durée, fixée par le médecin agréé par le préfet de région, au plus égale à trente jours, est renouvelable. Elles ne viennent
+pas en déduction des autres permissions.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 58 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18378,17 +21909,29 @@ déduction des autres permissions.
 
 ###### Article R227-13
 
-Le ministre peut accorder, à titre de récompense, des permissions individuelles de caractère exceptionnel, dans la limite de
-cinq jours par an, pour acte exceptionnel de courage et de dévouement.
+Le préfet de région peut accorder, à titre de récompense, des permissions individuelles de caractère exceptionnel, dans la
+limite de cinq jours par an, pour acte exceptionnel de courage et de dévouement.
 
-Un ou plusieurs congés de formation, dont la durée totale ne peut pas excéder dix jours ouvrables, peuvent ^etre accordés par
-le ministre dont dépend l'organisme auprès duquel le demandeur est affecté.
+Un ou plusieurs congés de formation, dont la durée totale ne peut pas excéder dix jours ouvrables, peuvent être accordés par
+le préfet de région dont dépend l'organisme auprès duquel le demandeur est affecté.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 59 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18401,14 +21944,29 @@ Indépendamment des permissions visées dans les articles précédents, le minis
 des intéressés pendant toute la durée du service, un congé sans solde exceptionnel précédant la libération du service et ne
 pouvant excéder quatre-vingt-dix jours.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.
+##### Paragraphe 5 : Habilitation des organismes.
 
 ###### Article R227-15
 
@@ -18424,7 +21982,22 @@ ceux des personnes chargées de l'encadrement ;
 
 Un exemplaire des statuts et du règlement intérieur de l'organisme est annexé à la demande.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18441,13 +22014,28 @@ Le ministre chargé des affaires sociales, sur proposition des ministres dont re
 l'habilitation qui est subordonnée à la signature de la convention mentionnée à l'article R. 227-17.
 
 Les propositions d'habilitation des ministres dont relèvent les organismes demandeurs devront prendre en compte notamment la
-mission d'intér^et général poursuivie, l'absence de but lucratif, la capacité financière de l'organisme ainsi que les
+mission d'intérêt général poursuivie, l'absence de but lucratif, la capacité financière de l'organisme ainsi que les
 possibilités d'encadrement des objecteurs de conscience.
 
-L'habilitation peut ^etre retirée si l'organisme ne remplit plus les conditions ayant présidé à son agrément ou s'il ne
+L'habilitation peut être retirée si l'organisme ne remplit plus les conditions ayant présidé à son agrément ou s'il ne
 respecte pas ses obligations.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18466,7 +22054,14 @@ respecte pas ses obligations.
 
 Une convention type concernant la mise à disposition d'appelés objecteurs de conscience est proposée aux organismes désirant
 accueillir des objecteurs de conscience. Elle précise les obligations auxquelles les objecteurs de conscience sont tenus et
-les contr^oles dont ils sont susceptibles de faire l'objet.
+les contrôles dont ils sont susceptibles de faire l'objet.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -18475,6 +22070,14 @@ les contr^oles dont ils sont susceptibles de faire l'objet.
 	  - Arrêté du 30 août 1988 - art. 4 (Ab)
 	  - Arrêté du 12 avril 1996 - art. 4 (V)
 	  - Code du service national - art. R227-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18487,14 +22090,29 @@ Une commission est instituée afin de connaître de la gestion du régime des ob
 éventuelles et d'étudier les propositions d'adaptations jugées nécessaires. Elle peut entendre des représentants des
 organismes habilités et des associations concernées par l'objection de conscience. Sa composition est définie par arrêté.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.
+##### Paragraphe 6 : Missions en temps de guerre.
 
 ###### Article R227-19
 
@@ -18506,7 +22124,7 @@ En temps de guerre, les objecteurs de conscience participent notamment à l'exé
 
 3° Le sauvetage des victimes, les premiers secours et le transport des blessés ;
 
-4° La lutte contre les incendies et les temp^etes de feux ;
+4° La lutte contre les incendies et les tempêtes de feux ;
 
 5° La désinfection et la décontamination ;
 
@@ -18516,11 +22134,22 @@ En temps de guerre, les objecteurs de conscience participent notamment à l'exé
 
 8° La protection de l'environnement et du patrimoine artistique, culturel et scientifique de la nation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-929 1985-08-28 art. 1 JORF 3 septembre 1985
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18532,21 +22161,26 @@ En temps de guerre, les objecteurs de conscience participent notamment à l'exé
 En temps de guerre, les objecteurs de conscience peuvent demander au ministre chargé des armées leur incorporation dans une
 formation militaire.
 
-Cette demande vaut renonciation au bénéfice des dispositions du chapitre IV du titre III de la partie législative du code du
-service national.
+Cette demande vaut renonciation au bénéfice des dispositions du chapitre IV du titre III du livre II de la partie législative
+du code du service national.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-929 1985-08-28 art. 1 JORF 3 septembre 1985
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.
+### Titre IV : Service féminin.
 
 ###### Article R*228
 
@@ -18557,6 +22191,13 @@ conscience.
 
 Les modalités de constatation et de vérification de l'aptitude au service national sont fixées par le ministre de la défense.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18565,7 +22206,11 @@ Les modalités de constatation et de vérification de l'aptitude au service nati
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 60 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18581,6 +22226,13 @@ Les modalités de constatation et de vérification de l'aptitude au service nati
 Les emplois ouverts aux volontaires féminines au titre de chacune des formes du service national sont fixés par le ministre
 responsable. Les volontaires féminines dont la candidature est retenue font l'objet de décisions nominatives d'affectation.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18589,7 +22241,11 @@ responsable. Les volontaires féminines dont la candidature est retenue font l'o
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18610,6 +22266,13 @@ recherchées.
 
 Les candidates dont le volontariat a été accepté rejoignent leur affectation dans les conditions fixées au moment de l'appel.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18618,7 +22281,11 @@ Les candidates dont le volontariat a été accepté rejoignent leur affectation 
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18644,7 +22311,14 @@ conditions fixées par les articles L. 67, L. 69 et L. 71 à L. 85.
 Les volontaires féminines qui n'ont pas accompli le service actif peuvent se porter candidates pour servir dans la réserve du
 service militaire. La liste des corps auxquels les intéressées sont rattachées, les diplômes ou titres éventuellement exigés
 et les modalités de contrôle de l'aptitude sont fixés par arrêté du ministre chargé des armées. Les dispositions des sections
-I et IV du chapitre Ier du titre III de la partie Législative du code du service national leur sont applicables.
+I et IV du chapitre Ier du titre III du livre II de la partie Législative du code du service national leur sont applicables.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -18654,7 +22328,12 @@ I et IV du chapitre Ier du titre III de la partie Législative du code du servic
 
 	**Modifié par**:
 
-	  - Décret n°94-975 du 10 novembre 1994 - art. 1 () JORF 11 novembre 1994
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18690,6 +22369,13 @@ fondé sur des événements personnels ou familiaux survenus depuis son entrée 
 e) Si les circonstances prévues aux articles L. 111, L. 150 et L. 151 du code du service national conduisent le ministre
 responsable à en faire la proposition au ministre chargé des armées.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18698,8 +22384,11 @@ responsable à en faire la proposition au ministre chargé des armées.
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984 rectificatif JORF 4 septembre 1984
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18720,12 +22409,19 @@ responsable à en faire la proposition au ministre chargé des armées.
 
 ###### Article R*233
 
-Les volontaires féminines sont soumises en matière de discipline, d'avancement, de permissions, de soins médicaux, de
-rémunération et d'avantages sociaux ainsi qu'en ce qui concerne la couverture des risques aux dispositions qui régissent la
+Les volontaires féminines sont soumises, en matière de discipline, d'avancement, de permissions, de soins médicaux, de
+rémunération et d'avantages sociaux, ainsi qu'en ce qui concerne la couverture des risques, aux dispositions qui régissent la
 forme du service national où elles sont affectées.
 
-Elles bénéficient des droits prévus au chapitre IV du titre II de la première partie du code de service national lorsqu'elles
-ont accompli le service national.
+Elles bénéficient des droits prévus au chapitre IV du titre II du livre II de la première partie du code du service national
+lorsqu'elles ont accompli le service national.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -18735,8 +22431,12 @@ ont accompli le service national.
 
 	**Modifié par**:
 
-	  - Décret n°74-759 1974-08-30 art. 8 JORF 4 septembre 1974
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984 rectificatif JORF 4 septembre 1984
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18761,11 +22461,22 @@ Elles peuvent prétendre à l'allocation pour jeune enfant définie aux articles
 sociale dans les conditions prévues par ces articles et par l'article L. 534-1 dudit code. Le versement de cette prestation
 est assuré par la caisse d'allocations familiales du lieu de résidence.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 62 () JORF 3 décembre 1992
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
@@ -18785,13 +22496,20 @@ est assuré par la caisse d'allocations familiales du lieu de résidence.
 	  - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-## TITRE V : Dispositions communes aux formes civiles du service national
+### Titre V : Dispositions communes aux formes civiles du service national
 
 ###### Article R*234
 
 Les dispositions des articles R. 110 à R. 114, R. 116 à R. 118 et R. 120 sont applicables aux personnes effectuant une forme
 civile du service national ainsi qu'à leurs ayants droit. Les allocations prévues auxdits articles sont attribuées et versées
 selon les modalités fixées par instruction du ministre responsable.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -18801,8 +22519,11 @@ selon les modalités fixées par instruction du ministre responsable.
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
-	  - Décret n°89-926 1989-02-15 art. 2 JORF 27 décembre 1989
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 	**Codifié par**:
 
