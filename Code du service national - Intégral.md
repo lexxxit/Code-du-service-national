@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1998-09-01
+Version Consolidée au 1998-11-27
 
 # Partie législative
 
@@ -9731,26 +9731,20 @@ situation familiale, scolaire, universitaire ou professionnelle, notamment en vu
 préparation à la défense et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
 cette démarche, elle peut l'être par leur représentant légal.
 
-Cette démarche peut être effectuée par les jeunes étrangers mentionnés au deuxième alinéa de l'article L. 113-3.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du service national - art. L113-3 (M)
+	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
 
 	**Cité par**:
 
@@ -9783,12 +9777,13 @@ la décision a force de chose jugée.
 
 ###### Article R*111-3
 
-Les personnes qui, en vertu des lois sur la nationalité, bénéficient de la faculté de répudier la nationalité française, sont
-inscrites sur les listes de recensement à partir de l'âge de seize ans, dès lors qu'elles se présentent à la mairie de leur
-domicile ou à leur consulat de rattachement.
+Les personnes qui, en vertu des lois sur la nationalité, bénéficient de la faculté de décliner ou de répudier la nationalité
+française, sont inscrites sur les listes de recensement à partir de l'âge de seize ans, dès lors qu'elles se présentent à la
+mairie de leur domicile ou à leur consulat de rattachement.
 
-Celles qui, ayant la faculté de répudier la nationalité française, n'ont pas exercé leur droit dans les délais prévus par la
-loi, sont tenues de se faire recenser dans le mois qui suit la date d'expiration du délai ouvert pour l'exercer.
+Celles qui, ayant la faculté de décliner ou de répudier la nationalité française, n'ont pas exercé leur droit dans les délais
+prévus par la loi, sont tenues de se faire recenser dans le mois qui suit la date d'expiration du délai ouvert pour
+l'exercer.
 
 **Liens relatifs à cet article**
 
@@ -9796,14 +9791,14 @@ loi, sont tenues de se faire recenser dans le mois qui suit la date d'expiration
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
 
 
 ###### Article R*111-4
@@ -10279,20 +10274,28 @@ parmi les dates proposées celle qu'ils ont choisie.
 A défaut de réponse au préavis d'appel, l'administration peut fixer la date de convocation, dans un délai de deux à six mois
 à compter de la date d'expiration du délai de réponse mentionné à l'alinéa ci-dessus.
 
+Les personnes qui, en vertu des lois sur la nationalité, n'ont pas exercé leur droit de décliner ou de répudier la
+nationalité française reçoivent leur préavis d'appel dans les conditions fixées par l'article L. 114-4, pour participer à
+l'appel de préparation à la défense avant leur vingtième anniversaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
+
+	**Cite**:
+
+	  - Code du service national - art. L114-4 (V)
 
 
 ###### Article R*112-3
