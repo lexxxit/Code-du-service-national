@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1989-09-27
+Version Consolidée au 1989-12-27
 
 # Partie législative
 
@@ -7036,6 +7036,36 @@ effet, un compte particulier alimenté par une subvention de l'Etat.
 	  - Code du service national R111 à R114
 
 
+###### Article R116
+
+L'allocation journalière visée au 1° de l'article R. 112 est égale au montant minimum de l'indemnité journalière prévue au 5°
+de l'article L. 321-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°77-1217 1977-10-28 art. 3 JORF 8 novembre 1977
+	  - Décret n°89-926 1989-02-15 art. 1 JORF 27 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R112 (M)
+	  - Code de la sécurité sociale. - art. L321-1 (M)
+
+
 ###### Article R117
 
 L'allocation d'invalidité visée au 2° de l'article R. 112 est égale au montant minimum de la pension d'invalidité prévue aux
@@ -10896,6 +10926,39 @@ ont accompli le service national.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+
+## TITRE V : Dispositions communes aux formes civiles du service national
+
+###### Article R*234
+
+Les dispositions des articles R. 110 à R. 114, R. 116 à R. 118 et R. 120 sont applicables aux personnes effectuant une forme
+civile du service national ainsi qu'à leurs ayants droit. Les allocations prévues auxdits articles sont attribuées et versées
+selon les modalités fixées par instruction du ministre responsable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 8
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+	  - Décret n°89-926 1989-02-15 art. 2 JORF 27 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R120 (M)
+	  - Code du service national R110 à R114, R116 à R118, R120
 
 
 # Annexes
