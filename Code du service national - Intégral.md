@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1981-03-10
+Version Consolidée au 1982-12-31
 
 # Partie législative
 
@@ -4709,6 +4709,29 @@ cet effet.
 
 	  - Code du service national - art. L138 (M)
 	  - Code du service national - art. L41 (Ab)
+
+
+###### Article R79
+
+Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] relèvent du ministre des affaires sociales et de la
+solidarité nationale.
+
+Ils sont placés pour emploi, par décision du ministre, sous l'autorité des responsables de l'encadrement de la formation
+civile d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-805 1972-08-17 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R80
