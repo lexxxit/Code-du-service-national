@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1974-09-04
+Version Consolidée au 1975-09-02
 
 # Partie législative
 
@@ -4229,6 +4229,42 @@ géographiques déterminées, soit dans des locaux mis à leur disposition par l
 	  - Code du service national - art. R78 (Ab)
 
 
+###### Article R83
+
+Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] ne doivent participer à aucune activite ou réunion à
+caractère politique ou syndical [*interdiction*].
+
+Ils doivent [*obligation*] obtenir l'autorisation du ministre [*de l'agriculture*] [*autorité compétente*] lorsqu'ils
+désirent évoquer publiquement des questions politiques ou mettant en cause une puissance étrangère ou une organisation
+internationale.
+
+Toutefois, et sous-réserve des inéligibilités prévues par la loi, ces jeunes gens peuvent être candidats à toute fonction
+publique élective. En ce cas, les dispositions figurant aux deux premiers alinéas du présent article ne leur sont pas
+opposables et l'interdiction d'adhésion à un parti politique est suspendue pour la durée de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-805 1972-08-17 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R78 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°75-807 1975-08-29 art. 1 JORF 2 septembre 1975
+
+
 ###### Article R84
 
 Toute réclamation collective ou manifestation collective, toute cessation concertée du travail sont interdites.
@@ -7032,6 +7068,34 @@ responsable.
 	  - Décret n°72-806 1972-08-31
 
 
+###### Article R220
+
+En cas d'hospitalisation hors de France, l'indemnité forfaitaire est ramenée à 25 p. 100 de son montant dans le département,
+le territoire ou l'Etat de séjour.
+
+En cas d'hospitalisation en métropole, cette indemnité est égale à 15 p. 100 du taux de base minimum.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-210 1967-03-10 art. 22
+	  - Décret n°67-209 1967-03-10 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R227 (V)
+
+	**Modifié par**:
+
+	  - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
+
+
 ##### PARAGRAPHE 6 : Inaptitude physique.
 
 ###### Article R221
@@ -7136,6 +7200,32 @@ fixée par arr^eté du ministre responsable sur proposition du représentant loc
 	**Cite**:
 
 	  - Code du service national - art. R206 (M)
+
+
+###### Article R225
+
+Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité forfaitaire égale à 50 p. 100 du taux
+de base minimum. Lorsqu'ils sont en permission normale ou en permission de convalescence en tant que rapatriés sanitaires,
+soit dans un Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire égale à 15 p. 100 du taux de base
+minimum.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-209 1967-03-10 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
 #### SECTION III : Dispositions particulières au service de la coopération.
