@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-07-09
+Version Consolidée au 1983-09-15
 
 # Partie législative
 
@@ -4785,6 +4785,101 @@ l'intéressé par le délégué du Gouvernement. Une copie de cette décision es
 
 ##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.
 
+###### Article R*68-1
+
+Le jeune homme dont le cas est prévu au quatrième ou au cinquième alinéa de l'article L. 32 peut joindre à l'appui de la
+déclaration de recensement prévue à l'article R. 28, et au plus tard trente jours après cette déclaration, une demande de
+dispense des obligations du service national actif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+	  - Code du service national L32, R28
+
+
+###### Article R*68-2
+
+La demande de dispense est transmise par le maire, avec son avis, au préfet du département qui procède à son instruction et
+la transmet, avec son avis, à la commission régionale prévue à l'article L. 32.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+
+
+###### Article R*68-3
+
+Dans le cas prévu au quatrième alinéa de l'article L. 32, la demande de dispense doit être accompagnée de toutes
+justifications relatives notamment à la date du décès ou à l'incapacité invoquée ainsi que d'une attestation délivrée, selon
+le cas, par la chambre d'agriculture, la chambre de commerce ou la chambre des métiers certifiant qu'à la suite du décès ou
+de l'incapacité invoquée, l'incorporation entraînerait l'arrêt de l'exploitation familiale. L'organisme donne son avis sur le
+point de savoir si, seul, le futur appelé est en mesure d'en assurer le fonctionnement.
+
+Dans le cas prévu au cinquième alinéa de l'article L. 32, la demande de dispense doit être accompagnée de toutes
+justifications concernant la qualité de chef d'entreprise, la date et les modalités d'acquisition de cette qualité,
+l'existence et le nombre de salariés et la date de leur embauche. Elle doit être également accompagnée de l'avis, selon le
+cas, de la chambre d'agriculture, de la chambre de commerce ou de la chambre des métiers au sujet des conséquences d'une
+éventuelle incorporation sur l'emploi des salariés et sur l'activité de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
+
+
+###### Article R*68-4
+
+Lorsque le décès ou l'incapacité survient après la déclaration de recensement ou lorsque la qualité de chef d'entreprise
+depuis deux ans au moins n'est acquise que postérieurement à cette m^eme déclaration, la demande de dispense des obligations
+du service national actif est adressée, dans les délais prévus à l'article L. 33, au commandant du bureau de recrutement dont
+relève l'intéressé qui en assure la transmission au préfet.
+
+L'intéressé est placé, le cas échéant, en appel différé jusqu'à l'intervention de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L33 (M)
+
+
 ###### Article R*68-5
 
 Dans le cas d'incapacité d'un parent ou beau-parent, le préfet peut demander la production d'un certificat médical délivré
@@ -4799,6 +4894,32 @@ par un médecin assermenté.
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*68-6
+
+Dans le cas prévu au quatrième alinéa de l'article L. 32, la dispense ne peut ^etre accordée, lorsqu'il ressort de
+renseignements portant sur le patrimoine et le train de vie du jeune homme et de sa famille, ainsi que sur les revenus à
+provenir de l'exploitation, que malgré l'incorporation du requérant, la marche de l'entreprise peut continuer à ^etre assurée
+en raison des possibilités financières de remplacement de l'intéressé.
+
+Dans le cas prévu au cinquième alinéa de l'article L. 32, la dispense ne peut ^etre accordée lorsque, malgré l'incorporation
+du requérant, la marche de l'entreprise peut continuer à ^etre assurée en raison des possibilités de remplacement de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L32 (M)
 
 
 ##### PARAGRAPHE 3 : Résidence à l'étranger.
@@ -6301,6 +6422,27 @@ d'autre part, de l'année et du mois au cours desquels ils seront tenus d'effect
 
 ##### PARAGRAPHE 3 : Gendarmes auxiliaires.
 
+###### Article R*128
+
+Les appelés dont la candidature a été retenue par le ministre chargé de la défense nationale servent en qualité de gendarmes
+auxiliaires. Ils reçoivent une instruction militaire de base avant d'effectuer un stage de formation spécialisée permettant
+leur emploi dans la gendarmerie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1347 1970-12-23 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R*129
 
 Les gendarmes auxiliaires sont soumis aux règles et au régime administratif applicables aux autres jeunes gens qui effectuent
@@ -6311,6 +6453,32 @@ le service militaire actif sous réserve des dispositions du présent paragraphe
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*130
+
+Les gendarmes auxiliaires participent à l'exécution des missions de la gendarmerie. Ils assistent les militaires de la
+gendarmerie sous les ordres desquels ils sont placés. Ils peuvent ^etre affectés à des t^aches leur permettant de participer
+au maintien de la sécurité publique ou à des t^aches à caractère technique auxquelles les a préparés leur formation
+professionnelle.
+
+Dans l'exercice de leurs fonctions, ils n'ont pas compétence pour établir des actes relevant de l'exercice de la police
+judiciaire ou de la police administrative. Ils ne peuvent participer à des opérations de maintien de l'ordre autrement que
+dans les cas où il peut ^etre fait appel à la troupe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1347 1970-12-23 art. 4
 
 	**Codifié par**:
 
