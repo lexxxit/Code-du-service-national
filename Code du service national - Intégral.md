@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1987-07-11
+Version Consolidée au 1987-07-14
 
 # Partie législative
 
@@ -10155,6 +10155,37 @@ forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en n
 	**Cite**:
 
 	  - Code du service national - art. R206 (M)
+
+
+###### Article R227
+
+Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité égale à 75 p. 100 du montant de
+l'élément commun.
+
+Lorsque, hors de l'Etat de séjour, ils sont en permission, les intéressés reçoivent une indemnité égale à 25 p. 100 du
+montant de l'élément commun.
+
+Lorsque, hors de l'Etat de séjour, ils sont en permission de convalescence en tant que rapatriés sanitaires, les intéressés
+reçoivent une indemnité égale au montant de l'élément commun.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-210 1967-03-10 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
+	  - Décret n°87-527 1987-07-08 art. 1 JORF 14 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ### CHAPITRE IV : Service des objecteurs de conscience.
