@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1985-09-02
+Version Consolidée au 1985-09-03
 
 # Partie législative
 
@@ -4119,6 +4119,215 @@ fixée par arr^eté du ministre chargé de la défense nationale, en tenant comp
 obtenus.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+### CHAPITRE II : Dispositions particulières a certains emplois du service national.
+
+###### Article R*23
+
+Les emplois au titre desquels peut ^etre accordé le bénéfice de l'article L. 9 aux jeunes gens qui demandent à ^etre appelés
+pour accomplir leurs obligations légales du service national actif dans les conditions fixées audit article sont les
+suivants :
+
+1° Au titre du service militaire : emploi d'études, d'expérimentation, de recherche ou d'enseignement dans les laboratoires
+ou autres organismes dépendant du ministère de la défense ;
+
+2° Au titre du service de l'aide technique dans les départements et territoires d'outre-mer : emplois de moniteurs, de
+techniciens, d'enseignants, de chercheurs, d'ingénieurs ou de cadres supérieurs dans les secteurs de l'enseignement et des
+activités culturelles, scientifiques, économiques, administratives, sanitaires et sociales dans les services de l'Etat, des
+collectivités publiques locales ou des organismes publics relevant de ces services : dans des organismes, associations ou
+oeuvres à but non lucratif concourant au développement des départements ou territoires d'outre-mer ;
+
+3° Au titre du service de la coopération dans un Etat étranger :
+
+emplois visés au 2° ci-dessus, dans les services ou organismes publics dépendant de cet Etat ; dans les services publics
+français, les organismes, associations ou oeuvres à but non lucratif et dans les entreprises françaises concourant au
+développement de cet Etat ; dans les organismes internationaux dont la France fait partie et qui exercent une activité de
+coopération dans cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-727 1972-08-01 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°85-928 1985-08-28 art. 1 JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L9 (M)
+
+
+###### Article R*24
+
+Les qualifications professionnelles requises des jeunes gens visés à l'article R.[* 23 sont les suivants :
+
+1° Emplois au titre du service militaire :
+
+a) Lors du dépôt de la demande, être titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
+réglementairement admis en dispense en vue de l'inscription dans les universités et, en outre, dans la filière d'enseignement
+correspondant à l'emploi sollicité, avoir effectué avec succès au moins une année d'études supplémentaires ; cette demande
+est accompagnée d'une attestation du directeur d'études compétent ;
+
+b) Pour occuper l'emploi au titre duquel la candidature a été agréée, avoir obtenu, au moins, selon les emplois :
+
+- soit un diplôme d'ingénieur reconnu par la commission des titres d'ingénieur ou un diplôme d'architecte délivré par le
+Gouvernement ou par une école reconnue par l'Etat ;
+
+- soit la maîtrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
+laboratoires ou organismes visés à l'article R.*] 23-1° ;
+
+- soit le certificat de fin de scolarité d'une école nationale vétérinaire ;
+
+2° Emplois au titre du service de l'aide technique ou du service de la coopération :
+
+a) Jeunes gens ne sollicitant pas le report d'incorporation prévu à l'article L. 9 : posséder au moment de leur incorporation
+tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
+
+b) Jeunes gens sollicitant le report d'incorporation prévu à l'article L. 9 : remplir les conditions définies au a du 1° ci-
+dessus lors du dépôt de la demande ; posséder tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article
+R.*] 23 au moment de l'incorporation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-727 1972-08-01 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°85-928 1985-08-28 art. 2 JORF 3 septembre 1972
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L9 (M)
+	  - Code du service national R23, L9
+
+
+###### Article R*25
+
+Les jeunes gens qui souhaitent bénéficier des dispositions du premier alinéa de l'article L. 9 peuvent présenter leur demande
+d'agrément à tout moment de l'année au ministre responsable.
+
+Si, après agrément suivi de l'attribution d'un poste, le candidat refuse l'emploi auquel il est ainsi affecté, le ministre
+responsable peut mettre fin à l'étude de cette candidature.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-727 1972-08-01 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°85-928 1985-08-28 art. 3 JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L9 (M)
+
+
+###### Article R*26
+
+La commission chargée par l'article L. 9 d'émettre un avis sur les candidatures impliquant l'octroi d'un report
+d'incorporation est ainsi composée :
+
+Un conseiller d'Etat, président, désigné par le Premier ministre ;
+
+Six représentants du ministre chargé de la défense nationale ;
+
+Trois représentants du ministre des affaires étrangères ;
+
+Trois représentants du ministre de la coopération ;
+
+Deux représentants du ministre chargé des départements et territoires d'outre-mer ;
+
+Un représentant du ministre de l'éducation.
+
+Des suppléants sont désignés pour chacun des titulaires visés à l'alinéa précédent.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+La commission peut constituer en son sein des sections chargées d'instruire les candidatures impliquant l'octroi d'un report
+d'incorporation.
+
+Le secrétariat de la commission et des sections est assuré par le service central du recrutement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-727 du 1 août 1972 - art. 4, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°75-828 1975-09-02 art. 2 JORF 7 septembre 1975
+	  - Décret n°85-928 1985-08-28 art. 4 JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L9 (M)
+
+
+###### Article R*27
+
+La commission, en tenant compte du niveau technique, professionnel ou universitaire atteint par les jeunes gens, émet un avis
+sur les candidatures impliquant l'octroi d'un report d'incorporation en fonction de la qualification nécessaire pour tenir
+les emplois demandés et des besoins quantitatifs et qualitatifs exprimés chaque année par le Gouvernement.
+
+La commission transmet son avis au ministre responsable qui statue sur ces candidatures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-727 1972-08-01 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°85-928 1985-08-28 art. 4 JORF 3 septembre 1985
 
 	**Codifié par**:
 
@@ -9305,6 +9514,58 @@ Une commission est instituée afin de connaître de la gestion du régime des ob
 organismes habilités et des associations concernées par l'objection de conscience. Sa composition est définie par arrêté.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 6 : Missions en temps de guerre.
+
+###### Article R227-19
+
+En temps de guerre, les objecteurs de conscience participent notamment à l'exécution des missions suivantes :
+
+1° L'information, l'évacuation, l'hébergement et la mise à l'abri de la population civile ;
+
+2° L'aide à la circulation ;
+
+3° Le sauvetage des victimes, les premiers secours et le transport des blessés ;
+
+4° La lutte contre les incendies et les temp^etes de feux ;
+
+5° La désinfection et la décontamination ;
+
+6° Le déblaiement des décombres ;
+
+7° Le rétablissement des moyens de communication et de transmission ;
+
+8° La protection de l'environnement et du patrimoine artistique, culturel et scientifique de la nation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-929 1985-08-28 art. 1 JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R227-20
+
+En temps de guerre, les objecteurs de conscience peuvent demander au ministre chargé des armées leur incorporation dans une
+formation militaire.
+
+Cette demande vaut renonciation au bénéfice des dispositions du chapitre IV du titre III de la partie législative du code du
+service national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-929 1985-08-28 art. 1 JORF 3 septembre 1985
 
 	**Codifié par**:
 
