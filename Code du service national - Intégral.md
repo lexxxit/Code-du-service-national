@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-04-26
+Version Consolidée au 1983-07-09
 
 # Partie législative
 
@@ -116,6 +116,32 @@ engagement, une durée de service au moins égale à la durée légale de ce ser
 
 ##### Section I : Recensement.
 
+###### Article L15
+
+En vue de l'accomplissement du service national, les jeunes Français du sexe masculin âgés de dix-sept ans sont soumis, dans
+les conditions fixées par décret en Conseil d'Etat, à des obligations de recensement et de déclaration concernant leur état
+civil et leur situation familiale et professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-550 1965-07-09 art. 6
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Arrêté du 11 avril 1990 - art. 2 (V)
+	  - Arrêté du 22 janvier 1991 - art. 2 (M)
+	  - Code du service national - art. L16 (V)
+	  - Code du service national - art. L20 (V)
+	  - Code du service national - art. L33 (V)
+	  - Code du service national - art. R*60 (M)
+
+
 ###### Article L16
 
 Les jeunes gens qui ont eu la faculté de répudier ou de décliner la nationalité française et qui n'ont pas usé de cette
@@ -171,6 +197,27 @@ celle-ci leur a été reconnue.
 	**Anciens textes**:
 
 	  - Loi n°1928-03-31 art. 13 al. 1
+
+
+###### Article L18
+
+Les jeunes gens qui sont inscrits au cours d'une même année civile sur les listes de recensement constituent une classe de
+recrutement.
+
+Les jeunes gens reçoivent du ministre chargé des armées une carte du service national et, à partir du moment où ils sont
+libérés du service actif, un titre de mobilisation. Ils sont tenus de présenter ces pièces à toute réquisition des autorités
+militaires, judiciaires ou civiles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 29 al. 3
+	  - Loi n°1932-12-13 art. 75 al. 2 et al. 3
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
 
 
 ###### Article L19
@@ -360,7 +407,147 @@ peuvent être affectés à un emploi de défense s'ils présentent l'aptitude, m
 	  - Loi n°71-424 1971-06-10
 
 
+###### Article L30
+
+Les jeunes gens qui auront reçu application des dispositions de l'article L. 10 et qui ne rempliraient plus, par la suite,
+les conditions d'aptitude physique prévues pour leur emploi peuvent être mis à la disposition du ministre de la santé
+publique et de la sécurité sociale pour une durée de douze mois.
+
+Ils sont soumis à un statut particulier fixé par la loi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-596 du 9 juillet 1970 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Abrogé par**:
+
+	  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+	**Cité par**:
+
+	  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
+
+
 ##### Section II : Dispenses.
+
+###### Article L32
+
+Peuvent être dispensés des obligations du service national actif les jeunes gens qui sont classés soutien de famille,
+notamment parce qu'ils ont la charge effective d'une ou plusieurs personnes qui ne disposeraient plus de ressources
+suffisantes si les jeunes gens étaient incorporés.
+
+Les diverses catégories auxquelles s'applique la qualité de soutien de famille et la procédure permettant de l'établir sont
+définies par décret en Conseil d'Etat.
+
+Un décret détermine, en fonction des nécessités du service, les conditions d'application de ces dispenses.
+
+Peuvent également être dispensés des obligations du service national actif les jeunes gens dont l'incorporation aurait, par
+suite du décès d'un de leurs parents ou beaux-parents ou de l'incapacité de l'un de ceux-ci, pour effet l'arrêt de
+l'exploitation familiale à caractère agricole, commercial ou artisanal, notamment lorsque les ressources de l'exploitation ne
+permettraient pas d'en assurer le fonctionnement en l'absence de l'intéressé.
+
+Peuvent, en outre, demander à être dispensés des obligations du service national actif les jeunes gens, chefs d'une
+entreprise depuis deux ans au moins, dont l'incorporation aurait des conséquences inévitables sur l'emploi de salariés par
+cessation de l'activité de cette entreprise.
+
+Un décret en Conseil d'Etat détermine les conditions d'application de ces dispositions. "
+
+Dans le cadre de ces dispositions, il est statué sur les demandes de dispense par une décision d'une commission régionale
+comprenant, sous la présidence du préfet de région ou, à défaut, d'un préfet ou d'un sous-préfet en exercice dans la région,
+le représentant, le général commandant la division militaire ou son représentant, un conseiller général, un magistrat et le
+chef du service régional de l'action sanitaire et sociale ou son représentant. La commission entend, à leur demande, les
+jeunes gens intéressés ainsi que, le cas échéant, leur représentant légal et le maire de leur commune ou son délégué.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-550 1965-07-09 art. 18 al. 1, al. 2 et al. 3
+	  - Loi n°70-596 1970-07-09 art. 17 par. 2
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°76-617 du 9 juillet 1976 - art. 23 () JORF 10 juillet 1976
+
+	**Cité par**:
+
+	  - Arrêté du 10 mars 1995 - art. 1 (V)
+	  - Code du service national - art. L13 (Ab)
+	  - Code du service national - art. L33 (V)
+	  - Code du service national - art. L34 (V)
+	  - Code du service national - art. L35 (V)
+	  - Code du service national - art. L39 (V)
+	  - Code du service national - art. L5 bis A (V)
+	  - Code du service national - art. L5 ter (V)
+	  - Code du service national - art. R*32 (Ab)
+	  - Code du service national - art. R*55 (V)
+	  - Code du service national - art. R*56 (V)
+	  - Code du service national - art. R*58 (V)
+	  - Code du service national - art. R*59 (V)
+	  - Code du service national - art. R*59-1 (V)
+	  - Code du service national - art. R*59-2 (V)
+	  - Code du service national - art. R*59-3 (V)
+	  - Code du service national - art. R*60 (V)
+	  - Code du service national - art. R*63 (V)
+	  - Code du service national - art. R*64 (V)
+	  - Code du service national - art. R*65 (V)
+	  - Code du service national - art. R*68 (V)
+	  - Code du service national - art. R*68-1 (V)
+	  - Code du service national - art. R*68-2 (V)
+	  - Code du service national - art. R*68-3 (V)
+	  - Code du service national - art. R*68-6 (V)
+	  - Code du service national - art. R9 (V)
+
+
+###### Article L32 bis
+
+Pour la reconnaissance de la qualité de soutien de famille des jeunes gens chargés de famille, il est tenu compte, d'une
+part, de leur situation familiale et, d'autre part, du montant des ressources dont ils disposeraient, notamment en
+application de l'article 156 du code de la famille et de l'aide sociale, en cas d'appel sous les drapeaux, à l'exclusion de
+celles résultant du produit des obligations alimentaires dont leur famille serait susceptible de bénéficier.
+
+Est considéré comme chargé de famille, au sens de l'alinéa précédent, le jeune homme ayant la charge effective d'au moins un
+enfant, qu'il s'agisse d'un enfant légitime, d'un enfant naturel reconnu ou de l'enfant d'une femme dont le jeune homme est
+devenu l'époux.
+
+Les jeunes gens mariés incorporables dont l'épouse, lors de leur appel, se trouve en état de grossesse médicalement certifié
+font l'objet, sur leur demande, d'une décision différant leur appel jusqu'à la naissance de l'enfant. Ils pourront à ce
+moment demander à être reconnus comme soutien de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°76-617 du 9 juillet 1976 - art. 22 () JORF 10 juillet 1976
+
+	**Cité par**:
+
+	  - Code du service national - art. R*55 (M)
+	  - Code du service national - art. R*57 (M)
+	  - Code du service national - art. R*58 (M)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
+
 
 ###### Article L33
 
@@ -446,6 +633,35 @@ agricole, commercial ou artisanal pour quelque raison que ce soit.
 	  - Code du service national - art. L32 (M)
 
 
+###### Article L36
+
+Exceptionnellement, une dispense des obligations du service national actif ou une libération anticipée de ce service peut
+être accordée, dans la mesure compatible avec les besoins de ce service, à des jeunes gens exerçant une activité essentielle
+pour la collectivité et dont la situation est considérée comme critique. Ces jeunes gens doivent s'engager à poursuivre cette
+activité pendant une durée déterminée et sous le contrôle de l'administration.
+
+La durée, le champ d'application et les conditions d'attribution de ces mesures ainsi que la nature et la durée des
+obligations de leurs bénéficiaires sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-550 1965-07-09 art. 19
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°90-988 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°90-988 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°90-988 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°90-988 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°90-988 du 18 octobre 1990
+
+
 ###### Article L37
 
 Les jeunes Français résidant effectivement à l'âge de dix-huit ans dans certains pays étrangers dont la liste est fixée par
@@ -480,6 +696,69 @@ appelés au service actif dans cet Etat.
 	  - Code du service national - art. R74 (V)
 
 
+###### Article L38
+
+Sauf dispositions plus favorables prévues par une convention internationale, les jeunes gens qui sont à la fois Français et
+ressortissants d'un Etat étranger sont dispensés des obligations du service actif en temps de paix :
+
+a) A l'âge de vingt et un ans, s'ils prouvent qu'ils ont eu leur résidence habituelle sans interruption de dix-huit à vingt
+et un ans sur le territoire de l'Etat étranger dont ils sont ressortissants et qu'ils sont en règle avec la loi de
+recrutement de cet Etat ou que le service militaire obligatoire n'y est pas institué ;
+
+b) A toute époque, dans le cas où l'Etat étranger dont ils sont ressortissants est lié à la France par un traité d'alliance
+ou un accord de défense, s'ils prouvent qu'ils ont dû se soumettre à la loi de recrutement de cet Etat ou qu'ils ont
+contracté un engagement dans l'armée dudit Etat ;
+
+c) A toute époque, s'ils quittent provisoirement leur pays de résidence pour venir accomplir en France des études supérieures
+alors qu'ils ont déjà accompli leur service obligatoire dans leur pays de résidence ou qu'ils y ont obtenu un sursis
+d'incorporation au titre de ces études.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°92-277 du 24 mars 1992
+	  - TXT_SOURCE: Décret n°92-277 du 24 mars 1992 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code du service national - art. R75 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 99
+	  - Loi n°65-550 1965-07-09 art. 47
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°73-625 1973-07-10 art. 10-I JORF 11 juillet 1973
+
+
+###### Article L39
+
+Les jeunes gens dispensés au titre des articles L. 31 et L. 32 peuvent, s'ils sont reconnus aptes au service national actif,
+faire acte de volontariat pour être soumis aux obligations de la forme de service national actif de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-550 1965-07-09 art. 22
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cite**:
+
+	  - Code du service national - art. L31 (M)
+	  - Code du service national - art. L32 (M)
+
+
 ###### Article L40
 
 En vue de leur emploi dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, les
@@ -500,207 +779,6 @@ service militaire, soit dans le service de défense.
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
-
-
-##### Section III : Objecteurs de conscience.
-
-###### Article L41
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 1
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-	**Cité par**:
-
-	  - Code du service national - art. R21 (M)
-	  - Code du service national - art. R78 (Ab)
-
-
-###### Article L42
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 2 al. 1 et al. 2
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L43
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 du 21 décembre 1963 - art. 3, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L44
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 4
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L45
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 5
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L46
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 6 al. 1, al. 2, al. 3 et al. 4
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L47
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 7
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L48
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 7
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L49
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 9
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-###### Article L50
-
-(Abrogé par la loi n° 83-605 du 8 juillet 1983, art. 1er-XVII)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°63-1255 1963-12-21 art. 11
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
 
 
 ##### Section IV : Condamnés.
@@ -962,6 +1040,31 @@ commission de réforme, soit à tout moment à la requête de l'intéressé, dem
 
 
 #### Chapitre IV : Droits résultant de l'accomplissement du service national actif.
+
+###### Article L62 bis
+
+La réglementation des conditions d'admission ou de poursuite des études dans les établissements d'enseignement et, en
+particulier, dans ceux qui recrutent par voie de concours, sera établie ou aménagée, notamment en matière de limite d'âge, de
+manière que les jeunes gens qui, après avoir interrompu leurs études ou leur formation professionnelle pour accomplir leur
+service national, reprennent ces études ou cette formation à l'issue de leur service actif, ne puissent être privés des
+dispositions dont ils auraient pu bénéficier s'ils n'avaient pas accompli le service national actif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Anciens textes**:
+
+	  - Loi n°73-625 du 10 juillet 1973 - art. 11, v. init.
+
+	**Cité par**:
+
+	  - Arrêté du 6 décembre 2004 - art. 2 (VT)
+	  - Arrêté du 16 mars 2011 - art. 2 (VT)
+	  - Arrêté du 8 juin 2012 - art. 2 (V)
+
 
 ###### Article L63
 
@@ -1276,6 +1379,61 @@ peuvent recevoir un complément d'instruction générale et de formation profess
 	  - Code du service national L73 à L75
 
 
+###### Article L72-1
+
+Les jeunes gens peuvent demander à prolonger leur service militaire actif au-delà de la durée légale pour une période de
+quatre à douze mois.
+
+Cette demande, formulée dès avant l'appel sous les drapeaux ou, au plus tard, avant la fin du service actif, est soumise à
+l'agrément de l'autorité militaire. Elle est renouvelable une fois sans que la durée totale des services puisse excéder
+vingt-quatre mois.
+
+La demande peut être retirée tant qu'elle n'a pas été acceptée par l'autorité militaire ainsi que dans le mois qui suit cette
+acceptation, ce délai ne courant qu'à partir de l'incorporation. En cas de modification de sa situation personnelle ou
+familiale, l'intéressé peut demander au ministre chargé des armées la résiliation de son acte de volontariat.
+
+Nonobstant toute disposition contraire, les volontaires gardent la qualité d'appelé pendant le temps où ils se trouvent sous
+les drapeaux.
+
+La période de volontariat entre dans le calcul des pensions de vieillesse. Elle donne droit aux avantages prévus au deuxième
+alinéa de l'article L. 63 et à l'article L. 64, ainsi qu'à une priorité dans l'application des articles L. 65 et L. 66.
+
+Un décret fixe la rémunération des appelés dont la demande de volontariat est acceptée ainsi que les conditions dans
+lesquelles un pécule leur est attribué en fin de service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1987
+	  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 1 (M)
+	  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 4 (V)
+	  - Code du service national - art. L94-9 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°92-9 du 4 janvier 1992 - art. 19 () JORF 7 janvier 1992
+
+	**Cite**:
+
+	  - Code du service national - art. L63 (M)
+	  - Code du service national - art. L64 (M)
+	  - Code du service national - art. L65 (M)
+	  - Code du service national - art. L66 (Ab)
+
+
 ###### Article L73
 
 Des unités militaires peuvent être chargées, à titre de mission secondaire et temporaire, de tâches de protection civile ou
@@ -1297,6 +1455,27 @@ budget des ministères intéressés.
 	**Cité par**:
 
 	  - Décret n°90-670 du 31 juillet 1990 - art. 24 (Ab)
+
+
+###### Article L74
+
+Les jeunes gens peuvent demander à accomplir leur service actif en qualité de gendarme auxiliaire. Ils reçoivent une
+instruction leur permettant d'être admis, à l'issue de leurs obligations légales, dans la gendarmerie ou dans ses réserves.
+Le nombre de jeunes gens appelés dans la gendarmerie ne peut dépasser 15 p. 100 des effectifs de cette arme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-596 du 9 juillet 1970 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
 
 
 ###### Article L75
@@ -1891,160 +2070,80 @@ la France et l'Etat de séjour.
 
 ## LIVRE II
 
-### TITRE II : Dispositions communes aux différentes formes de service national
+### TITRE Ier : Définition et principes du service national
 
-#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national
+#### Chapitre II : Dispositions particulières à certains emplois du service national.
 
-##### Section III : Objecteurs de conscience.
+###### Article L11
 
-###### Article L41
+Les jeunes gens qui sollicitent le bénéfice d'un report d'incorporation au titre des articles L. 9 ou L. 10 doivent déposer
+leur demande avant le 1er janvier de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
 
-(Texte abrogé)
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-596 du 9 juillet 1970 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°73-625 1973-07-10 art. 6 JORF 11 juillet 1973
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L9 (M)
+
+
+###### Article L14
+
+Les décrets en conseil des ministres prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 portant
+organisation générale de la défense peuvent suspendre totalement ou partiellement l'application des dispositions du 2° de
+l'article L. 5 et des articles L. 5 bis, L. 9, L. 10 et L. 116-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 23 al. 10
+	  - Loi n°70-596 du 9 juillet 1970 - art. 10 (Ab)
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L116-2 (M)
+	  - Code du service national - art. L5 (M)
+	  - Code du service national - art. L5 bis (M)
+	  - Code du service national - art. L9 (M)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+
+### TITRE III : Dispositions particulières aux différentes formes du service national
+
+#### Chapitre IV : Service des objecteurs de conscience.
+
+###### Article L116-6
+
+La durée du service actif des jeunes gens visés au présent chapitre est de vingt-quatre mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 du 10 juin 1971 (V)
+	  - Loi n°71-424 1971-06-10
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°83-605 du 8 juillet 1983  art. 1, v. init.
-
-
-###### Article L42
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L43
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L44
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L45
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L46
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L47
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L48
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L49
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
-
-
-###### Article L50
-
-(Texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°83-605 du 8 juillet 1983 art. 1, v. init.
+	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983) A(Loi 92-9 1992-01-04 art. 3 JORF 7 janvier 1992
 
 
 ### TITRE IV : Dispositions pénales et disciplinaires
@@ -2301,6 +2400,39 @@ porté à trente jours à l'égard des marins de la marine marchande embarqués 
 	  - Loi n°1932-12-13 art. 99 al. 1 et al. 4
 
 
+###### Article L126
+
+En temps de guerre et dans les circonstances visées aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le délai
+fixé au premier alinéa de l'article L. 125 est réduit à deux jours.
+
+En cas de mobilisation, les assujettis qui, hors le cas de force majeure, ne se sont pas conformés aux mesures prescrites par
+l'ordre de route contenu dans leur titre de mobilisation pour assurer leur arrivée à destination, sont déclarés insoumis à
+l'expiration du même délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+	  - Code du service national - art. L125 (M)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Code du service national - art. L124 (V)
+	  - Code du service national - art. L136 (V)
+	  - Code du service national - art. R*201-19 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 90 al. 5 et art. 92 al. 4
+	  - Loi n°1932-12-13 art. 75 al. 2, art. 99 al. 1 et art. 101 al. 3
+
+
 ###### Article L127
 
 La prescription de l'action publique et des peines en matière d'insoumission s'applique dans les conditions fixées par les
@@ -2489,6 +2621,36 @@ national.
 
 ##### Paragraphe 4 : Infractions aux obligations dans la réserve.
 
+###### Article L133
+
+Tout assujetti au service national qui a refusé ou s'est mis dans l'impossibilité de recevoir sa carte du service national,
+son livret individuel, son titre ou tout autre document d'appel ou qui a détruit volontairement ces pièces après les avoir
+reçues ou qui a renvoyé ou s'est mis volontairement dans l'impossibilité de présenter ces pièces est puni d'un emprisonnement
+d'un mois à un an et d'une amende de 400 à 10 000 F ou de l'une de ces deux peines seulement et peut en outre être interdit
+pendant cinq ans au plus des droits énumérés à l'article 42 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 92
+	  - Loi n°1932-12-13 art. 75 al. 3 et art. 103
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
+	  - Code du service national - art. L134 (V)
+
+	**Cite**:
+
+	  - Code pénal 42
+
+
 ###### Article L134
 
 Quiconque incite au renvoi ou à la destruction des pièces visées à l'article L. 133, que cette incitation ait été ou non
@@ -2589,39 +2751,152 @@ du temps pendant lequel ils ont été insoumis.
 	  - Code du service national - art. L126 (M)
 
 
-#### Chapitre III : Dispositions particulières au service de défense.
+#### Chapitre II : Dispositions particulières au service militaire.
 
-###### Article L140
+###### Article L137
 
-L'inculpé servant sous statut de défense, justiciable de la juridiction militaire en vertu de l'article 139, est traduit
-devant la juridiction militaire compétente par application des articles 64, 71, 74, 76 et 77 du code de justice militaire.
+Les militaires qui sont tenus d'achever une punition ou qui ont subi certaines punitions d'arrêts ou d'arrêts de rigueur
+peuvent, dans les conditions fixées par le décret portant règlement de discipline générale dans les armées, être maintenus
+sous les drapeaux après la libération de leur fraction de contingent ou à l'expiration de leur engagement.
 
-Tant qu'ils n'accomplissent pas les services prévus à l'article 94, les personnels titulaires d'une affectation de défense ne
-sont justiciables des juridictions des forces armées que pour les faits d'insoumission définis à l'article 146 ; il leur est
-fait dans ce cas application des articles 141 à 144.
+La période de maintien sous les drapeaux est considérée comme une prolongation du service actif mais n'est pas prise en
+compte au titre des articles L. 63 et L. 64.
+
+Les militaires qui accomplissent leurs obligations d'activité du service national, absents irrégulièrement de leur unité
+d'affectation, peuvent être contraints de rejoindre leur poste par les officiers et sous-officiers de gendarmerie.
+
+A cet effet, ils sont mis en route dans les plus brefs délais et au maximum dans les quarante-huit heures aux fins de
+présentation à l'autorité militaire compétente pour régulariser leur situation.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Décret n°78-729 du 28 juin 1978 - art. 4 (V)
+	  - Code du service national - art. L135 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L63 (M)
+	  - Code du service national - art. L64 (M)
+
 	**Anciens textes**:
 
-	  - Loi n°62-861 1962-07-28 art. 1
+	  - Loi n°1928-03-31 art. 46
+	  - Loi n°1932-12-13 art. 55 al. 1 et al. 2
 
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
 
-	**Abrogé par**:
+	**Modifié par**:
 
+	  - Loi n°72-662 du 13 juillet 1972 - art. 110 () JORF 14 juillet 1972
 	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+
+
+#### Chapitre III : Dispositions particulières au service de défense.
+
+###### Article L139
+
+En temps de paix, les assujettis au service de défense relèvent, pour l'application du livre III du code de justice
+militaire, de la compétence des tribunaux de droit commun, dans les conditions prévues par les articles 697 à 698-8 du code
+de procédure pénale. En cas de guerre et en cas d'application de l'article L. 94, les assujettis au service de défense sont
+assimilés aux militaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-147 1959-01-07 art. 39
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
 
 	**Cite**:
 
-	  - Code de justice militaire - art. 64 (M)
-	  - Code de justice militaire - art. 71 (Ab)
-	  - Code de justice militaire - art. 74 (Ab)
-	  - Code de justice militaire - art. 76 (M)
-	  - Code de justice militaire - art. 77 (Ab)
-	  - Code du service national 139, 94, 146, 141 à 144
+	  - Code de procédure pénale 697 à 698-8
+	  - Code du service national - art. L94 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
+	  - Code du service national - art. R*167 (Ab)
+
+
+###### Article L141
+
+Toute infraction définie aux articles L. 397 à L. 476 du code de justice militaire, complétés par les articles L. 124 à L.
+128 du présent code, et commise par les personnes servant sous statut de défense, donne lieu à procès-verbal d'un officier ou
+d'un agent de police judiciaire.
+
+L'infraction doit être immédiatement signalée à la brigade de gendarmerie ou à l'autorité de police territorialement
+compétente par :
+
+a) Le commandant de la formation si l'intéressé appartient à un corps de défense ;
+
+b) Le directeur de l'administration ou le chef d'établissement si l'intéressé travaille dans une administration ou un
+établissement de l'Etat ou une collectivité publique ;
+
+c) Le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans un établissement ou une entreprise autre que
+ceux visés au paragraphe b ci-dessus ;
+
+d) L'autorité administrative de tutelle si l'intéressé travaille isolément.
+
+Le ministre chargé des armées est tenu informé par chaque ministre responsable des infractions commises par les personnes
+servant sous statut de défense ainsi que de la suite donnée aux poursuites engagées contre ces personnes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°62-861 1962-07-28 art. 2
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Décret n°90-670 du 31 juillet 1990 - art. 9 (Ab)
+	  - Code du service national - art. L116-4 (V)
+	  - Code du service national - art. L147 (Ab)
+	  - Code du service national - art. R227-8 (V)
+	  - Code du service national - art. R90 (Ab)
+
+	**Cite**:
+
+	  - Code de justice militaire L397 à L476
+	  - Code du service national L124 à L128
+
+
+###### Article L142
+
+En temps de guerre ou dans les cas prévus aux articles 699-1 et 700 du code de procédure pénale, l'ordre de poursuite est
+délivré :
+
+a) S'il s'agit d'un individu servant sous statut de défense affecté à une administration rattachée à l'une des trois armées
+ou à un établissement travaillant au profit de l'une d'entre elles, par l'autorité militaire de cette armée exerçant les
+pouvoirs judiciaires sur le territoire où se trouve l'administration ou l'établissement ;
+
+b) Dans les autres cas, par l'autorité militaire de l'armée de terre exerçant les pouvoirs judiciaires sur le lieu de
+l'affectation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°62-861 1962-07-28 art. 3
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 699-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 700 (M)
 
 
 ###### Article L143
@@ -2826,6 +3101,40 @@ donner.
 
 #### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.
 
+###### Article L151
+
+Sans préjudice de poursuites pénales éventuelles, tout manquement aux obligations définies aux articles L. 95 à L. 115 expose
+les contrevenants à des sanctions disciplinaires. Ces sanctions sont l'avertissement, le blâme et la radiation d'office.
+
+Dans tous les cas, la radiation d'office s'accompagne du rappel en métropole et d'une majoration de la durée du service actif
+pouvant aller jusqu'à trois mois ; elle est prononcée par le ministre responsable du service après que l'intéressé eut été
+mis à même de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-479 1966-07-06 art. 14
+	  - Loi n°66-483 1966-07-06 art. 13
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+
+	**Cité par**:
+
+	  - Code du service national - art. L150 (V)
+	  - Code du service national - art. R*232 (V)
+
+	**Cite**:
+
+	  - Code du service national L95 à L115
+
+
 ###### Article L152
 
 Les jeunes gens affectés au service de l'aide technique ou au service de la coopération sont justiciables des juridictions
@@ -2859,19 +3168,24 @@ français, soit dans l'exécution de leur service.
 	  - Code du service national L156 à L159
 
 
-###### Article L153
+###### Article L154
 
-Les jeunes gens affectés au service de l'aide technique ou au service de la coopération, poursuivis pour une des infractions
-prévues à l'article 152, sont traduits devant la juridiction des forces armées compétente par application des articles 64 ou
-71 du code de justice militaire.  La juridiction des forces armées dans la circonscription de laquelle le ministère
-responsable a son siège est également compétente.
+Les infractions visées à l'article L. 152 sont portées par le ministre responsable à la connaissance de l'autorité
+judiciaire, dans les conditions prévues par les articles 697 à 698-8 du code de procédure pénale.
+
+Le ministre responsable transmet à cette autorité les rapports, procès-verbaux, pièces, documents et objets concernant les
+faits reprochés ainsi que son avis sur l'opportunité des poursuites.
+
+Le ministre chargé des armées est tenu informé, par les ministres responsables, des infractions commises par les jeunes gens
+affectés au service de l'aide technique ou au service de la coopération ainsi que de la suite donnée aux poursuites engagées
+contres ces jeunes gens.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-479 1966-07-06 art. 16
-	  - Loi n°66-483 1966-07-06 art. 15
+	  - Loi n°66-479 1966-07-06 art. 17
+	  - Loi n°66-483 1966-07-06 art. 16
 
 	**Codifié par**:
 
@@ -2880,13 +3194,15 @@ responsable a son siège est également compétente.
 	**Cité par**:
 
 	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
 
 	**Cite**:
 
-	  - Code de justice militaire - art. 64 (M)
-	  - Code de justice militaire - art. 71 (Ab)
-	  - Code du service national 152
+	  - Code de procédure pénale 697 à 698-8
+	  - Code du service national - art. L152 (M)
 
 
 ###### Article L155
