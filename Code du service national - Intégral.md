@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-03-27
 
 # Partie législative
 
@@ -3145,6 +3145,25 @@ manifeste dans les conditions prévues à l'article R. 2 auprès de l'autorité 
 
 ##### PARAGRAPHE 2 : Report d'incorporation.
 
+###### Article R*8-2
+
+Le report supplémentaire prévu au premier alinéa de l'article L. 5 bis et ses prolongations éventuelles ainsi que le report
+spécial prévu à l'article L. 10 sont accordés par le ministre chargé des armées qui peut, par arr^eté, déléguer son pouvoir
+de décision aux commandants de régions militaires, aux directeurs régionaux du service national ou aux commandants de bureau
+du service national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L5 bis (M)
+
+
 ###### Article R*9-1
 
 Les cycles de formation professionnelle pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article
@@ -3295,6 +3314,34 @@ droit au bénéfice de la sécurité sociale des étudiants.
 
 
 ##### PARAGRAPHE 3 : Dispositions communes.
+
+###### Article R*11
+
+Les jeunes gens visés aux articles R.[* 1 et R.*] 10 sont appelés au service actif à la date qu'ils ont demandée. Toutefois,
+si la composition et le fractionnement du contingent le nécessitent, leur appel ainsi que celui des jeunes gens dont le
+report arrive à échéance peuvent ^etre décalés à la fraction de contingent suivante en ce qui concerne les jeunes gens visés
+à l'article R.[* 1 et à l'une des trois fractions suivantes pour ceux visés à l'article R.*] 10, s'ils ont atteint l'^age de
+vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en fonction des dates de dép^ot des demandes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1343 1970-12-23 art. 2
+	  - Décret n°70-1345 1970-12-23 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R10, R1
+
 
 ###### Article R*12
 
