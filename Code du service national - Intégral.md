@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1986-03-12
+Version Consolidée au 1987-07-11
 
 # Partie législative
 
@@ -1764,6 +1764,247 @@ personnels qui ont servi en qualité d'engagé militaire.
 	  - Loi n°92-9 du 4 janvier 1992 - art. 19 () JORF 7 janvier 1992
 
 
+#### Chapitre II bis : Service dans la police nationale
+
+##### Section I : Disposition générales.
+
+###### Article L94-2
+
+Les jeunes gens peuvent, sur leur demande, être admis à accomplir leur service national dans la police nationale, en qualité
+de policier auxiliaire. Leur nombre ne peut dépasser 10 p. 100 de l'effectif du personnel actif de la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+##### Section II : Droits et obligations.
+
+###### Article L94-3
+
+Les policiers auxiliaires sont tenus aux obligations qui découlent de l'accomplissement du service national ainsi qu'à celles
+qui sont inhérentes à leur emploi.
+
+Ils sont tenus à la discrétion professionnelle pour les faits et informations dont ils ont connaissance dans l'exercice ou à
+l'occasion de l'exercice de leurs fonctions.
+
+Ils peuvent être appelés à servir en tout temps et en tout lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-4
+
+Les policiers auxiliaires doivent s'abstenir de toute activité syndicale ou politique.
+
+Toute incitation ou participation à une cessation concertée de service est considérée comme un acte d'indiscipline et
+sanctionnée comme telle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-5
+
+Le régime des permissions dont peuvent bénéficier les policiers auxiliaires est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-6
+
+Les policiers auxiliaires ont droit à la gratuité ou au remboursement des soins médicaux, des fournitures de médicaments et
+des frais d'hospitalisation dans les conditions qui sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-8
+
+L'aide sociale ainsi que les prestations de sécurité sociale qui peuvent être accordées aux familles dont les soutiens
+effectuent le service dans la police nationale sont les mêmes que celles qui sont accordées aux familles des jeunes gens
+accomplissant le service militaire.
+
+Les prestations et indemnités reçues par les policiers auxiliaires n'entrent pas en ligne de compte dans l'évaluation des
+ressources des familles dont ils sont les soutiens en vue de l'examen d'une demande d'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-10
+
+Les dispositions des articles L. 76 et L. 77 sont applicables aux appelés servant dans la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Décret n°2001-763 du 28 août 2001 - art. 1 (V)
+	  - Code du service national - art. R*201-20-1 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L76 (M)
+	  - Code du service national - art. L77 (M)
+
+
+##### Section III : Disponibilité et réserve dans la police nationale.
+
+###### Article L94-11
+
+Tout policier auxiliaire de la réserve, père d'au moins quatre enfants vivants ou ayant à sa charge, du fait de son mariage,
+quatre enfants ou plus, est libéré de toute obligation du service dans la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-12
+
+Pendant la disponibilité, les policiers auxiliaires restent attachés au contingent avec lequel ils ont été appelés au service
+actif. Dans la réserve, ils sont classés en fonction de la date de leur naissance, les hommes nés au cours d'une même année
+constituant une classe d'âge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-13
+
+Les policiers auxiliaires de la disponibilité ou de la réserve peuvent recevoir une affectation dans les divers services de
+la police nationale.
+
+Ils sont tenus de rejoindre leur service en cas de mobilisation générale ou partielle, ordonnée par décret, en cas de rappel
+par ordre individuel et en cas de convocation pour les périodes d'exercice.
+
+Il peut être procédé au rappel des disponibles et réservistes d'une manière distincte et indépendante par service, unité ou
+partie du territoire. Le rappel peut intervenir par contingent ou classe d'âge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Code du service national - art. L94-15 (V)
+	  - Code du service national - art. R*201-20-1 (V)
+
+
+###### Article L94-14
+
+Les policiers auxiliaires appartenant à la disponibilité et à la réserve sont assujettis à prendre part à des périodes
+d'exercice dont le nombre et la durée sont fixés dans le cadre de l'article L. 2 par le ministre de l'intérieur.
+
+Ils peuvent également souscrire un engagement spécial d'entraînement volontaire dans la réserve et effectuer des périodes
+volontaires.
+
+Les convocations pour les périodes d'exercice sont fixées en tenant compte, dans toute la mesure du possible, des intérêts
+régionaux et locaux, notamment des époques de travaux agricoles.
+
+Les policiers auxiliaires de la disponibilité et de la réserve convoqués à une période d'exercice ne peuvent obtenir aucun
+ajournement, sauf en cas de force majeure dûment justifié.
+
+Dans le cas où les circonstances l'exigeraient, le gouvernement est autorisé à conserver provisoirement sous les drapeaux,
+au-delà de la période réglementaire, les policiers auxiliaires appelés à un titre quelconque pour accomplir une période
+d'exercice. Il en rend compte immédiatement au Parlement, s'il est en session, et dès sa réunion, s'il est hors session.
+
+Lorsqu'un salarié, convoqué pour une période obligatoire, fait connaître à son employeur son désir de bénéficier, durant
+cette période, des congés payés, il ne pourra être fait obstacle à ce désir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+	**Cite**:
+
+	  - Code du service national - art. L2 (M)
+
+	**Cité par**:
+
+	  - Code du service national - art. L94-15 (V)
+	  - Code du service national - art. R*201-20-1 (V)
+	  - Code du service national - art. R*201-20-5 (V)
+
+
 #### Chapitre III : Service de l'aide technique et service de la coopération
 
 ##### Section I : Définitions.
@@ -3097,6 +3338,287 @@ donner.
 
 	  - Code de justice militaire - art. 447 (M)
 	  - Code de justice militaire - art. 448 (Ab)
+
+
+#### Chapitre III bis : Dispositions particulières au service dans la police nationale.
+
+###### Article L149-1
+
+Sans préjudice de poursuites pénales éventuelles, tout manquement aux obligations définies dans le chapitre II bis du titre
+III du présent code et dans les règlements intérieurs des services de police expose les contrevenants à des sanctions
+disciplinaires.
+
+Ces sanctions sont l'avertissement, le blâme, la consigne à la résidence administrative, la réduction d'un ou de deux grades.
+Elles peuvent être assorties d'une réduction ou d'une suppression de jours de permission, d'une majoration du temps de
+service ne pouvant excéder deux mois ou de plusieurs de ces mesures. Elles sont prononcées par le ministre de l'intérieur ou
+l'autorité ayant reçu délégation, après que l'intéressé eut été mis à même de présenter ses observations.
+
+La majoration du temps de service est considérée comme une prolongation du service actif mais n'est pas prise en compte au
+titre des articles L. 63 et L. 64.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Code du service national - art. L138 (Ab)
+	  - Code du service national - art. R*201-29 (V)
+	  - Code du service national - art. R*201-30 (V)
+	  - Code du service national - art. R*201-31 (V)
+	  - Code du service national - art. R*201-35 (V)
+	  - Code du service national - art. R*201-49 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L63 (M)
+	  - Code du service national - art. L64 (M)
+
+
+###### Article L149-2
+
+En temps de paix les policiers auxiliaires relèvent, pour les infractions définies par le livre III du code de justice
+militaire ainsi que pour les crimes et délits de droit commun commis dans l'exécution du service, de la compétence des
+tribunaux de droit commun, dans les conditions prévues par les articles 697 à 698-8 du code de procédure pénale.
+
+Les attributions dévolues au ministre chargé des armées et à l'autorité militaire par l'article 698-1 du même code sont
+exercées respectivement par le ministre de l'intérieur et les autorités de la police nationale habilitées par lui à cette fin
+par arrêté ministériel.
+
+En temps de guerre et dans les cas prévus aux articles 699-1 et 700 du code de procédure pénale, les policiers auxiliaires
+sont assimilés aux militaires. L'ordre de poursuite est délivré par l'autorité militaire de l'armée de terre exerçant les
+pouvoirs judiciaires sur le lieu de l'affectation. Le ministre de l'intérieur transmet à l'autorité militaire les rapports,
+procès-verbaux, pièces, documents et objets concernant les faits reprochés ainsi que son avis sur l'opportunité des
+poursuites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 698-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 699-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 700 (M)
+	  - Code de procédure pénale 697 à 698-8, 698-1, 699-1, 700
+
+
+###### Article L149-3
+
+Toute infraction définie aux articles 397 à 476 du code de justice militaire, complétés par les articles L. 124 à L. 128 du
+présent code, et commise par les policiers auxiliaires donne lieu à procès-verbal d'un officier ou d'un agent de police
+judiciaire.
+
+L'infraction doit être immédiatement signalée par l'autorité d'emploi à l'officier de police judiciaire territorialement
+compétent.
+
+Le ministre chargé des armées est tenu informé par le ministre de l'intérieur des infractions commises par ces jeunes gens
+ainsi que de la suite donnée aux poursuites engagées contre ces personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cite**:
+
+	  - Code de justice militaire 397 à 476
+	  - Code du service national L124 à L128
+
+	**Cité par**:
+
+	  - Code du service national - art. R*201-19 (V)
+
+
+###### Article L149-4
+
+Lorsqu'un policier auxiliaire, poursuivi pour un crime ou un délit de la compétence des juridictions militaires, a des co-
+auteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles établies par le code
+de justice militaire, l'intéressé étant considéré comme militaire pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+
+###### Article L149-5
+
+Lorsque les juridictions militaires sont appelées à juger des policiers auxiliaires, un des juges est choisi parmi les jeunes
+gens effectuant leur service dans la police nationale.
+
+Le ministre de l'intérieur établit, pour chaque tribunal, la liste des jeunes gens appelés à siéger comme juges.
+
+Le juge choisi par l'autorité militaire exerçant les pouvoirs judiciaires siège à la place du juge militaire le moins élevé
+en grade. Il doit détenir le grade de sous-brigadier auxiliaire de 1re classe de la police nationale. A égalité de grade avec
+le prévenu, il doit être d'une ancienneté supérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+
+###### Article L149-6
+
+Les dispositions du code de justice militaire qui répriment les faits de désertion, d'abandon de poste et de refus
+d'obéissance, tels qu'ils sont définis aux articles L. 149-7 à L. 149-10 ci-après, sont applicables aux policiers
+auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cite**:
+
+	  - Code du service national L149-7 à L149-10
+
+
+###### Article L149-7
+
+Est déserteur et passible des peines prévues aux articles 398 à 413 du code de justice militaire :
+
+a) Six jours après celui de l'absence constatée, tout policier auxiliaire qui s'absente sans autorisation de son poste ou de
+la formation où il est affecté ou d'un hôpital militaire ou civil où il était en traitement, ou qui s'évade d'un
+établissement pénitentiaire où il était détenu provisoirement ;
+
+b) Tout policier auxiliaire dont la mission ou la permission est terminée et qui, dans les quinze jours suivant celui fixé
+pour son arrivée ou son retour, ne s'est pas présenté à son poste ou à sa formation ;
+
+c) Tout policier auxiliaire qui, recevant un ordre de mutation dans le service, ne rejoint pas son nouveau poste dans les
+quinze jours suivant celui fixé pour son arrivée.
+
+Toutefois, le policier auxiliaire qui n'a pas trois mois de service ne peut être considéré comme déserteur qu'après un mois
+d'absence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 4 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 4 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire 398 à 413
+
+
+###### Article L149-8
+
+Est coupable d'abandon de poste et passible des peines prévues à l'article 468 du code de justice militaire tout policier
+auxiliaire qui s'absente de son poste sans autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 3 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 468 (M)
+
+
+###### Article L149-9
+
+Est passible des peines prévues aux articles 447 et 448 du code de justice militaire le policier auxiliaire qui refuse
+d'obéir ou qui n'exécute pas l'ordre reçu de ceux qui ont qualité pour le donner, sauf dans le cas où l'ordre est
+manifestement illégal et de nature à compromettre gravement un intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 5 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 5 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 447 (M)
+	  - Code de justice militaire - art. 448 (Ab)
+
+
+###### Article L149-10
+
+Les dispositions des articles 94, 181 et 375 du code de justice militaire relatives aux modes d'extinction de l'action
+publique et à la prescription des peines sont applicables aux policiers auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+
+	**Cite**:
+
+	  - Code de justice militaire - art. 181 (Ab)
+	  - Code de justice militaire - art. 375 (Ab)
+	  - Code de justice militaire - art. 94 (Ab)
 
 
 #### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.
