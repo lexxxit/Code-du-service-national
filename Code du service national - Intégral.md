@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-07
 
 # Partie législative
 
@@ -5813,6 +5813,32 @@ ministre chargé des armées ou par les commandants de bureau ou de centre du se
 	  - Code du service national - art. L10 (M)
 	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*8-3
+
+Le report d'incorporation prévu au quatrième alinéa de l'article L. 9 en faveur des jeunes gens désireux d'occuper, pendant
+le temps du service militaire actif, un emploi dans les organismes d'études, de recherche ou d'enseignement dépendant du
+ministre de la défense est accordé ou retiré, au nom de ce ministre, par l'officier supérieur relevant du chef d'état-major
+des armées chargé de la sélection et de l'affectation des candidats à ces emplois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-558 du 30 juin 1994 - art. 1 () JORF 7 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L9 (M)
 
 
 ###### Article R*9-1
