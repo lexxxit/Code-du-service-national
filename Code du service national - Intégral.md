@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1999-10-23
+Version Consolidée au 2000-03-15
 
 # Partie législative
 
@@ -442,10 +442,10 @@ A l'issue de l'appel de préparation à la défense, il est délivré un certifi
 
 ###### Article L114-3
 
-Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation qui
-permet de présenter les enjeux et les objectifs généraux de la défense nationale, les moyens civils et militaires de la
-défense et leur organisation, les formes de volontariats ainsi que les préparations militaires et les possibilités
-d'engagement dans les forces armées et les forces de réserve.
+Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation et
+respectueux de l'égalité entre les sexes, qui permet de présenter les enjeux et les objectifs généraux de la défense
+nationale, les moyens civils et militaires de la défense et leur organisation, les formes de volontariats ainsi que les
+préparations militaires et les possibilités d'engagement dans les forces armées et les forces de réserve.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française.
 
@@ -455,9 +455,9 @@ A cette occasion sont organisés des tests d'évaluation des apprentissages fond
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°2000-242 du 14 mars 2000 - art. 22 () JORF 15 mars 2000
 
 	**Cité par**:
 
@@ -789,6 +789,704 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 	**Créé par**:
 
 	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+#### Chapitre II : Les volontariats civils
+
+##### Section I : Principes de volontariats civils.
+
+###### Article L122-1
+
+Dans les conditions prévues par le présent chapitre, les Français et les Françaises âgés de plus de dix-huit ans et de moins
+de vingt-huit ans à la date du dépôt de leur candidature peuvent demander à accomplir comme volontaires le service civil
+prévu aux articles L. 111-2 et L. 111-3 du présent code.
+
+Sous réserve de respecter ces dispositions, les Français nés avant le 1er janvier 1979 et les Françaises nées avant le 1er
+janvier 1983 peuvent également se porter candidats à un volontariat civil.
+
+Ce service volontaire est également ouvert dans les mêmes conditions d'âge aux ressortissantes et ressortissants des Etats
+membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. Ces candidats doivent se
+trouver en position régulière au regard des obligations de service national de l'Etat dont ils sont ressortissants. Ils
+peuvent être écartés des fonctions qui soit sont inséparables de l'exercice de la souveraineté, soit comportent une
+participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 63 (Ab)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
+	  - Arrêté du 11 janvier 2001 - art. 3 (V)
+	  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
+	  - Arrêté du 23 novembre 2009 - art. 2 (V)
+	  - Code du service national - art. L122-20 (VD)
+	  - Code du service national - art. L122-21 (VT)
+	  - Code général des impôts, CGI. - art. 230 H (V)
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 1 () JORF 15 mars 2000
+
+	**Cite**:
+
+	  - Code du service national - art. L111-2 (V)
+	  - Code du service national - art. L111-3 (V)
+
+
+###### Article L122-2
+
+Les candidats à un volontariat civil doivent satisfaire à des critères d'aptitude et à des conditions qui, définis pour
+chaque forme de volontariat par décret en Conseil d'Etat, doivent permettre un égal accès des femmes et des hommes.
+
+Ils doivent en outre, sauf cas de force majeure, être en règle avec les obligations résultant du présent code.
+
+Enfin, l'accomplissement du volontariat civil est subordonné à l'acceptation de la candidature par le ministre compétent qui
+statue dans la limite des crédits budgétaires prévus à cet effet, en respectant, chaque fois que cela est possible, le
+principe de la parité entre les femmes et les hommes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 2 () JORF 15 mars 2000
+
+
+###### Article L122-3
+
+L'engagement de volontariat civil est conclu pour une durée de six à vingt-quatre mois et doit être accompli auprès d'un seul
+organisme ou collectivité, sous réserve des dispositions de l'article L. 122-8. Il peut être prorogé une fois sans que sa
+durée totale excède vingt-quatre mois. Son accomplissement ne peut être fractionné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 3 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
+	  - Arrêté du 24 mars 2004 - art. 7 (V)
+	  - Arrêté du 24 mars 2004 - art. 8 (V)
+	  - Code du service national - art. L122-3-1 (VT)
+	  - Code du service national - art. L122-8 (VD)
+
+
+###### Article L122-4
+
+Les volontaires civils participent dans le domaine de la prévention, de la sécurité et de la défense civiles aux missions de
+protection des personnes, des biens et de l'environnement. Dans le domaine de la cohésion sociale et de la solidarité, ils
+participent à des missions d'intérêt général.
+
+Dans les départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat de l'aide technique
+contribue également au développement scientifique, économique, administratif, sanitaire et social, éducatif et culturel.
+
+Au titre de la coopération internationale, les volontaires civils participent à l'action de la France dans le monde en
+matière d'action culturelle et d'environnement, de développement technique, scientifique et économique et d'action
+humanitaire. Ils contribuent également à l'action de la France en faveur du développement de la démocratie et des droits de
+l'homme, éléments indissociables d'une politique de paix, et au bon fonctionnement des institutions démocratiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 4 () JORF 15 mars 2000
+
+
+###### Article L122-5
+
+Le volontariat civil est accompli auprès d'une personne morale autre que l'Etat pour des activités agréées par le ministre
+compétent. Sur le territoire national, le volontariat civil ne peut être effectué qu'auprès d'une personne morale à but non
+lucratif ; à l'étranger, il peut être effectué auprès de toute personne morale. Toutefois, à l'étranger ou dans les
+départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat civil peut également être
+accompli dans un service de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 5 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+	  - Arrêté du 24 mars 2004 - art. 1 (V)
+	  - Code du service national - art. L122-18 (V)
+
+
+###### Article L122-6
+
+Les volontaires civils sont placés sous l'autorité d'un ministre. Ils relèvent à cet égard des règles de droit public
+résultant du présent chapitre, des textes réglementaires et des décisions pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 6 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-11 (VD)
+
+
+###### Article L122-7
+
+Lorsque le volontariat civil est accompli auprès d'une personne morale autre que l'Etat, le ministre compétent ou un
+organisme gestionnaire qu'il désigne conclut une convention avec la personne morale concernée. Lorsque le volontariat civil
+est accompli en partenariat avec le service volontaire européen pour les jeunes mis en place par la Commission européenne, la
+convention est en outre signée par cette dernière. Cette convention détermine les conditions d'accomplissement du
+volontariat. Elle prévoit notamment :
+
+- la nature des activités confiées au volontaire civil ;
+
+- les conditions de prise en charge des dépenses liées à l'accomplissement du volontariat, notamment les indemnités
+mensuelles et les prestations éventuelles prévues à l'article L. 122-12, ainsi que le régime de protection sociale mentionné
+à l'article L. 122-14 ;
+
+- la formation du volontaire et les règles d'encadrement ;
+
+- les modalités d'affectation et celles relatives au contrôle des conditions de vie et de travail du volontaire.
+
+Sous réserve des dispositions de l'article L. 122-18, les conventions conclues avec les personnes privées prévoient
+l'obligation pour cette personne de souscrire une assurance au titre de la responsabilité civile du volontaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 7 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 28 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 5 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 52 (V)
+	  - Code du service national - art. L122-12 (VD)
+	  - Code du service national - art. L122-14 (VD)
+	  - Code du service national - art. L122-8 (VD)
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L122-18 (V)
+
+
+###### Article L122-8
+
+Le ministre compétent peut mettre fin au volontariat civil en cours d'accomplissement :
+
+- en cas de force majeure ;
+
+- en cas de faute grave ;
+
+- dans l'intérêt du service ou de l'activité agréée ;
+
+- en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7 ;
+
+- à la demande conjointe du volontaire civil et de la personne morale.
+
+Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, le ministre compétent peut mettre fin au volontariat
+pour permettre au demandeur d'occuper une activité professionnelle.
+
+Par dérogation aux dispositions de l'article L. 122-3, lorsqu'il a été mis fin au volontariat civil en cas de force majeure
+ou en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7, l'intéressé peut
+demander à conclure un nouvel engagement de volontariat sans que la durée totale des périodes de volontariat civil n'excède
+vingt-quatre mois.
+
+Le volontaire civil dont la mission est suspendue pour cause de maladie, de maternité, d'adoption ou d'incapacité temporaire
+liée à un accident imputable au service peut demander une prolongation de son volontariat d'une durée égale à celle de son
+indisponibilité, sans que la durée totale de son engagement ne puisse excéder vingt-quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 8 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 29 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 30 (V)
+	  - Arrêté du 24 mars 2004 - art. 4 (V)
+	  - Code du service national - art. L122-3 (VD)
+
+	**Cite**:
+
+	  - Code du service national - art. L122-7 (M)
+
+
+###### Article L122-9
+
+Un certificat d'accomplissement du volontariat civil est délivré au volontaire par le ministre compétent à l'issue de sa
+période de volontariat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 9 () JORF 15 mars 2000
+
+
+##### Section II : Droits et obligations du volontaire civil.
+
+###### Article L122-10
+
+Le volontariat civil est une activité à temps plein. Le volontaire consacre l'intégralité de son activité aux tâches qui lui
+sont confiées.
+
+Le volontariat civil est incompatible avec une activité rémunérée publique ou privée. Seules sont autorisées les productions
+d'oeuvres scientifiques, littéraires ou artistiques ainsi que, sous réserve de l'accord de l'organisme auprès duquel est
+accompli le volontariat civil, les activités d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 10 () JORF 15 mars 2000
+
+
+###### Article L122-11
+
+Outre les obligations résultant de l'article L. 122-6, le volontaire civil est soumis aux règles des services de la
+collectivité ou de l'organisme auprès duquel il accomplit son volontariat. Il est tenu à la discrétion pour les faits et
+informations dont il a connaissance dans l'exercice et à l'occasion de l'exercice de ses activités.
+
+Il est tenu également aux obligations de convenance et de réserve inhérentes à ses occupations, notamment, lorsqu'il est
+affecté à l'étranger, à l'égard de l'Etat de séjour. Il est tenu aux obligations professionnelles imposées aux Français
+exerçant une activité de même nature dans l'Etat de séjour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 11 () JORF 15 mars 2000
+
+	**Cite**:
+
+	  - Code du service national - art. L122-6 (V)
+
+
+###### Article L122-12
+
+L'accomplissement du volontariat civil ouvre droit, à l'exclusion de toute rémunération, à une indemnité mensuelle, exonérée
+de l'impôt sur le revenu et exclue de l'assiette de la contribution sociale généralisée et de la contribution au
+remboursement de la dette sociale, prise en charge, selon le cas, par l'Etat, l'organisme gestionnaire ou la personne morale
+mentionnée à l'article L. 122-7. Le montant de cette indemnité mensuelle, identique pour toutes les formes de volontariat
+civil, est fixé par décret. Il ne peut être supérieur à 50 % de la rémunération afférente à l'indice brut 244.
+
+Le volontaire civil peut également recevoir les prestations nécessaires à sa subsistance, à son équipement et à son logement.
+Lorsqu'il est affecté hors du territoire métropolitain, le volontaire reçoit ces prestations qui peuvent être servies sous
+forme d'une indemnité supplémentaire, exonérée de l'impôt sur le revenu et exclue de l'assiette de la contribution sociale
+généralisée et de la contribution au remboursement de la dette sociale. Le montant de cette indemnité supplémentaire est fixé
+à un taux uniforme, quelles que soient les activités exercées, pour chacune des collectivités et chacun des pays ou régions
+de ces pays.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 12 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 18 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 19 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 20 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 39 (Ab)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 44 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 47 (V)
+	  - Décret n°2002-183 du 13 février 2002 - art. 1 (V)
+	  - Arrêté du 16 février 2008 (V)
+	  - Arrêté du 24 février 2009 (V)
+	  - Arrêté du 17 septembre 2009 (V)
+	  - Code du service national - art. L122-12-1 (V)
+	  - Code du service national - art. L122-14 (VD)
+	  - Code du service national - art. L122-21 (VT)
+	  - Code du service national - art. L122-7 (VD)
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+	  - Code général des impôts, CGI. - art. 81 (VT)
+
+
+###### Article L122-13
+
+Le régime des congés annuels est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 13 () JORF 15 mars 2000
+
+
+###### Article L122-14
+
+I. - Le volontaire civil affecté en métropole ou dans un département d'outre-mer bénéficie en cette qualité, pour lui-même et
+ses ayants droit, des prestations en nature de l'assurance maladie, maternité et invalidité du régime général. Il relève, en
+cas de maladie ou d'accident survenu par le fait ou à l'occasion du volontariat civil, des dispositions du livre IV du code
+de la sécurité sociale. La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la
+charge de l'organisme d'accueil et dont le montant est fixé par décret.
+
+L'organisme d'accueil assure au volontaire affecté dans un département d'outre-mer une couverture complémentaire, notamment
+en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de
+corps. Le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette couverture.
+
+II. - L'organisme d'accueil assure au volontaire civil affecté à l'étranger, pour lui-même et ses ayants droit et sous
+réserve des engagements européens et internationaux de la France et des dispositions de l'article L. 122-7, le bénéfice des
+prestations en nature de l'assurance maladie, maternité, invalidité et des prestations accidents du travail et maladies
+professionnelles, d'un niveau au moins égal à celui prévu au I.
+
+Il assure, en outre, le bénéfice d'une couverture complémentaire pour les risques précités, notamment en cas
+d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps.
+Le ministre compétent arrête les conditions dans lesquelles cette couverture complémentaire est mise en place.
+
+En cas de maladie, d'accident, y compris de trajet, ou de décès survenant par le fait ou à l'occasion du volontariat,
+l'organisme d'accueil assure également des conditions d'indemnisation au moins équivalentes à celles prévues par la
+législation française sur les accidents du travail.
+
+III. - L'Etat assure lui-même la couverture des risques mentionnés au présent article pour les volontaires civils affectés
+dans ses services et pour leurs ayants droit.
+
+IV. - Le bénéfice des dispositions de l'article L. 122-12 est maintenu durant la période de volontariat au profit du
+volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire liée à un accident imputable au
+service.
+
+V. - Un décret fixe les conditions et les domaines dans lesquels l'Etat contribue, dans le cadre de conventions établies avec
+les associations, à la protection sociale des volontaires lorsque le volontariat civil est accompli auprès d'associations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 14 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+	  - Arrêté du 24 mars 2004 - art. 10 (V)
+	  - Arrêté du 24 mars 2004 - art. 7 (V)
+	  - Arrêté du 24 mars 2004 - art. 8 (V)
+	  - Arrêté du 24 mars 2004 - art. 9 (V)
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+	  - Code de la sécurité sociale. - art. D372-1 (Ab)
+	  - Code de la sécurité sociale. - art. L412-8 (VT)
+	  - Code de la sécurité sociale. - art. R372-2 (Ab)
+	  - Code du service national - art. L122-21 (VT)
+	  - Code du service national - art. L122-7 (VD)
+
+	**Cite**:
+
+	  - Code du service national - art. L122-12 (M)
+
+
+###### Article L122-15
+
+Le temps du service accompli au titre du volontariat civil, d'une durée au moins égale à six mois, est assimilé à une période
+d'assurance pour l'ouverture et le calcul des droits à retraite dans le premier régime d'assurance vieillesse de base auquel
+le volontaire est affilié à titre obligatoire postérieurement à son volontariat.
+
+Par dérogation aux dispositions de l'alinéa ci-dessus, le temps du service, d'une durée au moins égale à six mois, accompli
+au titre du volontariat est pris en compte par le régime spécial de retraite auquel l'assuré est ultérieurement affilié.
+
+Les sommes représentatives de la prise en compte par les régimes d'assurance vieillesse de base obligatoires sont prises en
+charge par le fonds de solidarité vieillesse mentionné à l'article L. 135-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 15 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 33 (V)
+	  - Décret n°2000-1159 du 30 novembre 2000 - art. 36 (V)
+	  - Code de la sécurité sociale. - art. R161-10-2 (T)
+	  - Code de la sécurité sociale. - art. R161-17 (V)
+	  - Code du service national - art. L122-21 (VT)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L135-1 (M)
+
+
+###### Article L122-16
+
+Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
+dont le personnel est soumis à un statut réglementaire, la limite d'âge est reculée d'un temps égal au temps effectif du
+volontariat civil.
+
+Ce temps effectif de volontariat est compté dans le calcul de l'ancienneté de service exigée dans les fonctions publiques de
+l'Etat, des collectivités territoriales et des établissements publics hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Décret n°92-851 du 28 août 1992 - art. 10-1 (VD)
+	  - Décret n°93-622 du 27 mars 1993 - art. 9-4 (V)
+	  - Décret n°2002-261 du 22 février 2002 - art. 7 (VT)
+	  - Décret n°2002-262 du 22 février 2002 - art. 10 (Ab)
+	  - Décret n°2002-523 du 16 avril 2002 - art. 12 (VT)
+	  - Décret n°2007-767 du 9 mai 2007 - art. 20 (VD)
+	  - Décret n°2009-1106 du 10 septembre 2009 - art. 13 (VD)
+	  - Décret n°2012-521 du 20 avril 2012 - art. 10-4 (V)
+	  - Décret n°2012-1420 du 18 décembre 2012 - art. 12 (VD)
+	  - Décret n°2012-1466 du 26 décembre 2012 - art. 15 (V)
+	  - Décret n°2014-100 du 4 février 2014 - art. 7 (V)
+	  - Décret n°2014-101 du 4 février 2014 - art. 7 (V)
+	  - Décret n°2014-923 du 18 août 2014 - art. 12 (VD)
+	  - Décret n°2014-1585 du 23 décembre 2014 - art. 18 (V)
+	  - Décret n°2015-802 du 1er juillet 2015 - art. 12 (VT)
+	  - Code du service national - art. L122-21 (VT)
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 16 () JORF 15 mars 2000
+
+
+###### Article L122-17
+
+Le temps effectif de volontariat civil est compté dans la durée d'expérience professionnelle requise pour le bénéfice de la
+validation des acquis professionnels en vue de la délivrance d'un diplôme de l'enseignement supérieur ou technologique ou
+d'un titre professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 17 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-21 (VT)
+
+
+##### Section III : Dispositions diverses.
+
+###### Article L122-18
+
+En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
+récursoire à l'encontre de la personne morale mentionnée à l'article L. 122-5, est substituée à celle du volontaire civil
+affecté à l'étranger.
+
+Le volontaire civil affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat, d'une
+protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 11
+	  - Code du service national - art. L122-5 (M)
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 18 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-7 (VD)
+
+
+###### Article L122-19
+
+Les dispositions des articles L. 122-1 à L. 122-18 du présent code ne font pas obstacle à des dispositions spécifiques
+définies pour des volontaires non visés par l'article L. 111-3 dudit code. Ces dispositions spécifiques peuvent organiser des
+formes contractuelles d'engagement volontaire pour l'accomplissement de missions d'intérêt général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 20 () JORF 15 mars 2000
+
+	**Cite**:
+
+	  - Code du service national - art. L111-3 (V)
+	  - Code du service national L122-1 à L122-18, L111-3
+
+
+###### Article L122-20
+
+Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
+réglementaires relatives à l'accomplissement du volontariat civil à l'étranger sont prises après consultation du Conseil
+supérieur des Français de l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 25 () JORF 15 mars 2000
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-21 (VT)
+
+	**Cite**:
+
+	  - Code du service national L122-1 à L122-19
+
+
+##### Section IV : Dispositions relatives à l'outre-mer.
+
+###### Article L122-21
+
+Sous réserve des adaptations prévues ci-après, le présent chapitre, à l'exception du dernier alinéa de l'article L. 122-1, du
+III de l'article L. 122-14 et du dernier alinéa de l'article L. 122-15, est applicable dans les territoires d'outre-mer, en
+Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+
+1° Par dérogation aux dispositions des articles L. 122-12, L. 122-14, L. 122-15, L. 122-16, L. 122-17 et L. 122-20 du présent
+chapitre, une convention entre l'Etat, d'une part, la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
+conditions d'application du présent chapitre dans ces deux collectivités. Elle précise obligatoirement :
+
+a) Les conditions d'exonération d'imposition et de versement des taxes fiscales et sociales attachées à la perception de
+l'indemnité mensuelle et de l'indemnité supplémentaire prévues à l'article L. 122-12 ;
+
+b) Les conditions dans lesquelles les volontaires civils affectés en Nouvelle-Calédonie ou en Polynésie française et leurs
+ayants droit bénéficient des prestations du régime local de sécurité sociale et de couverture complémentaire, notamment en
+cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire et de rapatriement de corps lorsque le volontariat
+civil est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou privé, y compris lorsqu'il s'agit
+d'une association ;
+
+c) La prise en compte du temps du service accompli au titre du volontariat civil par le régime de retraite de base ou spécial
+de la Nouvelle-Calédonie ou de la Polynésie française auquel le volontaire civil est affilié à titre obligatoire ou
+volontaire postérieurement à son volontariat ;
+
+d) Les modalités d'adaptation du II de l'article L. 122-14 au regard des dispositions prévues par les b et c ci-dessus
+lorsqu'un volontaire civil engagé en Nouvelle-Calédonie ou en Polynésie française est affecté à l'étranger ;
+
+e) Les conditions d'ancienneté et d'accès à un emploi relevant de la compétence de la Polynésie française, de la Nouvelle-
+Calédonie ou de ses provinces ainsi que de leurs établissements publics dont le personnel est soumis au statut
+réglementaire ;
+
+f) La prise en compte de l'expérience professionnelle acquise lors du volontariat civil pour la délivrance d'un diplôme ou
+d'un titre professionnel par la Nouvelle-Calédonie ou la Polynésie française ;
+
+g) Le cas échéant, les modalités de coordination lorsqu'un volontaire civil est affecté successivement en Nouvelle-Calédonie
+ou en Polynésie française et dans une autre collectivité territoriale de la République.
+
+2° Dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon ainsi que dans les territoires d'outre-mer
+des îles Wallis-et-Futuna et des Terres australes et antarctiques françaises :
+
+a) L'indemnité mensuelle et l'indemnité supplémentaire prévues à l'article L. 122-12 sont exonérées de toute imposition et
+taxes fiscales, parafiscales et sociales applicables localement ;
+
+b) La protection sociale prévue par l'article L. 122-14 est assurée dans les conditions prévues par la réglementation
+applicable localement lorsque le volontariat civil est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil
+public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme d'accueil assure au volontaire une
+couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de
+rapatriement sanitaire et de rapatriement de corps, le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette
+couverture ainsi que les règles particulières lorsque le volontaire civil est affecté à l'étranger. La législation sur les
+accidents du travail est celle applicable localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 21 () JORF 15 mars 2000
+
+	**Cite**:
+
+	  - Code du service national - art. L122-1 (V)
+	  - Code du service national - art. L122-12 (M)
+	  - Code du service national - art. L122-14 (V)
+	  - Code du service national - art. L122-15 (V)
+	  - Code du service national - art. L122-16 (V)
+	  - Code du service national - art. L122-17 (V)
+	  - Code du service national - art. L122-20 (M)
 
 
 ## LIVRE II
