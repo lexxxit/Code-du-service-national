@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1976-10-21
+Version Consolidée au 1977-10-05
 
 # Partie législative
 
@@ -5033,6 +5033,45 @@ propositions du président du comité d'assistance visé à l'article L. 54.
 
 	  - Code du service national - art. L54 (M)
 	  - Code du service national - art. L55 (M)
+
+
+### CHAPITRE III : Réforme pour inaptitude physique.
+
+###### Article R103
+
+La commission de réforme du service national décide de l'aptitude au service national :
+
+1° Des jeunes gens non encore appelés au service actif qui lui sont renvoyés par la commission locale d'aptitude ;
+
+2° Des jeunes gens qui, ayant été considérés comme aptes d'office au service par la commission locale d'aptitude, ont été
+appelés au service actif ;
+
+3° Des hommes accomplissant les obligations d'activité du service national ou servant au titre de l'article L. 85 du code du
+service national ;
+
+4° Des hommes de la disponibilité ou de la réserve dans leurs foyers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-81 1972-01-24 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°77-1122 1977-09-27 art. 3 JORF 5 octobre 1977
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L85 (M)
 
 
 ### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.
