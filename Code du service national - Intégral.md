@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-04-16
 
 # Partie législative
 
@@ -707,8 +707,8 @@ que stagiaires du service militaire adapté.
 
 ###### Article L121-2
 
-Les jeunes hommes nés avant le 1er janvier 1979 et ayant accompli les obligations du service national peuvent également
-déposer une demande pour servir comme volontaires.
+Les jeunes femmes nées avant le 31 décembre 1982, ainsi que les jeunes hommes nés avant le 1er janvier 1979 et ayant accompli
+les obligations du service national peuvent également déposer une demande pour servir comme volontaires.
 
 **Liens relatifs à cet article**
 
@@ -716,9 +716,9 @@ déposer une demande pour servir comme volontaires.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°99-291 du 15 avril 1999 - art. 26 () JORF 16 avril 1999
 
 
 ###### Article L121-3
