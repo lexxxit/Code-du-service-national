@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2000-07-01
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -1430,7 +1430,7 @@ supérieur des Français de l'étranger.
 
 Sous réserve des adaptations prévues ci-après, le présent chapitre, à l'exception du dernier alinéa de l'article L. 122-1, du
 III de l'article L. 122-14 et du dernier alinéa de l'article L. 122-15, est applicable dans les territoires d'outre-mer, en
-Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+Nouvelle-Calédonie et à Mayotte.
 
 1° Par dérogation aux dispositions des articles L. 122-12, L. 122-14, L. 122-15, L. 122-16, L. 122-17 et L. 122-20 du présent
 chapitre, une convention entre l'Etat, d'une part, la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
@@ -1482,19 +1482,23 @@ accidents du travail est celle applicable localement.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-242 du 14 mars 2000 - art. 21 () JORF 15 mars 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 15
 
 	**Cite**:
 
-	  - Code du service national - art. L122-1 (V)
-	  - Code du service national - art. L122-12 (M)
-	  - Code du service national - art. L122-14 (V)
-	  - Code du service national - art. L122-15 (V)
-	  - Code du service national - art. L122-16 (V)
-	  - Code du service national - art. L122-17 (V)
-	  - Code du service national - art. L122-20 (M)
+	  - Code du service national - art. L122-1
+	  - Code du service national - art. L122-12
+	  - Code du service national - art. L122-14
+	  - Code du service national - art. L122-15
+	  - Code du service national - art. L122-16
+	  - Code du service national - art. L122-17
+	  - Code du service national - art. L122-20
 
 
 ## LIVRE II
@@ -18517,8 +18521,8 @@ administrations ou services pour les professions relevant de leur compétence.
 
 ###### Article R*199
 
-Dans la collectivité territoriale de Mayotte, lorsque les décisions d'affectation concernent des services ou organismes
-territoriaux relevant de la compétence du président du conseil général, elles sont prises sur sa proposition.
+A Mayotte, lorsque les décisions d'affectation concernent des services ou organismes territoriaux relevant de la compétence
+du président du conseil général, elles sont prises sur sa proposition.
 
 Pour les services ou organismes d'Etat, elles sont préparées dans les conditions prévues à l'article R. 198.
 
@@ -18528,13 +18532,17 @@ Pour les services ou organismes d'Etat, elles sont préparées dans les conditio
 
 	  - Décret n°68-63 1968-01-19 art. 10
 
-	**Modifié par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
 
 	**Codifié par**:
 
