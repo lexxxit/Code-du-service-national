@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1998-03-18
+Version Consolidée au 1998-09-01
 
 # Partie législative
 
@@ -253,8 +253,13 @@ française a été établie entre ces deux âges à la suite d'une décision de 
 pour les premières, dès que la nationalité française a été acquise ou que cette acquisition leur a été notifiée et, pour les
 secondes, dès que la décision de justice a force de chose jugée.
 
-Les jeunes étrangers mentionnés à l'article 21-7 du code civil peuvent participer volontairement aux opérations du
-recensement.
+L'obligation du recensement, pour les personnes qui bénéficient de la faculté de répudier ou de décliner la nationalité
+française en vertu des articles 18-1, 19-4, 21-8 et 22-3 du code civil et qui n'y ont pas renoncé, est reportée jusqu'à
+l'expiration du délai ouvert pour exercer cette faculté.
+
+A l'issue de ce délai, celles qui n'ont pas exercé la faculté de répudier ou de décliner la nationalité française sont
+soumises, à compter de la date de leur recensement, à l'obligation de participer à l'appel de préparation à la défense. Elles
+sont alors convoquées, dans les conditions fixées à l'article L. 114-4, par l'administration dans un délai de six mois.
 
 **Liens relatifs à cet article**
 
@@ -262,13 +267,17 @@ recensement.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°98-170 du 16 mars 1998 - art. 31 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
-	  - Code civil - art. 21-7 (M)
+	  - Code civil - art. 18-1 (V)
+	  - Code civil - art. 19-4 (V)
+	  - Code civil - art. 21-8 (M)
+	  - Code civil - art. 22-3 (V)
+	  - Code du service national - art. L114-4 (V)
 
 	**Cité par**:
 
@@ -1677,8 +1686,19 @@ En vue de l'accomplissement du service national, les jeunes Français du sexe ma
 les conditions fixées par décret en Conseil d'Etat, à des obligations de recensement et de déclaration concernant leur état
 civil et leur situation familiale et professionnelle.
 
-Les jeunes étrangers mentionnés à l'article 21-7 du code civil peuvent participer volontairement aux opérations de
-recensement.
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1699,29 +1719,43 @@ recensement.
 	  - Code du service national - art. L33 (V)
 	  - Code du service national - art. R*60 (M)
 
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 21-7 (M)
+	  - Loi n°98-170 du 16 mars 1998 - art. 28 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 
 ###### Article L16
 
-Les jeunes Français du sexe masculin qui avaient la faculté de répudier la nationalité française et qui n'y ont pas renoncé
-sont soumis, à l'expiration du délai dont ils disposent pour exercer cette faculté, aux obligations prévues à l'article
-précédent.
+Les jeunes Français du sexe masculin qui avaient la faculté de répudier ou de décliner la nationalité française et qui n'y
+ont pas renoncé sont soumis, à l'expiration du délai dont ils disposent pour exercer cette faculté, aux obligations prévues à
+l'article précédent.
 
 Toutefois, ils peuvent, sur leur demande, être inscrits sur les listes de recensement avant cet âge ; ils perdent alors de ce
-fait la faculté de répudier la nationalité française.
+fait la faculté de répudier ou de décliner la nationalité française.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 12
 
 	**Codifié par**:
 
@@ -1733,21 +1767,17 @@ fait la faculté de répudier la nationalité française.
 	  - Décret n°98-719 du 20 août 1998 - art. 10 (V)
 	  - Code du service national - art. R14 (V)
 
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 28 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Cite**:
 
 	  - Code du service national - art. L15 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1928-03-31 art. 12
 
 
 ###### Article L17
@@ -2950,9 +2980,24 @@ considérés comme dispensés de leurs obligations du service national.
 
 ###### Article L40-1
 
-Les jeunes gens visés à l'article L. 17 qui, au moment de leur naturalisation, de leur intégration ou de leur déclaration,
-ont satisfait à leurs obligations du service national à l'égard de leur Etat d'origine, dans les conditions prévues par la
-législation de cet Etat, sont considérés comme ayant satisfait aux obligations imposées par le présent code.
+Les personnes visées à l'article L. 17 qui, au moment de l'acquisition de la nationalité française ou de l'établissement de
+celle-ci, ont satisfait à leurs obligations du service national à l'égard d'un Etat étranger dont elles étaient
+ressortissantes, dans les conditions prévues par la législation de cet Etat, sont considérées comme ayant satisfait aux
+obligations imposées par le présent code.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2960,9 +3005,9 @@ législation de cet Etat, sont considérés comme ayant satisfait aux obligation
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+	  - Loi n°98-170 du 16 mars 1998 - art. 30 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
@@ -9673,96 +9718,6 @@ considérés comme dispensés de leurs obligations du service national.
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
-
-## TITRE I : Définition et principes du service national
-
-### CHAPITRE I : Dispositions générales
-
-#### SECTION I : Appel avancé et report d'incorporation
-
-##### PARAGRAPHE 2 : Report d'incorporation.
-
-###### Article R*9-1
-
-Les cycles de formation professionnelle pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article
-L. 5 bis, dans la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle
-commencé sont les suivants ;
-
-1° le cycle de formation des instituteurs y compris, le cas échéant, l'année de formation pratique sanctionnée par le
-certificat d'aptitude pédagogique ;
-
-2° le cycle de formation dispensé dans les centres annexés à certaines écoles normales conduisant au certificat d'aptitude de
-l'enfance inadaptée (C.A.E.I.), de l'enseignement dans les classes de transition (C.A.E.T.), de l'enseignement pratique
-(C.A.E.P.) ou professionnel dans un collège d'enseignement général (C.A.P.C.E.G.) ;
-
-3° les cycles de formation de professeur technique ou de professeur technique adjoint des lycées techniques ;
-
-4° les cycles de scolarité dans les écoles normales nationales d'apprentissage y compris, le cas échéant, l'année de
-formation pratique sanctionnée par le certificat d'aptitude pédagogique ;
-
-5° le cycle de préparation au certificat d'aptitude au professorat de l'enseignement secondaire (C.A.P.E.S.), y compris, le
-cas échéant, le stage au centre pédagogique régional sanctionné par les épreuves pratiques du C.A.P.E.S.) ;
-
-6° les cycles de scolarité dans les écoles normales supérieures ;
-
-7° le cycle de préparation à l'agrégation, y compris, le cas échéant, le stage d'application d'une année dans un centre
-pédagogique régional ;
-
-8° les cycles de formation professionnelle, organisée par les administrations publiques, les universités ou par le secteur
-privé, sanctionnés selon le cas par l'attribution d'un certificat d'aptitude professionnelle, d'un brevet d'étude
-professionnelle, d'un certificat de capacité, d'un diplôme d'Etat ou d'un diplôme nécessaire à la titularisation dans un
-emploi public.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
-
-	**Abrogé par**:
-
-	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. L5 bis (M)
-
-
-###### Article R*9-2
-
-Les classes préparatoires à un concours d'admission dans un établissement à nombre de places déterminé dont les élèves
-peuvent bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis afin de se présenter une nouvelle fois
-au concours sont les suivantes :
-
-A - Etablissements d'enseignement public
-
-1° Classes des lycées assurant en un an la préparation aux concours d'entrée aux grandes écoles ;
-
-2° Classes des lycées assurant la seconde année de préparation aux concours d'entrée aux grandes écoles.
-
-B - Etablissements d'enseignement privés
-
-Toutes les classes préparatoires ayant des programmes et des horaires identiques à ceux des classes énumérées ci-dessus dès
-lors que la fréquentation de ces classes ouvre droit au bénéfice de la sécurité sociale des étudiants.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
-
-	**Abrogé par**:
-
-	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
 
 ## LIVRE Ier : Obligations du service national.
 
