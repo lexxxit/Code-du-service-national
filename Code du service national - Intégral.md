@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-09-02
 
 # Partie législative
 
@@ -4701,7 +4701,7 @@ militaires, a des co-auteurs ou complices non justiciables de ces juridictions, 
 ###### Article L144
 
 Lorsque les tribunaux des forces armées sont appelés à juger des assujettis au service de défense, un des juges est choisi
-parmi les affectés de défense relevant du même département ministériel que l'inculpé.
+parmi les affectés de défense relevant du même département ministériel que la personne mise en examen.
 
 Chacun des ministres dont relèvent des emplois de défense établit, pour chaque tribunal des forces armées, la liste des
 affectés de défense appelés à siéger comme juges.
@@ -4718,6 +4718,10 @@ en grade.
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
 
 	**Cité par**:
 
