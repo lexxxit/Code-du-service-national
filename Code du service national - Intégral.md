@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-10-25
+Version Consolidée au 1983-12-22
 
 # Partie législative
 
@@ -3828,6 +3828,60 @@ désigné par le millésime de ladite année.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+###### Article R14
+
+Le contingent annuel comprend, s'ils sont reconnus aptes au service national :
+
+1° Les jeunes gens ne bénéficiant ni d'un report d'incorporation ni des dispositions des articles L. 9 et L. 10, et
+appartenant aux catégories suivantes :
+
+a) Jeunes gens recensés après le jour anniversaire de leurs dix-sept ans et ^agés de dix-huit ans au moins ;
+
+b) Jeunes gens recensés dans les conditions fixées aux articles L. 16 et L. 17, à la suite de la conservation ou de
+l'acquisition de la nationalité française et ^agés de moins de vingt-neuf ans ;
+
+c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20 et ^agés de moins de trente-quatre ans ;
+
+2° Les jeunes gens dont le report d'incorporation expire au plus tard le 30 novembre de l'année considérée et les
+bénéficiaires de l'article L. 9 qui doivent ^etre appelés au service actif au plus tard le 1er décembre ;
+
+3° Les jeunes gens qui, renonçant au bénéfice de la dispense ou, avant terme, au report d'incorporation ou aux dispositions
+de l'article L. 9, demandent au plus tard le 30 septembre de l'année considérée à ^etre appelés avec l'une des fractions de
+ce contingent ;
+
+4° Les jeunes gens qui demandent, au plus tard le 30 septembre de l'année considérée, à bénéficier de l'appel avancé prévu
+par l'article L. 5, en vue d'^etre incorporés avec l'une des fractions de ce contingent.
+
+5° Les jeunes gens dont l'appel a été décalé et qui seraient de ce fait compris dans ce contingent.
+
+6° Les jeunes gens ^agés de dix-huit ans ou plus dont le contrat d'engagement a été durant l'année considérée annulé ou
+résilié avant que les intéressés n'aient accompli une durée de service venant en déduction des obligations du service
+national actif égale à celle de ces obligations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-829 1971-09-30 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R20 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L16 (M)
+	  - Code du service national - art. L17 (M)
+	  - Code du service national - art. L5 (M)
+	  - Code du service national - art. L9 (M)
+
+
 ###### Article R19
 
 L'appel des jeunes gens d'un m^eme contingent a lieu, sous réserve des dispositions de l'article R. 21, en six fractions à
@@ -3859,6 +3913,45 @@ peuvent ^etre avancées dans la limite d'un mois.
 	**Modifié par**:
 
 	  - Décret n°74-760 1974-08-30 art. 1 JORF 4 septembre 1974 rectificatif JORF 12 septembre 1974
+
+
+###### Article R20
+
+Les jeunes gens visés au 1° de l'article R. 14 sont appelés d'office dans l'ordre des tranches de classe de recrutement
+prévues à l'article R.[* 33 et, pour chaque tranche, dans l'ordre des dates de naissance en commençant par les catégories b
+et c.
+
+Les jeunes gens visés au 2° de l'article R. 14 sont appelés avec la première fraction de contingent dont l'incorporation suit
+la date d'expiration du report d'incorporation ou celle résultant de l'application des articles L. 9 et L. 10.
+
+Les jeunes gens visés aux 3° et 4° de l'article R. 14 sont compris dans la fraction de contingent avec laquelle ils ont
+demandé, dans les délais fixés, selon le cas, aux articles R.*] 1 ou R.[* 10, à ^etre incorporés. En cas d'excédent
+concernant les jeunes gens visés aux 2°, 3° et 4° de l'article R. 14, l'appel de ceux ayant déposé leur demande le plus
+tardivement peut ^etre décalé dans les conditions fixées par l'article R.*] 11, m^eme si ce décalage a pour effet de les
+comprendre dans le contingent suivant.
+
+Les jeunes gens visés au 6° de l'article R. 14 sont maintenus sous les drapeaux lors de l'annulation ou de la résiliation de
+leur engagement et rattachés pour la durée des obligations du service actif qui leur incombe à la fraction de contingent dont
+l'incorporation a immédiatement précédé la souscription de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-829 1971-09-30 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R14 (M)
+	  - Code du service national R14, R1
 
 
 ###### Article R21
@@ -5131,6 +5224,53 @@ dans cet Etat.
 	**Cite**:
 
 	  - Code du service national - art. L37 (M)
+
+
+###### Article R75
+
+I. - Pour obtenir le bénéfice de la dispense prévue au paragraphe a de l'article L. 38, les double-nationaux doivent fournir
+à leur bureau de recrutement, dans les six mois qui suivent la date à laquelle ils atteignent l'^age de vingt et un ans :
+
+1° Un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils sont ressortissants attestant qu'ils sont
+en règle avec la loi de recrutement de cet Etat ou un certificat du consul mentionnant que le service militaire obligatoire
+n'est pas institué dans ledit Etat ;
+
+2° Un certificat de résidence établi par le consul attestant qu'ils ont résidé habituellement de dix-huit à vingt et un ans
+sur le territoire de l'Etat étranger dont ils sont ressortissants.
+
+Avant que ces jeunes gens atteignent l'^age de vingt et un ans et puissent obtenir la dispense, leur appel au service actif
+est différé sur le vu d'un certificat provisoire de résidence établi par le consul ou de la notice individuelle en tenant
+lieu.
+
+II. - Pour obtenir le bénéfice de la dispense prévue au paragraphe b de l'article L. 38, les double-nationaux doivent fournir
+à leur bureau de recrutement un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils sont
+ressortissants attestant qu'ils ont été effectivement incorporés, soit comme appelés soit comme engagés, dans l'armée dudit
+Etat.
+
+III. - Pour obtenir le bénéfice de la dispense prévue au paragraphe c de l'article L. 38, les double-nationaux doivent
+fournir au bureau du service national dont ils relèvent un document officiel émanant de l'autorité militaire de l'Etat
+étranger dont ils sont ressortissants attestant qu'ils ont déjà accompli leur service obligatoire dans leur pays de résidence
+ou qu'ils ont obtenu un sursis d'incorporation au titre de ces études.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R76 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L38 (M)
 
 
 ###### Article R76
