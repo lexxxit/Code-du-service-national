@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -670,8 +670,8 @@ Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la
 ###### Article L114-13
 
 Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat. En ce qui concerne les Français
-établis hors de France, ces modalités sont prises après avis du Conseil supérieur des Français à l'étranger ou de son bureau
-permanent dans l'intervalle des sessions du conseil.
+établis hors de France, ces modalités sont prises après avis de l'Assemblée des Français à l'étranger ou de son bureau dans
+l'intervalle des sessions du conseil.
 
 **Liens relatifs à cet article**
 
@@ -679,9 +679,10 @@ permanent dans l'intervalle des sessions du conseil.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
+	  - Loi n°2004-805 du 9 août 2004 - art. 3 () JORF 11 août 2004
 
 
 #### Chapitre V : La préparation militaire.
@@ -1423,8 +1424,8 @@ formes contractuelles d'engagement volontaire pour l'accomplissement de missions
 ###### Article L122-20
 
 Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
-réglementaires relatives à l'accomplissement du volontariat civil à l'étranger sont prises après consultation du Conseil
-supérieur des Français de l'étranger.
+réglementaires relatives à l'accomplissement du volontariat civil à l'étranger sont prises après consultation de l'Assemblée
+des Français de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -1432,9 +1433,9 @@ supérieur des Français de l'étranger.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-242 du 14 mars 2000 - art. 25 () JORF 15 mars 2000
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
 
 	**Cité par**:
 
