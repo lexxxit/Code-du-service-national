@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1984-05-13
+Version Consolidée au 1984-07-24
 
 # Partie législative
 
@@ -3461,6 +3461,61 @@ manifeste dans les conditions prévues à l'article R. 2 auprès de l'autorité 
 
 ##### PARAGRAPHE 2 : Report d'incorporation.
 
+###### Article R*5
+
+Les jeunes gens qui désirent bénéficier du report d'incorporation prévu à l'article L. 5, alinéa 2-2°, peuvent en faire la
+demande lors de la déclaration de recensement souscrite dans les conditions prévues à l'article R. 35. A défaut, ils doivent
+adresser leur demande au bureau du service national dont ils relèvent avant le jour où ils atteignent l'âge de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L5 (M)
+	  - Code du service national L5, R35
+
+
+###### Article R*6
+
+Les jeunes gens qui, en raison de leur situation particulière en matière de nationalité, sont recensés après avoir atteint
+l'âge de dix-huit ans peuvent obtenir un report d'incorporation en adressant une demande à la mairie de leur domicile dans le
+mois qui suit leur déclaration de recensement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R*8-1
 
 Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu à l'article L. 5 ter doivent le demander au
@@ -3587,6 +3642,34 @@ lors que la fréquentation de ces classes ouvre droit au bénéfice de la sécur
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*10
+
+Les jeunes gens qui bénéficient d'un report, d'un report supplémentaire ou d'un report spécial d'incorporation sont appelés
+au service actif avec la première fraction de contingent incorporée après la date d'expiration de ce report.
+
+Toutefois, ils peuvent renoncer avant terme au bénéfice du report en notifiant leur renonciation à leur bureau du service
+national deux mois au moins avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent ^etre incorporés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
+	  - Décret n°74-759 1974-08-30 art. 3 JORF 4 septembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R9
@@ -8941,54 +9024,24 @@ organismes habilités et des associations concernées par l'objection de conscie
 
 ## TITRE IV : Service féminin.
 
-###### Article R*235
+###### Article R*228
 
-Sont nommées volontaires spécialistes :
+Les personnes de sexe féminin et de nationalité française qui font acte de volontariat pour servir au titre de l'une des
+formes du service national doivent jouir de leurs droits civils et satisfaire aux conditions d'^age et d'aptitude exigées par
+le code du service national pour l'accomplissement du service actif. Elles n'ont pas accès au service des objecteurs de
+conscience.
 
-les titulaires du dipl<cb>me de docteur en médecine, de pharmacien ou de chirurgien dentiste qui recevront respectivement
-l'appellation de volontaire médecin, volontaire vétérinaire, volontaire pharmacien, volontaire chirurgien-dentiste ;
-
-les titulaires de certains titres ou diplomes requis pour tenir des emplois dont la liste est fixée par arrêté conjoint du
-ministre chargé de la défense nationale et du ministre de l'économie et des finances.
-
-</cb>
+Les modalités de constatation et de vérification de l'aptitude au service national sont fixées par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°71-919 1971-11-17 art. 9
-
-	**Abrogé par**:
-
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
+	  - Décret n°71-919 1971-11-17 art. 1
 
 	**Modifié par**:
 
-	  - Décret n°74-759 1974-08-30 art. 9 JORF 4 septembre 1974
-
-
-###### Article R*236
-
-Lors de son appel au service, le personnel volontaire feminin peut suivre un stage de formation dont la durée et les
-conditions sont fixées par le ministre chargé de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-919 1971-11-17 art. 10
-
-	**Abrogé par**:
-
+	  - Décret n°75-828 1975-09-02 art. 4 JORF 7 septembre 1975
 	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
 
 	**Codifié par**:
@@ -9000,52 +9053,106 @@ conditions sont fixées par le ministre chargé de la défense nationale.
 	  - Code du service national - art. ANNEXE I (V)
 
 
-###### Article R*237
+###### Article R*229
 
-Compte tenu de leur manière de servir, les volontaires peuvent être nommées volontaires techniciennes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-919 1971-11-17 art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*238
-
-Le personnel volontaire féminin reçoit, dans les conditions fixées par décret, une rémunération et, le cas échéant, les
-prestations nécessaires à sa subsistance, à son équipement et à son logement au lieu d'emploi.
-
-Les membres du personnel volontaire féminin et leurs ayants cause bénéficient des dispositions du livre 1er du code des
-pensions militaires d'invalidité et des victimes de guerre. La pension d'invalidité ainsi que la pension d'orphelin
-éventuellement due en cas de décès sont liquidées sur la base du taux du grade fixé pour la rémunération des membres de ce
-personnel par le décret visé à l'alinéa précédent.
+Les emplois ouverts aux volontaires féminines au titre de chacune des formes du service national sont fixés par le ministre
+responsable. Les volontaires féminines dont la candidature est retenue font l'objet de décisions nominatives d'affectation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°71-919 1971-11-17 art. 12
+	  - Décret n°71-919 1971-11-17 art. 2
 
 	**Modifié par**:
 
-	  - Décret n°74-759 1974-08-30 art. 10 JORF 4 septembre 1974
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
 
-	**Abrogé par**:
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*230
+
+Les candidatures aux emplois visés à l'article R. 229 sont présentées au bureau du service national dans le ressort
+territorial duquel réside la candidate.
+
+Les ministres responsables statuent sur les candidatures dans la limite des emplois offerts et des qualifications
+recherchées.
+
+Les candidates dont le volontariat a été accepté rejoignent leur affectation dans les conditions fixées au moment de l'appel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 2
+
+	**Modifié par**:
 
 	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R229
+
+
+###### Article R*231
+
+Les candidates volontaires pour servir dans les armées ne peuvent accéder qu'aux emplois ouverts aux femmes et en fonction
+des recrutements annuels fixés par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*233
+
+Les volontaires féminines sont soumises en matière de discipline, d'avancement, de permissions, de soins médicaux, de
+rémunération et d'avantages sociaux ainsi qu'en ce qui concerne la couverture des risques aux dispositions qui régissent la
+forme du service national où elles sont affectées.
+
+Elles bénéficient des droits prévus au chapitre IV du titre II de la première partie du code de service national lorsqu'elles
+ont accompli le service national.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°74-759 1974-08-30 art. 8 JORF 4 septembre 1974
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984 rectificatif JORF 4 septembre 1984
 
 	**Codifié par**:
 
