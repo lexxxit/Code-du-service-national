@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-03-28
 
 # Partie législative
 
@@ -6464,7 +6464,7 @@ obtenus.
 
 ###### Article R*23
 
-Les emplois au titre desquels peut ^etre accordé le bénéfice de l'article L. 9 aux jeunes gens qui demandent à ^etre appelés
+Les emplois au titre desquels peut être accordé le bénéfice de l'article L. 9 aux jeunes gens qui demandent à être appelés
 pour accomplir leurs obligations légales du service national actif dans les conditions fixées audit article sont les
 suivants :
 
@@ -6479,10 +6479,10 @@ oeuvres à but non lucratif concourant au développement des départements ou te
 
 3° Au titre du service de la coopération dans un Etat étranger :
 
-emplois visés au 2° ci-dessus, dans les services ou organismes publics dépendant de cet Etat ; dans les services publics
-français, les organismes, associations ou oeuvres à but non lucratif et dans les entreprises françaises concourant au
-développement de cet Etat ; dans les organismes internationaux dont la France fait partie et qui exercent une activité de
-coopération dans cet Etat.
+emplois visés au 2° ci-dessus, dans les services ou organismes publics dépendant de cet Etat, dans les services publics
+français, les entreprises françaises, les organismes, associations ou oeuvres à but non lucratif exerçant une action
+humanitaire ou concourant au développement de cet Etat, dans les organismes internationaux dont la France fait partie et qui
+exercent une activité de coopération dans cet Etat.
 
 **Liens relatifs à cet article**
 
@@ -6492,7 +6492,7 @@ coopération dans cet Etat.
 
 	**Modifié par**:
 
-	  - Décret n°85-928 1985-08-28 art. 1 JORF 3 septembre 1985
+	  - Décret n°93-577 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Codifié par**:
 
@@ -6557,17 +6557,17 @@ Les qualifications professionnelles requises des jeunes gens visés à l'article
 
 1° Emplois au titre du service militaire :
 
-a) Lors du dép^ot de la demande, ^etre titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
+a) Lors du dépôt de la demande, être titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
 réglementairement admis en dispense en vue de l'inscription dans les universités et, en outre, dans la filière d'enseignement
 correspondant à l'emploi sollicité, avoir effectué avec succès au moins une année d'études supplémentaires ; cette demande
 est visée par le directeur de l'établissement ;
 
 b) Pour occuper l'emploi au titre duquel la candidature a été agréée, avoir obtenu, au moins, selon les emplois :
 
-- soit un dipl^ome d'ingénieur reconnu par la commission des titres d'ingénieur ou un dipl^ome d'architecte délivré par le
+- soit un diplôme d'ingénieur reconnu par la commission des titres d'ingénieur ou un diplôme d'architecte délivré par le
 Gouvernement ou par une école reconnue par l'Etat ;
 
-- soit la ma^itrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
+- soit la maîtrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
 laboratoires ou organismes visés à l'article R.*] 23-1° ;
 
 - soit le certificat de fin de scolarité d'une école nationale vétérinaire ;
@@ -6575,10 +6575,10 @@ laboratoires ou organismes visés à l'article R.*] 23-1° ;
 2° Emplois au titre du service de l'aide technique ou du service de la coopération :
 
 a) Jeunes gens ne sollicitant pas le report d'incorporation prévu à l'article L. 9 : posséder au moment de leur incorporation
-tout dipl^ome permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
+tout diplôme ou qualification permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
 
 b) Jeunes gens sollicitant le report d'incorporation prévu à l'article L. 9 : remplir les conditions définies au a du 1° ci-
-dessus lors du dép^ot de la demande ; posséder tout dipl^ome permettant d'occuper l'un des emplois visés au 2° de l'article
+dessus lors du dépôt de la demande ; posséder tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article
 R.*] 23 au moment de l'incorporation.
 
 **Liens relatifs à cet article**
@@ -6595,7 +6595,7 @@ R.*] 23 au moment de l'incorporation.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 10 () JORF 3 décembre 1992
+	  - Décret n°93-577 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
 
 	**Codifié par**:
 
