@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1999-04-16
+Version Consolidée au 1999-10-23
 
 # Partie législative
 
@@ -635,20 +635,15 @@ service national, des conventions fixant les modalités de mise à disposition d
 
 Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la défense par une préparation militaire.
 
-Cette préparation militaire consiste en une formation militaire dont la durée est fixée par l'autorité militaire en fonction
-des besoins de chaque arme et spécialité.
-
-A l'issue de cette préparation militaire, les Français pourront avoir accès à la réserve.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
 
 
 ###### Article L114-13
@@ -668,6 +663,50 @@ permanent dans l'intervalle des sessions du conseil.
 	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 
+#### Chapitre V : La préparation militaire.
+
+###### Article L115-1
+
+La préparation militaire et la préparation militaire supérieure sont accessibles aux Français libérés des obligations du
+service national âgés de moins de trente ans et ayant l'aptitude reconnue par le service de santé des armées pour suivre le
+cycle de formation correspondant.
+
+Cette préparation militaire consiste en une formation militaire dont la durée est fixée par l'autorité militaire en fonction
+des besoins de chaque force armée, arme et spécialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
+
+	**Cité par**:
+
+	  - Code des pensions militaires d'invalidité et de... - art. L123-2 (VD)
+
+
+###### Article L115-2
+
+Tout Français victime de dommages subis pendant une période d'instruction ou à l'occasion d'une période d'instruction
+accomplie au titre d'un cycle de formation de la préparation militaire, et, en cas de décès, ses ayants droit, obtiennent de
+l'Etat, lorsque la responsabilité de ce dernier est engagée, la réparation intégrale du dommage subi, suivant les règles du
+droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
+
+
 ### TITRE II : Dispositions relatives aux volontariats
 
 #### Chapitre Ier : Le volontariat dans les armées.
@@ -679,8 +718,8 @@ la qualité de militaire, comme volontaires dans les armées.
 
 A la date du dépôt de leur demande, ils doivent être âgés de plus de dix-huit ans et de moins de vingt-six ans.
 
-Le volontariat est conclu pour une durée de douze mois. Il est renouvelable chaque année. La durée totale du volontariat ne
-peut excéder soixante mois.
+Le volontariat est conclu pour une durée de douze mois qui peut être fractionnées si la nature de l'activité concernée le
+permet. Il est renouvelable chaque année. La durée totale du volontariat ne peut excéder soixante mois.
 
 Il est souscrit au titre d'une armée ou d'une formation rattachée.
 
@@ -700,9 +739,9 @@ que stagiaires du service militaire adapté.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
 
 
 ###### Article L121-2
@@ -719,6 +758,22 @@ les obligations du service national peuvent également déposer une demande pour
 	**Modifié par**:
 
 	  - Loi n°99-291 du 15 avril 1999 - art. 26 () JORF 16 avril 1999
+
+
+###### Article L121-2-1
+
+Les Français qui ont accompli un volontariat dans les armées restent disponibles dans la réserve militaire, dans la limite de
+cinq ans à compter de la fin de leur volontariat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
 
 
 ###### Article L121-3
@@ -4880,290 +4935,6 @@ considérés comme dispensés de leurs obligations du service national.
 	  - Loi n°1932-12-13 art. 78 al. 1
 
 
-#### Chapitre II : Service de défense.
-
-###### Article L86
-
-Le service de défense est destiné à satisfaire les besoins de la défense et notamment de la protection des populations
-civiles en personnel non militaire. Il ne comprend qu'une réserve constituée par les personnels soumis aux obligations de
-défense dont la liste figure à l'article L. 87.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 33 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L87 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. R*149 (M)
-
-
-###### Article L87
-
-Sont soumis aux obligations du service de défense :
-
-1° Les volontaires non assujettis aux obligations du service national ;
-
-2° Les hommes libérés des obligations du service militaire ;
-
-3° Les hommes qui, étant encore soumis aux obligations du service militaire, n'ont pas d'affectation militaire ;
-
-4° Les policiers auxiliaires qui, encore soumis aux obligations de la réserve de la police nationale, n'ont pas d'affectation
-de réserve dans la police nationale ;
-
-5° Les policiers auxiliaires libérés des obligations de réserve du service dans la police nationale ;
-
-6° Les jeunes gens libérés des obligations du service de sécurité civile ;
-
-7° Les jeunes gens libérés des obligations des services de l'aide technique ou de la coopération qui ne sont pas versés dans
-la réserve du service militaire ;
-
-8° Les hommes et les femmes mentionnés aux deux derniers alinéas de l'article L. 3 ;
-
-9° Les objecteurs de conscience qui n'ont pas d'affectation au titre de l'article L. 116-5.
-
-Les jeunes gens recensés et non encore appelés au service national actif peuvent faire l'objet d'une affectation de défense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L116-5 (M)
-	  - Code du service national - art. L3 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. L86 (Ab)
-	  - Code du service national - art. R*149 (Ab)
-
-
-###### Article L88
-
-Les assujettis au service de défense, lorsqu'ils accomplissent le service de défense et dans les cas visés à l'article L. 94,
-sont régis par un statut de défense. Ce statut est également applicable aux volontaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 37
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L94 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. R*167 (Ab)
-
-
-###### Article L89
-
-Les assujettis au service de défense appartenant aux corps de défense permanents ont droit au bénéfice des dispositions du
-livre Ier du code des pensions militaires d'invalidité et des victimes de guerre pour les blessures reçues et les maladies
-contractées ou aggravées du fait ou à l'occasion de l'accomplissement du service de défense.
-
-Les dispositions du code mentionné ci-dessus sont applicables aux veuves, orphelins et ascendants des intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 40 al. 1 et al. 3
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
-	  - Code du service national - art. L116-4 (V)
-	  - Code du service national - art. R*151 (Ab)
-	  - Code du service national - art. R*179 (Ab)
-	  - Code du service national - art. R*184 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L91 (Ab)
-
-
-###### Article L90
-
-Les modalités d'application des dispositions concernant l'emploi des personnes dans le service de défense sont déterminées
-par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 41 bis
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-
-###### Article L93
-
-Les hommes et les femmes soumis aux obligations du service de défense peuvent recevoir une affectation de défense selon les
-modalités fixées par décret en Conseil d'Etat.
-
-Ceux d'entre eux qui ont une affectation individuelle de défense sont soumis aux dispositions de l'article L. 84.
-
-Les dispositions du deuxième alinéa de l'article L. 62 leur sont applicables.
-
-Les ministres responsables fixent le nombre et la durée des périodes d'exercice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°65-550 1965-07-09 art. 33 al. 4 et al. 5
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L62 (M)
-	  - Code du service national - art. L84 (M)
-
-
-###### Article L94
-
-Dans les cas prévus aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, les assujettis au service de défense
-peuvent être appelés à leur emploi de défense à titre individuel ou collectif, pour servir au lieu et dans les conditions qui
-leur sont assignés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 35
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cité par**:
-
-	  - Code du service national - art. L139 (Ab)
-	  - Code du service national - art. L146 (Ab)
-	  - Code du service national - art. L22 (V)
-	  - Code du service national - art. L88 (Ab)
-	  - Code du service national - art. R*165 (Ab)
-	  - Code du service national - art. R*167 (Ab)
-	  - Code du service national - art. R*170 (Ab)
-
-
 #### Chapitre II bis : Service dans la police nationale
 
 ##### Section I : Dispositions générales.
@@ -8277,467 +8048,6 @@ considérés comme dispensés de leurs obligations du service national.
 
 	  - Loi n°1928-03-31 art. 46
 	  - Loi n°1932-12-13 art. 55 al. 1 et al. 2
-
-
-#### Chapitre III : Dispositions particulières au service de défense.
-
-###### Article L138
-
-Les dispositions de l'article L. 149-1 s'appliquent aux assujettis au service de défense. En outre, ceux qui sont affectés à
-une administration ou à une entreprise sont assujettis à la discipline propre de cette administration ou de cette entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 38
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national - art. L149-1 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. R*167 (Ab)
-	  - Code du service national - art. R78 (Ab)
-
-
-###### Article L139
-
-En temps de paix, les assujettis au service de défense relèvent, pour l'application du livre III du code de justice
-militaire, de la compétence des tribunaux de droit commun, dans les conditions prévues par les articles 697 à 698-8 du code
-de procédure pénale. En cas de guerre et en cas d'application de l'article L. 94, les assujettis au service de défense sont
-assimilés aux militaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 39
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code de procédure pénale 697 à 698-8
-	  - Code du service national - art. L94 (M)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
-	  - Code du service national - art. R*167 (Ab)
-
-
-###### Article L141
-
-Toute infraction définie aux articles L. 397 à L. 476 du code de justice militaire, complétés par les articles L. 124 à L.
-128 du présent code, et commise par les personnes servant sous statut de défense, donne lieu à procès-verbal d'un officier ou
-d'un agent de police judiciaire.
-
-L'infraction doit être immédiatement signalée à la brigade de gendarmerie ou à l'autorité de police territorialement
-compétente par :
-
-a) le commandant de la formation si l'intéressé appartient à un corps de défense ;
-
-b) le directeur de l'administration ou le chef d'établissement si l'intéressé travaille dans une administration ou un
-établissement de l'Etat ou une collectivité publique ;
-
-c) le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans un établissement ou une entreprise autre que
-ceux visés au paragraphe b ci-dessus ;
-
-d) l'autorité administrative de tutelle si l'intéressé travaille isolément.
-
-Le ministre chargé des armées est tenu informé par chaque ministre responsable des infractions commises par les personnes
-servant sous statut de défense ainsi que de la suite donnée aux poursuites engagées contre ces personnes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 2
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Décret n°90-670 du 31 juillet 1990 - art. 9 (Ab)
-	  - Code du service national - art. L116-4 (V)
-	  - Code du service national - art. L147 (Ab)
-	  - Code du service national - art. R227-8 (V)
-	  - Code du service national - art. R90 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code de justice militaire L397 à L476
-	  - Code du service national L124 à L128
-
-
-###### Article L142
-
-En temps de guerre ou dans les cas prévus aux articles 699-1 et 700 du code de procédure pénale, l'ordre de poursuite est
-délivré :
-
-a) S'il s'agit d'un individu servant sous statut de défense affecté à une administration rattachée à l'une des trois armées
-ou à un établissement travaillant au profit de l'une d'entre elles, par l'autorité militaire de cette armée exerçant les
-pouvoirs judiciaires sur le territoire où se trouve l'administration ou l'établissement.
-
-b) Dans les autres cas, par l'autorité militaire de l'armée de terre exerçant les pouvoirs judiciaires sur le lieu de
-l'affectation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 3
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 699-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 700 (M)
-
-
-###### Article L143
-
-Lorsqu'un individu servant sous statut de défense, poursuivi pour un crime ou un délit de la compétence de juridictions
-militaires, a des coauteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles
-établies par le code de justice militaire, l'intéressé étant considéré comme militaire pour leur application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 4
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-
-###### Article L144
-
-Lorsque les tribunaux des forces armées sont appelés à juger des assujettis au service de défense, un des juges est choisi
-parmi les affectés de défense relevant du même département ministériel que la personne mise en examen.
-
-Chacun des ministres dont relèvent des emplois de défense établit, pour chaque tribunal des forces armées, la liste des
-affectés de défense appelés à siéger comme juges.
-
-Le juge choisi par l'autorité militaire exerçant les pouvoirs judiciaires siège à la place du juge militaire le moins élevé
-en grade.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 5
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
-
-
-###### Article L145
-
-Les dispositions du code de justice militaire qui répriment les faits d'insoumission, de désertion, d'abandon de poste et de
-refus d'obéissance sont applicables selon les dispositions des articles L. 146 à L. 149 aux individus servant sous statut de
-défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 7
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code du service national L146 à L149
-
-
-###### Article L146
-
-Est insoumis et passible des peines prévues à l'article 397 du code de justice militaire ainsi que du séquestre ou de la
-confiscation des biens dans les conditions prévues au chapitre II du titre VI du livre II dudit code, tout individu titulaire
-d'une affectation individuelle ou dûment avisé d'une affectation collective de défense le concernant qui, appelé au titre de
-l'article L. 94, ne se présente pas, hors le cas de force majeure, à la destination fixée, dans un délai de deux jours à
-compter de la date de publication du décret mettant en vigueur les mesures prévues aux articles 2 et 6 de l'ordonnance n°
-59-147 du 7 janvier 1959 ou de la décision prise en application du deuxième alinéa de l'article 23 de la même ordonnance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6, art. 23
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 23 (Ab)
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-	  - Code de justice militaire - art. 397 (M)
-	  - Code du service national - art. L94 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 8
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 4 (V)
-	  - Code du service national - art. R90 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-
-###### Article L147
-
-Est déserteur à l'expiration des délais de grâce prévus aux articles 398 à 413 du code de justice militaire et passible des
-peines que ces articles édictent, ainsi que du séquestre ou de la confiscation des biens dans les conditions prévues au
-chapitre II du titre VI du livre II dudit code :
-
-a) Tout individu qui, déjà incorporé au titre militaire, reçoit une affectation de défense et ne rejoint pas la destination
-qui lui est donnée à ce titre ;
-
-b) Tout individu qui, déjà incorporé au titre du service de défense, reçoit un ordre de mutation dans le service de défense
-et ne rejoint pas sa nouvelle destination ;
-
-c) Tout individu qui, servant sous statut de défense, quitte sans autorisation l'administration, l'entreprise,
-l'établissement ou le corps de défense auquel il est rattaché ;
-
-d) Tout individu qui, servant sous statut de défense, reçoit un ordre de mutation au titre du service militaire et ne rejoint
-pas la formation militaire qui lui a été assignée.
-
-Le procès-verbal établi par la gendarmerie dès la déclaration faite par application de l'article L. 141 devra mentionner
-expressément la date de l'absence constatée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 9
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 4 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code de justice militaire 398 à 413
-	  - Code du service national - art. L141 (M)
-
-
-###### Article L148
-
-Est coupable d'abandon de poste et passible des peines prévues à l'article 468 du code de justice militaire tout individu
-servant sous statut de défense qui s'absente de son poste de travail sans autorisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 10
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code de justice militaire - art. 468 (M)
-
-
-###### Article L149
-
-Est passible des peines prévues aux articles 447 et 448 du code de justice militaire, l'individu servant sous statut de
-défense qui refuse d'obéir ou qui, hors le cas de force majeure, n'exécute pas l'ordre reçu de ceux qui ont qualité pour le
-donner.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 11
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 5 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 5 (V)
-	  - Code du service national - art. R90 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
-
-	**Cite**:
-
-	  - Code de justice militaire - art. 447 (M)
-	  - Code de justice militaire - art. 448 (Ab)
 
 
 #### Chapitre III bis : Dispositions particulières au service dans la police nationale.
