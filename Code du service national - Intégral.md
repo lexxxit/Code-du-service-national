@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1975-09-02
+Version Consolidée au 1975-09-07
 
 # Partie législative
 
@@ -5099,6 +5099,58 @@ Ils reçoivent une commission spéciale.
 
 ##### PARAGRAPHE 1 : Préparation au service militaire.
 
+###### Article R133
+
+Les jeunes gens peuvent recevoir avant leur appel sous les drapeaux une préparation au service militaire sous l'une des
+formes suivantes :
+
+- préparation militaire ;
+
+- préparation militaire parachutiste ;
+
+- préparation militaire supérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
+
+###### Article R134
+
+La préparation militaire a pour but de donner aux jeunes gens une formation physique et technique qui les prépare à tenir des
+emplois d'encadrement ou de spécialités.
+
+L'instruction est donnée par des sociétés de préparation militaire et des cadres de réserve volontaires agréés par l'autorité
+militaire.
+
+Un examen de fin de préparation est organisé pour la délivrance d'un brevet de préparation militaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 16 décembre 1993 - art. 8 (V)
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Modifié par**:
+
+	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
+
 ###### Article R135
 
 La préparation militaire parachutiste a pour but d'assurer le recrutement de jeunes gens aptes à servir dans les troupes
@@ -5179,6 +5231,35 @@ militaires, sont fixées par arr^eté du ministre chargé de la défense nationa
 
 
 ##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.
+
+###### Article R141
+
+Les jeunes gens titulaires du brevet de préparation militaire ou du brevet de préparation militaire parachutiste qui, au
+cours de leurs activités préliminaires, ont été jugés aptes à recevoir la formation d'élève officier de réserve peuvent ^etre
+admis soit à la préparation militaire supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R140 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°71-820 1971-09-23 art. 2 et art. 6
+
+	**Modifié par**:
+
+	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
 
 ###### Article R144
 
@@ -5691,6 +5772,37 @@ affectation individuelle militaire ou de défense.
 
 
 #### SECTION II : Statut de défense.
+
+###### Article R*167
+
+Lorsqu'ils sont appelés à leur emploi de défense en exécution de l'article L. 94, les affectés de défense sont régis par le
+statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1386 1962-11-23 art. 22
+
+	**Modifié par**:
+
+	  - Décret n°75-828 1975-09-02 art. 3 JORF 7 septembre 1975
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L138 (M)
+	  - Code du service national - art. L139 (M)
+	  - Code du service national - art. L88 (M)
+	  - Code du service national - art. L94 (M)
+
 
 ##### PARAGRAPHE 1 : Régime administratif et social.
 
