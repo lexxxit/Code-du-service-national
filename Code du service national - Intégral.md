@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1996-05-04
+Version Consolidée au 1996-05-29
 
 # Partie législative
 
@@ -350,9 +350,10 @@ fraction du contingent à incorporer, en tenant compte notamment des échéances
 
 Les jeunes gens sont tenus de rejoindre leur affectation à la date qui est indiquée sur leur convocation individuelle.
 
-Nul ne peut être appelé au service actif s'il a atteint ou dépassé l'âge de vingt-neuf ans. Toutefois, en cas d'insoumission
-ou d'omission sur les listes de recensement, l'appel peut intervenir jusqu'à ce que les intéressés aient atteint l'âge de
-trente-quatre ans.
+Nul ne peut être appelé au service actif s'il a atteint ou dépassé l'âge de vingt-neuf ans. Cet âge est porté à trente ans
+pour les jeunes gens qui ont obtenu le bénéfice des dispositions de l'article L. 10 jusqu'à l'âge de vingt-huit ans.
+Toutefois, en cas d'insoumission ou d'omission sur les listes de recensement, l'appel peut intervenir jusqu'à ce que les
+intéressés aient atteint l'âge de trente-quatre ans.
 
 **Liens relatifs à cet article**
 
@@ -372,6 +373,14 @@ trente-quatre ans.
 	  - Code du service national - art. L33 (V)
 	  - Code du service national - art. L5 (V)
 	  - Code du service national - art. L51 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-452 du 28 mai 1996 - art. 29 () JORF 29 mai 1996
+
+	**Cite**:
+
+	  - Code du service national - art. L10 (M)
 
 
 ###### Article L8
@@ -3799,8 +3808,11 @@ Les jeunes gens qui justifient de la poursuite d'un cycle d'études en vue de l'
 l'exercice de la profession de médecin, de pharmacien, de vétérinaire ou de chirurgien-dentiste peuvent, sur leur demande,
 bénéficier d'un report spécial d'incorporation.
 
-Ce report d'incorporation vient à échéance au plus tard le 31 décembre de l'année civile au cours de laquelle ils atteignent
-l'âge de vingt-sept ans.
+Ce report d'incorporation vient à échéance au plus tard le 31 décembre de l'année civile au cours de laquelle :
+
+- les étudiants en pharmacie et en art vétérinaire atteignent l'âge de vingt-sept ans ;
+
+- les étudiants en médecine et en chirurgie dentaire atteignent l'âge de vingt-huit ans.
 
 Les jeunes gens mentionnés au présent article qui, au moment de leur incorporation, sont titulaires du titre requis sont
 affectés, dans la limite des emplois budgétaires disponibles, en qualité de médecin, vétérinaire, pharmacien ou de
@@ -3820,12 +3832,6 @@ enseignements dont ils ont bénéficié et à la nature et au niveau de la forma
 
 	  - Loi n°71-424 1971-06-10
 
-	**Modifié par**:
-
-	  - Loi n°73-625 1973-07-10 art. 7 JORF 11 juillet 1973
-	  - Loi n°82-541 1982-06-29 art. 2 JORF 30 juin 1982
-	  - Loi n°92-9 du 4 janvier 1992 - art. 9 () JORF 7 janvier 1992
-
 	**Cité par**:
 
 	  - Arrêté du 1 décembre 1992 - art. 1 (V)
@@ -3841,6 +3847,10 @@ enseignements dont ils ont bénéficié et à la nature et au niveau de la forma
 	  - Code du service national - art. R*73 (V)
 	  - Code du service national - art. R*8-2 (V)
 	  - Code du service national - art. R14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-452 du 28 mai 1996 - art. 29 () JORF 29 mai 1996
 
 
 ###### Article L11
