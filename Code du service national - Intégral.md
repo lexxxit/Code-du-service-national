@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2002-04-19
+Version Consolidée au 2002-12-28
 
 # Partie législative
 
@@ -864,9 +864,9 @@ chaque forme de volontariat par décret en Conseil d'Etat, doivent permettre un 
 
 Ils doivent en outre, sauf cas de force majeure, être en règle avec les obligations résultant du présent code.
 
-Enfin, l'accomplissement du volontariat civil est subordonné à l'acceptation de la candidature par le ministre compétent qui
-statue dans la limite des crédits budgétaires prévus à cet effet, en respectant, chaque fois que cela est possible, le
-principe de la parité entre les femmes et les hommes.
+Enfin, l'accomplissement du volontariat civil est subordonné à l'acceptation de la candidature par l'autorité administrative
+compétente qui statue dans la limite des crédits budgétaires prévus à cet effet, en respectant, chaque fois que cela est
+possible, le principe de la parité entre les femmes et les hommes.
 
 **Liens relatifs à cet article**
 
@@ -874,9 +874,9 @@ principe de la parité entre les femmes et les hommes.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-242 du 14 mars 2000 - art. 2 () JORF 15 mars 2000
+	  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
 
 
 ###### Article L122-3
@@ -931,11 +931,11 @@ l'homme, éléments indissociables d'une politique de paix, et au bon fonctionne
 
 ###### Article L122-5
 
-Le volontariat civil est accompli auprès d'une personne morale autre que l'Etat pour des activités agréées par le ministre
-compétent. Sur le territoire national, le volontariat civil ne peut être effectué qu'auprès d'une personne morale à but non
-lucratif ; à l'étranger, il peut être effectué auprès de toute personne morale. Toutefois, à l'étranger ou dans les
-départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat civil peut également être
-accompli dans un service de l'Etat.
+Le volontariat civil est accompli auprès d'une personne morale autre que l'Etat pour des activités agréées par l'autorité
+administrative compétente. Sur le territoire national, le volontariat civil ne peut être effectué qu'auprès d'une personne
+morale à but non lucratif ; à l'étranger, il peut être effectué auprès de toute personne morale. Toutefois, à l'étranger ou
+dans les départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat civil peut également
+être accompli dans un service de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -943,16 +943,16 @@ accompli dans un service de l'Etat.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Loi n°2000-242 du 14 mars 2000 - art. 5 () JORF 15 mars 2000
-
 	**Cité par**:
 
 	  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
 	  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
 	  - Arrêté du 24 mars 2004 - art. 1 (V)
 	  - Code du service national - art. L122-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
 
 
 ###### Article L122-6
@@ -977,11 +977,11 @@ résultant du présent chapitre, des textes réglementaires et des décisions pr
 
 ###### Article L122-7
 
-Lorsque le volontariat civil est accompli auprès d'une personne morale autre que l'Etat, le ministre compétent ou un
-organisme gestionnaire qu'il désigne conclut une convention avec la personne morale concernée. Lorsque le volontariat civil
-est accompli en partenariat avec le service volontaire européen pour les jeunes mis en place par la Commission européenne, la
-convention est en outre signée par cette dernière. Cette convention détermine les conditions d'accomplissement du
-volontariat. Elle prévoit notamment :
+Lorsque le volontariat civil est accompli auprès d'une personne morale autre que l'Etat, l'autorité administrative compétente
+ou un organisme gestionnaire qu'elle désigne conclut une convention avec la personne morale concernée. Lorsque le volontariat
+civil est accompli en partenariat avec le service volontaire européen pour les jeunes mis en place par la Commission
+européenne, la convention est en outre signée par cette dernière. Cette convention détermine les conditions d'accomplissement
+du volontariat. Elle prévoit notamment :
 
 - la nature des activités confiées au volontaire civil ;
 
@@ -1002,10 +1002,6 @@ l'obligation pour cette personne de souscrire une assurance au titre de la respo
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Loi n°2000-242 du 14 mars 2000 - art. 7 () JORF 15 mars 2000
-
 	**Cité par**:
 
 	  - Décret n°2000-1159 du 30 novembre 2000 - art. 28 (V)
@@ -1018,6 +1014,10 @@ l'obligation pour cette personne de souscrire une assurance au titre de la respo
 	  - Code du service national - art. L122-8 (VD)
 	  - Code général des impôts, CGI. - art. 244 quater H (V)
 
+	**Modifié par**:
+
+	  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
+
 	**Cite**:
 
 	  - Code du service national - art. L122-18 (V)
@@ -1025,7 +1025,7 @@ l'obligation pour cette personne de souscrire une assurance au titre de la respo
 
 ###### Article L122-8
 
-Le ministre compétent peut mettre fin au volontariat civil en cours d'accomplissement :
+L'autorité administrative compétente peut mettre fin au volontariat civil en cours d'accomplissement :
 
 - en cas de force majeure ;
 
@@ -1037,8 +1037,8 @@ Le ministre compétent peut mettre fin au volontariat civil en cours d'accomplis
 
 - à la demande conjointe du volontaire civil et de la personne morale.
 
-Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, le ministre compétent peut mettre fin au volontariat
-pour permettre au demandeur d'occuper une activité professionnelle.
+Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, l'autorité administrative compétente peut mettre fin
+au volontariat pour permettre au demandeur d'occuper une activité professionnelle.
 
 Par dérogation aux dispositions de l'article L. 122-3, lorsqu'il a été mis fin au volontariat civil en cas de force majeure
 ou en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7, l'intéressé peut
@@ -1055,16 +1055,16 @@ indisponibilité, sans que la durée totale de son engagement ne puisse excéder
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Loi n°2000-242 du 14 mars 2000 - art. 8 () JORF 15 mars 2000
-
 	**Cité par**:
 
 	  - Décret n°2000-1159 du 30 novembre 2000 - art. 29 (V)
 	  - Décret n°2000-1159 du 30 novembre 2000 - art. 30 (V)
 	  - Arrêté du 24 mars 2004 - art. 4 (V)
 	  - Code du service national - art. L122-3 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
 
 	**Cite**:
 
@@ -1073,8 +1073,8 @@ indisponibilité, sans que la durée totale de son engagement ne puisse excéder
 
 ###### Article L122-9
 
-Un certificat d'accomplissement du volontariat civil est délivré au volontaire par le ministre compétent à l'issue de sa
-période de volontariat.
+Un certificat d'accomplissement du volontariat civil est délivré au volontaire par l'autorité administrative compétente à
+l'issue de sa période de volontariat.
 
 **Liens relatifs à cet article**
 
@@ -1082,9 +1082,9 @@ période de volontariat.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-242 du 14 mars 2000 - art. 9 () JORF 15 mars 2000
+	  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
 
 
 ##### Section II : Droits et obligations du volontaire civil.
