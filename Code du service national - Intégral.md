@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1987-07-14
+Version Consolidée au 1988-04-28
 
 # Partie législative
 
@@ -7425,6 +7425,39 @@ militaires, sont fixées par arr^eté du ministre chargé de la défense nationa
 
 
 ##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.
+
+###### Article R140
+
+Sont admis aux cours ou pelotons de formation des élèves officiers de réserve, dont la durée ne peut excéder quatre mois,
+dans la limite des places offertes par les armées :
+
+1° Les jeunes gens titulaires du brevet de préparation militaire supérieure qui ont obtenu à l'examen prévu à l'article R.
+136 une note suffisante : leur incorporation peut ^etre décalée dans les conditions fixées à l'article R. 11 ;
+
+2° Les jeunes gens reçus à un examen à l'issue d'un cycle préparatoire, d'une durée maximum de deux mois, organisé au début
+du service militaire actif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R136 (V)
+	  - Code du service national - art. R141 (V)
+	  - Code du service national - art. R145 (V)
+
+	**Cite**:
+
+	  - Code du service national R136, R11
+
+	**Anciens textes**:
+
+	  - Décret n°71-820 1971-09-23 art. 2 à art. 6
+
 
 ###### Article R141
 
