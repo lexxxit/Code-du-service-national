@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1986-03-07
+Version Consolidée au 1986-03-12
 
 # Partie législative
 
@@ -9179,7 +9179,83 @@ demandent à ^etre libérés dans l'Etat de séjour.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+##### PARAGRAPHE 3 : Discipline.
+
+###### Article R210
+
+Les sanctions disciplinaires qui peuvent être infligées aux jeunes gens accomplissant le service national actif dans le
+service de l'aide technique ou celui de la coopération sont :
+
+- l'avertissement qui peut être complété par la suppression de dix jours de permission normale ;
+
+- le bl^ame qui peut être complété par la suppression de quinze jours de permission normale ;
+
+- la radiation d'office assortie du rappel en métropole, d'une majoration de la durée du service actif pouvant aller jusqu'à
+trois mois et de l'annulation des droits à permission normale acquis par le fautif pendant la durée de son service dans
+l'aide technique ou dans la coopération.
+
+La radiation d'office est prononcée par le ministre responsable. L'avertissement et le blâme le sont par l'autorité ayant
+reçu délégation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-210 1967-03-10 art. 15
+	  - Décret n°67-209 1967-03-10 art. 15
+
+	**Modifié par**:
+
+	  - Décret n°86-337 1986-03-05 art. 1 JORF 12 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ##### PARAGRAPHE 4 : Permissions.
+
+###### Article R211
+
+La durée des permissions normales dont peuvent bénéficier les jeunes gens affectés au service de l'aide technique ou au
+service de la coopération est fixée en fonction du lieu d'emploi.
+
+Dans le service de l'aide technique, cette durée est fixée à trois jours par mois de service effectif accompli outre-mer.
+
+Dans le service de la coopération, cette durée est de :
+
+- deux jours par mois de service effectif accompli en Europe ou en Afrique du Nord ;
+
+- trois jours par mois de service effectif accompli dans les Etats du Moyen-Orient ou au Sahara (Algérie) ;
+
+- quatre jours par mois de service effectif accompli dans les autres Etats étrangers.
+
+Toute fraction de mois de service effectif supérieure à quinze jours est comptée comme un mois entier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-210 1967-03-10 art. 16
+	  - Décret n°67-209 1967-03-10 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°86-337 1986-03-05 art. 2 JORF 12 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R216 (V)
+
 
 ###### Article R212
 
