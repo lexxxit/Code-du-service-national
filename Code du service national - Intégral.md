@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1977-11-08
+Version Consolidée au 1978-03-23
 
 # Partie législative
 
@@ -3172,6 +3172,73 @@ départements et territoires d'outre-mer.
 
 
 #### SECTION II : Composition et appel du contingent.
+
+###### Article R*16
+
+Pour l'application de l'article R.15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
+dans les armées les jeunes gens qui en font la demande et ceux qui ne sont pas affectés à l'une des autres formes du service
+national.
+
+Sont notamment affectés dans les armées :
+
+(Décret n° 78-388 du 17 mars 1978, art. 1er) << 1° Les jeunes gens titulaires du brevet de préparation militaire supérieure
+et les marins de la marine marchande. <> ;
+
+2° Les jeunes gens dont la candidature a été retenue en vue d'occuper un emploi dans des laboratoires ou organismes
+scientifiques dépendant du ministre chargé de la défense nationale ou agréés par lui ;
+
+3° Les jeunes gens qui, ayant fait l'objet d'une décision d'agrément dans les conditions fixées par les articles R.23 à R.27,
+se trouveraient dans l'un des cas visés par l'article L. 12, alinéa 2 (§ 1° et 2°) et alinéa 3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-728 1972-08-01 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°74-759 1974-08-30 art. 4 JORF 4 septembre 1974
+	  - Décret n°78-388 1978-03-17 art. 1 JORF 23 mars 1978
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L12 (Ab)
+	  - Code du service national R23, L12
+
+
+###### Article R*16-1
+
+Pour l'application des articles L. 70 et R. 16 du présent code, sont considérés comme marins de la marine marchande :
+
+1° Les Français qui exercent la profession de marin au sens de l'article 1er du décret susvisé du 7 ao^ut 1967 ;
+
+2° Les élèves français des établissements scolaires maritimes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-690 du 7 août 1967 - art. 1 (V)
+	  - Code du service national - art. L70 (M)
+	  - Code du service national L70, R16
+
+	**Créé par**:
+
+	  - Décret n°78-388 1978-03-17 art. 2 JORF 23 mars 1978
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
 
 ###### Article R*17
 
