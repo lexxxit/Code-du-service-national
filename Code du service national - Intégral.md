@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1995-08-30
+Version Consolidée au 1995-09-27
 
 # Partie législative
 
@@ -5537,7 +5537,7 @@ mission générale ou particulière qui lui est confiée dans le service.
 ###### Article R*1
 
 Les jeunes gens qui désirent bénéficier de l'appel avancé prévu à l'article L. 5, alinéa 2-1°, doivent déposer leur demande à
-l'autorité militaire au plus tard deux mois avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent
+l'autorité militaire au plus tard trois mois avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent
 être incorporés.
 
 **Liens relatifs à cet article**
@@ -5545,6 +5545,14 @@ l'autorité militaire au plus tard deux mois avant la date d'appel de la fractio
 	**Anciens textes**:
 
 	  - Décret n°70-1343 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°95-1052 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1052 du 25 septembre 1995 - art. 2 (V)
 
 	**Codifié par**:
 
@@ -5959,7 +5967,7 @@ Les jeunes gens qui bénéficient d'un report, d'un report supplémentaire ou d'
 au service actif avec la première fraction de contingent incorporée après la date d'expiration de ce report.
 
 Toutefois, ils peuvent renoncer avant terme au bénéfice du report en notifiant leur renonciation à leur bureau du service
-national deux mois au moins avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent ^etre incorporés.
+national trois mois au moins avant la date d'appel de la fraction de contingent avec laquelle ils souhaitent être incorporés.
 
 **Liens relatifs à cet article**
 
@@ -5969,8 +5977,11 @@ national deux mois au moins avant la date d'appel de la fraction de contingent a
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 1 JORF 24 juillet 1984
-	  - Décret n°74-759 1974-08-30 art. 3 JORF 4 septembre 1974
+	  - Décret n°95-1052 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1052 du 25 septembre 1995 - art. 2 (V)
 
 	**Codifié par**:
 
@@ -6304,26 +6315,26 @@ Le contingent annuel comprend, s'ils sont reconnus aptes au service national :
 1° Les jeunes gens ne bénéficiant ni d'un report d'incorporation ni des dispositions des articles L. 9 et L. 10, et
 appartenant aux catégories suivantes :
 
-a) Jeunes gens recensés après le jour anniversaire de leurs dix-sept ans et ^agés de dix-huit ans au moins ;
+a) Jeunes gens recensés après le jour anniversaire de leurs dix-sept ans et âgés de dix-huit ans au moins ;
 
 b) Jeunes gens recensés dans les conditions fixées aux articles L. 16 et L. 17, à la suite de la conservation ou de
-l'acquisition de la nationalité française et ^agés de moins de vingt-neuf ans ;
+l'acquisition de la nationalité française et âgés de moins de vingt-neuf ans ;
 
-c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20 et ^agés de moins de trente-quatre ans ;
+c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20 et âgés de moins de trente-quatre ans ;
 
 2° Les jeunes gens dont le report d'incorporation expire au plus tard le 31 décembre de l'année précédente et les
 bénéficiaires de l'article L. 9 qui doivent être appelés au service actif au plus tard le 1er février de l'année considérée.
 
 3° Les jeunes gens qui, renonçant au bénéfice de la dispense ou, avant terme, au report d'incorporation ou aux dispositions
-de l'article L. 9, demandent au plus tard le 30 septembre de l'année considérée à ^etre appelés avec l'une des fractions de
-ce contingent ;
+de l'article L. 9, demandent au plus tard le 31 août de l'année considérée à être appelés avec l'une des fractions de ce
+contingent ;
 
-4° Les jeunes gens qui demandent, au plus tard le 30 septembre de l'année considérée, à bénéficier de l'appel avancé prévu
-par l'article L. 5, en vue d'^etre incorporés avec l'une des fractions de ce contingent.
+4° Les jeunes gens qui demandent, au plus tard le 31 août de l'année considérée, à bénéficier de l'appel avancé prévu par
+l'article L. 5, en vue d'être incorporés avec l'une des fractions de ce contingent.
 
 5° Les jeunes gens dont l'appel a été décalé et qui seraient de ce fait compris dans ce contingent.
 
-6° Les jeunes gens ^agés de dix-huit ans ou plus dont le contrat d'engagement a été durant l'année considérée annulé ou
+6° Les jeunes gens âgés de dix-huit ans ou plus dont le contrat d'engagement a été durant l'année considérée annulé ou
 résilié avant que les intéressés n'aient accompli une durée de service venant en déduction des obligations du service
 national actif égale à celle de ces obligations.
 
@@ -6335,7 +6346,11 @@ national actif égale à celle de ces obligations.
 
 	**Modifié par**:
 
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 2 () JORF 3 décembre 1992
+	  - Décret n°95-1053 du 25 septembre 1995 - art. 1 () JORF 27 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1053 du 25 septembre 1995 - art. 2 (V)
 
 	**Codifié par**:
 
