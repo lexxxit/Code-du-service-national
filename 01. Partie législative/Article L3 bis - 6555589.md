@@ -1,7 +1,22 @@
 # Article L3 bis
 
 Lorsqu'un Français assujetti aux obligations du service national a simultanément la nationalité d'un autre Etat et qu'il
-réside habituellement sur le territoire français, il accomplit ces obligations en France.
+réside habituellement sur le territoire français, il accomplit ces obligations sous le régime du code du service national
+français.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -9,6 +24,10 @@ réside habituellement sur le territoire français, il accomplit ces obligations
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
