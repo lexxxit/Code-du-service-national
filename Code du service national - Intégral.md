@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1985-05-02
 
 # Partie législative
 
@@ -3516,6 +3516,38 @@ mois qui suit leur déclaration de recensement.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+###### Article R*7
+
+Les jeunes gens mentionnés aux articles R. 5 et R. 6 bénéficient du report d'incorporation qu'ils ont demandé jusqu'au jour
+où ils atteignent l'âge de vingt-deux ans ou au plus tard jusqu'au 30 novembre de l'année civile au cours de laquelle ils
+atteignent cet âge.
+
+Ils sont appelés au service national actif dans les conditions prévues à l'article R. 10.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1345 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+	  - Décret n°1978-10-24 art. 1 JORF 29 octobre 1978
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R10
+
+
 ###### Article R*8-1
 
 Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu à l'article L. 5 ter doivent le demander au
@@ -4103,6 +4135,36 @@ obtenus.
 
 #### SECTION I : Recensement.
 
+###### Article R*28
+
+Les jeunes Français, ou leurs parents ou tuteur, sont tenus pendant le premier mois qui suit le trimestre au cours duquel ils
+atteignent l'^age de dix-sept ans, d'effectuer à la mairie de leur domicile une déclaration mentionnant leur état civil, leur
+domicile et résidence, leur profession, leur situation familiale, ainsi que tous renseignements nécessaires en vue de
+l'accomplissement du service national.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1340 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R*29
 
 Les jeunes gens sans nationalité, domiciliés en France, sont tenus de se faire recenser dans les m^emes conditions que les
@@ -4251,6 +4313,113 @@ leur déclaration, en quatre tranches trimestrielles.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*34
+
+Au cours du deuxième mois de chaque trimestre, les maires dressent la liste communale de recensement sur laquelle ils
+inscrivent :
+
+1° Les jeunes gens qui ont souscrit une déclaration pendant le mois précédent ;
+
+2° Les jeunes gens nés dans la commune et qui, bien qu'appartenant aux catégories visées aux articles R.[* 28, R.*] 29 et R.
+[* 30, n'ont pas souscrit cette déclaration. Pour chacun d'eux, les maires établissent une notice individuelle sur laquelle
+ils portent les renseignements en leur possession.
+
+La liste de recensement et les notices individuelles sont adressées au préfet à la fin du deuxième mois de chaque trimestre,
+ainsi que, le cas échéant, les demandes qui auraient été déposées en mairie en application de l'article R.*] 32.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1340 1970-12-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R29, R32
+
+
+###### Article R*35
+
+Les préfets vérifient les listes communales de recensement, les rectifient éventuellement et les arr^etent définitivement les
+30 avril, 31 juillet, 31 octobre et 31 janvier, après y avoir mentionné les demandes qui auraient été déposées en application
+de l'article R. 32 et, le cas échéant, la suite qui y aura été donnée. Ils transmettent, alors, ces listes, auxquelles sont
+jointes les notices individuelles, aux bureaux du service national.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1340 1970-12-23 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R32
+
+
+###### Article R*36
+
+Les jeunes Français établis avec leur famille à l'étranger, qu'ils soient nés en France ou à l'étranger, sont tenus de
+souscrire auprès des agents consulaires français la déclaration prévue à l'article R.[* 28.
+
+Les agents consulaires dressent, à la m^eme époque et dans les m^emes conditions que les maires en France, une liste de
+recensement. Ils y inscrivent, outre ceux qui ont souscrit la déclaration visée ci-dessus, les jeunes Français résidant à
+leur connaissance dans leur circonscription et qui, (Décret n° 85-470 du 25 avril 1985, art. 1er) << bien qu'ils aient
+atteint dans le trimestre précédant l'^age de dix-sept ans, <> n'ont pas souscrit cette déclaration.
+
+Ils adressent les listes de recensement et les notices individuelles au préfet des Pyrénées-Orientales, qui est chargé des
+opérations prévues à l'article R.*] 35.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1340 1970-12-23 art. 8
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R35
 
 
 ###### Article R*37
@@ -4674,6 +4843,43 @@ d'une part, de la situation familiale des jeunes gens, d'autre part, du montant 
 
 	  - Code du service national - art. L32 (M)
 	  - Code du service national - art. L32 bis (M)
+
+
+###### Article R*56
+
+Les jeunes gens ayant demandé le bénéfice des dispositions de l'article L. 32 sont classés dans l'une des trois catégories
+énumérées ci-après en fonction du lien de parenté qui les unit à la ou aux personnes dont ils ont la charge effective.
+
+1° Enfants à charge au sens de l'article L. 511 du code de la sécurité sociale, épouse, frères ou soeurs ;
+
+2° Ascendants et beaux-parents à charge au sens de l'article 206 du code civil ;
+
+3° Personnes autres que celles visées ci-dessus, mais ayant avec les intéressés un lien de parenté jusqu'au troisième degré
+inclus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-237 1972-03-29 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code civil - art. 206 (V)
+	  - Code du service national - art. L32 (M)
+	  - Code de la sécurité sociale L511
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R*58
