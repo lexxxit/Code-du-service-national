@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1995-05-04
+Version Consolidée au 1995-08-12
 
 # Partie législative
 
@@ -11960,27 +11960,7 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 
 ### CHAPITRE II bis : Service dans la police nationale
 
-#### PARAGRAPHE 1 : Dispositions générales.
-
-###### Article R*201-3
-
-Les appelés dont la candidature a été retenue par le ministre de l'intérieur effectuent un stage de formation spécialisé
-permettant leur emploi. Les modalités de cette formation sont définies par le ministre. Elle comporte notamment une
-information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
-sécurité et les devoirs civiques de tout citoyen.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-#### PARAGRAPHE 1 : Affectation.
+#### SECTION I : Service actif dans la police nationale.
 
 ###### Article R*201-1
 
@@ -11992,7 +11972,7 @@ de policiers auxiliaires.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12019,7 +11999,7 @@ contrôles de l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12030,7 +12010,23 @@ contrôles de l'administration.
 	  - Code du service national - art. L6 (M)
 
 
-#### PARAGRAPHE 2 : Missions.
+###### Article R*201-3
+
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur effectuent un stage de formation spécialisé
+permettant leur emploi. Les modalités de cette formation sont définies par le ministre. Elle comporte notamment une
+information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
+sécurité et les devoirs civiques de tout citoyen.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
 
 ###### Article R*201-4
 
@@ -12051,14 +12047,12 @@ troupe.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 3 : Hiérarchie - Avancement.
 
 ###### Article R*201-5
 
@@ -12093,14 +12087,12 @@ de service actif dans son grade.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 4 : Permissions.
 
 ###### Article R*201-6
 
@@ -12116,7 +12108,7 @@ la limite de dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12136,7 +12128,7 @@ ont une durée au plus égale à trente jours et sont renouvelables. Elles ne vi
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12155,14 +12147,12 @@ leurs parents en qualité d'aide familial agricole.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 5 : Récompenses.
 
 ###### Article R*201-9
 
@@ -12184,14 +12174,12 @@ de leur attribution.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 6 : Indemnités - Hébergement et alimentation.
 
 ###### Article R*201-10
 
@@ -12206,7 +12194,7 @@ arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12226,14 +12214,12 @@ transports liés au service.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 7 : Tenue.
 
 ###### Article R*201-12
 
@@ -12247,14 +12233,12 @@ Cette tenue réglementaire est fournie et entretenue à titre gratuit.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 8 : Transports.
 
 ###### Article R*201-13
 
@@ -12265,14 +12249,12 @@ des appelés au service militaire.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 9 : Soins.
 
 ###### Article R*201-14
 
@@ -12290,14 +12272,12 @@ en résultant sont à la charge du ministre de l'intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 10 : Inaptitude physique.
 
 ###### Article R*201-15
 
@@ -12308,7 +12288,7 @@ prévue à l'article L. 61 sont fixées par une instruction du ministre chargé 
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12318,8 +12298,6 @@ prévue à l'article L. 61 sont fixées par une instruction du ministre chargé 
 
 	  - Code du service national - art. L61 (M)
 
-
-#### PARAGRAPHE 11 : Libération du service actif.
 
 ###### Article R*201-16
 
@@ -12331,7 +12309,7 @@ actif par le ministre de l'intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12343,11 +12321,19 @@ actif par le ministre de l'intérieur.
 Le décompte des services accomplis par les policiers auxiliaires est arrêté par le ministre de l'intérieur et enregistré sur
 les pièces matricules. Ces pièces sont adressées au bureau ou centre du service national dont ils relèvent.
 
+Pour les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale, ces pièces sont adressées au secrétariat général pour l'administration de la police dans le ressort duquel ils
+sont domiciliés.
+
+A l'expiration de l'affectation de ces policiers auxiliaires dans la réserve de la police nationale, ces pièces, après mise à
+jour, sont adressées au bureau du service national.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+	  - Décret n°95-908 du 7 août 1995 - art. 2 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12366,14 +12352,12 @@ les emplois tenus, leur durée et les qualifications professionnelles acquises.
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 12 : Dispositions diverses.
 
 ###### Article R*201-19
 
@@ -12384,9 +12368,9 @@ répondent ni à leur ordre d'appel au service actif ni à leur ordre de route �
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
@@ -12408,13 +12392,160 @@ inspections compétentes du ministère de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+	  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+
+#### SECTION II : Disponibilité et réserve dans la police nationale.
+
+###### Article R*201-20-1
+
+Les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale, lorsqu'ils sont rappelés en application des articles L. 94-10 et L. 94-13, participent à l'accomplissement des
+missions de défense civile confiées au ministre de l'intérieur par l'article 17 de l'ordonnance n° 59-147 du 7 janvier 1959
+et par l'article 1er du décret n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile.
+
+Ces policiers auxiliaires peuvent être également convoqués en application de l'article L. 94-14 pur des périodes d'exercice
+afin d'acquérir ou compléter une formation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 17 (Ab)
+	  - Décret n°65-28 du 13 janvier 1965 - art. 1 (Ab)
+	  - Code du service national - art. L94-10 (M)
+	  - Code du service national - art. L94-13 (M)
+	  - Code du service national - art. L94-14 (M)
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-2
+
+Le ministre de l'intérieur arrête les modalités de participation des policiers auxiliaires rappelés aux missions définies à
+l'article R.* 201-20-1, notamment à celles de sécurité générale, de protection des populations, de circulation routière de
+défense, de surveillance et de fermeture des frontières, de protection des points sensibles et de sécurité des bâtiments
+publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-20-1
+
+
+###### Article R*201-20-3
+
+Les préfets responsables des secrétariats généraux pour l'administration de la police assurent la gestion et l'administration
+des policiers auxiliaires disponibles et réservistes titulaires d'une affectation de réserve dans la police nationale.
+
+Les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale sont tenus de signaler leurs changements de lieu de résidence aux services du secrétariat général pour
+l'administration de la police dans le ressort duquel ils sont domiciliés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-4
+
+L'entraînement et l'instruction des policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation
+de réserve dans la police nationale sont assurés par la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-5
+
+Le ministre de l'intérieur fixe chaque année le nombre et la durée des engagements spéciaux qui peuvent être souscrits en
+application des dispositions de l'article L. 94-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L94-14 (M)
+
+
+###### Article R*201-20-6
+
+La solde et les indemnités dues aux policiers auxiliaires titulaires d'un engagement spécial, ainsi qu'aux disponibles et
+réservistes rappelés ou convoqués pour des périodes d'exercice, sont identiques à celles perçues par les personnels
+militaires de grade équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-7
+
+Les dispositions des articles R.* 201-5, R.* 201-9, R.* 201-11, R.* 201-12, R.* 201-14, R.* 201-15, R.* 201-17, R.* 201-19 et
+R.* 201-20 sont applicables aux policiers auxiliaires disponibles et réservistes titulaires d'une affectation de réserve dans
+la police nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-908 1995-08-07 art. 7 JORF 12 août 1995
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
 ### CHAPITRE II TER : Service de sécurité civile
