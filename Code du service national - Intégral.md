@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -7927,20 +7927,11 @@ considérés comme dispensés de leurs obligations du service national.
 Tout fonctionnaire ou officier public, civil ou militaire qui, sous quelque prétexte que ce soit, a autorisé ou admis des
 dispenses, exclusions, exemptions, réformes définitives autres que celles déterminées par le présent code, ou qui a
 arbitrairement donné une extension ou consenti une réduction, soit à la durée, soit aux règles ou conditions des appels et
-rappels à l'activité et des engagements est coupable d'abus d'autorité et puni de six mois d'emprisonnement ou de 50 000 F
-d'amende, [* taux *] sans préjudice des peines plus graves prévues, notamment dans les articles 432-11 du code pénal et 389
-du code de justice militaire quand il s'agit de militaires.
+rappels à l'activité et des engagements est coupable d'abus d'autorité et puni de six mois d'emprisonnement ou de 7500 euros
+d'amende, sans préjudice des peines plus graves prévues, notamment dans les articles 432-11 du code pénal et 389 du code de
+justice militaire quand il s'agit de militaires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal - art. 432-11 (M)
-	  - Code de justice militaire - art. 389 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. L121 (V)
 
 	**Anciens textes**:
 
@@ -7958,7 +7949,16 @@ du code de justice militaire quand il s'agit de militaires.
 
 	**Modifié par**:
 
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 432-11 (M)
+	  - Code de justice militaire - art. 389 (M)
+
+	**Cité par**:
+
+	  - Code du service national - art. L121 (V)
 
 
 ###### Article L121
@@ -8325,8 +8325,8 @@ considérés comme dispensés de leurs obligations du service national.
 ###### Article L128
 
 Quiconque est reconnu coupable d'avoir sciemment recelé ou pris à son service un assujetti recherché pour insoumission ou de
-l'avoir soustrait ou tenté de le soustraire aux poursuites ordonnées par la loi est puni d'un an d'emprisonnement et de
-100000 F d'amende [* taux *].
+l'avoir soustrait ou tenté de le soustraire aux poursuites ordonnées par la loi est puni d'un an d'emprisonnement et de 15000
+euros d'amende.
 
 Sont exceptés des dispositions qui précèdent :
 
@@ -8337,24 +8337,24 @@ recherché pour insoumission ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 12 al. 2
-	  - Loi n°1928-03-31 art. 91 al. 1 et al. 4
-	  - Loi n°1932-12-13 art. 104 al. 1 et al. 4
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
 	**Cité par**:
 
+	  - Code du service national - art. L130 (V)
+	  - Code du service national - art. L131 (V)
 	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
 	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
 	  - Loi n°95-884 du 3 août 1995 - art. 3 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
-	  - Code du service national - art. L130 (V)
-	  - Code du service national - art. L131 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 91 al. 1 et al. 4
+	  - Loi n°1932-12-13 art. 104 al. 1 et al. 4
+	  - Loi n°62-861 1962-07-28 art. 12 al. 2
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
 
 	**Liens**:
 
@@ -8363,23 +8363,18 @@ recherché pour insoumission ;
 
 	**Modifié par**:
 
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L129
 
 Quiconque, par quelque moyen que ce soit, provoque à l'insoumission, que cette provocation ait été ou non suivie d'effet, est
-puni par la juridiction compétente de cinq ans d'emprisonnement et de 100000 F d'amende [* taux *].
+puni par la juridiction compétente de cinq ans d'emprisonnement et de 15000 euros d'amende.
 
 Est puni de la même peine quiconque, par des manoeuvres coupables, empêche ou retarde le départ des assujettis appelés ou
 rappelés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1928-03-31 art. 91 al. 2
-	  - Loi n°1932-12-13 art. 104 al. 2
 
 	**Codifié par**:
 
@@ -8401,7 +8396,12 @@ rappelés.
 
 	**Modifié par**:
 
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 91 al. 2
+	  - Loi n°1932-12-13 art. 104 al. 2
 
 
 ###### Article L130
@@ -8512,16 +8512,10 @@ considérés comme dispensés de leurs obligations du service national.
 Tout assujetti au service national qui a refusé ou s'est mis dans l'impossibilité de recevoir sa carte du service national,
 son livret individuel, son titre ou tout autre document d'appel ou qui a détruit volontairement ces pièces après les avoir
 reçues ou qui a renvoyé ou s'est mis volontairement dans l'impossibilité de présenter ces pièces est puni d'un an
-d'emprisonnement et de 25000 F d'amende [* taux *] ou de l'une de ces deux peines seulement et peut, en outre, être interdit
-pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pénal.
+d'emprisonnement et de 3 750 euros d'amende ou de l'une de ces deux peines seulement et peut, en outre, être interdit pendant
+cinq ans au plus des droits énumérés à l'article 131-26 du code pénal.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du service national - art. L134 (V)
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
 
 	**Anciens textes**:
 
@@ -8532,6 +8526,12 @@ pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pén
 
 	  - Loi n°71-424 1971-06-10
 
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
+	  - Code du service national - art. L134 (V)
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
@@ -8539,7 +8539,7 @@ pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pén
 
 	**Modifié par**:
 
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -8549,8 +8549,7 @@ pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pén
 ###### Article L134
 
 Quiconque incite au renvoi ou à la destruction des pièces visées à l'article L. 133, que cette incitation ait été ou non
-suivie d'effet, est puni de cinq ans d'emprisonnement et de 100000 F d'amende [* taux *] ou de l'une de ces deux peines
-seulement.
+suivie d'effet, est puni de cinq ans d'emprisonnement et de 15000 euros d'amende ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -8576,7 +8575,7 @@ seulement.
 
 	**Modifié par**:
 
-	  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
