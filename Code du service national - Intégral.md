@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1991-07-30
+Version Consolidée au 1991-09-01
 
 # Partie législative
 
@@ -6711,6 +6711,40 @@ d'appel ou du tribunal supérieur d'appel sur proposition du président du comit
 
 ### CHAPITRE III : Réforme pour inaptitude physique.
 
+###### Article R101
+
+Il est institué une commission de réforme du service national à Paris, auprès de chaque division ou secteur militaire, dans
+les ports sièges d'une préfecture ou d'un arrondissement maritime et, en ce qui concerne les départements et territoires
+d'outre-mer, auprès des bureaux ou centres du service national.
+
+En outre, des commissions de réforme du service national peuvent ^etre instituées, sur décision du ministre chargé de la
+défense nationale, auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et
+territoires d'outre-mer.
+
+Les séances de la commission de réforme du service national ne sont pas publiques. La commission peut entendre toute personne
+dont elle estime l'audition utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-81 1972-01-24 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°77-1122 1977-09-27 art. 1 JORF 5 octobre 1977
+	  - Décret n°91-684 du 14 juillet 1991 - art. 1 () JORF 19 juillet 1991 en vigueur le 1er septembre 1991
+
+	**Cité par**:
+
+	  - Décret n°90-758 du 24 août 1990 - art. 11 (Ab)
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
 ###### Article R103
 
 La commission de réforme du service national décide de l'aptitude au service national :
@@ -8206,6 +8240,47 @@ de l'affectation sont prévues aux articles R.[* 156 et R.*] 157.
 	**Cite**:
 
 	  - Code du service national R157, R156
+
+
+###### Article R*156
+
+Sauf pour les catégories de personnels définies à l'article R. 157, [*magistrats du corps judiciaire et personnel
+indispensable au fonctionnement de juridictions*], l'affectation individuelle de défense est décidée [*autorité
+compétente*] :
+
+- par les generaux commandant les circonscriptions militaires de défense ou les autorites des armées de terre, de mer et de
+l'air désignées par le ministre chargé de la défense nationale en ce qui concerne les personnels soumis aux obligations du
+service militaire ;
+
+- par les préfets en ce qui concerne les personnels non soumis aux obligations du service militaire.
+
+Dans le cas où l'emploi habituel des intéressés relève d'un ministre autre que celui au titre duquel l'affectation de défense
+est demandée, l'avis du représentant du premier doit être recueilli préalablement à la décision d'affectation.
+
+Les autorites ayant pouvoir de décision consultent les représentants des administrations ou services pour les professions
+relevant de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1386 1962-11-23 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°91-683 du 14 juillet 1991 - art. 1 () JORF 19 juillet 1991 en vigueur le 1er septembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R157
 
 
 ###### Article R*157
