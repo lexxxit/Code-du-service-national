@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1990-06-24
+Version Consolidée au 1991-07-30
 
 # Partie législative
 
@@ -7441,6 +7441,30 @@ d'autre part, de l'année et du mois au cours desquels ils seront tenus d'effect
 
 ##### PARAGRAPHE 3 : Gendarmes auxiliaires.
 
+###### Article R*127
+
+Les jeunes gens volontaires pour accomplir le service militaire actif dans la gendarmerie doivent satisfaire aux conditions
+de moralité exigées des candidats à la gendarmerie ainsi qu'aux aptitudes physiques requises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1347 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°91-736 du 24 juillet 1991 - art. 1 () JORF 30 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R*128
 
 Les appelés dont la candidature a été retenue par le ministre chargé de la défense nationale servent en qualité de gendarmes
@@ -7498,6 +7522,39 @@ dans les cas où il peut ^etre fait appel à la troupe.
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*131
+
+La hiérarchie des gendarmes auxiliaires avec sa correspondance dans la hierarchie générale est fixée comme suit :
+
+- aspirant de gendarmerie : aspirant ;
+
+- gendarme auxiliaire maréchal des logis : sergent ;
+
+- gendarme auxiliaire brigadier-chef : caporal-chef ;
+
+- gendarme auxiliaire brigadier : caporal ;
+
+- gendarme auxiliaire de 1re ou de 2e classe : soldat de 1re ou de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1347 1970-12-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°91-736 du 24 juillet 1991 - art. 2 () JORF 30 juillet 1991
 
 	**Codifié par**:
 
