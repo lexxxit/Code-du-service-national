@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1978-03-23
+Version Consolidée au 1978-03-29
 
 # Partie législative
 
@@ -3141,6 +3141,157 @@ manifeste dans les conditions prévues à l'article R. 2 auprès de l'autorité 
 	**Cite**:
 
 	  - Code du service national - art. R2 (M)
+
+
+##### PARAGRAPHE 2 : Report d'incorporation.
+
+###### Article R*9-1
+
+Les cycles de formation professionnelle pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article
+L. 5 bis, dans la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle
+commencé sont les suivants ;
+
+1° le cycle de formation des instituteurs y compris, le cas échéant, l'année de formation pratique sanctionnée par le
+certificat d'aptitude pédagogique ;
+
+2° le cycle de formation dispensé dans les centres annexés à certaines écoles normales conduisant au certificat d'aptitude de
+l'enfance inadaptée (C.A.E.I.), de l'enseignement dans les classes de transition (C.A.E.T.), de l'enseignement pratique
+(C.A.E.P.) ou professionnel dans un collège d'enseignement général (C.A.P.C.E.G.) ;
+
+3° les cycles de formation de professeur technique ou de professeur technique adjoint des lycées techniques ;
+
+4° les cycles de scolarité dans les écoles normales nationales d'apprentissage y compris, le cas échéant, l'année de
+formation pratique sanctionnée par le certificat d'aptitude pédagogique ;
+
+5° le cycle de préparation au certificat d'aptitude au professorat de l'enseignement secondaire (C.A.P.E.S.), y compris, le
+cas échéant, le stage au centre pédagogique régional sanctionné par les épreuves pratiques du C.A.P.E.S.) ;
+
+6° les cycles de scolarité dans les écoles normales supérieures ;
+
+7° le cycle de préparation à l'agrégation, y compris, le cas échéant, le stage d'application d'une année dans un centre
+pédagogique régional ;
+
+8° les cycles de formation professionnelle, organisée par les administrations publiques, les universités ou par le secteur
+privé, sanctionnés selon le cas par l'attribution d'un certificat d'aptitude professionnelle, d'un brevet d'étude
+professionnelle, d'un certificat de capacité, d'un diplôme d'Etat ou d'un diplôme nécessaire à la titularisation dans un
+emploi public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+	**Abrogé par**:
+
+	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*9-2
+
+Les classes préparatoires à un concours d'admission dans un établissement à nombre de places déterminé dont les élèves
+peuvent bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis afin de se présenter une nouvelle fois
+au concours sont les suivantes :
+
+A - Etablissements d'enseignement public
+
+1° Classes des lycées assurant en un an la préparation aux concours d'entrée aux grandes écoles ;
+
+2° Classes des lycées assurant la seconde année de préparation aux concours d'entrée aux grandes écoles.
+
+B - Etablissements d'enseignement privés
+
+Toutes les classes préparatoires ayant des programmes et des horaires identiques à ceux des classes énumérées ci-dessus dès
+lors que la fréquentation de ces classes ouvre droit au bénéfice de la sécurité sociale des étudiants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+	**Abrogé par**:
+
+	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R9
+
+Les cycles d'enseignement pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis, dans
+la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle commencé sont les
+suivants ;
+
+1° le deuxième cycle de l'enseignement du second degré ;
+
+2° le cycle préparant à la capacité en droit ;
+
+3° le cycle d'études supérieures techniques courtes sanctionnées par l'attribution du brevet de technicien supérieur ou le
+diplôme universitaire de technologie ;
+
+4° le premier cycle, sanctionné par le diplôme d'études universitaires générales (D.E.U.G.), le deuxième cycle, sanctionné
+soit par une licence, soit par une maîtrise, le troisième cycle, sanctionné par le doctorat de l'enseignement supérieur ainsi
+que les cycles de formation conduisant à des diplômes d'université en tant qu'ils sont complémentaires ou distincts d'un
+cycle de préparation à un diplôme national ;
+
+5° le cycle d'enseignement, sanctionné par le certificat d'aptitude au professorat d'éducation physique et sportive, dispensé
+dans les centres, instituts ou unités d'enseignement et de recherche régionaux d'éducation physique et sportive (C.R.E.P.S.,
+I.R.E.P.S. ou U.E.R.E.O.S.) ;
+
+6° le premier, le deuxième ou troisième cycle de l'enseignement dispensé dans les unités pédagogiques d'architecture ;
+
+7° le cycle d'enseignement dispensé :
+
+- à l'école nationale supérieure des Beaux-Arts ;
+
+- à l'école nationale supérieure des arts décoratifs ;
+
+- dans les écoles nationales, régionales ou municipales d'arts ;
+
+- à l'école du Louvre ;
+
+8° le cycle de préparation au concours d'admission dans un établissement à nombre de places déterminé ;
+
+9° les cycles de scolarité dans les écoles d'enseignement supérieur publiques ou privées délivrant un diplôme d'ingénieur
+reconnu par la commission des titres d'ingénieurs ;
+
+10° les cycles de scolarité dans les écoles de haut enseignement commercial ;
+
+11° les cycles de scolarité dans les écoles privées d'enseignement supérieur, dès lors que la fréquentation des classes ouvre
+droit au bénéfice de la sécurité sociale des étudiants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+	**Abrogé par**:
+
+	  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L5 bis (M)
 
 
 ##### PARAGRAPHE 3 : Dispositions communes.
