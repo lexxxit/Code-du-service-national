@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1974-07-07
+Version Consolidée au 1974-09-04
 
 # Partie législative
 
@@ -3190,6 +3190,39 @@ désigné par le millésime de ladite année.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+###### Article R19
+
+L'appel des jeunes gens d'un m^eme contingent a lieu, sous réserve des dispositions de l'article R. 21, en six fractions à
+partir des 1er février, 1er avril, 1er juin, 1er ao^ut, 1er octobre et 1er décembre. La durée du service est décomptée à
+partir de chacune de ces dates.
+
+Toutefois le ministre chargé de la défense nationale peut exceptionnellement avancer ou retarder dans la limite d'un mois
+l'appel des jeunes gens titulaires de certaines affectations ayant accepté cette éventualité. Dans ce cas, la durée du
+service actif est décomptée à partir du premier jour de la quinzaine au cours de laquelle ces jeunes gens ont été appelés.
+
+Pour les jeunes gens recrutés dans les départements et territoires d'outre-mer, les dates d'appel et de départ des services
+peuvent ^etre avancées dans la limite d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-829 1971-09-30 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+	  - Code du service national - art. R21 (M)
+
+	**Modifié par**:
+
+	  - Décret n°74-760 1974-08-30 art. 1 JORF 4 septembre 1974 rectificatif JORF 12 septembre 1974
+
+
 ###### Article R21
 
 Le ministre chargé de la défense nationale fixe par arr^eté en fonction des besoins du service national :
@@ -3255,6 +3288,39 @@ obtenus.
 ### CHAPITRE I : Recensement  - sélection
 
 #### SECTION I : Recensement.
+
+###### Article R*29
+
+Les jeunes gens sans nationalité, domiciliés en France, sont tenus de se faire recenser dans les m^emes conditions que les
+jeunes Français.
+
+Les jeunes gens qui, en vertu des lois sur la nationalité, ont la faculté de répudier ou de décliner la nationalité française
+sont tenus de se faire recenser dans le trimestre qui suit soit leur majorité s'ils n'ont pas exercé cette faculté, soit à la
+date à laquelle ils ont conservé ou acquis la nationalité française. <>
+
+Les hommes devenus français par voie de naturalisation, de réintégration, de déclaration ou d'option ou dont la nationalité
+française a été établie à la suite d'un jugement ou d'une déclaration recognitive doivent, s'ils sont ^agés de moins de
+cinquante ans, se faire recenser dans le trimestre qui suit la date de leur acquisition de la nationalité française ou de la
+décision judiciaire les concernant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1340 1970-12-23 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°74-759 1974-08-30 art. 5 JORF 4 septembre 1974
+
 
 ###### Article R*30
 
@@ -6158,6 +6224,53 @@ leur emploi, cette mesure est reconnue nécessaire par le ministre des affaires 
 	  - Code du service national R157, R156
 
 
+###### Article R*188
+
+Le fait de mettre obstacle à l'accomplissement des obligations imposées par le titre V de l'ordonnance n° 59-147 du 7 janvier
+1959 et par le présent chapitre ou de ne pas se conformer à ces obligations est puni d'une amende de 1300 F à 3000 F, sans
+préjudice, le cas échéant, de l'application de toute autre peine prévue notamment aux articles 397 à 476 du code de justice
+militaire, complétés par les articles L. 145 à L. 149 du présent code.
+
+Est puni de la même amende le fait de mettre obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
+tendant à assurer l'exécution ou le contrôle des obligations visées à l'alinéa précédent.
+
+En cas de récidive, les peines prévues par le présent article sont portées au double et il peut s'y ajouter un emprisonnement
+de un mois à deux mois.
+
+**Nota:**
+
+NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
+peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07
+	  - Code de justice militaire 397 à 476
+	  - Code du service national L145 à L149
+
+	**Anciens textes**:
+
+	  - Décret n°62-1386 1962-11-23 art. 43
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°74-759 1974-08-30 art. 7 JORF 4 septembre 1974
+
+
 ###### Article R*189
 
 Chaque ministre inclut, dans la communication annuelle au Premier ministre des plans concernant son action dans le domaine de
@@ -7056,6 +7169,41 @@ forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en n
 
 
 ## TITRE IV : Service féminin.
+
+###### Article R*235
+
+Sont nommées volontaires spécialistes :
+
+les titulaires du dipl<cb>me de docteur en médecine, de pharmacien ou de chirurgien dentiste qui recevront respectivement
+l'appellation de volontaire médecin, volontaire vétérinaire, volontaire pharmacien, volontaire chirurgien-dentiste ;
+
+les titulaires de certains titres ou diplomes requis pour tenir des emplois dont la liste est fixée par arrêté conjoint du
+ministre chargé de la défense nationale et du ministre de l'économie et des finances.
+
+</cb>
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°74-759 1974-08-30 art. 9 JORF 4 septembre 1974
+
 
 ###### Article R*236
 
