@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2000-03-15
+Version Consolidée au 2000-06-22
 
 # Partie législative
 
@@ -385,11 +385,15 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 ###### Article L114-1
 
-A partir de la rentrée 1998, les principes et l'organisation de la défense nationale et de la défense européenne font l'objet
-d'un enseignement obligatoire dans le cadre des programmes des établissements d'enseignement du second degré des premier et
-second cycles.
+L'enseignement de la défense est organisé dans les conditions fixées par l'article L. 312-12 du code de l'éducation ci-après
+reproduit : 
 
-Cet enseignement a pour objet de renforcer le lien armée-Nation tout en sensibilisant la jeunesse à son devoir de défense.
+" Art.L. 312-12-Les principes et l'organisation de la défense nationale et de la défense européenne ainsi que l'organisation
+générale de la réserve font l'objet d'un enseignement obligatoire dans le cadre de l'enseignement de l'esprit de défense et
+des programmes de tous les établissements d'enseignement du second degré. 
+
+" Cet enseignement a pour objet de renforcer le lien armée-Nation tout en sensibilisant la jeunesse à son devoir de défense.
+"
 
 **Liens relatifs à cet article**
 
@@ -397,9 +401,13 @@ Cet enseignement a pour objet de renforcer le lien armée-Nation tout en sensibi
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Rapport - art. 5 () JORF 22 juin 2000
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. L312-12 (V)
 
 	**Nouveaux textes**:
 
