@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1993-09-02
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -1398,8 +1398,8 @@ infractions définies ci-après.
 
 ###### Article L58
 
-Est passible d'une peine de six mois à trois ans d'emprisonnement celui qui, soumis aux modalités particulières prévues à
-l'article L. 51 :
+Est passible d'une peine de trois ans d'emprisonnement celui qui, soumis aux modalités particulières prévues à l'article L.
+51 :
 
 a) N'a pas rejoint le lieu de l'activité ou de la résidence qui lui ont été imposées dans les quinze jours suivant celui fixé
 pour son arrivée ;
@@ -1415,6 +1415,14 @@ autorisation d'absence accordée.
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cite**:
 
@@ -1451,7 +1459,7 @@ ordonnées par la loi.
 
 ###### Article L60
 
-Est passible d'une peine de un à deux ans d'emprisonnement celui qui, hors le cas de force majeure, ne se soumet pas aux
+Est passible d'une peine de deux ans d'emprisonnement celui qui, hors le cas de force majeure, ne se soumet pas aux
 obligations qui lui sont imposées en application des articles L. 51, L. 54 et L. 55.
 
 **Liens relatifs à cet article**
@@ -1459,6 +1467,14 @@ obligations qui lui sont imposées en application des articles L. 51, L. 54 et L
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cite**:
 
@@ -3869,8 +3885,8 @@ l'article L. 5 et des articles L. 5 bis, L. 9, L. 10 et L. 116-2.
 
 ###### Article L117
 
-Sont punies d'un emprisonnement d'un mois à un an toutes fraudes ou manoeuvres par suite desquelles un jeune homme a été omis
-sur les listes de recensement.
+Sont punies d'un an d'emprisonnement toutes fraudes ou manoeuvres par suite desquelles un jeune homme a été omis sur les
+listes de recensement.
 
 Sont punis de la même peine :
 
@@ -3891,7 +3907,11 @@ Les jeunes gens exemptés sont considérés d'office comme aptes au service nati
 
 	**Modifié par**:
 
-	  - Loi n°92-9 du 4 janvier 1992 - art. 40 () JORF 7 janvier 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cite**:
 
@@ -3942,7 +3962,7 @@ but de se soustraire aux obligations imposées par le présent code.
 
 Toute personne qui, appelée à participer aux opérations prévues aux articles L. 23, L. 25 et L. 26 à l'effet de donner des
 avis ou de statuer, a reçu des dons ou agréé des promesses en vue de prendre des mesures irrégulières à l'égard des personnes
-examinées, est punie d'un emprisonnement de deux mois à deux ans sans préjudice de l'application des articles 177, 178 et 180
+examinées, est punie d'un emprisonnement de deux mois à deux ans sans préjudice de l'application des articles 432-11 et 433-1
 du code pénal et 389 du code de justice militaire quand il s'agit de militaires.
 
 Cette peine est appliquée, soit qu'au moment des dons ou promesses le bénéficiaire ait déjà été désigné pour participer à ces
@@ -3958,6 +3978,14 @@ Ceux qui ont fait les dons ou promesses sont punis de la même peine.
 	**Codifié par**:
 
 	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 230 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
 
 	**Cite**:
 
@@ -3981,20 +4009,11 @@ Ceux qui ont fait les dons ou promesses sont punis de la même peine.
 Tout fonctionnaire ou officier public, civil ou militaire qui, sous quelque prétexte que ce soit, a autorisé ou admis des
 dispenses, exclusions, exemptions, réformes définitives autres que celles déterminées par le présent code ou qui a
 arbitrairement donné une extension ou consenti une réduction soit à la durée, soit aux règles ou conditions des appels et
-rappels à l'activité et des engagements est coupable d'abus d'autorité et puni des peines prévues par l'article 185 du code
-pénal, sans préjudice des peines plus graves prévues, notamment dans les articles 177, 178 et 180 du code pénal et 389 du
+rappels à l'activité et des engagements est coupable d'abus d'autorité et puni de six mois d'emprisonnement ou de 50 000 F
+d'amende [* taux *] sans préjudice des peines plus graves prévues, notamment dans les articles 432-11 du code pénal et 389 du
 code de justice militaire quand il s'agit de militaires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal 185, 177, 178, 180
-	  - Code de justice militaire - art. 389 (M)
-
-	**Cité par**:
-
-	  - Code du service national - art. L121 (V)
 
 	**Anciens textes**:
 
@@ -4007,7 +4026,20 @@ code de justice militaire quand il s'agit de militaires.
 
 	**Modifié par**:
 
-	  - Loi n°72-662 du 13 juillet 1972 - art. 110 () JORF 14 juillet 1972
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 231 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 432-11 (M)
+	  - Code de justice militaire - art. 389 (M)
+
+	**Cité par**:
+
+	  - Code du service national - art. L121 (V)
 
 
 ###### Article L121
@@ -4220,11 +4252,15 @@ astreints à l'accomplissement du service national actif dès qu'ils ont atteint
 ###### Article L128
 
 Quiconque est reconnu coupable d'avoir sciemment recelé ou pris à son service un assujetti recherché pour insoumission ou de
-l'avoir soustrait ou tenté de la soustraire aux poursuites ordonnées par la loi est puni d'un emprisonnement d'un an à trois
-ans et d'une amende de 200 à 100 000 F.
+l'avoir soustrait ou tenté de le soustraire aux poursuites ordonnées par la loi est puni d'un an d'emprisonnement et de
+100000 F d'amende [* taux *].
 
-Sont exemptées des dispositions pénales prévues à l'alinéa précédent les personnes visées au troisième alinéa de l'article 61
-du code pénal.
+Sont exceptés des dispositions qui précèdent :
+
+1° Les parents en ligne directe et leurs conjoints, ainsi que les frères et soeurs et leurs conjoints, de l'assujetti
+recherché pour insoumission ;
+
+2° Le conjoint de l'assujetti recherché pour insoumission, ou la personne qui vit notoirement en situation maritale avec lui.
 
 **Liens relatifs à cet article**
 
@@ -4247,20 +4283,29 @@ du code pénal.
 	  - Code du service national - art. L130 (V)
 	  - Code du service national - art. L131 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal 61
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 232 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
 
 
 ###### Article L129
 
 Quiconque, par quelque moyen que ce soit, provoque à l'insoumission, que cette provocation ait été ou non suivie d'effet, est
-puni par la juridiction compétente d'un emprisonnement d'un an à cinq ans et d'une amende de 200 à 100 000 F.
+puni par la juridiction compétente de cinq ans d'emprisonnement et de 100000 F d'amende [* taux *].
 
 Est puni de la même peine quiconque, par des manoeuvres coupables, empêche ou retarde le départ des assujettis appelés ou
 rappelés.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1928-03-31 art. 91 al. 2
+	  - Loi n°1932-12-13 art. 104 al. 2
 
 	**Codifié par**:
 
@@ -4275,10 +4320,13 @@ rappelés.
 	  - Code du service national - art. L130 (V)
 	  - Code du service national - art. L131 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1928-03-31 art. 91 al. 2
-	  - Loi n°1932-12-13 art. 104 al. 2
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 
 ###### Article L130
@@ -4338,49 +4386,15 @@ articles.
 	  - Code du service national - art. L130 (M)
 
 
-##### Paragraphe 3 : Provocation.
-
-###### Article L132
-
-Les peines prévues à l'article 25 de la loi du 29 juillet 1881 à l'encontre de ceux qui provoquent des militaires à la
-désobéissance sont applicables lorsqu'une telle provocation est adressée à des assujettis affectés à toute forme du service
-national.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1881-07-29 art. 25
-
-	**Anciens textes**:
-
-	  - Loi n°62-861 1962-07-28 art. 12 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 233 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 233 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-
 ##### Paragraphe 4 : Infractions aux obligations dans la réserve.
 
 ###### Article L133
 
 Tout assujetti au service national qui a refusé ou s'est mis dans l'impossibilité de recevoir sa carte du service national,
 son livret individuel, son titre ou tout autre document d'appel ou qui a détruit volontairement ces pièces après les avoir
-reçues ou qui a renvoyé ou s'est mis volontairement dans l'impossibilité de présenter ces pièces est puni d'un emprisonnement
-d'un mois à un an et d'une amende de 400 à 10 000 F ou de l'une de ces deux peines seulement et peut en outre être interdit
-pendant cinq ans au plus des droits énumérés à l'article 42 du code pénal.
+reçues ou qui a renvoyé ou s'est mis volontairement dans l'impossibilité de présenter ces pièces est puni d'un an
+d'emprisonnement et de 25000 F d'amende [* taux *] ou de l'une de ces deux peines seulement et peut en outre être interdit
+pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -4399,16 +4413,24 @@ pendant cinq ans au plus des droits énumérés à l'article 42 du code pénal.
 	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
 	  - Code du service national - art. L134 (V)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
 	**Cite**:
 
-	  - Code pénal 42
+	  - Code pénal - art. 131-26 (V)
 
 
 ###### Article L134
 
 Quiconque incite au renvoi ou à la destruction des pièces visées à l'article L. 133, que cette incitation ait été ou non
-suivie d'effet, est puni d'un emprisonnement d'un an à cinq ans et d'une amende de 200 à 100 000 F ou de l'une de ces deux
-peines seulement.
+suivie d'effet, est puni de cinq ans d'emprisonnement et de 100000 F d'amende [* taux *] ou de l'une de ces deux peines
+seulement.
 
 **Liens relatifs à cet article**
 
@@ -4426,6 +4448,14 @@ peines seulement.
 	  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
 	  - Loi n°95-884 du 3 août 1995 - art. 3 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cite**:
 
@@ -11480,20 +11510,12 @@ leur emploi, cette mesure est reconnue nécessaire par le ministre des affaires 
 ###### Article R*188
 
 Le fait de mettre obstacle à l'accomplissement des obligations imposées par le titre V de l'ordonnance n° 59-147 du 7 janvier
-1959 et par le présent chapitre ou de ne pas se conformer à ces obligations est puni d'une amende de 1300 F à 3000 F, sans
-préjudice, le cas échéant, de l'application de toute autre peine prévue notamment aux articles 397 à 476 du code de justice
-militaire, complétés par les articles L. 145 à L. 149 du présent code.
+1959 et par le présent chapitre ou de ne pas se conformer à ces obligations est puni de l'amende prévue pour les
+contraventions de la 4° classe, sans préjudice, le cas échéant, de l'application de toute autre peine prévue notamment aux
+articles 397 à 476 du code de justice militaire, complétés par les articles L. 145 à L. 149 du présent code.
 
 Est puni de la même amende le fait de mettre obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
 tendant à assurer l'exécution ou le contrôle des obligations visées à l'alinéa précédent.
-
-En cas de récidive, les peines prévues par le présent article sont portées au double et il peut s'y ajouter un emprisonnement
-de un mois à deux mois.
-
-**Nota:**
-
-NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
-peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -11507,9 +11529,9 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 
 	  - Décret n°62-1386 1962-11-23 art. 43
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+	  - Décret n°93-726 1993-03-29 art. 1 et 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -11518,10 +11540,6 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
-
-	**Modifié par**:
-
-	  - Décret n°74-759 1974-08-30 art. 7 JORF 4 septembre 1974
 
 
 ###### Article R*189
