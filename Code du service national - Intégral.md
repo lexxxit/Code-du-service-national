@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1998-11-27
+Version Consolidée au 1998-12-01
 
 # Partie législative
 
@@ -11218,14 +11218,15 @@ ministre chargé des armées ou par les commandants de bureau ou de centre du se
 
 ###### Article R*9
 
-Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée, qui désirent obtenir le report
-d'incorporation prévu à l'article L. 5 bis A envoient au bureau du service national dont ils relèvent, au plus tard trois
-mois avant la date d'expiration du report dont ils bénéficient du fait du 2° du second alinéa de l'article L. 5 ou de
-l'article L. 5 bis, une demande datée et signée sur papier libre. Ils doivent joindre à cette demande, d'une part une copie
-certifiée conforme du contrat de travail dont ils sont titulaires ou à défaut, du document sur lequel sont reproduites les
-informations contenues dans la déclaration préalable à l'embauche et d'autre part, toute pièce de nature à permettre à la
-commission mentionnée à l'article L. 32 d'établir que leur incorporation aurait pour conséquence de compromettre leur
-insertion professionnelle ou la réalisation de leur première expérience professionnelle.
+Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée ou à durée déterminée d'une durée au
+moins égale à six mois, qui désirent obtenir le report d'incorporation prévu à l'article L. 5 bis A envoient au bureau du
+service national dont ils relèvent, au plus tard trois mois avant la date d'expiration du report dont ils bénéficient du fait
+du 2° du second alinéa de l'article L. 5 ou de l'article L. 5 bis, une demande datée et signée sur papier libre. Ils doivent
+joindre à cette demande, d'une part une copie certifiée conforme du contrat de travail dont ils sont titulaires ou à défaut,
+du document sur lequel sont reproduites les informations contenues dans la déclaration préalable à l'embauche et d'autre
+part, toute pièce de nature à permettre à la commission mentionnée à l'article L. 32 d'établir que leur incorporation aurait
+pour conséquence de compromettre leur insertion professionnelle ou la réalisation de leur première expérience
+professionnelle.
 
 Les dossiers sont transmis pour avis au maire ou au consul du domicile des intéressés qui, dans les quinze jours, les envoie
 au préfet du département de recensement ou, pour les Français de l'étranger, au préfet du département des Pyrénées-
@@ -11234,16 +11235,22 @@ Orientales.
 Après avoir instruit ces dossiers, les préfets les soumettent, dans les deux mois, à la décision de la commission régionale
 compétente. La demande de report est appréciée par rapport à la situation des intéressés au jour de l'examen de leur dossier.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998 en vigueur le 1er décembre 1998
 
 	**Codifié par**:
 
@@ -11260,21 +11267,85 @@ compétente. La demande de report est appréciée par rapport à la situation de
 	  - Code du service national - art. L5 bis (M)
 
 
-###### Article R*9-3
+###### Article R*9-1
 
-Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée ayant déposé une demande de report au
-titre de l'article L. 5 bis A sont placés en appel différé jusqu'à la notification de la décision prise à leur égard.
+La commission régionale entend les jeunes gens qui le demandent et, éventuellement, leur représentant légal et le maire de la
+commune de leur domicile ou son délégué, avant de statuer sur l'attribution des reports et de leurs durées.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998 en vigueur le 1er décembre 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998 en vigueur le 1er décembre 1998
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*9-2
+
+Les décisions statuant sur les demandes de report des obligations du service national actif prises par la commission
+régionale sont notifiées aux intéressés par le préfet de leur département de recensement. Une copie de cette notification est
+adressée au bureau ou centre du service national dont ils relèvent.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998 en vigueur le 1er décembre 1998
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998 en vigueur le 1er décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*9-3
+
+Les Français titulaires d'un contrat de travail de droit privé à durée indéterminée ou à durée déterminée d'une durée au
+moins égale à six mois ayant déposé une demande de report au titre de l'article L. 5 bis A sont placés en appel différé
+jusqu'à la notification de la décision prise à leur égard.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998 en vigueur le 1er décembre 1998
 
 	**Codifié par**:
 
