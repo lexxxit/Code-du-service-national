@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1992-12-03
+Version Consolidée au 1993-01-05
 
 # Partie législative
 
@@ -75,9 +75,9 @@ Toutefois, cette durée est de douze mois pour les jeunes gens qui ont obtenu le
 au titre du service militaire et pour ceux qui, ayant obtenu le bénéfice des dispositions de l'article L. 10, effectuent un
 service autre que ceux de l'aide technique, de la coopération ou des objecteurs de conscience.
 
-b) Des périodes d'exercice qui peuvent être effectuées au titre d'une forme de service national autre que celle dans laquelle
-a été accompli le service actif ; la durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne peut
-dépasser un mois.
+b) Des périodes qui peuvent être effectuées au titre d'une forme de service national autre que celle dans laquelle a été
+accompli le service actif ; la durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne peut dépasser un
+mois. Ces dispositions sont applicables sous réserve des dispositions du chapitre Ier du titre III.
 
 **Liens relatifs à cet article**
 
@@ -101,7 +101,7 @@ dépasser un mois.
 
 	**Modifié par**:
 
-	  - Loi n°83-605 1983-07-08 JORF 9 juillet 1983) M(Loi 92-9 1992-01-04 art. 3 JORF 7 janvier 1992
+	  - Loi n°93-4 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
 
 	**Cite**:
 
@@ -1810,15 +1810,11 @@ Par dérogation aux dispositions de l'article L. 67 :
 1° Tout officier ou sous-officier de réserve peut, par décision du ministre chargé de la défense nationale, être maintenu
 dans les cadres à l'expiration des obligations légales, en considération des besoins des armées.
 
-Cette décision, révocable en fonction de ces besoins, ne peut avoir pour effet de maintenir dans les cadres :
-
-Les officiers de réserve, au-delà de la limite d'âge, augmentée de cinq ans, des cadres d'active correspondants ;
-
-Les sous-officiers de réserve, au-delà de la limite d'âge supérieure, augmentée de cinq ans, des cadres d'active
-correspondants.
+Cette décision, révocable en fonction de ces besoins, ne peut avoir pour effet de maintenir dans les cadres les officiers et
+les sous-officiers de réserve au-delà de la limite d'âge, augmentée de cinq ans, des cadres d'active correspondants.
 
 2° Les anciens officiers et sous-officiers d'active conservent, dans le cadre de réserve où ils peuvent être versés à la
-cessation de leurs services actifs, les limites d'âge définies aux deux alinéas ci-dessus.
+cessation de leurs services actifs, les limites d'âge définies à l'alinéa ci-dessus.
 
 3° Les membres des corps spéciaux et des cadres d'assimilés spéciaux sont régis, en ce qui concerne les limites d'âge, par
 leurs statuts particuliers.
@@ -1846,6 +1842,10 @@ juillet 1972 parue au Journal officiel du 14 juillet 1972.
 	  - Décret n°80-73 du 10 janvier 1980 - art. 2 (Ab)
 	  - Code du service national - art. L80 (V)
 	  - Code du service national - art. R*231 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-4 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
 
 	**Liens**:
 
@@ -2162,13 +2162,15 @@ correspondant aux spécialités résultant de ces titres.
 
 ###### Article L80
 
-Tout homme de la réserve, père d'au moins quatre enfants vivants ou ayant à sa charge, du fait de son mariage, quatre enfants
-ou plus, est libéré de toute obligation du service militaire.
-
-Les dispositions du présent article ne sont pas applicables aux personnes qui sont soumises aux dispositions de l'article L.
-69.
+Tout homme ou toute femme de la réserve, père ou mère d'au moins quatre enfants vivants, ou ayant à sa charge, du fait de son
+mariage, quatre enfants ou plus, est libéré de toute obligation du service militaire, sauf à accepter de poursuivre des
+activités de disponibilité et de réserve.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du service national - art. L69 (M)
 
 	**Anciens textes**:
 
@@ -2180,9 +2182,9 @@ Les dispositions du présent article ne sont pas applicables aux personnes qui s
 
 	  - Loi n°71-424 1971-06-10
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du service national - art. L69 (M)
+	  - Loi n°93-4 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
 
 
 ###### Article L81
@@ -2208,7 +2210,7 @@ Les hommes et les femmes de la disponibilité ou de la réserve peuvent recevoir
 des armées ou aux emplois prévus à l'article L. 83.
 
 Ils sont tenus de rejoindre leur formation ou leur poste en cas de mobilisation générale ou partielle, ordonnée par décret,
-en cas de rappel par ordre individuel et en cas de convocation pour les périodes d'exercice.
+en cas de rappel par ordre individuel et en cas de convocation pour les périodes.
 
 Il peut être procédé au rappel des disponibles et réservistes d'une manière distincte et indépendante par armée, arme,
 service, unité ou partie du territoire. Le rappel peut intervenir par contingent ou classe d'âge ou par catégorie ou sous-
@@ -2222,7 +2224,7 @@ catégorie de forces ou par spécialité.
 
 	**Modifié par**:
 
-	  - Loi n°92-9 du 4 janvier 1992 - art. 20 () JORF 7 janvier 1992
+	  - Loi n°93-4 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
 
 	**Liens**:
 
@@ -2296,32 +2298,34 @@ l'activité par décret pris en conseil des ministres lorsque les circonstances 
 
 ###### Article L84
 
-Les hommes et les femmes appartenant à la disponibilité et à la réserve sont assujettis à prendre part à des périodes
-d'exercice dont le nombre et la durée sont fixés dans le cadre de l'article L. 2 par le ministre chargé de la défense
-nationale. Ils peuvent également souscrire un engagement spécial d'entraînement volontaire dans la réserve et effectuer des
-périodes volontaires.
+Les hommes et les femmes appartenant à la disponibilité et à la réserve sont tenus de prendre part soit à des périodes
+d'exercice pour acquérir ou compléter une formation, soit à des périodes pour occuper une fonction dans les armées. Le
+ministre chargé des armées fixe le nombre et la durée de ces périodes conformément aux dispositions du b de l'article L. 2.
 
-Les convocations pour les périodes d'exercices seront fixées en tenant compte, dans toute la mesure du possible, des intérêts
-régionaux et locaux, notamment des époques de travaux agricoles.
+Toutefois, les officiers et les sous-officiers de la disponibilité et de la réserve, qui ont accompli la durée totale de six
+mois de périodes selon les dispositions de l'alinéa précédent, peuvent être convoqués pour effectuer d'autres périodes dont
+la durée totale n'excède pas un mois par an.
 
-Les militaires de la disponibilité et de la réserve convoqués à une période d'exercice ne peuvent obtenir aucun ajournement,
-sauf en cas de force majeure dûment justifié.
+Les disponibles et les réservistes peuvent en outre souscrire un engagement spécial de volontaire dans la réserve, soit pour
+acquérir ou compléter une formation, soit pour occuper une fonction dans les armées.
+
+Les convocations pour les périodes seront fixées en tenant compte, dans toute la mesure du possible, des intérêts régionaux
+et locaux, notamment des époques de travaux agricoles.
+
+Les militaires de la disponibilité et de la réserve convoqués à une période ne peuvent obtenir aucun ajournement, sauf en cas
+de force majeure dûment justifié.
 
 Dans le cas où les circonstances l'exigeraient, le Gouvernement est autorisé à conserver provisoirement sous les drapeaux,
-au-delà de la période réglementaire, les hommes et les femmes appelés à un titre quelconque pour accomplir une période
-d'exercice. Il en rend compte immédiatement au Parlement s'il est en session et, dès sa réunion, s'il est hors session.
+au-delà de la période réglementaire, les hommes et les femmes appelés à un titre quelconque pour accomplir une période. Il en
+rend compte immédiatement au Parlement s'il est en session et, dès sa réunion, s'il est hors session.
 
 Lorsqu'un salarié convoqué pour une période obligatoire fait connaître à son employeur son désir de bénéficier, durant cette
 période, des congés payés, il ne pourra être fait obstacle à ce désir.
 
-Indépendamment des périodes d'exercice obligatoires et volontaires, les officiers et les sous-officiers de réserve ou
-assimilés peuvent être appelés à fréquenter des écoles de perfectionnement les préparant à leurs fonctions de mobilisation.
+Indépendamment des périodes obligatoires et volontaires, les officiers et les sous-officiers de réserve ou assimilés peuvent
+être appelés à fréquenter des écoles de perfectionnement les préparant à leurs fonctions de mobilisation.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
 
 	**Cité par**:
 
@@ -2329,10 +2333,6 @@ assimilés peuvent être appelés à fréquenter des écoles de perfectionnement
 	  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
 	  - Code du service national - art. L85 (V)
 	  - Code du service national - art. L93 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°92-9 du 4 janvier 1992 - art. 21 () JORF 7 janvier 1992
 
 	**Cite**:
 
@@ -2342,6 +2342,14 @@ assimilés peuvent être appelés à fréquenter des écoles de perfectionnement
 
 	  - Loi n°1928-03-31 art. 49 al. 1, al. 2, al. 8, al. 9, al. 11, al. 12, art. 49 bis et art. 51
 	  - Loi n°1932-12-13 art. 69
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Loi n°93-4 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
 
 
 ###### Article L85
