@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1992-01-07
+Version Consolidée au 1992-12-03
 
 # Partie législative
 
@@ -5535,14 +5535,18 @@ vue de participer aux opérations prévues à l'article L. 23.
 
 ###### Article R4
 
-Il n'est pas donné suite aux demandes d'appel avancé lorsque, dans le délai fixé à l'article R. 2, une opposition se
-manifeste dans les conditions prévues à l'article R. 2 auprès de l'autorité militaire.
+Il n'est pas donné suite aux demandes d'appel avancé lorsqu'une opposition se manifeste dans les délais et les conditions
+prévus à l'article R. 2 auprès de l'autorité militaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1344 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 1 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5616,11 +5620,8 @@ mois qui suit leur déclaration de recensement.
 
 ###### Article R*7
 
-Les jeunes gens mentionnés aux articles R. 5 et R. 6 bénéficient du report d'incorporation qu'ils ont demandé jusqu'au jour
-où ils atteignent l'âge de vingt-deux ans ou au plus tard jusqu'au 30 novembre de l'année civile au cours de laquelle ils
-atteignent cet âge.
-
-Ils sont appelés au service national actif dans les conditions prévues à l'article R. 10.
+Les jeunes gens mentionnés aux articles R.5 et R.6 sont, à l'expiration du report d'incorporation dont ils ont bénéficié,
+appelés au service national actif dans les conditions prévues à l'article R.10.
 
 **Liens relatifs à cet article**
 
@@ -5630,8 +5631,7 @@ Ils sont appelés au service national actif dans les conditions prévues à l'ar
 
 	**Modifié par**:
 
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
-	  - Décret n°1978-10-24 art. 1 JORF 29 octobre 1978
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 1 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5643,7 +5643,7 @@ Ils sont appelés au service national actif dans les conditions prévues à l'ar
 
 	**Cite**:
 
-	  - Code du service national R10
+	  - Code du service national R5, R6, R10
 
 
 ###### Article R*8
@@ -5657,30 +5657,30 @@ l'étranger reconnus de niveau équivalent :
 
 - soit de la poursuite d'une formation professionnelle organisée par les administrations publiques, les universités ou les
 établissements privés et sanctionnée par l'attribution d'un certificat d'aptitude professionnelle, d'un brevet d'étude
-professionnelle, d'un certificat de capacité, d'un diplôme d'Etat ou d'un dipl^ome nécessaire à la titularisation dans un
+professionnelle, d'un certificat de capacité, d'un diplôme d'Etat ou d'un diplôme nécessaire à la titularisation dans un
 emploi public.
 
 A cet effet, les intéressés doivent présenter, chaque année, une attestation du chef d'établissement donnant des informations
 sur les études envisagées et, le cas échéant, antérieurement suivies.
 
-La demande de report, accompagnée de l'attestation susmentionnée, doit ^etre adressée au bureau du service national dont
+La demande de report, accompagnée de l'attestation susmentionnée, doit être adressée au bureau du service national dont
 relève l'intéressé, dans le délai fixé au deuxième alinéa de l'article L. 5 bis s'il s'agit d'une demande de mise en report,
 et, s'il s'agit d'une demande de maintien en report jusqu'à vingt-quatre, vingt-cinq ou vingt-six ans, soixante jours avant
-l'échéance du report déjà obtenu et, au plus tard, avant le 1er août de l'année d'échéance.
+l'échéance du report déjà obtenu et, au plus tard, avant le 1er octobre de l'année d'échéance.
 
 Les demandes de maintien en report jusqu'à vingt-cinq ou vingt-six ans ne sont recevables que si les intéressés sont
-titulaires, au 1er ao^ut de l'année civile au cours de laquelle ils atteignent l'^age de vingt-quatre ans, d'un brevet de
+titulaires, au 1er octobre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-quatre ans, d'un brevet de
 préparation militaire ou de préparation militaire supérieure.
 
 Dans les cas où, du fait de l'organisation des études ou des préparations militaires, les attestations ou brevets ne peuvent
-être fournis avant le 1er août de l'année considérée, les demandeurs peuvent être mis ou maintenus conditionnellement en
+être fournis avant le 1er octobre de l'année considérée, les demandeurs peuvent être mis ou maintenus conditionnellement en
 report. Ils sont alors tenus de remettre, avant le 1er décembre de l'année considérée, l'attestation justificative au bureau
-du service national dont ils relèvent, sauf à ^etre appelés au service actif avec la première fraction de contingent
+du service national dont ils relèvent, sauf à être appelés au service actif avec la première fraction de contingent
 incorporée après cette échéance.
 
 Dans tous les cas, l'échéance du report est fixée à la date de fin d'études ou de formation professionnelle figurant sur
 l'attestation annuelle mais ne peut excéder le 1er décembre de l'année suivant celle au cours de laquelle la demande a été
-acceptée. Néanmoins, il peut ^etre mis fin à tout moment à ce report si le bénéficiaire a interrompu ses études ou sa
+acceptée. Néanmoins, il peut être mis fin à tout moment à ce report si le bénéficiaire a interrompu ses études ou sa
 formation professionnelle.
 
 **Liens relatifs à cet article**
@@ -5691,8 +5691,7 @@ formation professionnelle.
 
 	**Modifié par**:
 
-	  - Décret n°89-203 1989-04-04 art. 1 JORF 7 avril 1989
-	  - Décret n°74-759 1974-08-30 art. 2 JORF 4 septembre 1974
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 2 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5715,16 +5714,15 @@ Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu �
 bureau du service national dont ils relèvent six mois au plus tard avant la date d'expiration du report d'incorporation dont
 ils bénéficient au titre du 2° du deuxième alinéa de l'article L. 5 en y joignant toutes pièces de nature à établir la
 gravité de leur situation familiale ou sociale. Les demandes rev^etues de l'avis du maire ou du consul du domicile des
-intéressés sont instruites par le commissaire de la République du département de recensement des jeunes gens ou, en ce qui
-concerne les jeunes gens recensés à l'étranger, par le commissaire de la République du département des Pyrénées-Orientales.
-Les commissaires de la République soumettent ces demandes à l'appréciation de la commission régionale compétente. Ils
-notifient la décision de cette dernière aux intéressés.
+intéressés sont instruites par le préfet du département de recensement des jeunes gens ou, en ce qui concerne les jeunes gens
+recensés à l'étranger, par le préfet du département des Pyrénées-Orientales. Les préfets soumettent ces demandes à
+l'appréciation de la commission régionale compétente. Ils notifient la décision de cette dernière aux intéressés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-237 1983-03-21 JORF 27 mars 1983 rectificatif JORF 25 octobre 1983
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5738,12 +5736,15 @@ notifient la décision de cette dernière aux intéressés.
 
 ###### Article R*8-2
 
-Le report supplémentaire prévu au premier alinéa de l'article L. 5 bis et ses prolongations éventuelles ainsi que le report
-spécial prévu à l'article L. 10 sont accordés par le ministre chargé des armées qui peut, par arr^eté, déléguer son pouvoir
-de décision aux commandants de régions militaires, aux directeurs régionaux du service national ou aux commandants de bureau
-du service national.
+Le report d'incorporation prévu à l'article L. 5, alinéa 2 (2°), le report supplémentaire prévu au premier alinéa de
+l'article L. 5 bis et ses prolongations éventuelles ainsi que le report spécial prévu à l'article L. 10 sont accordés par le
+ministre chargé des armées ou par les commandants de bureau ou de centre du service national, par délégation.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 3 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5752,6 +5753,7 @@ du service national.
 	**Cite**:
 
 	  - Code du service national - art. L10 (M)
+	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L5 bis (M)
 
 
@@ -5965,8 +5967,8 @@ vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en 
 ###### Article R*12
 
 Dans les départements et territoires d'outre-mer, les délais fixés aux articles R.1, R.7 et R.10 peuvent ^etre allongés dans
-la limite de deux mois, par arr^eté conjoint du ministre chargé de la défense nationale et du ministre chargé des
-départements et territoires d'outre-mer.
+la limite de deux mois, par arr^eté conjoint du ministre chargé des armées et du ministre chargé des départements et
+territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -5974,6 +5976,10 @@ départements et territoires d'outre-mer.
 
 	  - Décret n°70-1343 1970-12-23 art. 3
 	  - Décret n°70-1345 1970-12-23 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -5985,7 +5991,7 @@ départements et territoires d'outre-mer.
 
 	**Cite**:
 
-	  - Code du service national R7, R10
+	  - Code du service national R1, R7, R10
 
 
 #### SECTION II : Composition et appel du contingent.
@@ -5997,9 +6003,9 @@ Pour chaque contingent, le Gouvernement fixe par décret :
 1° Le nombre des jeunes gens qui seront incorporés en vue d'effectuer leurs obligations du service actif dans les armées ;
 
 2° Après avis de la commission interministérielle des formes civiles du service national placée auprès du Premier ministre,
-le nombre, la qualification ou le niveau d'aptitude des jeunes gens qui seront incorporés respectivement dans la police
-nationale, dans le service de l'aide technique et dans le service de la coopération, ainsi que dans le service de défense
-lorsque les corps de défense sont constitués de façon permanente dans les conditions fixées à l'article L. 91.
+le nombre, la qualification ou le niveau d'aptitude des jeunes gens qui seront incorporés respectivement dans le service dans
+la police nationale, dans le service de sécurité civile, dans le service de l'aide technique et dans le service de la
+coopération.
 
 **Liens relatifs à cet article**
 
@@ -6009,8 +6015,7 @@ lorsque les corps de défense sont constitués de façon permanente dans les con
 
 	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 1 JORF 7 mars 1986
-	  - Décret n°90-501 du 21 juin 1990 - art. 1 () JORF 24 juin 1990
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 4 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6020,27 +6025,41 @@ lorsque les corps de défense sont constitués de façon permanente dans les con
 
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Cite**:
 
-	  - Code du service national - art. L91 (Ab)
+###### Article R*15-4
+
+La commission interministérielle des formes civiles du service national participe aux études menées sur demande du Premier
+ministre et lui fait toute proposition en ce qui concerne l'évolution des formes civiles du service national.
+
+Elle est associée, sur demande du Premier ministre, aux contrôles effectués sur place par les représentants des ministres
+responsables de l'emploi des appelés relevant des formes civiles du service national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 6 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
 
 
 ###### Article R*16
 
-Pour l'application de l'article R.15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
+Pour l'application de l'article R. 15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
 dans les armées les jeunes gens qui en font la demande et ceux qui ne sont pas affectés à l'une des autres formes du service
 national.
 
 Sont notamment affectés dans les armées :
 
-(Décret n° 78-388 du 17 mars 1978, art. 1er) << 1° Les jeunes gens titulaires du brevet de préparation militaire supérieure
-et les marins de la marine marchande. <> ;
+1° Les jeunes gens titulaires du brevet de préparation militaire et les marins de la marine marchande ;
 
 2° Les jeunes gens dont la candidature a été retenue en vue d'occuper un emploi dans des laboratoires ou organismes
-scientifiques dépendant du ministre chargé de la défense nationale ou agréés par lui ;
+scientifiques dépendant du ministre chargé des armées ou agréés par lui ;
 
-3° Les jeunes gens qui, ayant fait l'objet d'une décision d'agrément dans les conditions fixées par les articles R.23 à R.27,
-se trouveraient dans l'un des cas visés par l'article L. 12, alinéa 2 (§ 1° et 2°) et alinéa 3.
+3° Les jeunes gens qui, ayant fait l'objet d'une décision d'agrément dans les conditions fixées par les articles R. 23 à R.
+27, se trouveraient dans l'un des cas mentionnés à l'article L. 12.
 
 **Liens relatifs à cet article**
 
@@ -6050,8 +6069,8 @@ se trouveraient dans l'un des cas visés par l'article L. 12, alinéa 2 (§ 1° 
 
 	**Modifié par**:
 
-	  - Décret n°74-759 1974-08-30 art. 4 JORF 4 septembre 1974
-	  - Décret n°78-388 1978-03-17 art. 1 JORF 23 mars 1978
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 7 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6064,7 +6083,8 @@ se trouveraient dans l'un des cas visés par l'article L. 12, alinéa 2 (§ 1° 
 	**Cite**:
 
 	  - Code du service national - art. L12 (Ab)
-	  - Code du service national R23, L12
+	  - Code du service national - art. R15-1 (M)
+	  - Code du service national R15-1, R23 à R27, L12
 
 
 ###### Article R*16-1
@@ -6121,9 +6141,8 @@ décret prévu à l'article R. 15.
 
 ###### Article R*18
 
-L'appel au service actif du contingent dans l'une de ses formes incombe au ministre chargé des armées, en accord avec le
-ministre responsable, lorsque l'appel concerne le service dans la police nationale, le service de défense, le service de
-l'aide technique ou le service de la coopération.
+L'appel du contingent au service national actif dans toutes ses formes incombe au ministre chargé des armées en accord, le
+cas échéant, avec le ministre responsable d'une forme civile du service national.
 
 **Liens relatifs à cet article**
 
@@ -6133,7 +6152,7 @@ l'aide technique ou le service de la coopération.
 
 	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 2 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 8 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6178,8 +6197,8 @@ l'acquisition de la nationalité française et ^agés de moins de vingt-neuf ans
 
 c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20 et ^agés de moins de trente-quatre ans ;
 
-2° Les jeunes gens dont le report d'incorporation expire au plus tard le 30 novembre de l'année considérée et les
-bénéficiaires de l'article L. 9 qui doivent ^etre appelés au service actif au plus tard le 1er décembre ;
+2° Les jeunes gens dont le report d'incorporation expire au plus tard le 31 décembre de l'année précédente et les
+bénéficiaires de l'article L. 9 qui doivent être appelés au service actif au plus tard le 1er février de l'année considérée.
 
 3° Les jeunes gens qui, renonçant au bénéfice de la dispense ou, avant terme, au report d'incorporation ou aux dispositions
 de l'article L. 9, demandent au plus tard le 30 septembre de l'année considérée à ^etre appelés avec l'une des fractions de
@@ -6200,6 +6219,10 @@ national actif égale à celle de ces obligations.
 
 	  - Décret n°71-829 1971-09-30 art. 2
 
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 2 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -6214,6 +6237,7 @@ national actif égale à celle de ces obligations.
 	  - Code du service national - art. L10 (M)
 	  - Code du service national - art. L16 (M)
 	  - Code du service national - art. L17 (M)
+	  - Code du service national - art. L20 (M)
 	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L9 (M)
 
@@ -6276,9 +6300,10 @@ effectuer par les ministres responsables.
 La commission interministérielle des formes civiles du service national comprend un président et quatre membres désignés par
 le Premier ministre ; deux des membres de la commission sont désignés sur proposition du ministre chargé des armées.
 
-Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre chargé du commerce extérieur, le ministre chargé
-de la coopération, le ministre chargé des départements et territoires d'outre-mer et le ministre chargé de la santé désignent
-en outre chacun un représentant qui siège avec voix consultative.
+Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre chargé des affaires sociales, le ministre chargé
+de l'environnement, le ministre chargé de la forêt, le ministre chargé du commerce extérieur, le ministre chargé de la
+coopération, le ministre chargé des départements et territoires d'outre-mer et le ministre chargé de la santé désignent en
+outre chacun un représentant qui siège avec voix consultative.
 
 Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
 
@@ -6288,9 +6313,9 @@ Le président de la commission peut convoquer toute personne dont l'audition ser
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-501 du 21 juin 1990 - art. 2 () JORF 24 juin 1990
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 5 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6300,21 +6325,24 @@ Le président de la commission peut convoquer toute personne dont l'audition ser
 ###### Article R19
 
 L'appel des jeunes gens d'un m^eme contingent a lieu, sous réserve des dispositions de l'article R. 21, en six fractions à
-partir des 1er février, 1er avril, 1er juin, 1er ao^ut, 1er octobre et 1er décembre. La durée du service est décomptée à
+partir des 1er février, 1er avril, 1er juin, 1er août, 1er octobre et 1er décembre. La durée du service est décomptée à
 partir de chacune de ces dates.
 
-Toutefois le ministre chargé de la défense nationale peut exceptionnellement avancer ou retarder dans la limite d'un mois
-l'appel des jeunes gens titulaires de certaines affectations ayant accepté cette éventualité. Dans ce cas, la durée du
-service actif est décomptée à partir du premier jour de la quinzaine au cours de laquelle ces jeunes gens ont été appelés.
+Toutefois, lorsque les besoins des différentes formes du service national le justifient, le ministre chargé des armées peut
+avancer ou reculer les dates d'appel et de départ des services des jeunes gens dans la limite de quarante-cinq jours.
 
 Pour les jeunes gens recrutés dans les départements et territoires d'outre-mer, les dates d'appel et de départ des services
-peuvent ^etre avancées dans la limite d'un mois.
+peuvent être avancées ou reculées dans la limite de quarante-cinq jours.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-829 1971-09-30 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 3 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6325,25 +6353,20 @@ peuvent ^etre avancées dans la limite d'un mois.
 	  - Code du service national - art. ANNEXE I (V)
 	  - Code du service national - art. R21 (M)
 
-	**Modifié par**:
-
-	  - Décret n°74-760 1974-08-30 art. 1 JORF 4 septembre 1974 rectificatif JORF 12 septembre 1974
-
 
 ###### Article R20
 
 Les jeunes gens visés au 1° de l'article R. 14 sont appelés d'office dans l'ordre des tranches de classe de recrutement
-prévues à l'article R.[* 33 et, pour chaque tranche, dans l'ordre des dates de naissance en commençant par les catégories b
-et c.
+prévues à l'article R. 33 et, pour chaque tranche, dans l'ordre des dates de naissance en commençant par les catégories b et
+c.
 
-Les jeunes gens visés au 2° de l'article R. 14 sont appelés avec la première fraction de contingent dont l'incorporation suit
-la date d'expiration du report d'incorporation ou celle résultant de l'application des articles L. 9 et L. 10.
+Les jeunes gens visés au 2° de l'article R. 14 sont appelés dans les conditions fixées par l'article R. 10.
 
 Les jeunes gens visés aux 3° et 4° de l'article R. 14 sont compris dans la fraction de contingent avec laquelle ils ont
-demandé, dans les délais fixés, selon le cas, aux articles R.*] 1 ou R.[* 10, à ^etre incorporés. En cas d'excédent
-concernant les jeunes gens visés aux 2°, 3° et 4° de l'article R. 14, l'appel de ceux ayant déposé leur demande le plus
-tardivement peut ^etre décalé dans les conditions fixées par l'article R.*] 11, m^eme si ce décalage a pour effet de les
-comprendre dans le contingent suivant.
+demandé, dans les délais fixés, selon le cas, aux articles R. 1 ou R. 10, à ^etre incorporés. En cas d'excédent concernant
+les jeunes gens visés aux 2°, 3° et 4° de l'article R. 14, l'appel de ceux ayant déposé leur demande le plus tardivement peut
+^etre décalé dans les conditions fixées par l'article R. 11, m^eme si ce décalage a pour effet de les comprendre dans le
+contingent suivant.
 
 Les jeunes gens visés au 6° de l'article R. 14 sont maintenus sous les drapeaux lors de l'annulation ou de la résiliation de
 leur engagement et rattachés pour la durée des obligations du service actif qui leur incombe à la fraction de contingent dont
@@ -6354,6 +6377,10 @@ l'incorporation a immédiatement précédé la souscription de l'engagement.
 	**Anciens textes**:
 
 	  - Décret n°71-829 1971-09-30 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 4 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6366,31 +6393,23 @@ l'incorporation a immédiatement précédé la souscription de l'engagement.
 	**Cite**:
 
 	  - Code du service national - art. R14 (M)
-	  - Code du service national R14, R1
+	  - Code du service national R14, R1, R10, R1, R11
 
 
 ###### Article R21
 
-Le ministre chargé de la défense nationale fixe par arr^eté en fonction des besoins du service national :
-
-1° La composition de chaque fraction de contingent ainsi que les conditions d'application du deuxième alinéa de l'article R.
-19 ;
-
-2° Les fractions de contingent auxquelles appartiennent les jeunes gens :
-
-a) Incorporables en qualité d'élève officier de réserve ;
-
-b) Officiers élèves de la marine marchande admis au cours d'élèves officiers de réserve de l'armée de mer ;
-
-c) Admis à suivre un stage préparatoire à un peloton d'élèves officiers de réserve ;
-
-d) Admis à servir dans une formation civile en application des dispositions de l'article L. 41.
+Le ministre chargé des armées fixe par arrêté en fonction des besoins du service national la composition de chaque fraction
+de contingent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-829 1971-09-30 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 5 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6409,7 +6428,7 @@ d) Admis à servir dans une formation civile en application des dispositions de 
 ###### Article R22
 
 La répartition entre les armées des jeunes gens affectés au service militaire qui composent une fraction de contingent est
-fixée par arr^eté du ministre chargé de la défense nationale, en tenant compte :
+fixée par arr^eté du ministre chargé des armées, en tenant compte :
 
 1° Des besoins quantitatifs et qualitatifs des armées, des unités, formations et services de chacune d'elles ;
 
@@ -6419,6 +6438,10 @@ fixée par arr^eté du ministre chargé de la défense nationale, en tenant comp
 obtenus.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6476,23 +6499,67 @@ coopération dans cet Etat.
 	  - Code du service national - art. L9 (M)
 
 
+###### Article R*23-1
+
+Les jeunes gens, volontaires du service de la coopération, affectés dans les entreprises françaises concourant au
+développement de pays étrangers, accomplissent le service actif obligatoirement dans ces pays.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*23-2
+
+Les jeunes gens, volontaires du service de la coopération, affectés à des emplois de recherche dans une université, un
+institut, laboratoire ou organisme concourant au développement de pays étrangers, accomplissent le service actif
+obligatoirement dans ces pays.
+
+Les catégories d'établissements concernés tels que les universités, laboratoires, instituts ou autres organismes sont fixées
+par arrêté conjoint du ministre des affaires étrangères, du ministre chargé des armées et du ministre de la coopération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
 ###### Article R*24
 
 Les qualifications professionnelles requises des jeunes gens visés à l'article R.[* 23 sont les suivants :
 
 1° Emplois au titre du service militaire :
 
-a) Lors du dépôt de la demande, être titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
+a) Lors du dép^ot de la demande, ^etre titulaire du baccalauréat de l'enseignement du second degré ou de l'un des titres
 réglementairement admis en dispense en vue de l'inscription dans les universités et, en outre, dans la filière d'enseignement
 correspondant à l'emploi sollicité, avoir effectué avec succès au moins une année d'études supplémentaires ; cette demande
-est accompagnée d'une attestation du directeur d'études compétent ;
+est visée par le directeur de l'établissement ;
 
 b) Pour occuper l'emploi au titre duquel la candidature a été agréée, avoir obtenu, au moins, selon les emplois :
 
-- soit un diplôme d'ingénieur reconnu par la commission des titres d'ingénieur ou un diplôme d'architecte délivré par le
+- soit un dipl^ome d'ingénieur reconnu par la commission des titres d'ingénieur ou un dipl^ome d'architecte délivré par le
 Gouvernement ou par une école reconnue par l'Etat ;
 
-- soit la maîtrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
+- soit la ma^itrise ou un titre universitaire au moins équivalent, dans une discipline correspondant aux activités des
 laboratoires ou organismes visés à l'article R.*] 23-1° ;
 
 - soit le certificat de fin de scolarité d'une école nationale vétérinaire ;
@@ -6500,10 +6567,10 @@ laboratoires ou organismes visés à l'article R.*] 23-1° ;
 2° Emplois au titre du service de l'aide technique ou du service de la coopération :
 
 a) Jeunes gens ne sollicitant pas le report d'incorporation prévu à l'article L. 9 : posséder au moment de leur incorporation
-tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
+tout dipl^ome permettant d'occuper l'un des emplois visés au 2° de l'article R.[* 23 ;
 
 b) Jeunes gens sollicitant le report d'incorporation prévu à l'article L. 9 : remplir les conditions définies au a du 1° ci-
-dessus lors du dépôt de la demande ; posséder tout diplôme permettant d'occuper l'un des emplois visés au 2° de l'article
+dessus lors du dép^ot de la demande ; posséder tout dipl^ome permettant d'occuper l'un des emplois visés au 2° de l'article
 R.*] 23 au moment de l'incorporation.
 
 **Liens relatifs à cet article**
@@ -6512,9 +6579,15 @@ R.*] 23 au moment de l'incorporation.
 
 	  - Décret n°72-727 1972-08-01 art. 2
 
+	**Cite**:
+
+	  - Décret n°85-928 1985-08-28
+	  - Code du service national - art. L9 (M)
+	  - Code du service national R23, L9
+
 	**Modifié par**:
 
-	  - Décret n°85-928 1985-08-28 art. 2 JORF 3 septembre 1972
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 10 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6524,16 +6597,17 @@ R.*] 23 au moment de l'incorporation.
 
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Cite**:
-
-	  - Code du service national - art. L9 (M)
-	  - Code du service national R23, L9
-
 
 ###### Article R*25
 
-Les jeunes gens qui souhaitent bénéficier des dispositions du premier alinéa de l'article L. 9 peuvent présenter leur demande
-d'agrément à tout moment de l'année au ministre responsable.
+Les jeunes gens qui souhaitent bénéficier des dispositions du premier alinéa de l'article L. 9 peuvent présenter leur acte de
+candidature directement au ministre responsable :
+
+1° Pour un emploi au titre du service militaire avant le 15 janvier pour être incorporé à partir du 1er août de l'année en
+cours jusqu'au 1er juillet de l'année suivante ;
+
+2° Pour un emploi au titre du service de l'aide technique ou de la coopération, à toute époque de l'année, au moins huit mois
+avant la date d'incorporation souhaitée et au plus tard six mois avant la date d'échéance de leur report d'incorporation.
 
 Si, après agrément suivi de l'attribution d'un poste, le candidat refuse l'emploi auquel il est ainsi affecté, le ministre
 responsable peut mettre fin à l'étude de cette candidature.
@@ -6546,7 +6620,7 @@ responsable peut mettre fin à l'étude de cette candidature.
 
 	**Modifié par**:
 
-	  - Décret n°85-928 1985-08-28 art. 3 JORF 3 septembre 1985
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 11 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6568,13 +6642,19 @@ d'incorporation est ainsi composée :
 
 Un conseiller d'Etat, président, désigné par le Premier ministre ;
 
-Six représentants du ministre chargé de la défense nationale ;
+Un représentant du secrétaire général de la défense nationale ;
 
-Trois représentants du ministre des affaires étrangères ;
+Un représentant de la commission interministérielle des formes civiles du service national mentionnée à l'article R. 15-1. ;
 
-Trois représentants du ministre de la coopération ;
+Quatre représentants du ministre chargé des armées ;
 
-Deux représentants du ministre chargé des départements et territoires d'outre-mer ;
+Un représentant du ministre des affaires étrangères ;
+
+Deux représentants du ministre de la coopération ;
+
+Un représentant de l'Agence pour l'enseignement français à l'étranger ;
+
+Un représentant du ministre chargé des départements et territoires d'outre-mer ;
 
 Un représentant du ministre de l'éducation.
 
@@ -6595,8 +6675,7 @@ Le secrétariat de la commission et des sections est assuré par le service cent
 
 	**Modifié par**:
 
-	  - Décret n°75-828 1975-09-02 art. 2 JORF 7 septembre 1975
-	  - Décret n°85-928 1985-08-28 art. 4 JORF 3 septembre 1985
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 12 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -6609,6 +6688,7 @@ Le secrétariat de la commission et des sections est assuré par le service cent
 	**Cite**:
 
 	  - Code du service national - art. L9 (M)
+	  - Code du service national - art. R15-1 (M)
 
 
 ###### Article R*27
@@ -6679,20 +6759,29 @@ l'accomplissement du service national.
 Les jeunes gens sans nationalité, domiciliés en France, sont tenus de se faire recenser dans les m^emes conditions que les
 jeunes Français.
 
-Les jeunes gens qui, en vertu des lois sur la nationalité, ont la faculté de répudier ou de décliner la nationalité française
-sont tenus de se faire recenser dans le trimestre qui suit soit leur majorité s'ils n'ont pas exercé cette faculté, soit à la
-date à laquelle ils ont conservé ou acquis la nationalité française. <>
+Les jeunes gens domiciliés en France qui, en vertu des lois sur la nationalité, ont la faculté de répudier ou de décliner la
+nationalité française et qui n'ont pas usé de cette faculté sont tenus de se faire recenser le premier mois qui suit le
+trimestre au cours duquel ils atteignent l'âge de dix-huit ans. Ils ont toutefois la possibilité de se faire recenser avant
+cet âge.
 
-Les hommes devenus français par voie de naturalisation, de réintégration, de déclaration ou d'option ou dont la nationalité
-française a été établie à la suite d'un jugement ou d'une déclaration recognitive doivent, s'ils sont ^agés de moins de
-cinquante ans, se faire recenser dans le trimestre qui suit la date de leur acquisition de la nationalité française ou de la
-décision judiciaire les concernant.
+Les hommes devenus français entre dix-sept et cinquante ans par voie de naturalisation, de réintégration, de déclaration ou
+d'option ou dont la nationalité française a été établie entre ces deux âges à la suite d'un jugement ou d'une déclaration
+recognitive doivent se faire recenser le premier mois qui suit le trimestre au cours duquel ils ont acquis la nationalité
+française ou au cours duquel cette nationalité leur a été reconnue.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1340 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 13 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -6701,10 +6790,6 @@ décision judiciaire les concernant.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
-
-	**Modifié par**:
-
-	  - Décret n°74-759 1974-08-30 art. 5 JORF 4 septembre 1974
 
 
 ###### Article R*30
@@ -6744,11 +6829,22 @@ La notification des ordres de route prévue à l'article L. 123 est faite au mai
 Les renseignements fournis par les jeunes gens visés aux articles R. 28, R. 29 et R. 30 sont mentionnés sur une notice
 individuelle établie par le maire au reçu de chaque déclaration.
 
+Toute déclaration émanant d'un jeune homme né hors de la commune de recensement donne lieu, de la part du maire de celle-ci
+ou du consul, à l'envoi d'un avis d'inscription au maire ou au consul du lieu de naissance de l'intéressé.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1340 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 14 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -6760,7 +6856,7 @@ individuelle établie par le maire au reçu de chaque déclaration.
 
 	**Cite**:
 
-	  - Code du service national R29, R30
+	  - Code du service national R28, R29, R30
 
 
 ###### Article R*32
@@ -6832,8 +6928,9 @@ inscrivent :
 1° Les jeunes gens qui ont souscrit une déclaration pendant le mois précédent ;
 
 2° Les jeunes gens nés dans la commune et qui, bien qu'appartenant aux catégories visées aux articles R.[* 28, R.*] 29 et R.
-[* 30, n'ont pas souscrit cette déclaration. Pour chacun d'eux, les maires établissent une notice individuelle sur laquelle
-ils portent les renseignements en leur possession.
+[* 30, n'ont pas souscrit cette déclaration et pour lesquels ils n'ont pas reçu un avis d'inscription d'un autre maire ou
+d'un consul. Pour chacun d'eux, les maires établissent une notice individuelle sur laquelle ils portent les renseignements en
+leur possession.
 
 La liste de recensement et les notices individuelles sont adressées au préfet à la fin du deuxième mois de chaque trimestre,
 ainsi que, le cas échéant, les demandes qui auraient été déposées en mairie en application de l'article R.*] 32.
@@ -6846,7 +6943,11 @@ ainsi que, le cas échéant, les demandes qui auraient été déposées en mairi
 
 	**Modifié par**:
 
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 15 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -6858,7 +6959,7 @@ ainsi que, le cas échéant, les demandes qui auraient été déposées en mairi
 
 	**Cite**:
 
-	  - Code du service national R29, R32
+	  - Code du service national R28, R29, R30, R32
 
 
 ###### Article R*35
@@ -6901,9 +7002,9 @@ Les jeunes Français établis avec leur famille à l'étranger, qu'ils soient n�
 souscrire auprès des agents consulaires français la déclaration prévue à l'article R.[* 28.
 
 Les agents consulaires dressent, à la m^eme époque et dans les m^emes conditions que les maires en France, une liste de
-recensement. Ils y inscrivent, outre ceux qui ont souscrit la déclaration visée ci-dessus, les jeunes Français résidant à
-leur connaissance dans leur circonscription et qui, (Décret n° 85-470 du 25 avril 1985, art. 1er) << bien qu'ils aient
-atteint dans le trimestre précédant l'^age de dix-sept ans, <> n'ont pas souscrit cette déclaration.
+recensement. Ils y inscrivent, outre ceux qui ont souscrit la déclaration visée ci-dessus, les jeunes Français nés ou
+résidant à leur connaissance dans leur circonscription et qui, bien qu'ils aient atteint dans le trimestre précédant l'^age
+de dix-sept ans, n'ont pas souscrit cette déclaration.
 
 Ils adressent les listes de recensement et les notices individuelles au préfet des Pyrénées-Orientales, qui est chargé des
 opérations prévues à l'article R.*] 35.
@@ -6916,7 +7017,11 @@ opérations prévues à l'article R.*] 35.
 
 	**Modifié par**:
 
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 mai 1985
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 16 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -6928,7 +7033,7 @@ opérations prévues à l'article R.*] 35.
 
 	**Cite**:
 
-	  - Code du service national R35
+	  - Code du service national R28, R35
 
 
 ###### Article R*37
@@ -6937,18 +7042,25 @@ Les jeunes gens qui auraient été omis sur les listes de recensement sont inscr
 classe recensée après la découverte de l'omission, à moins qu'ils n'aient cinquante ans révolus.
 
 Ils sont ensuite soumis à toutes les obligations du service national en vigueur au moment de leur inscription, notamment à
-celles du service actif, sans que toutefois ces obligations puissent leur ^etre imposées :
+celles du service national actif. Toutefois, les obligations d'activité ne peuvent leur être imposées :
 
-- en ce qui concerne le service militaire, au-delà de la date à laquelle les hommes de leur ^age normalement recensés sont
-libérés des obligations militaires ;
+- au-delà de l'âge de vingt-neuf ans si leur recensement a eu lieu avant cet âge ;
 
-- en ce qui concerne le service de défense, au-delà de l'^age de cinquante ans.
+- au-delà de l'âge de trente-quatre ans si leur recensement a eu lieu entre vingt-neuf et trente-quatre ans.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1340 1970-12-23 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 17 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -7023,17 +7135,36 @@ recensement étant alors fixée par les préfets ou les délégués du Gouvernem
 
 #### SECTION II : Sélection.
 
+##### PARAGRAPHE 1 : Dispositions générales.
+
 ###### Article R*40
 
-Les opérations prévues à l'article L. 23 ont lieu dans les centres de sélection relevant de l'autorité militaire.
+Les opérations prévues à l'article L. 23 ont lieu dans les centres de sélection relevant de l'autorité militaire. Toutefois,
+en Corse et dans les départements et territoires d'outre-mer, elles ont lieu dans les centres du service national relevant de
+la même autorité.
 
-Ces centres sont également habilités à examiner les candidats à l'engagement et à la préparation militaire.
+La durée du séjour dans les centres ne peut dépasser trois jours, délais de route non compris, hors le cas d'une
+hospitalisation pour observation, laquelle ne peut excéder dix jours.
+
+Peuvent être convoqués dans les centres de sélection et dans les centres du service national :
+
+1° Les hommes soumis aux obligations du service national ;
+
+2° Les volontaires féminines ;
+
+3° Les candidats et candidates à l'une des formes de la préparation militaire ;
+
+4° Les candidats et candidates à un engagement dans les armées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1341 1970-12-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7050,23 +7181,64 @@ Ces centres sont également habilités à examiner les candidats à l'engagement
 
 ###### Article R*41
 
-Les jeunes gens qui ont demandé le bénéfice de l'appel avancé prévu à l'article L. 5, alinéa 2-1°, sont convoqués dans les
-centres de sélection en fonction de la date du dép^ot de leur demande.
+Les personnes convoquées doivent se munir des pièces nécessaires pour justifier de leur identité, de leur situation
+familiale, de leur niveau d'études scolaires, universitaires ou professionnelles ainsi que des pièces médicales en leur
+possession de nature à éclairer les médecins experts.
 
-Les jeunes gens qui bénéficient du report d'incorporation prévu à l'article L. 5, alinéa 2-2°, sont convoqués dans les quatre
-mois qui précèdent l'expiration de ce report, sauf s'ils renoncent avant terme audit report.
-
-Les autres jeunes gens inscrits sur les listes de recensement prévues à l'article R. 34 sont convoqués dans l'ordre des dates
-de naissance et avec un préavis d'au moins vingt jours.
-
-Les intéressés doivent se munir des pièces nécessaires pour justifier de leur identité et de leur situation familiale ainsi
-que des pièces médicales en leur possession de nature à éclairer les médecins experts.
+Dans tous les cas visés à la présente section, les jeunes gens qui, sans présenter d'excuses reconnues valables, ne se
+rendent pas à leur convocation sont proposés d'office pour l'aptitude au service national et reçoivent application des
+dispositions de l'article R. 50-4.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1341 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R50-4
+
+
+###### Article R*42
+
+Les jeunes gens qui ont demandé le bénéfice de l'appel avancé prévu à l'article L. 5, alinéa 2 (1°), sont convoqués dans les
+centres de sélection ou dans les centres du service national en fonction de la date du dépôt de leur demande.
+
+Les jeunes gens qui bénéficient du report d'incorporation sont convoqués en fonction de la date d'échéance de ce report. Ceux
+qui y renoncent avant terme sont convoqués en fonction de la date du dépôt de leur résiliation.
+
+Les hommes inscrits sur les listes de recensement prévues à l'article R. 34 sont convoqués dans l'ordre des dates de
+naissance et avec un préavis d'au moins vingt jours.
+
+Les candidats et candidates à un engagement dans les armées ou à l'une des formes de la préparation militaire et les
+volontaires féminines sont convoqués en fonction de la date du dépôt de leur demande.
+
+Ne sont pas convoqués les jeunes gens atteints d'une infirmité ou d'une affection les rendant manifestement et définitivement
+inaptes aux obligations du service national à charge de justifier de leur état lors des opérations de recensement. Ils font
+l'objet d'une proposition d'exemption sur pièces.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1341 1970-12-23 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7082,19 +7254,86 @@ que des pièces médicales en leur possession de nature à éclairer les médeci
 	  - Code du service national L5, R34
 
 
-###### Article R*42
+##### PARAGRAPHE 2 : Droits résultant des opérations de sélection.
 
-Ne sont pas convoqués les jeunes recensés à l'étranger par les agents diplomatiques ou consulaires de France. Leur aptitude
-au service national est déterminée dans les conditions fixées à l'article R. 46.
+###### Article R*43
 
-Il en est de m^eme des jeunes gens atteints d'une infirmité les rendant manifestement et définitivement inaptes aux
-obligations du service national à charge de justifier de leur état lors des opérations de recensement.
+Les convocations dans les centres de sélection, dans les centres du service national, dans les formations du service de santé
+des armées ou dans les hôpitaux conventionnés ouvrent droit au transport gratuit pour le trajet le plus direct aller et
+retour, dans les mêmes conditions que pour les appelés au service militaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-1341 1970-12-23 art. 3
+	  - Décret n°70-1341 1970-12-23 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*43-1
+
+Les personnes convoquées bénéficient, pendant les opérations de sélection ou lors de leur hospitalisation, de l'alimentation
+et du logement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*43-2
+
+La durée totale des opérations de sélection ou d'hospitalisation ne compte ni pour la constitution du droit à pension de
+retraite ni pour la détermination du montant des pensions allouées au titre de l'ancienneté des services. Elle ne vient pas
+en déduction des obligations d'activité du service national ou de l'engagement dans les armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*43-3
+
+La durée d'hospitalisation au-delà des trois jours mentionnés à l'article L. 23, pour mise en observation, donne lieu au
+paiement d'une indemnité journalière égale à trois fois le montant minimum de l'indemnité journalière prévue au 5° de
+l'article L. 321-1 du code de la sécurité sociale. Cette indemnité leur est versée à l'issue de leur hospitalisation par le
+service comptable de l'hôpital.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7106,58 +7345,35 @@ obligations du service national à charge de justifier de leur état lors des op
 
 	**Cite**:
 
-	  - Code du service national R46
+	  - Code du service national - art. L23 (M)
+	  - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-###### Article R*43
-
-Les convocations aux centres de sélection ouvrent droit au transport gratuit à l'aller et au retour.
-
-La durée du séjour dans ces centres ne peut dépasser trois jours, délais de route non compris, hors le cas d'une
-hospitalisation pour observation, qui ne peut excéder dix jours.
-
-Pendant ces séjours, les jeunes gens convoqués bénéficient des prestations servies par l'Etat aux militaires du contingent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1341 1970-12-23 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
+##### PARAGRAPHE 3 : Sélection.
 
 ###### Article R*44
 
-Les examens médicaux d'aptitude donnent lieu de la part des centres de sélection, conformément aux dispositions de l'article
-L. 24 à des propositions de classement sur lesquelles la commission locale d'aptitude est appelée à statuer.
+Les examens d'aptitude donnent lieu de la part des centres de sélection ou des centres du service national à des propositions
+de classement conformément aux dispositions de l'article L. 24, sur lesquelles la commission locale d'aptitude est appelée à
+statuer.
 
 Ces propositions sont les suivantes :
 
-- aptes ;
+- apte ;
 
-- ajournés ;
+- ajourné ;
 
-- exemptés.
-
-A l'issue de leur séjour au centre de sélection, les jeunes gens convoqués sont informés du résultat des examens psycho-
-techniques et médicaux auxquels ils ont été soumis et reçoivent une notification écrite attestant qu'ils ont subi les examens
-de sélection et les informant de la proposition dont ils font l'objet en matière d'aptitude au service national.
-
-Les jeunes gens qui contesteraient le bien-fondé de ces propositions doivent le faire connaître à la commission locale
-d'aptitude dans les quinze jours suivant la notification qui leur en est faite.
+- exempté.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1341 1970-12-23 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7172,14 +7388,100 @@ d'aptitude dans les quinze jours suivant la notification qui leur en est faite.
 	  - Code du service national - art. L24 (M)
 
 
+###### Article R*44-1
+
+A l'issue des opérations de sélection, les jeunes gens qui ont été sélectionnés sont informés du résultat des examens psycho-
+techniques et médicaux auxquels ils ont été soumis. Ils reçoivent une notification écrite attestant qu'ils ont subi les
+examens de sélection et qui les informe de la proposition les concernant.
+
+Les jeunes gens qui contesteraient le bien-fondé de ces propositions doivent le faire connaître à la commission locale
+d'aptitude dans les quinze jours suivant la notification qui leur en est faite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+##### PARAGRAPHE 4 : Règles de discipline.
+
 ###### Article R*45
 
-Les jeunes gens qui, sans présenter d'excuse reconnue valable, ne se rendent pas à la convocation au centre de sélection sont
-proposés d'office pour l'aptitude au service national. Ils reçoivent application des dispositions de l'article R.[* 53.
+I. - Les jeunes gens convoqués aux opérations de sélection ou hospitalisés pour mise en observation sont considérés comme des
+appelés au service national en activité de service et soumis aux obligations générales suivantes :
 
-Les jeunes gens convoqués qu'une infirmité ou affection rendrait manifestement et définitivement inaptes aux obligations
-d'activité du service national peuvent ^etre dispensés de se rendre au centre de sélection. Ils font alors l'objet d'une
-proposition d'exemption sur pièces, de m^eme que les jeunes gens visés à l'article R.*] 42, deuxième alinéa.
+- obéir aux ordres reçus conformément à la loi ;
+
+- se comporter avec droiture et dignité ;
+
+- respecter les règles de protection du secret et faire preuve de réserve lorsqu'ils s'expriment, notamment sur les problèmes
+militaires ;
+
+- prendre soin du matériel et des installations appartenant aux armées ou placés sous leur dépendance.
+
+II. - Ils doivent exécuter loyalement les ordres qu'ils reçoivent et rendre compte de leur exécution.
+
+III. - Dans les enceintes et établissements militaires, ils doivent s'abstenir d'organiser des manifestations ou des actions
+de propagande philosophique, religieuse, politique ou syndicale et de participer à celles-ci.
+
+IV. - Ils peuvent exercer leur droit de recours dans les conditions fixées par l'article 13 du décret n° 75-765 du 28 juillet
+1975 modifié portant règlement de discipline générale dans les armées.
+
+V. - Les jeunes gens hospitalisés pour mise en observation, renvoyés dans leurs foyers pour cas de force majeure ou
+d'événements familiaux sont reconvoqués ultérieurement si nécessaire.
+
+Compte tenu des nécessités du service, les jeunes gens convoqués aux opérations de sélection ou hospitalisés pour mise en
+observation peuvent bénéficier de permissions de courte durée n'excédant pas quarante-huit heures ou d'autorisations
+d'absence du service d'une durée inférieure à vingt-quatre heures.
+
+VI. - Le commandant du centre de sélection ou du centre du service national ou le médecin chef de l'hôpital peut leur imposer
+de résider à l'intérieur du domaine militaire et, lorsque les circonstances l'exigent, restreindre leur liberté de
+circulation.
+
+VII. - Les articles 23 et 24 du décret mentionné ci-dessus leur sont applicables.
+
+VIII. - Des récompenses peuvent leur être attribuées pour acte exceptionnel de courage ou de dévouement ou pour services
+exceptionnels dans les conditions fixées par l'article 27 du même décret.
+
+IX. - Sans préjudice des sanctions pénales, le manquement au devoir ou la négligence peuvent entraîner les punitions
+disciplinaires suivantes :
+
+- avertissement ;
+
+- arrêts.
+
+L'avertissement sanctionne une faute sans gravité.
+
+Les arrêts sanctionnent une faute grave ou très grave. En cas de faute très grave passible de sanction pénale ou lorsque
+l'intéressé présente un danger pour son entourage, l'autorité qui inflige les arrêts peut décider de les assortir d'une
+période d'isolement dont la durée ne peut excéder la moitié de la punition infligée.
+
+Toutefois, les punitions infligées ne peuvent conduire à une prolongation de la durée des opérations de sélection ou de
+l'hospitalisation mentionnée à l'article R. 40.
+
+Les punitions sont notifiées à l'intéressé, qui bénéficie des
+
+garanties fixées à l'article 33 du décret portant règlement de discipline générale dans les armées, Elles font l'objet d'un
+compte rendu transmis au commandant du bureau ou du centre du service national qui le joint au dossier destiné au chef de
+corps ou au responsable de l'organisme civil d'emploi qui incorporera l'intéressé.
+
+Les punitions sont infligées dans la limite d'un barème fixé par arrêté du ministre chargé des armées.
+
+Les chefs de corps investis des pouvoirs disciplinaires sont les commandants de centre de sélection, les commandants de
+centre du service national et les médecins-chefs des hôpitaux militaires.
+
+X. - Les récompenses dont les jeunes gens convoqués aux opérations de sélection ou hospitalisés pour mise en observation ont
+fait l'objet sont prises en compte par les chefs de corps ou les responsables des organismes d'incorporation. Les punitions
+peuvent l'être.
 
 **Liens relatifs à cet article**
 
@@ -7197,17 +7499,68 @@ proposition d'exemption sur pièces, de m^eme que les jeunes gens visés à l'ar
 
 	**Cite**:
 
-	  - Code du service national R42, R53
+	  - Code du service national R40
+	  - Décret n°75-765 1975-07-28 art. 13, art. 23, art. 24, art. 27, art. 33
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+
+###### Article R*45-1
+
+Les jeunes gens qui individuellement refusent de participer à tout ou partie des opérations de sélection sont proposés
+d'office pour l'aptitude au service et immédiatement renvoyés dans leur foyer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*45-2
+
+Les infractions pouvant donner lieu à des poursuites judiciaires sont immédiatement signalées par le commandant du centre de
+sélection ou du centre du service national à la brigade de gendarmerie pour établissement d'un procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+##### PARAGRAPHE 5 : Responsabilité de l'Etat.
 
 ###### Article R*46
 
-Les jeunes gens en résidence à l'étranger sont examinés à l'initiative du consul par un médecin accrédité auprès du consulat.
-Les propositions du médecin et les observations du consul sont transmises au bureau de recrutement en vue d'^etre soumises à
-la commission locale d'aptitude.
+En cas d'accident ou de maladie survenus pendant la durée des opérations de sélection ou lors d'une hospitalisation, y
+compris les trajets directs aller et retour, les personnes convoquées peuvent recevoir application :
 
-Les jeunes gens qui, sans excuse valable, omettent ou négligent de se présenter à cette visite médicale sont proposés aptes
-d'office.
+1° Des dispositions du décret n° 78-194 du 24 février 1978 relatif aux soins assurés par le service de santé des armées ;
+
+2° Des dispositions des articles R. 110 à R. 122 ;
+
+3° Des dispositions du code des pensions militaires d'invalidité ;
+
+4° Des dispositions de l'article L. 62, deuxième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -7215,6 +7568,16 @@ d'office.
 
 	  - Décret n°70-1341 1970-12-23 art. 7
 
+	**Cite**:
+
+	  - Décret n°78-194 1978-02-24
+	  - Code du service national - art. L62 (M)
+	  - Code du service national R110 à R122, L62
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -7224,10 +7587,12 @@ d'office.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+##### PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.
+
 ###### Article R*47
 
-Les marins de la marine marchande sont convoqués dans les centres de sélection par l'intermédiaire du service des affaires
-maritimes.
+Sans préjudice des dispositions de la présente section qui leur est applicable, la sélection des jeunes gens résidant à
+l'étranger est réglée par les articles R.[* 47-1 et R.*] 47-2 du présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -7235,6 +7600,59 @@ maritimes.
 
 	  - Décret n°70-1341 1970-12-23 art. 8
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R47-1, R47-2
+
+
+###### Article R*47-1
+
+Les jeunes gens qui résident à l'étranger et ne relèvent pas des dispositions de l'article L. 37 sont examinés, à
+l'initiative du consul, par un médecin accrédité auprès du consulat. Les propositions du médecin et les observations du
+consul sont transmises au bureau ou au centre du service national en vue d'être soumises à la commission locale d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L37 (M)
+
+
+###### Article R*47-2
+
+La convocation auprès d'un médecin accrédité par le consulat donne lieu au remboursement des frais de déplacement sur la base
+de la distance aller et retour séparant le domicile déclaré du lieu de la visite médicale duquel dépend ce domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -7244,15 +7662,12 @@ maritimes.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+##### PARAGRAPHE 7 : Marins de la marine marchande.
+
 ###### Article R*48
 
-Une commission locale d'aptitude est créée auprès de chaque bureau de recrutement.
-
-Elle est constituée par le général commandant la région militaire ou commandant supérieur du territoire sur lequel elle doit
-siéger.
-
-Le médecin en chef des armées qui assure les fonctions de président est désigné par le ministre chargé de la défense
-nationale.
+Les marins de la marine marchande sont convoqués dans les centres de sélection ou les centres du service national par
+l'intermédiaire du service des affaires maritimes.
 
 **Liens relatifs à cet article**
 
@@ -7260,6 +7675,10 @@ nationale.
 
 	  - Décret n°70-1341 1970-12-23 art. 9
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -7269,9 +7688,13 @@ nationale.
 	  - Code du service national - art. ANNEXE I (V)
 
 
+##### PARAGRAPHE 8 : Jeunes gens handicapés ou détenus.
+
 ###### Article R*49
 
-Les séances de la commission locale d'aptitude ne sont pas publiques.
+Les jeunes gens qui ne peuvent se présenter aux opérations prévues à l'article L. 23 du fait d'une infirmité ou d'un handicap
+sont examinés par un médecin des armées désigné par le directeur ou le chef local du service de santé territorialement
+compétent.
 
 **Liens relatifs à cet article**
 
@@ -7279,6 +7702,10 @@ Les séances de la commission locale d'aptitude ne sont pas publiques.
 
 	  - Décret n°70-1341 1970-12-23 art. 10
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -7287,24 +7714,60 @@ Les séances de la commission locale d'aptitude ne sont pas publiques.
 
 	  - Code du service national - art. ANNEXE I (V)
 
+	**Cite**:
+
+	  - Code du service national - art. L23 (M)
+
+
+###### Article R*49-1
+
+Les jeunes gens qui ne peuvent se présenter aux opérations prévues à l'article L. 23 parce qu'ils sont détenus dans un
+établissement pénitentiaire sont examinés par un médecin des armées désigné par le directeur ou le chef local du service de
+santé territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L23 (M)
+
+
+##### PARAGRAPHE 9 : Commission locale d'aptitude.
 
 ###### Article R*50
 
-La commission locale d'aptitude statue sur pièces au vu de la proposition d'aptitude faite à l'égard des intéressés par le
-centre de sélection ou le médecin accrédité. Elle a, toutefois, la faculté de convoquer les intéressés lorsqu'elle le juge
-utile. Sont également convoqués devant la commission les jeunes gens ayant contesté, dans les conditions fixées à l'article
-R. 44, le bien-fondé de la proposition d'aptitude dont ils ont fait l'objet ; ces jeunes gens sont examinés en séance et
-admis, ainsi que, le cas échéant, leur représentant légal et le maire de leur commune ou son représentant, à faire connaître
-leurs observations.
+Une commission locale d'aptitude est créée auprès de chaque bureau ou centre du service national. La direction du service
+national organise ses séances qui ne sont pas publiques. Le secrétariat de la commission est assuré par le bureau ou le
+centre du service national.
 
-Les frais de transport, aller et retour, des jeunes gens convoqués devant la commission locale d'aptitude sont à la charge de
-l'Etat.
+Le président de la commission locale d'aptitude et son suppléant sont médecins en chef des armées. Son assesseur et le
+suppléant de celui-ci sont médecins principaux des armées ou médecins des armées.
+
+Le président est désigné par le directeur du service de santé des armées. Son suppléant, son assesseur et le suppléant de
+celui-ci sont désignés par le directeur local du service de santé des armées territorialement compétent pour le siège du
+bureau ou du centre du service national.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1341 1970-12-23 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7317,6 +7780,176 @@ l'Etat.
 	**Cite**:
 
 	  - Code du service national R44
+
+
+###### Article R*50-1
+
+La commission locale d'aptitude statue sur pièces au vu de la proposition de classement faite par le centre de sélection, le
+centre du service national ou le médecin accrédité. Toutefois, elle a la faculté de convoquer les intéressés lorsqu'elle le
+juge utile.
+
+Sont également convoqués les jeunes gens qui ont contesté, dans les conditions fixées à l'article R. 44-1, le bien-fondé de
+la proposition de classement dont ils ont fait l'objet. Ces jeunes gens sont examinés en séance. Ils sont admis, ainsi que,
+le cas échéant, leur représentant légal et le maire de la commune ou son représentant, à faire connaître leurs observations.
+
+Les jeunes gens convoqués devant la commission locale d'aptitude ont droit au transport gratuit pour le trajet le plus direct
+aller et retour, dans les mêmes conditions que pour les appelés au service militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R44-1
+
+
+###### Article R*50-2
+
+La commission locale d'aptitude prend à l'égard des jeunes gens dont elle examine l'aptitude au service national, soit sur
+pièces, soit en leur présence, l'une des décisions suivantes :
+
+- apte ;
+
+- ajourné ;
+
+- exempté.
+
+Les décisions prises par la commission locale d'aptitude en présence des intéressés leur sont notifiées individuellement
+séance tenante. Cette notification fait courir les délais de recours devant les juridictions administratives.
+
+Les décisions prises sur pièces sont notifiées aux intéressés dans les quinze jours par le commandant du bureau ou du centre
+du service national, et, le cas échéant, par l'intermédiaire des autorités désignées aux articles R.[* 47 et R.*] 48.
+
+La notification indique les conditions dans lesquelles les intéressés peuvent contester les décisions de la commission locale
+d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R47, R48
+
+
+###### Article R*50-3
+
+L'ajournement, qui n'est prononcé qu'une seule fois, peut avoir une durée de deux à six mois. Les jeunes gens déclarés
+ajournés sont convoqués à nouveau dans un centre de sélection ou visités par un médecin accrédité à l'expiration de leur
+période d'ajournement. La proposition de classement faite à leur égard est soumise à un nouvel examen de la commission locale
+d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*50-4
+
+Les jeunes gens qui ont été proposés d'office pour l'aptitude au service national sont déclarés aptes d'office par la
+commission locale d'aptitude à moins que celle-ci ne dispose d'éléments d'appréciation lui permettant de prendre l'une des
+décisions mentionnées à l'article R. 50-2.
+
+Les intéressés sont convoqués à nouveau dans un centre de sélection dans les quatre jours qui précèdent la date fixée pour
+l'appel de la fraction de contingent à laquelle ils appartiennent et, s'ils sont reconnus effectivement aptes à servir,
+immédiatement incorporés.
+
+S'ils ne défèrent pas à cette convocation, après notification d'un ordre de route dans les formes prévues à l'article L. 123,
+ils sont déclarés insoumis à l'expiration des délais de grâce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L123 (M)
+	  - Code du service national R50-2, L123
+
+
+###### Article R*50-5
+
+Les jeunes gens victimes d'accidents ou de maladies survenus à l'occasion des opérations de sélection ou d'hospitalisation
+pour mise en observation sont présentés devant la commission locale d'aptitude qui statue sur leur aptitude au service
+national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*50-6
+
+Lorsque l'appel au service actif de certains jeunes gens doit faire suite à un acte de volonté de leur part, notamment dans
+les cas de demande d'un appel avancé ou de la renonciation à un report d'incorporation, cet appel peut être exécuté sans
+attendre la décision de la commission locale d'aptitude, dès lors que ces jeunes gens ont été proposés aptes par le centre de
+sélection et que cette proposition n'a donné lieu à aucune contestation. La commission locale d'aptitude statue à leur égard
+au plus tôt après leur incorporation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national
@@ -7425,7 +8058,7 @@ b) Supérieur au salaire mensuel de base.
 
 	**Modifié par**:
 
-	  - Décret n°85-470 1985-04-25 art. 1 JORF 2 septembre 1985
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7513,8 +8146,9 @@ mairie du domicile des intéressés.
 Les demandes qui n'ont pu, pour cas de force majeure, ^etre présentées dans le délai fixé ci-dessus ou qui seraient motivées
 par un fait nouveau intervenu postérieurement à l'expiration de ce délai, doivent, dans les conditions fixées au deuxième
 alinéa de l'article L. 33 précité, ^etre adressées au préfet du département de recensement jusqu'à la date à laquelle cette
-autorité arr^ete les listes de recensement, au bureau de recrutement après cette date. Les intéressés sont, si cela est
-nécessaire, placés en appel différé jusqu'à décision à intervenir.
+autorité arr^ete les listes de recensement, au bureau de recrutement après cette date. Les intéressés ne sont éventuellement
+placés en appel différé jusqu'à décision à intervenir que s'ils sont susceptibles d'être appelés au service national actif
+dans un délai de six mois après la date de dépôt de leur demande.
 
 Les demandes présentées par les jeunes gens résidant à l'étranger doivent ^etre adressées, dans les conditions et délais
 fixés ci-dessus, par l'intermédiaire des autorités consulaires françaises, qui les transmettent avec leur avis motivé.
@@ -7524,6 +8158,10 @@ fixés ci-dessus, par l'intermédiaire des autorités consulaires françaises, q
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 20 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7587,15 +8225,20 @@ Orientales pour les jeunes gens recensés à l'étranger.
 ###### Article R*63
 
 Le préfet du département procède à l'instruction des demandes et formule des propositions tendant à classer les jeunes gens
-dans l'une des catégories et sous-catégories prévues aux articles R.[* 56 et R.*] 57. Il transmet les dossiers, pour
-décision, à la commission régionale prévue à l'article L. 32, à la commission régionale du Languedoc-Roussillon lorsque les
-demandes ont été formulées par des jeunes gens recensés à l'étranger.
+dans l'une des catégories et sous-catégories prévues aux articles R.[* 56 et R.*] 57. Il transmet les dossiers, dans un délai
+maximum de cinq mois à compter de la date de leur réception, le cas échéant en l'état, pour décision, à la commission
+régionale prévue à l'article L. 32, ou à la commission régionale du Languedoc-Roussillon lorsque les demandes ont été
+formulées par les jeunes gens recensés à l'étranger.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 21 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7614,29 +8257,35 @@ demandes ont été formulées par des jeunes gens recensés à l'étranger.
 ###### Article R*64
 
 La commission régionale siège au chef-lieu de la circonscription de région. Le préfet de région arr^ete la liste des membres
-de la commission régionale, dont la composition est fixée à l'article L. 32.
+de la commission régionale, dont la composition est fixée à l'article L. 32. En cas d'empêchement, le président et les
+membres titulaires peuvent être remplacés par des suppléants désignés suivant les mêmes règles que les titulaires.
 
 Le conseiller général est désigné par le conseil général de son département. L'ordre de représentation des départements de la
 région est déterminé chaque année par tirage au sort.
 
 Le magistrat de l'ordre judiciaire est désigné par le premier président de la cour d'appel dans le ressort de laquelle est
 situé le chef-lieu de région. Il est choisi parmi les magistrats du siège en fonction dans l'une des juridictions de ce
-ressort.
+ressort ou parmi des magistrats honoraires.
 
-La commission régionale siège sur convocation du préfet de région. Un officier du service du recrutement assiste aux séances
-à titre consultatif. Les jeunes gens sont avisés des lieu, date et heure de la séance au cours de laquelle leur demande sera
-examinée.
+La commission régionale siège sur convocation du préfet de région. Un officier de la direction du service national assiste
+aux séances à titre consultatif. Les jeunes gens sont avisés des lieu, date et heure de la séance au cours de laquelle leur
+demande sera examinée.
 
-Pour la région parisienne, il est constitué deux commissions dont les ressorts respectifs comprennent, d'une part, les
+Pour la région Ile-de-France, il est constitué deux commissions dont les ressorts respectifs comprennent, d'une part, les
 départements de Paris, de la Seine-et-Marne, de la Seine-Saint-Denis et du Val-de-Marne et, d'autre part, les départements
 des Yvelines, de l'Essonne, des Hauts-de-Seine et du Val-d'Oise. Ces deux commissions siègent respectivement à Paris et à
-Versailles. Le préfet de la région parisienne peut déléguer ses pouvoirs au préfet de Paris et au préfet des Yvelines.
+Versailles. Le préfet de la région Ile-de-France peut déléguer ses pouvoirs au préfet de Paris et au préfet des Yvelines.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 10
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 22 () JORF 3 décembre 1992
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7682,13 +8331,17 @@ faisant application des dispositions du décret visé au troisième alinéa de l
 
 Les décisions statuant sur les demandes de dispense des obligations du service national actif prises par la commission
 régionale sont notifiées aux intéressés par le préfet de leur département de recensement. Une copie de cette notification est
-adressée au bureau de recrutement dont ils relèvent.
+adressée au bureau ou centre du service national dont ils relèvent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7703,8 +8356,8 @@ adressée au bureau de recrutement dont ils relèvent.
 
 Les jeunes gens qui, bien qu'ayant la qualité de soutien de famille au sens du présent paragraphe 1, sont incorporés soit
 parce qu'ils n'ont pas été dispensés, soit parce qu'ils ont renoncé à leur dispense ou parce qu'ils ont contracté un
-engagement dans les armées, peuvent bénéficier pour leur famille des dispositions du décret n° 64-355 du 20 avril 1964 si la
-qualité de soutien indispensable de famille au sens dudit décret leur est reconnue.
+engagement dans les armées, peuvent bénéficier pour leur famille des dispositions du décret n° 64-355 du 20 avril 1964
+modifié si la qualité de soutien indispensable de famille au sens dudit décret leur est reconnue.
 
 **Liens relatifs à cet article**
 
@@ -7715,6 +8368,10 @@ qualité de soutien indispensable de famille au sens dudit décret leur est reco
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 13
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 23 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7730,13 +8387,18 @@ qualité de soutien indispensable de famille au sens dudit décret leur est reco
 Dans les territoires d'outre-mer, la commission prévue à l'article L. 32, dernier alinéa, comprend, sous la présidence du
 délégué du Gouvernement ou de son représentant, un membre de l'assemblée locale, un représentant de l'autorité militaire, un
 représentant du service social et un représentant des services financiers. La décision de la commission est notifiée à
-l'intéressé par le délégué du Gouvernement. Une copie de cette décision est adressée au bureau de recrutement dont il relève.
+l'intéressé par le délégué du Gouvernement. Une copie de cette décision est adressée au bureau ou centre du service national
+dont il relève.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-237 1972-03-29 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7777,14 +8439,16 @@ dispense des obligations du service national actif.
 
 ###### Article R*68-2
 
-La demande de dispense est transmise par le maire, avec son avis, au préfet du département qui procède à son instruction et
-la transmet, avec son avis, à la commission régionale prévue à l'article L. 32.
+La demande de dispense est transmise par le maire, avec son avis, dans les trente jours suivant le dépôt de la demande, au
+préfet du département qui procède à son instruction et la transmet, le cas échéant, en l'état, avec son avis à la commission
+régionale prévue à l'article L. 32 dans un délai maximum de cinq mois à compter de la date de réception de la demande par la
+préfecture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7809,11 +8473,15 @@ l'existence et le nombre de salariés et la date de leur embauche. Elle doit êt
 cas, de la chambre d'agriculture, de la chambre de commerce ou de la chambre des métiers au sujet des conséquences d'une
 éventuelle incorporation sur l'emploi des salariés et sur l'activité de l'entreprise.
 
+Les demandes de dispense, dans les cas prévus au quatrième ou au cinquième alinéa de l'article L. 32, par des jeunes gens
+résidant à l'étranger doivent être adressés, dans les conditions et délais fixés par les dispositions du présent paragraphe,
+par l'intermédiaire des autorités consulaires françaises qui les transmettent avec leur avis motivé.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7827,17 +8495,19 @@ cas, de la chambre d'agriculture, de la chambre de commerce ou de la chambre des
 ###### Article R*68-4
 
 Lorsque le décès ou l'incapacité survient après la déclaration de recensement ou lorsque la qualité de chef d'entreprise
-depuis deux ans au moins n'est acquise que postérieurement à cette m^eme déclaration, la demande de dispense des obligations
-du service national actif est adressée, dans les délais prévus à l'article L. 33, au commandant du bureau de recrutement dont
-relève l'intéressé qui en assure la transmission au préfet.
+depuis deux ans au moins n'est acquise que postérieurement à cette même déclaration, la demande de dispense des obligations
+du service national actif est adressée, dans les délais prévus à l'article L. 33, au commandant du bureau ou centre du
+service national dont relève l'intéressé qui en assure la transmission au préfet.
 
-L'intéressé est placé, le cas échéant, en appel différé jusqu'à l'intervention de la décision.
+L'intéressé n'est placé éventuellement en appel différé jusqu'à l'intervention de la décision que s'il est susceptible d'être
+appelé au service national actif dans un délai de six mois après la date de dépôt de sa demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 3 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 25 () JORF 3 décembre 1992
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7956,9 +8626,9 @@ résidence effective de l'intéressé dans sa circonscription.
 ###### Article R*71
 
 Les jeunes Français ^agés de moins de vingt-neuf ans dont l'appel est différé en application des dispositions de l'article R.
-69 doivent, pour ^etre maintenus dans cette position, adresser à leur bureau de recrutement, chaque année avant le 1er mai,
-par l'intermédiaire et sous le contr^ole des autorités consulaires, une déclaration de résidence à la date du 1er janvier de
-l'année considérée.
+69 doivent, pour ^etre maintenus dans cette position, adresser à leur bureau ou centre du service national, chaque année
+avant le 1er mai, par l'intermédiaire et sous le contr^ole des autorités consulaires, une déclaration de résidence à la date
+du 1er janvier de l'année considérée.
 
 **Liens relatifs à cet article**
 
@@ -7968,7 +8638,7 @@ l'année considérée.
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -7987,7 +8657,8 @@ l'année considérée.
 
 Les jeunes gens qui cessent, avant l'^age de vingt-neuf ans, de se trouver dans la situation prévue à l'article R. 69 sont
 appelés au service national actif dans les quatre mois qui suivent la date de leur changement de résidence. Toutefois, s'ils
-ont moins de vingt-deux ans, ils peuvent demander à bénéficier des dispositions des articles L. 5-2°, L. 5 bis et L. 5 ter.
+ont moins de vingt-deux ans, ils peuvent demander à bénéficier des dispositions des articles L. 5-2°, L. 5 bis, L. 5 ter, L.
+9 et L. 10.
 
 Ceux qui n'ont pas cessé de remplir jusqu'à l'^age de vingt-neuf ans les conditions exigées reçoivent du commandant de leur
 bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la dispense prévue à l'article L. 37.
@@ -8000,8 +8671,7 @@ bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la di
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
-	  - Décret n°74-759 1974-08-30 art. 6 JORF 4 septembre 1974
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 26 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8013,20 +8683,26 @@ bureau de recrutement, dès qu'ils atteignent cet ^age, la notification de la di
 
 	**Cite**:
 
+	  - Code du service national - art. L10 (M)
 	  - Code du service national - art. L37 (M)
 	  - Code du service national - art. L5 (M)
 	  - Code du service national - art. L5 bis (M)
 	  - Code du service national - art. L5 ter (M)
-	  - Code du service national R69, L5, L37, L5 bis, L5 ter
+	  - Code du service national - art. L9 (M)
+	  - Code du service national R69, L5, L37, L5 bis, L5 ter, L9, L10
 
 
 ###### Article R72
 
-Les jeunes gens dont la déclaration de résidence n'est pas parvenue au bureau de recrutement avant le 1er mai sont
-susceptibles d'^etre appelés au service actif à partir du 1er ao^ut suivant, sauf s'il est établi, entre-temps, qu'ils ont
-toujours leur résidence effective et habituelle dans un pays étranger autre que ceux énumérés à l'article R. 69.
+Les jeunes gens dont la déclaration de résidence n'est pas parvenue au bureau ou centre du service national avant le 1er mai
+sont susceptibles d'^etre appelés au service actif à partir du 1er ao^ut suivant, sauf s'il est établi, entre-temps, qu'ils
+ont toujours leur résidence effective et habituelle dans un pays étranger autre que ceux énumérés à l'article R. 69.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8040,25 +8716,19 @@ toujours leur résidence effective et habituelle dans un pays étranger autre qu
 
 	  - Code du service national R69
 
-	**Modifié par**:
-
-	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
-
 
 ###### Article R74
 
 La dispense des obligations du service national actif accordée aux jeunes Français visés au deuxième alinéa de l'article L.
-37 est notifiée par le commandant de leur bureau de recrutement sur le vu d'une attestation de résidence délivrée par le
-consul et d'un document émanant de l'autorité militaire de l'Etat de résidence attestant qu'ils ont été appelés au service
-dans cet Etat.
+37 est notifiée par le commandant de leur bureau ou centre du service national sur le vu d'une attestation de résidence
+délivrée par le consul et d'un document émanant de l'autorité militaire de l'Etat de résidence attestant qu'ils ont été
+appelés au service dans cet Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
-	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8077,7 +8747,8 @@ dans cet Etat.
 ###### Article R75
 
 I. - Pour obtenir le bénéfice de la dispense prévue au paragraphe a de l'article L. 38, les double-nationaux doivent fournir
-à leur bureau de recrutement, dans les six mois qui suivent la date à laquelle ils atteignent l'^age de vingt et un ans :
+à leur bureau ou centre du service national, dans les six mois qui suivent la date à laquelle ils atteignent l'^age de vingt
+et un ans :
 
 1° Un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils sont ressortissants attestant qu'ils sont
 en règle avec la loi de recrutement de cet Etat ou un certificat du consul mentionnant que le service militaire obligatoire
@@ -8091,9 +8762,9 @@ est différé sur le vu d'un certificat provisoire de résidence établi par le 
 lieu.
 
 II. - Pour obtenir le bénéfice de la dispense prévue au paragraphe b de l'article L. 38, les double-nationaux doivent fournir
-à leur bureau de recrutement un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils sont
-ressortissants attestant qu'ils ont été effectivement incorporés, soit comme appelés soit comme engagés, dans l'armée dudit
-Etat.
+à leur bureau ou centre du service national un document officiel émanant de l'autorité militaire de l'Etat étranger dont ils
+sont ressortissants attestant qu'ils ont été effectivement incorporés, soit comme appelés soit comme engagés, dans l'armée
+dudit Etat.
 
 III. - Pour obtenir le bénéfice de la dispense prévue au paragraphe c de l'article L. 38, les double-nationaux doivent
 fournir au bureau du service national dont ils relèvent un document officiel émanant de l'autorité militaire de l'Etat
@@ -8104,8 +8775,7 @@ ou qu'ils ont obtenu un sursis d'incorporation au titre de ces études.
 
 	**Modifié par**:
 
-	  - Décret n°74-760 1974-08-30 art. 2 JORF 4 septembre 1974
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8153,13 +8823,13 @@ Ils sont alors appelés au service actif dans les quatre mois qui suivent la dat
 
 ###### Article R77
 
-Les modalités d'application des articles R. 69 à R. 76 sont fixées par arrêté du ministre chargé de la défense nationale.
+Les modalités d'application des articles R. 69 à R. 76 sont fixées par arrêté du ministre chargé des armées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°76-949 1976-10-19 art. 4 JORF 21 octobre 1976
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8185,13 +8855,17 @@ La commission délibère en nombre impair ; ses décisions sont prises à la maj
 
 Ses membres sont tenus au secret des délibérations.
 
-Le ministre chargé de la défense nationale désigne le secrétaire de la commission.
+Le ministre chargé des armées désigne le secrétaire de la commission.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-218 1972-03-22 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8208,7 +8882,7 @@ Le ministre chargé de la défense nationale désigne le secrétaire de la commi
 
 ###### Article R*99
 
-La commission juridictionnelle est saisie par le ministre chargé de la défense nationale.
+La commission juridictionnelle est saisie par le ministre chargé des armées.
 
 L'instruction est dirigée par le président de la commission et la procédure est contradictoire.
 
@@ -8222,6 +8896,10 @@ d'accusé de réception.
 	**Anciens textes**:
 
 	  - Décret n°72-218 1972-03-22 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8289,13 +8967,15 @@ d'appel ou du tribunal supérieur d'appel sur proposition du président du comit
 
 ###### Article R101
 
-Il est institué une commission de réforme du service national à Paris, auprès de chaque division ou secteur militaire, dans
-les ports sièges d'une préfecture ou d'un arrondissement maritime et, en ce qui concerne les départements et territoires
-d'outre-mer, auprès des bureaux ou centres du service national.
+Pour l'application des dispositions des articles L. 25 et L. 61, une ou plusieurs commissions de réforme du service national
+sont instituées, en fonction des besoins, sur décision du ministre chargé des armées auprès du commandement militaire de
+l'Ile-de-France, auprès de chaque circonscription militaire de défense, auprès de chaque arrondissement maritime, auprès des
+centres de sélection ou centres du service national et, en ce qui concerne les départements et territoires d'outre-mer,
+auprès des bureaux ou centres du service national.
 
-En outre, des commissions de réforme du service national peuvent ^etre instituées, sur décision du ministre chargé de la
-défense nationale, auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et
-territoires d'outre-mer.
+En outre, des commissions de réforme du service national peuvent ^etre instituées, sur décision du ministre chargé des
+armées, auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-
+mer.
 
 Les séances de la commission de réforme du service national ne sont pas publiques. La commission peut entendre toute personne
 dont elle estime l'audition utile.
@@ -8306,19 +8986,58 @@ dont elle estime l'audition utile.
 
 	  - Décret n°72-81 1972-01-24 art. 1
 
-	**Modifié par**:
-
-	  - Décret n°77-1122 1977-09-27 art. 1 JORF 5 octobre 1977
-	  - Décret n°91-684 du 14 juillet 1991 - art. 1 () JORF 19 juillet 1991 en vigueur le 1er septembre 1991
-
 	**Cité par**:
 
 	  - Décret n°90-758 du 24 août 1990 - art. 11 (Ab)
 	  - Code du service national - art. ANNEXE I (V)
 
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 6 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L25 (M)
+	  - Code du service national - art. L61 (M)
+
+
+###### Article R102
+
+La composition des commissions de réforme du service national est fixée comme suit :
+
+Un médecin chef des services ou un médecin en chef, président, désigné par le ministre chargé des armées ;
+
+Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ;
+
+Un représentant de la direction du service national.
+
+Toutefois, s'il s'agit d'une commission instituée auprès de troupes en opérations ou stationnées en dehors de la métropole ou
+des départements et territoires d'outre-mer, le représentant de la direction du service national est remplacé par un officier
+des corps de troupe désigné par le commandant des troupes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-81 1972-01-24 art. 2 et art. 3
+
+	**Modifié par**:
+
+	  - Décret n°74-760 1974-08-30 art. 3 JORF 4 septembre 1974
+	  - Décret n°77-1122 1977-09-27 art. 2 JORF 5 octobre 1977
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R103
@@ -8330,10 +9049,10 @@ La commission de réforme du service national décide de l'aptitude au service n
 2° Des jeunes gens qui, ayant été considérés comme aptes d'office au service par la commission locale d'aptitude, ont été
 appelés au service actif ;
 
-3° Des hommes accomplissant les obligations d'activité du service national ou servant au titre de l'article L. 85 du code du
-service national ;
+3° Des hommes et des femmes accomplissant les obligations d'activité du service national ou servant au titre de l'article L.
+85 du code du service national ;
 
-4° Des hommes de la disponibilité ou de la réserve dans leurs foyers.
+4° Des hommes et des femmes de la disponibilité ou de la réserve dans leurs foyers.
 
 **Liens relatifs à cet article**
 
@@ -8343,7 +9062,7 @@ service national ;
 
 	**Modifié par**:
 
-	  - Décret n°77-1122 1977-09-27 art. 3 JORF 5 octobre 1977
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 7 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8360,28 +9079,28 @@ service national ;
 
 ###### Article R104
 
-La commission de réforme du service national prononce à l'égard des hommes qui lui sont présentés l'une des décisions
-suivantes :
+La commission de réforme du service national prononce à l'égard des hommes et des femmes qui lui sont présentés l'une des
+décisions suivantes :
 
 - apte ;
 
 - réformé temporairement ;
 
-- réformé définitivement.
+- réformé définitivement ;
+
+- en outre, à l'égard des volontaires féminines, elle peut prononcer la suspension temporaire des obligations résultant du
+volontariat.
 
 Toutefois, lorsqu'il s'agit de jeunes gens renvoyés devant elle par la commission locale d'aptitude la commission de réforme
 du service national prononce les décisions prévues à l'article L. 24.
 
-En outre, la commission de réforme peut prescrire la mise en observation dans un h^opital des armées des jeunes gens
-antérieurement considérés d'office comme aptes au service national. Cette mise en observation est limitée à dix jours.
-
 Les décisions de la commission de réforme du service national prises en présence des intéressés leur sont notifiées séance
-tenante. Dans le cas contraire, elles sont notifiées dans les huit jours qui suivent la séance, ce délai pouvant ^etre porté
-à trente jours pour les hommes résidant à l'étranger. La notification faite séance tenante fait courir les délais de recours.
+tenante. Dans le cas contraire, elles sont notifiées dans les huit jours qui suivent la séance, ce délai pouvant être porté à
+trente jours pour les hommes résidant à l'étranger. La notification faite séance tenante fait courir les délais de recours.
 
-La radiation des cadres des hommes accomplissant les obligations d'activité du service national ou servant au titre de
-l'article L. 85 du code du service national peut, sur demande des intéressés, ^etre repoussée d'un délai au plus égal à un
-mois à compter de la date de notification de la mise en réforme, sans que ce délai puisse permettre de maintenir les
+La radiation des cadres des hommes et des femmes accomplissant les obligations d'activité du service national ou servant au
+titre de l'article L. 85 du code du service national peut, sur demande des intéressés, être repoussée d'un délai au plus égal
+à un mois à compter de la date de notification de la mise en réforme, sans que ce délai puisse permettre de maintenir les
 demandeurs sous les drapeaux au-delà de la limite de la durée du service actif qui leur est applicable.
 
 **Liens relatifs à cet article**
@@ -8390,17 +9109,16 @@ demandeurs sous les drapeaux au-delà de la limite de la durée du service actif
 
 	  - Décret n°72-81 1972-01-24 art. 5
 
-	**Modifié par**:
-
-	  - Décret n°77-1122 1977-09-27 art. 4 JORF 5 octobre 1977
-	  - Décret n°81-213 1981-03-05 art. 1 JORF 10 mars 1981
-
 	**Cité par**:
 
 	  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
 	  - Décret n°78-194 du 24 février 1978 - art. 4 (Ab)
 	  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 8 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8417,9 +9135,9 @@ demandeurs sous les drapeaux au-delà de la limite de la durée du service actif
 ###### Article R*105
 
 Indépendamment de l'application éventuelle à leur profit des dispositions de la législation sur les emplois réservés, les
-personnes ayant effectivement accompli le service militaire actif qui font acte de candidature à l'un des emplois publics
-énumérés ci-après et remplissent les conditions statutairement requises pour l'accès à l'un des corps de fonctionnaires
-correspondants, bénéficient d'une réserve d'emploi :
+personnes ayant effectivement accompli le service militaire actif, le service dans la police nationale ou le service de
+sécurité civile qui font acte de candidature à l'un des emplois publics énumérés ci-après et remplissent les conditions
+statutairement requises pour l'accès à l'un des corps de fonctionnaires correspondants, bénéficient d'une réserve d'emploi :
 
 Gardiens de la paix de la police nationale ;
 
@@ -8438,6 +9156,14 @@ Agents techniques forestiers de l'office national des for^ets.
 	**Anciens textes**:
 
 	  - Décret n°70-435 1970-05-20 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 27 () JORF 3 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
 
 	**Codifié par**:
 
@@ -8680,13 +9406,18 @@ invalidité réduisant des deux tiers leur capacité de travail ;
 ###### Article R113
 
 Les allocations en remboursement de frais de soins ne sont versées que lorsque ces frais ont été exposés en métropole, dans
-les départements d'outre-mer, en Algérie, en Tunisie, au Maroc et sur le territoire de la République fédérale d'Allemagne.
+les départements, les territoires et collectivités territoriales d'outre-mer et sur le territoire de la République fédérale
+d'Allemagne.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°72-183 1972-03-06
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 9 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8895,7 +9626,7 @@ Un médecin des armées en fonctions à la caisse nationale militaire de la séc
 
 Un médecin des armées ;
 
-Un intendant militaire ou un commissaire de la marine ou un commissaire de l'air ;
+Un commissaire de l'armée de terre ou un commissaire de la marine ou un commissaire de l'air ;
 
 Un représentant du service de l'action sociale des armées.
 
@@ -8913,7 +9644,7 @@ Le contr^oleur financier ou son représentant peut participer aux séances avec 
 
 	**Modifié par**:
 
-	  - Décret n°79-47 1979-01-10 art. 2 JORF 19 janvier 1979
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -8930,8 +9661,8 @@ Le contr^oleur financier ou son représentant peut participer aux séances avec 
 
 ###### Article R122
 
-Un arr^eté du ministre chargé de la défense nationale et du ministre de l'économie et des finances précise les modalités
-d'application du présent paragraphe 1.
+Un arr^eté du ministre chargé des armées et du ministre de l'économie et des finances précise les modalités d'application du
+présent paragraphe 1.
 
 **Liens relatifs à cet article**
 
@@ -8939,106 +9670,9 @@ d'application du présent paragraphe 1.
 
 	  - Décret n°72-183 1972-03-06
 
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-##### PARAGRAPHE 2 : Service militaire actif fractionné.
-
-###### Article R123
-
-Le service militaire actif fractionné visé à l'article L. 72, 2e alinéa, comporte :
-
-1. Dans l'armée de terre, une période de formation d'une durée de huit mois et une ou plusieurs périodes d'entretien dont la
-durée totale ne peut excéder quatre mois ;
-
-2. Dans l'armée de mer, une période de formation d'une durée minimum de trois mois et une ou plusieurs périodes d'entretien
-d'une durée maximum de neuf mois, la durée de chacune de ces dernières ne pouvant ^etre inférieure à trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-219 1972-03-22 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. L72 (M)
-
 	**Modifié par**:
 
-	  - Décret n°73-182 1973-02-22 art. 1 JORF 24 février 1973
-
-	**Abrogé par**:
-
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 28 (V) JORF 3 décembre 1992
-
-
-###### Article R124
-
-Les périodes d'entretien sont accomplies au cours des cinq années à compter de la date d'entrée au service militaire actif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-219 1972-03-22 art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 28 (V) JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R125
-
-Le service militaire actif fractionné peut ^etre effectué dans deux unités de l'armée de terre ou dans soixante unités
-navales de défense maritime du territoire désignées par le ministre chargé de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-219 1972-03-22 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Modifié par**:
-
-	  - Décret n°73-182 1973-02-22 art. 2 JORF 24 février 1973
-
-
-###### Article R126
-
-Les jeunes gens volontaires pour accomplir le service militaire actif fractionné déposent leur candidature lors des
-opérations de sélection.
-
-Au moment où ils expriment leur volontariat, les jeunes gens sont avisés, d'une part, de la date de leur incorporation et,
-d'autre part, de l'année et du mois au cours desquels ils seront tenus d'effectuer chacune des périodes d'entretien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-219 1972-03-22 art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°92-1250 du 1 décembre 1992 - art. 28 (V) JORF 3 décembre 1992
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9077,15 +9711,19 @@ de moralité exigées des candidats à la gendarmerie ainsi qu'aux aptitudes phy
 
 ###### Article R*128
 
-Les appelés dont la candidature a été retenue par le ministre chargé de la défense nationale servent en qualité de gendarmes
-auxiliaires. Ils reçoivent une instruction militaire de base avant d'effectuer un stage de formation spécialisée permettant
-leur emploi dans la gendarmerie.
+Les appelés dont la candidature a été retenue par le ministre chargé des armées servent en qualité de gendarmes auxiliaires.
+Ils reçoivent une instruction militaire de base avant d'effectuer un stage de formation spécialisée permettant leur emploi
+dans la gendarmerie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9123,15 +9761,19 @@ gendarmerie sous les ordres desquels ils sont placés. Ils peuvent ^etre affect�
 au maintien de la sécurité publique ou à des t^aches à caractère technique auxquelles les a préparés leur formation
 professionnelle.
 
-Dans l'exercice de leurs fonctions, ils n'ont pas compétence pour établir des actes relevant de l'exercice de la police
-judiciaire ou de la police administrative. Ils ne peuvent participer à des opérations de maintien de l'ordre autrement que
-dans les cas où il peut ^etre fait appel à la troupe.
+Dans l'exercice de leurs fonctions, ils ont compétence pour établir des actes relevant de l'exercice de la police judiciaire
+ou de la police administrative dans les conditions et les limites fixées par les lois et règlements les y habilitant. Ils ne
+peuvent participer à des opérations de maintien de l'ordre autrement que dans les cas où il peut être fait appel à la troupe.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 28 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9177,17 +9819,19 @@ La hiérarchie des gendarmes auxiliaires avec sa correspondance dans la hierarch
 
 ###### Article R*132
 
-Les gendarmes auxiliaires qui veulent faire carrière dans la gendarmerie et dont la candidature a été agréée peuvent ^etre
-maintenus, sur leur demande, en activité de service jusqu'au moment de leur admission dans la gendarmerie en qualité d'élèves
-gendarmes.
-
-Ils reçoivent une commission spéciale.
+Les gendarmes auxiliaires qui veulent faire carrière dans la gendarmerie et dont la candidature a été agréée, sont maintenus,
+sur leur demande, en activité de service jusqu'au moment de leur admission dans la gendarmerie en souscrivant un volontariat
+dans les conditions fixées à l'article L. 72.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1347 1970-12-23 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 29 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9196,6 +9840,10 @@ Ils reçoivent une commission spéciale.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L72 (M)
 
 
 #### SECTION II : Recrutement des cadres de réserve du service militaire
@@ -9278,13 +9926,14 @@ incorporés dans les troupes aéroportées.
 
 ###### Article R136
 
-Le cycle de la préparation militaire supérieure est organisé dans chacune des armées sous forme d'une ou de plusieurs
-périodes d'instruction dont la durée totale ne peut excéder quatre semaines.
+Chaque année, un ou plusieurs cycles de préparation militaire supérieure sont organisés dans les armées et la direction
+générale de la gendarmerie nationale sous forme d'une ou plusieurs périodes d'instruction dont les modalités sont fixées par
+le ministre chargé des armées.
 
 L'instruction est donnée par les cadres d'active. Des cadres de réserve volontaires peuvent ^etre admis à y participer.
 
-Chaque année, un examen de fin de préparation est organisé dans chaque armée pour la délivrance du brevet de préparation
-militaire supérieure.
+Un examen de fin de préparation est organisé dans chaque armée pour la délivrance du brevet de préparation militaire
+supérieure.
 
 Ce brevet, qui donne droit au report d'incorporation à vingt-six ans dans les conditions de l'article L. 5 bis, permet
 l'accès direct aux cours ou pelotons de formation des élèves officiers de réserve dans les conditions fixées à l'article R.
@@ -9294,7 +9943,7 @@ l'accès direct aux cours ou pelotons de formation des élèves officiers de ré
 
 	**Modifié par**:
 
-	  - Décret n°89-203 1989-04-04 art. 1 JORF 7 avril 1989
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 10 () JORF 3 décembre 1992
 
 	**Cité par**:
 
@@ -9352,9 +10001,13 @@ de santé des armées.
 ###### Article R139
 
 Les modalités d'application des dispositions des articles R. 133 à R. 138, et notamment les programmes des préparations
-militaires, sont fixées par arr^eté du ministre chargé de la défense nationale.
+militaires, sont fixées par arr^eté du ministre chargé des armées.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9373,8 +10026,8 @@ militaires, sont fixées par arr^eté du ministre chargé de la défense nationa
 
 ###### Article R140
 
-Sont admis aux cours ou pelotons de formation des élèves officiers de réserve, dont la durée ne peut excéder quatre mois,
-dans la limite des places offertes par les armées :
+Sont admis aux cours et pelotons de formation des élèves officiers de réserve, dans la limite des places offertes par les
+armées et la gendarmerie :
 
 1° Les jeunes gens titulaires du brevet de préparation militaire supérieure qui ont obtenu à l'examen prévu à l'article R.
 136 une note suffisante : leur incorporation peut ^etre décalée dans les conditions fixées à l'article R. 11 ;
@@ -9382,11 +10035,10 @@ dans la limite des places offertes par les armées :
 2° Les jeunes gens reçus à un examen à l'issue d'un cycle préparatoire, d'une durée maximum de deux mois, organisé au début
 du service militaire actif.
 
+3° Les jeunes gens, détenant soit un diplôme de fin d'études du second cycle de l'enseignement supérieur, soit un titre
+d'ingénieur délivré dans les conditions fixées par la loi du 10 juillet 1934.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
 
 	**Cité par**:
 
@@ -9398,19 +10050,36 @@ du service militaire actif.
 	**Cite**:
 
 	  - Code du service national R136, R11
+	  - Loi n°1934-07-10
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-23 art. 2 à art. 6
 
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 11 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
 
 ###### Article R141
 
-Les jeunes gens titulaires du brevet de préparation militaire ou du brevet de préparation militaire parachutiste qui, au
-cours de leurs activités préliminaires, ont été jugés aptes à recevoir la formation d'élève officier de réserve peuvent ^etre
-admis soit à la préparation militaire supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
+Les jeunes gens titulaires du brevet de préparation militaire ou du brevet de préparation militaire parachutiste qui ont été
+jugés aptes à recevoir la formation d'élève officier de réserve peuvent ^etre admis soit à la préparation militaire
+supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-820 1971-09-23 art. 2 et art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 12 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9423,14 +10092,6 @@ admis soit à la préparation militaire supérieure, soit au cycle préparatoire
 	**Cite**:
 
 	  - Code du service national - art. R140 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°71-820 1971-09-23 art. 2 et art. 6
-
-	**Modifié par**:
-
-	  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
 
 
 ###### Article R142
@@ -9462,19 +10123,24 @@ officiers de réserve soit sur leur demande, soit en raison de la date d'appel d
 
 ###### Article R143
 
-Les jeunes gens accomplissant le service militaire actif qui, avant leur appel sous les drapeaux, ont acquis l'un des titres
-requis pour exercer en qualité de médecin, de vétérinaire, de pharmacien ou de chirurgien-dentiste sont, s'ils remplissent
-les conditions d'aptitude au service national, admis d'office au cycle de formation des élèves officiers de réserve du
-service de santé.
+Les jeunes gens accomplissant le service militaire actif qui, avant leur appel sous les drapeaux, ont soit acquis l'un des
+titres requis pour exercer en qualité de médecin, de vétérinaire, de pharmacien ou de chirurgien-dentiste, soit acquis les
+compétences exigées par la loi pour effectuer des remplacements de praticiens titulaires, sont, s'ils remplissent les
+conditions d'aptitude au service national, admis d'office au cycle de formation des élèves officiers de réserve du service de
+santé.
 
-Ce cycle comprend une période de formation initiale en école d'une durée maximale de deux mois et une période d'application
-qui ne peut ^etre inférieure à quatre mois.
+Ce cycle comprend une période de formation initiale et une période d'application dont les modalités sont fixées par un arrêté
+du ministre chargé des armées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 2 à art. 6 et art. 11
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 13 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9490,13 +10156,17 @@ qui ne peut ^etre inférieure à quatre mois.
 
 Les modalités d'application des dispositions des articles R. 140 à R. 143, et notamment les programmes des cycles de
 formation des élèves officiers de réserve et des élèves sous-officiers de réserve, sont fixés par arr^eté du ministre chargé
-de la défense nationale.
+des armées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 2 à art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9515,8 +10185,8 @@ de la défense nationale.
 
 ###### Article R145
 
-Sont nommés au grade d'aspirant les élèves officiers de réserve qui ont subi avec succès l'examen sanctionnant le cycle de
-formation prévu à l'article R. 140 ou celui prévu à l'article R. 143.
+Sont nommés au grade d'aspirant les élèves officiers de réserve qui ont suivi avec succès l'un des cycles de formation prévus
+aux articles R. 140 et R. 143.
 
 Ces élèves choisissent leur affectation compte tenu des emplois disponibles dans les corps, armes ou services et en fonction
 de leur rang de classement à l'examen sanctionnant le cycle de formation prévu à l'article R. 140 ou à la fin de la période
@@ -9534,6 +10204,10 @@ de formation initiale prévue à l'article R. 143.
 	  - Code du service national - art. ANNEXE I (V)
 	  - Décret n°72-806 du 31 août 1972 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 14 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -9543,26 +10217,26 @@ de formation initiale prévue à l'article R. 143.
 	  - Code du service national - art. R140 (M)
 	  - Code du service national - art. R143 (M)
 
-	**Modifié par**:
-
-	  - Décret n°74-760 1974-08-30 art. 5 JORF 4 septembre 1974
-
 
 ###### Article R146
 
-Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade correspondant à la fin de la durée légale du service
-national, s'ils réunissent les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des officiers de
-réserve. Dans le cas contraire, ils sont nommés sous-lieutenants de réserve, ou à un grade correspondant, lorsqu'ils
-réunissent ces conditions d'ancienneté.
+Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade correspondant après dix mois de service militaire, s'ils
+réunissent les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des officiers de réserve. Dans le cas
+contraire, ils sont nommés sous-lieutenants de réserve, ou à un grade correspondant, lorsqu'ils réunissent ces conditions
+d'ancienneté.
 
-Toutefois, le ministre chargé de la défense nationale peut, sur proposition du chef de corps ou de service, surseoir à cette
-nomination compte tenu de la manière de servir de l'intéressé.
+Toutefois, le ministre chargé des armées peut, sur proposition du chef de corps ou de service, surseoir à cette nomination
+compte tenu de la manière de servir de l'intéressé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°71-820 1971-09-28 art. 7 à art. 10
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 15 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9623,7 +10297,7 @@ militaire actif, ^etre affectés qu'à l'un des emplois militaires correspondant
 
 ###### Article R*149
 
-Les personnels visés à l'article L. 86 qui reçoivent une affectation au service de défense en vue de leur utilisation dans
+Les personnels visés à l'article L. 87 qui reçoivent une affectation au service de défense en vue de leur utilisation dans
 les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 sont appelés << affectés de défense <>.
 
 **Liens relatifs à cet article**
@@ -9632,11 +10306,15 @@ les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 
 
 	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-	  - Code du service national - art. L86 (M)
+	  - Code du service national - art. L87 (M)
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 30 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9649,14 +10327,17 @@ les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 
 
 ###### Article R*150
 
-L'affectation de défense est individuelle dans les corps de défense prévus à l'article L. 91. Elle est individuelle ou
-collective dans les organismes désignés en application de l'article R. 151.
+L'affectation de défense est individuelle ou collective.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 2 et art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 31 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9674,25 +10355,31 @@ collective dans les organismes désignés en application de l'article R. 151.
 
 ###### Article R*151
 
-En dehors des corps de défense :
+I. - L'affectation de défense est individuelle dans les corps de défense prévus à l'article L. 89.
 
-- dans les corps de l'Etat, les services des assemblées parlementaires, les directions et services de l'Etat et des
-collectivités locales ainsi que dans les organismes qui leur sont rattachés, reçoivent une affectation de défense, s'ils ne
-font pas l'objet d'une affectation militaire, tous les fonctionnaires et agents contractuels ou auxiliaires au service de
-l'Etat, des collectivités locales ou des organismes rattachés qui sont assujettis aux obligations du service national ;
+II. - L'affectation de défense est collective :
 
-Dans chacune des catégories d'activités énumérées aux tableaux I, II, III et IV de l'annexe II du présent code, les
-organismes au titre desquels sont prononcées les affectations de défense sont les entreprises et établissements dont la liste
-est arr^etée par le Premier ministre ou par les autorités ayant reçu à cet effet sa délégation.
+1° Dans les corps de l'Etat, les services des assemblées parlementaires, les directions et services de l'Etat et des
+collectivités territoriales ainsi que dans les organismes qui leur sont rattachés. Tous leurs fonctionnaires et agents
+contractuels ou auxiliaires qui sont soumis aux obligations du service de défense y sont affectés collectifs s'ils n'ont pas
+reçu une affectation individuelle.
 
-Les corps, directions, services et organismes visés au présent article sont soumis au régime de l'affectation collective de
-défense conformément à l'article R. 163. Ils peuvent en outre recevoir des affectés individuels de défense.
+2° Dans les entreprises et établissements appartenant aux catégories d'activités énumérées aux tableaux I, II, III et IV de
+l'annexe II du présent code et dont la liste est arrêtée par le Premier ministre ou par les autorités ayant reçu, à cet
+effet, sa délégation. Les personnels mentionnés à l'article L. 3 y sont affectés collectifs s'ils n'ont pas reçu une
+affectation individuelle.
+
+Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre, recevoir des affectés individuels de défense.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 32 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9704,11 +10391,9 @@ défense conformément à l'article R. 163. Ils peuvent en outre recevoir des af
 
 	**Cite**:
 
-	  - Code du service national annexe II, R163
-
-	**Modifié par**:
-
-	  - Décret n°78-1019 1978-10-17 art. 3 JORF 22 octobre 1978
+	  - Code du service national - art. L3 (M)
+	  - Code du service national - art. L89 (M)
+	  - Code du service national L89, annexe II, L3
 
 
 ###### Article R*152
@@ -9766,16 +10451,19 @@ Ces renseignements doivent ^etre tenus en permanence à la disposition des agent
 
 ###### Article R*154
 
-Les personnels soumis aux obligations du service militaire ne peuvent recevoir d'affectation individuelle de défense qu'au
-titre soit des corps de défense, soit des emplois fixés par des instructions du Premier ministre s'ils remplissent les
-conditions fixées par lesdites instructions. Leur affectation est décidée par les autorités et suivant les modalités prévues
-aux articles R.[* 156 et R.*] 157.
+Les personnels soumis aux obligations du service national ne peuvent recevoir d'affectation individuelle de défense qu'au
+titre soit des corps de défense, soit d'emplois distincts de leur emploi habituel. Leur affectation est décidée par les
+autorités et suivant les modalités prévues aux articles R.[* 156 et R.*] 157.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 33 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9787,35 +10475,7 @@ aux articles R.[* 156 et R.*] 157.
 
 	**Cite**:
 
-	  - Code du service national R157
-
-
-###### Article R*155
-
-Les personnels non soumis aux obligations du service militaire ne peuvent ^etre affectés à un corps de défense ou à un emploi
-distinct de leur emploi habituel que par voie d'affectation individuelle de défense.
-
-L'affectation individuelle de défense des personnels non soumis aux obligations du service militaire est décidée par
-l'autorité responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés. Cette autorité et les modalités
-de l'affectation sont prévues aux articles R.[* 156 et R.*] 157.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1386 1962-11-23 art. 8
-
-	**Abrogé par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 66 (V) JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national R157, R156
+	  - Code du service national R156, R157
 
 
 ###### Article R*156
@@ -9824,9 +10484,8 @@ Sauf pour les catégories de personnels définies à l'article R. 157, [*magistr
 indispensable au fonctionnement de juridictions*], l'affectation individuelle de défense est décidée [*autorité
 compétente*] :
 
-- par les generaux commandant les circonscriptions militaires de défense ou les autorites des armées de terre, de mer et de
-l'air désignées par le ministre chargé de la défense nationale en ce qui concerne les personnels soumis aux obligations du
-service militaire ;
+- par les généraux commandant les circonscriptions militaires de défense ou les autorités designées par le ministre chargé
+des armées en ce qui concerne les personnels soumis aux obligations du service militaire ;
 
 - par les préfets en ce qui concerne les personnels non soumis aux obligations du service militaire.
 
@@ -9844,7 +10503,7 @@ relevant de leur compétence.
 
 	**Modifié par**:
 
-	  - Décret n°91-683 du 14 juillet 1991 - art. 1 () JORF 19 juillet 1991 en vigueur le 1er septembre 1991
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 34 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9864,8 +10523,8 @@ relevant de leur compétence.
 L'affectation individuelle de défense des magistrats du corps judiciaire et des personnels indispensables au fonctionnement
 des juridictions et qui sont désignés par des instructions du Premier ministre est décidée :
 
-- en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé de la défense
-nationale sur demande du ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés ;
+- en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé des armées sur
+demande du ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés ;
 
 - en ce qui concerne les personnels non soumis aux obligations du service militaire, par le ministre responsable de l'emploi
 de défense auquel ces personnels doivent ^etre affectés.
@@ -9880,6 +10539,10 @@ obligatoire.
 
 	  - Décret n°62-1386 1962-11-23 art. 10
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -9891,14 +10554,18 @@ obligatoire.
 
 ###### Article R*158
 
-Les demandes d'affectation individuelle de défense sont nominatives ou numériques ; dans ce dernier cas, elles portent sur
-des personnels répondant à certaines caractéristiques et qui sont nommément désignés.
+Les demandes d'affectation individuelle de défense sont nominatives ou numériques ; dans ce dernier cas, elles doivent
+mentionner expressément les caractéristiques de l'emploi, les qualifications professionnelles et les aptitudes requises.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 35 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9917,14 +10584,18 @@ ce corps.
 Les demandes d'affectation individuelle à l'un des organismes visés à l'article R. 151 sont établies, suivant le cas, par
 l'autorité administrative responsable ou par le chef d'entreprise ou d'établissement.
 
-Les demandes d'affectation individuelle de défense sont instruites à la diligence du service du recrutement. Ce dernier
-enregistre et notifie les décisions d'affectation individuelle.
+Les demandes d'affectation individuelle de défense sont instruites à la diligence de la direction du service national. Cette
+derniere enregistre et notifie les décisions d'affectation individuelle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 36 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9942,13 +10613,17 @@ enregistre et notifie les décisions d'affectation individuelle.
 ###### Article R*160
 
 La radiation de l'affectation individuelle de défense est prononcée par les autorités ayant prononcé l'affectation. Elle est
-notifiée par le service du recrutement.
+notifiée par la direction du service national.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 13
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -9968,7 +10643,7 @@ Cette commission est ainsi composée :
 
 - le secrétaire général de la défense nationale ou son représentant, président ;
 
-- les représentants du ministre chargé de la défense nationale, du ministre de l'intérieur et du ministre chargé des affaires
+- les représentants du ministre chargé des armées, du ministre de l'intérieur et du ministre chargé des affaires
 économiques ;
 
 - les représentants des ministres dont les responsabilités de défense ont été fixées par décrets ;
@@ -9987,6 +10662,10 @@ Le secrétariat de la commission est assuré par le secrétariat général de la
 
 	  - Décret n°62-1386 1962-11-23 art. 15
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -9998,16 +10677,12 @@ Le secrétariat de la commission est assuré par le secrétariat général de la
 
 ###### Article R*162
 
-En tout temps, les affectations individuelles de défense peuvent ^etre rapportées par l'autorité qui les a prononcées, soit
-de sa propre initiative, soit à la demande de l'autorité dont relève l'emploi habituel des intéressés ; les changements
-d'affectation interviennent selon la procédure définie aux articles R. 154 et R. 160.
+En tout temps, les affectations individuelles de défense peuvent être rapportées par l'autorité qui les a prononcées, soit de
+sa propre initiative, soit à la demande de l'autorité dont relève l'emploi habituel des intéressés ; les changements
+d'affectation interviennent selon la procédure définie aux articles R.* 154, R.* 157 et R.* 160.
 
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, un préavis de dix jours est
-consenti à l'organisme employeur pour l'exécution des décisions prévues à l'alinéa précédent.
-
-En dehors des circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le fait de quitter l'un
-des organismes visés à l'article R. 151 entra^ine la radiation de l'affectation individuelle de défense selon les modalités
-qui sont fixées par instruction.
+Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, un délai de dix jours maximum
+est consenti à l'organisme employeur pour l'exécution des décisions prévues à l'alinéa précédent.
 
 En cas de rappel à l'activité, dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier
 1959, les personnels pour qui une demande d'affectation de défense serait en cours d'examen sont tenus de se conformer aux
@@ -10019,11 +10694,15 @@ prescriptions des ordres d'affectation en leur possession.
 
 	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-	  - Code du service national R160, R151, R154
+	  - Code du service national R160, R151, R154, R157
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 37 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10038,14 +10717,28 @@ prescriptions des ordres d'affectation en leur possession.
 
 ###### Article R*163
 
-Pour les personnels assujettis au service national et non pourvus d'une affectation individuelle, l'appartenance aux
-organismes visés à l'article R. 151 vaut affectation de défense. Cette affectation est dite collective.
+Pour les personnels soumis aux obligations du service de défense et non pourvus d'une affectation individuelle,
+l'appartenance aux organismes visés à l'article R. 151 vaut affectation de défense. Cette affectation est dite collective.
+
+Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le Gouvernement peut, par
+décret pris en conseil des ministres, limiter l'application de l'affectation collective de défense à une partie du
+territoire, à certaines catégories d'activité ou à certains postes.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+	  - Code du service national R151
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 17
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 38 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10055,22 +10748,18 @@ organismes visés à l'article R. 151 vaut affectation de défense. Cette affect
 
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Cite**:
-
-	  - Code du service national R151
-
 
 ###### Article R*164
 
 En dehors des organismes visés à l'article R. 151, le Gouvernement peut, par décret pris en conseil des ministres, dans les
 circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, décider le maintien dans leur emploi,
-quel qu'il soit, des personnels auxquels s'appliquent les obligations du service national, s'ils n'ont pas à répondre à une
+quel qu'il soit, des personnels auxquels s'appliquent les obligations du service de défense, s'ils n'ont pas à répondre à une
 affectation individuelle. Cette mesure entra^ine l'affectation collective de défense desdits personnels pour toute la durée
 de son application.
 
-L'application des dispositions de l'alinéa précédent peut ^etre limitée à une partie du territoire et à certaines catégories
-d'activité ; elle peut ^etre étendue à des catégories d'activité autres que celles énumérées aux tableaux I, II et III de
-l'annexe II du présent code.
+L'application des dispositions de l'alinéa précédent peut ^etre limitée à une partie du territoire, à certaines catégories
+d'activité ou à certains postes ; elle peut ^etre étendue à des catégories d'activité autres que celles énumérées aux
+tableaux I, II, III et IV de l'annexe II du présent code.
 
 **Liens relatifs à cet article**
 
@@ -10083,6 +10772,10 @@ l'annexe II du présent code.
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 18
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 39 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10120,13 +10813,18 @@ se présentent à l'emploi de défense qui leur est assigné en application de l
 ###### Article R*166
 
 L'affectation collective de défense cesse de plein droit et sans préavis lorsque les intéressés font l'objet d'une
-affectation individuelle militaire ou de défense.
+affectation militaire, ou d'une affectation individuelle de défense, ou dans la réserve de la police nationale ou au titre de
+l'article L. 116-5.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 20
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 40 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10135,6 +10833,10 @@ affectation individuelle militaire ou de défense.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L116-5 (M)
 
 
 #### SECTION II : Statut de défense.
@@ -10172,25 +10874,6 @@ statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la pr
 
 ##### PARAGRAPHE 1 : Régime administratif et social.
 
-###### Article R*168
-
-Le régime des rémunérations des jeunes gens qui accomplissent le service de défense actif est celui des armées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1386 1962-11-23 art. 21 al. 2
-
-	**Abrogé par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 66 (V) JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
 ###### Article R*169
 
 Sous réserve des mesures qui pourront ^etre prises dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n°
@@ -10226,19 +10909,21 @@ b) Dans les autres emplois, et suivant les dispositions qui leur sont applicable
 
 ###### Article R*170
 
-La législation du travail propre à l'emploi d'affectation est applicable aux personnels servant sous statut de défense.
-
-Un décret fixe les conditions dans lesquelles lesdits personnels bénéficient de la sécurité sociale, de la mutualité agricole
-ou de la législation concernant les accidents et les maladies professionnelles en agriculture.
+La législation du travail propre à l'emploi d'affectation est applicable aux personnels servant sous statut de défense sous
+réserve des dispositions de l'article L. 94.
 
 Les dispositions du présent article sont adaptées aux corps de défense par les décrets en Conseil d'Etat constitutifs de ces
-corps pris en application de l'article L. 91.
+corps.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 41 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10250,7 +10935,7 @@ corps pris en application de l'article L. 91.
 
 	**Cite**:
 
-	  - Code du service national - art. L91 (Ab)
+	  - Code du service national - art. L94 (M)
 
 
 ###### Article R*171
@@ -10301,9 +10986,9 @@ d'entreprise d'engager un travailleur déjà placé, à titre individuel ou coll
 ###### Article R*173
 
 Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, toute personne qui, étant
-assujettie au service national, est embauchée par un organisme dont le personnel est soumis au régime de l'affectation
-collective de défense, en application de l'article R.[* 163 ou de l'article R.*] 164, est incorporée dans le service de
-défense au moment où elle rejoint son emploi.
+soumise aux obligations du service de défense, est embauchée par un organisme dont le personnel est soumis au régime de
+l'affectation collective de défense, en application de l'article R.[* 163 ou de l'article R.*] 164, est incorporée dans le
+service de défense au moment où elle rejoint son emploi.
 
 **Liens relatifs à cet article**
 
@@ -10316,6 +11001,10 @@ défense au moment où elle rejoint son emploi.
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 28
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 42 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10338,8 +11027,8 @@ L'autorité compétente est le ministre responsable de l'organisme où sont opé
 ce ministre peut ^etre délégué au préfet de zone et sous-délégué au préfet du département, dans des conditions qui sont
 fixées par instruction du Premier ministre.
 
-La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence du
-service du recrutement.
+La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence de la
+direction du service national.
 
 **Liens relatifs à cet article**
 
@@ -10352,6 +11041,10 @@ service du recrutement.
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 29
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10375,11 +11068,18 @@ ou entreprises qui en dépendent : aux règles de discipline applicables à leur
 l'article 22-a du livre Ier du code du travail. Dans les entreprises ou établissements visés à l'article R. 151, ce règlement
 fixe l'échelle des sanctions applicables en cas d'infraction à la discipline générale de l'établissement.
 
+Les marins de la marine marchande demeurent soumis, lorsqu'ils sont embarqués, au code disciplinaire et pénal de la marine
+marchande.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 30
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 43 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10397,13 +11097,12 @@ fixe l'échelle des sanctions applicables en cas d'infraction à la discipline g
 
 ###### Article R*176
 
-Les personnels servant dans les corps de défense sont passibles des sanctions du décret portant règlement de discipline
-générale dans les armées.
+En cas de manquement aux obligations définies au chapitre II du titre III du présent code, les personnels servant dans les
+corps de défense sont passibles, sans préjudice des poursuites pénales éventuelles, des sanctions disciplinaires suivantes :
 
-Cette discipline est assurée par les cadres organiques de ces corps.
-
-Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine dans quelles conditions les dispositions de
-l'article précédent et celle du présent article sont applicables au cas particulier de ce corps.
+l'avertissement, le blâme, la consigne à la résidence administrative, la réduction d'un ou deux grades. Le décret en Conseil
+d'Etat constitutif de chaque corps de défense peut déterminer dans quelles conditions les dispositions de l'article précédent
+et celles du présent article sont applicables au cas particulier de ce corps.
 
 **Liens relatifs à cet article**
 
@@ -10411,51 +11110,9 @@ l'article précédent et celle du présent article sont applicables au cas parti
 
 	  - Décret n°62-1386 1962-11-23 art. 31
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°72-806 1972-08-31
-
-	**Cité par**:
-
-	  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*177
-
-Dans le cas de faute que l'autorité militaire reconnaît d'une gravité particulière, les sanctions du décret portant règlement
-de discipline générale dans les armées peuvent être appliquées aux personnels servant sous statut de défense en dehors des
-corps de défense.
-
-L'autorité militaire de rattachement désignée par le ministre chargé de la défense nationale ou l'autorité déléguée agit soit
-à la demande du directeur de l'administration ou du chef de l'entreprise ou de l'établissement employant les personnels en
-cause, soit même de sa propre initiative.
-
-La décision de sanction et la charge de son exécution appartiennent à l'autorité militaire de rattachement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1386 1962-11-23 art. 32
-
-	**Abrogé par**:
-
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 66 (V) JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R*178
-
-Les sanctions prévues, d'une part, à l'article R. 175, d'autre part, aux articles R. 176 et R. 177 peuvent se cumuler.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1386 1962-11-23 art. 33
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 44 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10467,16 +11124,43 @@ Les sanctions prévues, d'une part, à l'article R. 175, d'autre part, aux artic
 
 	**Cite**:
 
-	  - Code du service national R176, R175, R177
+	  - Code du service national R175
+
+
+###### Article R*178
+
+Les sanctions prévues, d'une part, à l'article R.[* 175, d'autre part, à l'article R.*] 176 peuvent se cumuler.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1386 1962-11-23 art. 33
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 45 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national R176, R175
 
 
 ##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.
 
 ###### Article R*179
 
-Les corps de défense prévus à l'article L. 91 sont composés de personnels assujettis au service national, désignés soit en
-raison de leur aptitude, soit du fait qu'ils appartiennent à un service ou à une entreprise qui constitue ou contribue à
-constituer un tel corps. Ces personnels reçoivent, à ce titre, une affection individuelle de défense.
+Les corps de défense prévus à l'article L. 89 sont composés de personnels soumis aux obligations du service national,
+désignés soit en raison de leur aptitude, soit du fait qu'ils appartiennent à un service ou à une entreprise qui constitue ou
+contribue à constituer un tel corps. Ces personnels reçoivent, à ce titre, une affection individuelle de défense.
 
 Chaque corps de défense répond à une mission particulière à laquelle est adaptée son organisation propre.
 
@@ -10486,6 +11170,10 @@ Chaque corps de défense répond à une mission particulière à laquelle est ad
 
 	  - Décret n°62-1386 1962-11-23 art. 34
 
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 46 () JORF 3 décembre 1992
+
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
@@ -10496,7 +11184,7 @@ Chaque corps de défense répond à une mission particulière à laquelle est ad
 
 	**Cite**:
 
-	  - Code du service national - art. L91 (Ab)
+	  - Code du service national - art. L89 (M)
 
 
 ###### Article R*180
@@ -10528,18 +11216,22 @@ Les cadres des corps de défense sont pourvus d'un grade d'emploi en rapport ave
 Dans chaque corps de défense, une échelle de correspondance est établie entre les grades d'emploi et les grades de la
 hiérarchie militaire. Cette correspondance n'entra^ine pas assimilation.
 
-Les personnels encore soumis aux obligations du service militaire ou dégagés des obligations particulières aux cadres de
-réserve pour tout autre motif que disciplinaire et utilisés dans tout emploi de défense autre que leur emploi habituel
-doivent recevoir un grade d'emploi au moins équivalent à celui qu'ils possèdent ou qu'ils possédaient dans la réserve.
+Les grades d'emploi doivent être conformes aux hiérarchies fonctionnelles des administrations et des organismes qui font
+partie du corps de défense selon un tableau d'équivalence fixé par arrêté du ministre responsable de la mise sur pied du
+corps de défense, contresigné par le ministre chargé des armées.
 
-Le grade d'emploi n'est donné que pour la durée de l'emploi. Il peut être retiré à tout moment par décision de l'autorité
-habilitée à le conférer, pour les motifs qui entraînent la perte ou le retrait des grades militaires dans la réserve des
+L'affectation individuelle dans le corps de défense confère aux intéressés le grade d'emploi correspondant à leur hiérarchie
+fonctionnelle dans leur organisme d'appartenance. Il est porté sur la décision d'affectation individuelle de défense. Tout
+changement de grade d'emploi doit faire l'objet d'une nouvelle décision. Les actes d'engagement prévus à l'article R. 186
+doivent également comporter, en cas d'engagement au titre d'un corps de défense, le grade d'emploi de l'intéressé.
+
+Le grade d'emploi n'est donné que pour la durée de l'emploi. Il peut ^etre retiré à tout moment par décision de l'autorité
+habilitée à le conférer, pour les motifs qui entra^inent la perte ou le retrait des grades militaires dans la réserve des
 armées.
 
-Les grades correspondant aux grades d'officiers sont conférés par arrêté du ministre responsable de la mise sur pied de
-chaque corps de défense, contresigné par le ministre chargé de la défense nationale s'il s'agit d'un officier de réserve. Le
-décret en Conseil d'Etat constitutif de chaque corps de défense fixe les conditions dans lesquelles les autres grades sont
-conférés.
+Les grades correspondant aux grades d'officiers sont conférés par arr^eté du ministre responsable de la mise sur pied de
+chaque corps de défense, contresigné par le ministre chargé des armées s'il s'agit d'un officier de réserve. Le décret en
+Conseil d'Etat constitutif de chaque corps de défense fixe les conditions dans lesquelles les autres grades sont conférés.
 
 Le grade d'emploi donne droit au commandement à l'intérieur du corps de défense.
 
@@ -10547,13 +11239,17 @@ La position dans les cadres est la seule position des cadres des corps de défen
 
 Les décrets en Conseil d'Etat constitutifs des différents corps de défense déterminent les appellations des différents grades
 d'emploi, leur correspondance avec les grades de la hiérarchie militaire, les conditions d'avancement au sein des corps de
-défense. Ces décrets sont contresignés par le ministre chargé de la défense nationale.
+défense. Ces décrets sont contresignés par le ministre chargé des armées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 36
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 47 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10566,16 +11262,19 @@ défense. Ces décrets sont contresignés par le ministre chargé de la défense
 
 ###### Article R*182
 
-Les insignes des grades d'emploi sont distincts des insignes des grades des armées.
-
-Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine les règles du port d'un uniforme, définit les
-insignes des grades, fixe, le cas échéant, les conditions dans lesquelles le corps pourra ^etre armé.
+Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine, le cas échéant, les règles du port d'un
+uniforme et les insignes des grades d'emploi. Ces derniers doivent comporter des marques distinctives par rapport aux
+insignes de grade des armées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 37
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 48 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10589,14 +11288,18 @@ insignes des grades, fixe, le cas échéant, les conditions dans lesquelles le c
 ###### Article R*183
 
 Les corps de défense peuvent bénéficier du soutien logistique des armées, à charge pour les ministres intéressés de supporter
-les dépenses correspondantes. Des accords passés entre le ministre chargé de la défense nationale et les ministres intéressés
-fixent les modalités de ce soutien.
+les dépenses correspondantes. Des accords passés entre le ministre chargé des armées et les ministres intéressés fixent les
+modalités de ce soutien.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 38
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10612,16 +11315,16 @@ fixent les modalités de ce soutien.
 En ce qui concerne les infirmités résultant par origine ou par aggravation de l'exécution d'un service de défense accompli
 dans un corps de défense, les intéressés bénéficient, conformément à l'article L. 89, des dispositions du livre Ier du code
 des pensions militaires d'invalidité et des victimes de la guerre, à l'exclusion de tout autre régime légal ou statutaire de
-pensions d'invalidité ou de rentes d'incapacité permanente.
+pensions d'invalidité ou de rentes d'incapacité permanente. Ils bénéficient également des dispositions du deuxième alinéa de
+l'article L. 62.
 
 Ils conservent dans ce cas, pendant la période qui précède la date d'ouverture du droit à pension militaire d'invalidité, le
 bénéfice des prestations résultant des législations et statuts de sécurité ou de prévoyance sociales dont ils relèvent, à
 l'exclusion des pensions d'invalidité et d'incapacité permanente.
 
-La présomption d'imputabilité est applicable, dans les conditions définies à l'article L. 3 du code précité, dans les corps
-de défense dont le personnel est soumis à une visite médicale d'incorporation et se trouve placé sous surveillance médicale.
-Les modalités de cette surveillance médicale sont définies dans les décrets en Conseil d'Etat constitutifs de chaque corps de
-défense.
+La présomption d'imputabilité est applicable dans les corps de défense, le personnel étant soumis à une visite médicale
+d'incorporation et se trouvant placé sous surveillance médicale. Les modalités de cette surveillance médicale sont définies
+dans les décrets en Conseil d'Etat constitutifs de chaque corps de défense.
 
 Les pensions servies aux intéressés sont liquidées sur la base des grades d'emploi prévus à l'article R. 181 selon les
 tableaux d'équivalence fixés dans les décrets en Conseil d'Etat constitutifs des corps de défense.
@@ -10631,6 +11334,10 @@ tableaux d'équivalence fixés dans les décrets en Conseil d'Etat constitutifs 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 39
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 49 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10642,9 +11349,9 @@ tableaux d'équivalence fixés dans les décrets en Conseil d'Etat constitutifs 
 
 	**Cite**:
 
+	  - Code du service national - art. L62 (M)
 	  - Code du service national - art. L89 (M)
-	  - Code du service national L89, R181
-	  - Code des pensions militaires d'invalidité et des v - art. L3 (M)
+	  - Code du service national L89, R181, L62
 
 
 ###### Article R*185
@@ -10688,9 +11395,9 @@ la liaison avec les armées, en particulier pour l'application de l'article R. 1
 Les personnels assujettis ou non au service national, sans affectation militaire ou de défense, peuvent s'engager au titre du
 service de défense, devant le préfet du département de leur domicile ou de leur résidence, à servir dans les corps de défense
 ou dans les organismes définis à l'article R. 151. Ils peuvent ^etre appelés à remplir les obligations qui résultent de cet
-engagement dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959. Ils reçoivent à
-l'avance une lettre d'affectation. L'engagement est toujours résiliable à la volonté de l'administration compétente, soit à
-son initiative, soit à la demande de l'intéressé. L'affectation militaire en suspend les effets.
+engagement dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959. L'engagement est
+toujours résiliable à la volonté de l'administration compétente, soit à son initiative, soit à la demande de l'intéressé.
+L'affectation militaire en suspend les effets.
 
 **Liens relatifs à cet article**
 
@@ -10703,6 +11410,10 @@ son initiative, soit à la demande de l'intéressé. L'affectation militaire en 
 	**Anciens textes**:
 
 	  - Décret n°62-1386 1962-11-23 art. 41
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 50 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10821,8 +11532,8 @@ administrations et organismes métropolitains visés au premier alinéa de l'art
 
 - les services départementaux et les services administratifs communaux ainsi que les organismes rattachés.
 
-D'autre part, dans chacune des catégories d'activités énumérées aux tableaux I, II et III de l'annexe II du présent code, les
-entreprises et établissements dont la liste est arr^etée par le préfet, qui reçoit à cet effet la délégation du Premier
+D'autre part, dans chacune des catégories d'activités énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
+les entreprises et établissements dont la liste est arr^etée par le préfet, qui reçoit à cet effet la délégation du Premier
 ministre.
 
 **Liens relatifs à cet article**
@@ -10830,6 +11541,10 @@ ministre.
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 51 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10877,13 +11592,17 @@ département dans sa zone de responsabilité ;
 
 Les préfets des départements d'outre-mer reçoivent une affectation individuelle de défense prononcée par le ministre chargé
 des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire, l'avis conforme du
-ministre chargé de la défense nationale doit ^etre recueilli.
+ministre chargé des armées doit ^etre recueilli.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10953,8 +11672,8 @@ D'une part :
 
 - les services territoriaux et les services administratifs communaux ainsi que les organismes rattachés.
 
-D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II et III de l'annexe II du présent code, les
-entreprises et établissements dont la liste est arr^etée par le représentant du Gouvernement, qui reçoit à cet effet la
+D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
+les entreprises et établissements dont la liste est arr^etée par le représentant de l'Etat, qui reçoit à cet effet la
 délégation du Premier ministre.
 
 **Liens relatifs à cet article**
@@ -10967,6 +11686,10 @@ délégation du Premier ministre.
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 51 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -10985,13 +11708,17 @@ individuelle de défense est décidée :
 - en ce qui concerne les personnels soumis aux obligations du service militaire, par le commandant supérieur des forces
 armées qui a le territoire dans sa zone de responsabilité ;
 
-- en ce qui concerne les personnels non soumis aux obligations du service militaire, par le délégué du Gouvernement.
+- en ce qui concerne les personnels non soumis aux obligations du service militaire, par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11008,15 +11735,19 @@ armées qui a le territoire dans sa zone de responsabilité ;
 
 ###### Article R*197
 
-Les délégués du Gouvernement dans les territoires d'outre-mer reçoivent une affectation individuelle de défense prononcée par
+Les représentants de l'Etat dans les territoires d'outre-mer reçoivent une affectation individuelle de défense prononcée par
 le ministre chargé des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire,
-l'avis du ministre chargé de la défense nationale doit ^etre recueilli.
+l'avis du ministre chargé des armées doit ^etre recueilli.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 8
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11049,9 +11780,8 @@ administrations ou services pour les professions relevant de leur compétence.
 
 ###### Article R*199
 
-Dans le territoire des Comores et dans le territoire français des Afars et des Issas, lorsque les décisions d'affectation
-concernent des services ou organismes territoriaux relevant de la compétence du président du conseil du Gouvernement, elles
-sont prises sur sa proposition.
+Dans la collectivité territoriale de Mayotte, lorsque les décisions d'affectation concernent des services ou organismes
+territoriaux relevant de la compétence du président du conseil général, elles sont prises sur sa proposition.
 
 Pour les services ou organismes d'Etat, elles sont préparées dans les conditions prévues à l'article R. 198.
 
@@ -11060,6 +11790,10 @@ Pour les services ou organismes d'Etat, elles sont préparées dans les conditio
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 10
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 52 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11077,7 +11811,7 @@ Pour les services ou organismes d'Etat, elles sont préparées dans les conditio
 ###### Article R*200
 
 Pour l'application dans les territoires d'outre-mer de l'article R. 174, le pouvoir de décider le transfert de tout ou partie
-du personnel dans un autre organisme ou sa radiation de l'affectation de défense est exercé par le délégué du Gouvernement,
+du personnel dans un autre organisme ou sa radiation de l'affectation de défense est exercé par le représentant de l'Etat,
 par délégation du ministre chargé des départements et territoires d'outre-mer.
 
 **Liens relatifs à cet article**
@@ -11085,6 +11819,10 @@ par délégation du ministre chargé des départements et territoires d'outre-me
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11101,7 +11839,7 @@ par délégation du ministre chargé des départements et territoires d'outre-me
 
 ###### Article R*201
 
-Pour l'application de l'article R.[* 186, le délégué du Gouvernement est l'autorité habilitée à recevoir les engagements au
+Pour l'application de l'article R.[* 186, le représentant de l'Etat est l'autorité habilitée à recevoir les engagements au
 titre du service de défense dans les organismes définis à l'article R.*] 195.
 
 **Liens relatifs à cet article**
@@ -11109,6 +11847,10 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 	**Anciens textes**:
 
 	  - Décret n°68-63 1968-01-19 art. 12
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 53 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11123,16 +11865,37 @@ titre du service de défense dans les organismes définis à l'article R.*] 195.
 
 #### PARAGRAPHE 1 : Dispositions générales.
 
-###### Article R*201-1
+###### Article R*201-3
 
-Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi dans la
-police nationale peuvent, sur leur demande, ^etre admis à accomplir leur service national actif dans la police nationale.
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur effectuent un stage de formation spécialisé
+permettant leur emploi. Les modalités de cette formation sont définies par le ministre. Elle comporte notamment une
+information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
+sécurité et les devoirs civiques de tout citoyen.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 1 : Affectation.
+
+###### Article R*201-1
+
+Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi dans la
+police nationale peuvent, sur leur demande, être admis à accomplir leur service national dans la police nationale en qualité
+de policiers auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11141,81 +11904,25 @@ police nationale peuvent, sur leur demande, ^etre admis à accomplir leur servic
 
 ###### Article R*201-2
 
-Les candidatures sont déposées par les intéressés auprès du bureau du service national dont ils relèvent.
+Les candidatures sont déposées par les intéressés auprès du bureau ou du centre du service national dont ils relèvent. Le
+ministre chargé des armées, sous réserve des dispositions de l'article L. 6, transmet les candidatures au ministre de
+l'intérieur.
 
-Lorsque leur demande est agréée par le ministre de l'intérieur, les jeunes gens sont mis pour emploi à sa disposition. Ils
-reçoivent une affectation dans les services de la direction générale de la police nationale, selon des modalités qui seront
-déterminées par le ministre de l'intérieur.
+Lorsque leur demande est agréée par ce ministre, les jeunes gens sont mis pour emploi à sa disposition. Ils reçoivent une
+affectation dans les services et directions du ministère de l'intérieur selon les modalités qui sont déterminées par le
+ministre.
 
-Pendant l'accomplissement de leur service national, ils sont soumis à l'autorité de ce ministre.
+Pendant l'accomplissement de leur service actif, ils sont soumis à l'autorité de ce ministre et des supérieurs hiérarchiques
+des services dans lesquels ils sont affectés.
 
-Ils sont réputés incorporés le jour où, répondant à la convocation du ministre de l'intérieur, ils sont enregistrés sur les
-contr^oles de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R*201-3
-
-Les jeunes gens qui n'ont pas répondu à la convocation du ministre de l'intérieur dans un délai de huit jours sont soumis de
-plein droit aux obligations du service militaire ou du service de défense.
+Ils sont réputés incorporés le jour où, répondant à l'ordre d'appel du ministre de l'intérieur, ils sont enregistrés sur les
+contrôles de l'administration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R*201-4
-
-Les appelés dont la candidature a été retenue par le ministre de l'intérieur servent en qualité de policiers auxiliaires. Ils
-effectuent un stage de formation spécialisé permettant leur emploi dans la police nationale. Les modalités de cette formation
-sont définies par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-###### Article R*201-5
-
-Les policiers auxiliaires participent à l'exécution des missions de la police nationale dans les conditions prévues au
-présent article.
-
-Ils assistent les fonctionnaires de police sous les ordres desquels ils sont placés. Ils peuvent ^etre affectés à des t^aches
-leur permettant de participer au maintien de la sécurité publique ou des t^aches à caractère technique auxquelles les a
-préparés leur formation professionnelle.
-
-Dans l'exercice de leurs fonctions ils n'ont pas compétence pour établir des actes relevant de l'exercice de la police
-judiciaire ou de la police administrative.
-
-Ils ne peuvent participer à des opérations de maintien de l'ordre que dans le cas prévu au deuxième alinéa de l'article R.
-130.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11223,175 +11930,288 @@ Ils ne peuvent participer à des opérations de maintien de l'ordre que dans le 
 
 	**Cite**:
 
-	  - Code du service national R130
+	  - Code du service national - art. L6 (M)
 
 
-###### Article R*201-6
+#### PARAGRAPHE 2 : Missions.
 
-La hiérarchie des policiers auxiliaires est fixée comme suit :
+###### Article R*201-4
 
-1° Sous-brigadier auxiliaire de 1re classe de la police nationale ;
+Les policiers auxiliaires participent à l'exécution des missions de la police nationale dans les conditions prévues au
+présent article.
 
-2° Sous-brigadier auxiliaire de 2e classe de la police nationale ;
+Il assistent les fonctionnaires de police sous les ordres desquels ils sont placés. Ils peuvent être affectés à des tâches
+leur permettant de participer au maintien de la sécurité publique ou des tâches auxquelles leur formation professionnelle les
+a préparés.
 
-3° Gardien de la paix auxiliaire de 1re classe de la police nationale ;
+Dans l'exercice de leurs fonctions, ils ont compétence pour établir des actes relevant de l'exercice de la police judiciaire
+ou de la police administrative dans les conditions et les limites fixées par les lois et règlements les y habilitant.
 
-4° Gardien de la paix auxiliaire de 2e classe de la police nationale.
+Ils ne peuvent participer à des opérations de maintien de l'ordre autrement que dans le cas où il peut être fait appel à la
+troupe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 3 : Hiérarchie - Avancement.
+
+###### Article R*201-5
+
+La hiérarchie des policiers auxiliaires et sa correspondance avec la hiérarchie militaire sont fixées comme suit :
+
+1° Gardien de la paix auxiliaire de 2e classe de la police nationale : soldat de 2e classe ;
+
+2° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal ;
+
+3° Sous-brigadier auxiliaire de 2e classe de la police nationale :
+
+caporal-chef ;
+
+4° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent.
+
+L'avancement des policiers auxiliaires en service actif, et de ceux de la disponibilité et de la réserve, est subordonné au
+respect des règles suivantes :
+
+1° Le gardien de la paix auxiliaire de 2e classe de la police nationale ne peut être nommé gardien de la paix auxiliaire de
+1re classe de la police nationale s'il n'a obtenu une qualification définie par le ministre de l'intérieur et accompli quatre
+mois de service effectif à compter de son incorporation.
+
+2° Le gardien de la paix auxiliaire de 1re classe de la police nationale ne peut être nommé sous-brigadier auxiliaire de 2e
+classe de la police nationale s'il n'a obtenu une qualification définie par le ministre de l'intérieur et accompli deux mois
+de service actif dans son grade.
+
+3° Le sous-brigadier auxiliaire de 2e classe de la police nationale ne peut être nommé sous-brigadier auxiliaire de 1re
+classe de la police nationale s'il n'a obtenu une qualification définie par le ministre de l'intérieur et accompli deux mois
+de service actif dans son grade.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 4 : Permissions.
+
+###### Article R*201-6
+
+Les permissions normales dont peuvent bénéficier les policiers auxiliaires sont fixées à treize jours pour la durée du
+service légal. Elles peuvent être prises soit par fractions, soit en une fois avant la libération du service actif.
+
+En outre, les jeunes gens volontaires pour prolonger leur service actif au-delà de la durée légale, dans les conditions
+fixées à l'article L. 94-9, bénéficient, au-delà de la durée légale, de quatre jours de permission par mois de service dans
+la limite de quarante-cinq jours par an ainsi que d'une majoration de deux jours de permission par mois supplémentaire dans
+la limite de dix jours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L94-9 (M)
 
 
 ###### Article R*201-7
 
-Les jeunes gens affectés dans la police nationale sont tenus aux obligations qui découlent de l'accomplissement du service
-national et à celles qui sont inhérentes à leur emploi.
-
-Ils sont notamment tenus à une particulière discrétion professionnelle pour des faits et informations dont ils ont
-connaissance dans l'exercice de leurs fonctions.
+Des permissions de convalescence peuvent être accordées aux policiers auxiliaires dont l'état de santé le nécessite. Elles
+ont une durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des autres permissions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 2 : Permissions.
 
 ###### Article R*201-8
 
-Les permissions normales dont peuvent bénéficier les policiers auxiliaires sont fixées à seize jours pour une année de
-service effectif. Elles peuvent ^etre prises soit par fraction, soit en une fois avant la libération du service actif.
+Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent être accordées pour la naissance d'un
+enfant, le mariage de l'intéressé, le décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents, beaux-parents,
+frère, soeur). Un supplément de huit jours de permission peut être également accordé aux appelés qui exerçaient la profession
+d'agriculteur lors de leur incorporation ou qui, fils d'agriculteur et n'exerçant aucune profession, étaient employés chez
+leurs parents en qualité d'aide familial agricole.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
+
+#### PARAGRAPHE 5 : Récompenses.
 
 ###### Article R*201-9
 
-Des permissions de convalescence peuvent ^etre accordées aux policiers auxiliaires dont l'état de santé le nécessite. Elles
-ont une durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des permissions
-normales.
+Les récompenses qui peuvent être accordées aux policiers auxiliaires sont : les décorations, les citations, les témoignages
+de satisfaction et les félicitations.
+
+Les décorations sont attribuées pour reconnaître des actions d'éclat, des mérites éminents ou distingués et pour récompenser
+des actes méritoires ou des services rendus. Certaines d'entre elles accompagnent une citation. Leur attribution fait l'objet
+d'une publication officielle.
+
+Les citations sont décernées pour des actions d'éclat, des actes de courage ou de dévouement.
+
+Les témoignages de satisfaction et les félicitations sanctionnent des actes ou travaux exceptionnels.
+
+Un arrêté du ministre de l'intérieur détermine les autorités qualifiées pour décerner les récompenses ainsi que les modalités
+de leur attribution.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
+
+#### PARAGRAPHE 6 : Indemnités - Hébergement et alimentation.
 
 ###### Article R*201-10
 
-Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent ^etre accordées pour la naissance d'un
-enfant, le mariage de l'intéressé, le décès du conjoint ou d'un enfant, le décès du père ou de la mère.
+Les policiers auxiliaires perçoivent une indemnité journalière dont le montant est identique à celui de la solde spéciale
+perçue par les appelés au service militaire selon les équivalences fixées à l'article R. 201-5.
+
+Cette indemnité peut être augmentée d'un complément destiné à compenser certaines prestations en nature lorsqu'elles ne sont
+pas fournies par les organismes d'emploi des appelés et dont bénéficient les militaires appelés. Son montant est fixé par
+arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-5
 
 
 ###### Article R*201-11
 
-Les frais de voyage supportés à l'occasion des permissions sont à la charge des intéressés.
+Les policiers auxiliaires ont droit à la gratuité de leur logement ainsi que de son entretien, de leur alimentation et des
+transports liés au service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 3 : Discipline.
+#### PARAGRAPHE 7 : Tenue.
 
 ###### Article R*201-12
 
-Les sanctions disciplinaires qui peuvent ^etre infligées aux policiers auxiliaires sont :
+Les policiers auxiliaires doivent porter la tenue réglementaire lorsqu'ils sont en service.
 
-1° L'avertissement ;
+La description de cette tenue réglementaire est précisée par le ministre de l'intérieur.
 
-2° Le blâme ;
-
-3° La radiation d'office du service dans la police nationale.
-
-Les sanctions sont prononcées par le ministre de l'intérieur ou l'autorité ayant reçu délégation à cet effet. Elles peuvent
-entraîner la suppression ou la réduction du nombre de jours de permission.
-
-La radiation d'office s'accompagne d'une remise à la disposition du ministre chargé des armées.
+Cette tenue réglementaire est fournie et entretenue à titre gratuit.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 4 : Soins.
+#### PARAGRAPHE 8 : Transports.
 
 ###### Article R*201-13
 
-Les jeunes gens ^agés affectés au service dans la police nationale sont, le cas échéant, soignés ou hospitalisés par le
-service de santé des armées. Les frais sont remboursés à l'administration militaire par le ministère de l'intérieur.
+Les policiers auxiliaires supportent les frais de voyage à l'occasion des permissions dans des conditions identiques à celles
+des appelés au service militaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Inaptitude.
+#### PARAGRAPHE 9 : Soins.
 
 ###### Article R*201-14
 
-Les conditions dans lesquelles les intéressés sont présentés devant la commission de réforme prévues à l'article L. 61 sont
-fixées par instruction conjointe du ministre de l'intérieur et du ministre chargé des armées.
+Les policiers auxiliaires sont surveillés médicalement et soignés soit par les médecins civils agréés par le ministre de
+l'intérieur, soit par des médecins en fonctions dans les organismes d'emploi, soit dans un établissement de santé civil, soit
+dans un établissement du service de santé des armées. Dans ce dernier cas, les frais sont remboursés à l'administration
+militaire par le ministre de l'intérieur.
+
+Lorsque les soins sont dispensés par des médecins civils agréés ou dans un établissement de santé civil, la gratuité ou le
+remboursement des soins médicaux, des fournitures de médicaments et des frais d'hospitalisation auxquels ont droit les
+appelés sont assurés dans les conditions prévues par la nomenclature du régime général de la sécurité sociale. Les dépenses
+en résultant sont à la charge du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 10 : Inaptitude physique.
+
+###### Article R*201-15
+
+Les conditions dans lesquelles les policiers auxiliaires sont présentés devant la commission de réforme du service national
+prévue à l'article L. 61 sont fixées par une instruction du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11402,64 +12222,35 @@ fixées par instruction conjointe du ministre de l'intérieur et du ministre cha
 	  - Code du service national - art. L61 (M)
 
 
-###### Article R*201-15
-
-Le ministre de l'intérieur peut, dans l'intér^et du service ou en cas d'inadaptation de l'intéressé à l'emploi qu'il occupe,
-mettre fin à l'affectation des appelés dans la police nationale. Ceux-ci sont remis à la disposition du ministre chargé des
-armées jusqu'au terme de leur service actif.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
-
-
-#### PARAGRAPHE 6 : Solde et indemnités.
+#### PARAGRAPHE 11 : Libération du service actif.
 
 ###### Article R*201-16
 
-Les policiers auxiliaires perçoivent une indemnité journalière dont le montant est identique à celui de la solde perçue par
-les appelés au service militaire, selon les équivalents ci-après :
-
-1° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent ;
-
-2° Sous-brigadier auxiliaire de 2e classe de la police nationale :
-
-caporal-chef ;
-
-3° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal ;
-
-4° Gardien de la paix auxiliaire de 2e classe de la police nationale : soldat de 2e classe.
+Avant leur libération du service actif, les policiers auxiliaires sont soumis à un examen médical constatant leur état de
+santé. A l'expiration de leur service, les intéressés sont rayés des contrôles de l'administration et libérés du service
+actif par le ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 7 : Libération du service actif.
-
 ###### Article R*201-17
 
-Avant leur libération du service actif, les jeunes gens affectés au service dans la police nationale sont soumis à un examen
-médical de contr^ole constatant leur état de santé. A l'expiration de leur service, les intéressés sont rayés des contr^oles
-du service dans la police nationale et libérés du service actif par le ministre de l'intérieur.
+Le décompte des services accomplis par les policiers auxiliaires est arrêté par le ministre de l'intérieur et enregistré sur
+les pièces matricules. Ces pièces sont adressées au bureau ou centre du service national dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11468,19 +12259,687 @@ du service dans la police nationale et libérés du service actif par le ministr
 
 ###### Article R*201-18
 
-Le décompte des services accomplis au titre du service dans la police nationale est arr^eté par le ministre de l'intérieur
-lors de la libération des jeunes gens et enregistré sur les pièces matricules. Ces pièces sont adressées au bureau du service
-national d'origine.
+A la fin de leur service national actif, les policiers auxiliaires ayant accompli au moins trois mois de service national et
+dont la conduite a été satisfaisante reçoivent un certificat de bonne conduite témoignant de la valeur des services rendus.
+
+Ils peuvent recevoir un certificat de pratique professionnelle sur lequel figurent les dates de début et de fin de service,
+les emplois tenus, leur durée et les qualifications professionnelles acquises.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 12 : Dispositions diverses.
+
+###### Article R*201-19
+
+Les jeunes gens retenus par le ministre de l'intérieur pour accomplir le service national dans la police nationale qui ne
+répondent ni à leur ordre d'appel au service actif ni à leur ordre de route émis dans les conditions fixées aux articles L.
+122 et L. 123 sont pousuivis pour insoumission par le ministre de l'intérieur dans les délais fixés aux articles L. 125 et L.
+126 et selon les modalités précisées à l'article L. 149-3.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L122 (M)
+	  - Code du service national - art. L123 (M)
+	  - Code du service national - art. L125 (M)
+	  - Code du service national - art. L126 (M)
+	  - Code du service national - art. L149-3 (M)
+
+
+###### Article R*201-20
+
+Les conditions d'emploi, la nature et l'exécution des missions confiées à ces jeunes gens font l'objet d'un contrôle par les
+inspections compétentes du ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+### CHAPITRE II TER : Service de sécurité civile
+
+#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire
+
+##### PARAGRAPHE 1 : Affectation.
+
+###### Article R*201-21
+
+Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi de sapeur-
+pompier professionnel peuvent, sur leur demande, être admis à accomplir leur service national dans la sécurité civile en
+qualité de sapeurs-pompiers auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-22
+
+Les candidatures sont déposées par les intéressés auprès du bureau ou du centre du service national dont ils relèvent. Le
+ministre chargé des armées, sous réserve des dispositions de l'article L. 6, transmet les candidatures au ministre chargé de
+la sécurité civile.
+
+Lorsque leur demande est agréée par ce ministre, les jeunes gens sont mis pour emploi à sa disposition. Ils reçoivent une
+affectation, selon les modalités qui sont déterminées par le ministre :
+
+- soit à la direction de la sécurité civile ;
+
+- soit dans les états-majors de zone de la sécurité civile ;
+
+- soit dans un service départemental d'incendie et de secours qui peut les mettre à disposition d'un centre de secours
+principal ou d'un centre de secours, qui en font la demande et qui disposent d'un encadrement de sapeurs-pompiers
+professionnels conforme aux prescriptions fixées par un arrêté du ministre.
+
+Pendant l'accomplissement de leur service actif, ils sont soumis à l'autorité du ministre, du préfet du département dans
+lequel ils servent et des supérieurs hiérarchiques des services dans lesquels ils sont affectés. Ils doivent se conformer aux
+instructions du ministre, au règlement du service d'emploi et, pour ceux affectés dans un service d'incendie et de secours,
+au règlement du service départemental d'incendie et de secours.
+
+Ils sont réputés incorporés le jour où, répondant à l'ordre d'appel du ministre chargé de la sécurité civile, ils sont
+enregistrés sur les contrôles de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L6 (M)
+
+
+###### Article R*201-23
+
+Les appelés dont la candidature a été retenue par le ministre chargé de la sécurité civile font, dès leur incorporation, un
+stage de formation permettant leur emploi dans les services de la sécurité civile et dans les services d'incendie et de
+secours. Les modalités de cette formation sont définies par arrêté du ministre. Elle comporte notamment une information sur
+le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la sécurité et les
+devoirs civiques de tout citoyen.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-24
+
+Une convention établie entre le préfet et le président de la commission administrative prévue à l'article 56 de la loi du 2
+mars 1982 prévoit l'affectation de sapeurs-pompiers auxiliaires au service départemental d'incendie et de secours. Cette
+convention prévoit notamment que l'hébergement, l'entretien, l'alimentation et la formation des sapeurs-pompiers auxiliaires
+affectés dans les services d'incendie et de secours sont pris en charge par le service départemental d'incendie et de
+secours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 56
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-25
+
+Dans chaque département, le nombre des sapeurs-pompiers auxiliaires ne peut excéder 10 p. 100 de l'effectif total des
+sapeurs-pompiers professionnels du département.
+
+Dans les départements où le nombre des sapeurs-pompiers professionnels est inférieur à cinquante, le nombre maximum des
+sapeurs-pompiers auxiliaires est fixé à cinq.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+##### PARAGRAPHE 2 : Missions - Obligations.
+
+###### Article R*201-26
+
+Les sapeurs-pompiers auxiliaires, après la formation prévue à l'article R. 201-23, participent aux missions de sécurité
+civile définies à l'article 1er de la loi n° 87-565 du 22 juillet 1987 modifiée et à celles des services d'incendie et de
+secours prévues à l'article 1er du décret n° 88-623 du 6 mai 1988 modifié ainsi qu'aux tâches auxquelles leur formation
+professionnelle les a préparés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°87-565 1987-07-22 art. 1
+	  - Décret n°88-623 du 6 mai 1988 - art. 1 (Ab)
+	  - Code du service national R201-23
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-27
+
+Les modalités d'accomplissement de ces missions et notamment les conditions d'encadrement lors des opérations et
+interventions des sapeurs-pompiers auxiliaires sont définies par arrêté du ministre chargé de la sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.
+
+###### Article R*201-28
+
+La hiérarchie des grades de sapeurs-pompiers auxiliaires en correspondance avec la hiérarchie militaire est fixée comme
+suit :
+
+- sapeur-pompier auxiliaire de 2e classe : soldat de 2e classe ;
+
+- sapeur-pompier auxiliaire de 1re classe : soldat de 1re classe ;
+
+- caporal auxiliaire : caporal ;
+
+- lieutenant auxiliaire : aspirant.
+
+Lors de leur affectation, les jeunes gens sont incorporés au grade de sapeur-pompier auxiliaire de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-29
+
+Les sapeurs-pompiers auxiliaires de 2e classe peuvent être nommés sapeurs-pompiers auxiliaires de 1re classe, après quatre
+mois de service à compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une
+sanction prévue à l'article L. 149-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L149-1 (M)
+
+
+###### Article R*201-30
+
+Les sapeurs-pompiers auxiliaires peuvent être nommés caporaux auxiliaires, après avoir réussi un examen et servi pendant
+quatre mois à compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une sanction
+prévue à l'article L. 149-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L149-1 (M)
+
+
+###### Article R*201-31
+
+Les sapeurs-pompiers auxiliaires qui possèdent des diplômes requis pour l'exercice des professions de médecin, de pharmacien
+ou de vétérinaire peuvent être nommés lieutenants auxiliaires après avoir réussi un examen et servi pendant trois mois à
+compter de la date d'incorporation. Ne peut en bénéficier le sapeur-pompier auxiliaire ayant subi une sanction prévue à
+l'article L. 149-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L149-1 (M)
+
+
+###### Article R*201-32
+
+Les modalités d'organisation des examens prévus aux articles R.* 201-30 et R.* 201-31, la nature et le programme des épreuves
+ainsi que les qualifications requises pour présenter ces examens sont définis par arrêté du ministre chargé de la sécurité
+civile.
+
+Les nominations mentionnées aux articles R.* 201-29 à R.* 201-31 sont prononcées par le ministre, après avis du chef du
+service d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-29 à R201-31
+
+
+##### PARAGRAPHE 4.
+
+###### Article R*201-34
+
+Les dispositions des articles R.* 201-6 à R.* 201-20 sont applicables aux jeunes gens qui effectuent le service de sécurité
+civile en qualité de sapeurs-pompiers auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-6 à R201-20
+
+
+###### Article R*201-35
+
+Les sanctions disciplinaires prévues à l'article L. 149-1 peuvent être infligées aux sapeurs-pompiers auxiliaires.
+
+Elles sont prononcées par le ministre chargé de la sécurité civile. Toutefois, lorsque l'intéressé est affecté dans un
+service départemental d'incendie et de secours, l'avertissement, le blâme et la consigne à la résidence administrative
+peuvent être prononcés par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L149-1 (M)
+
+
+#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire
+
+##### PARAGRAPHE 1 : Affectation.
+
+###### Article R*201-36
+
+Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi d'agent
+technique forestier peuvent, sur leur demande, être admis à accomplir le service de sécurité civile en qualité de forestiers
+auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-37
+
+Les candidatures sont déposées par les intéressés auprès du bureau ou du centre du service national dont il relèvent. Le
+ministre chargé des armées, sous réserve des dispositions de l'article L. 6 du code du service national, transmet les
+candidatures au ministre chargé des forêts.
+
+Lorsque leur demande est agréée par ce ministre, les jeunes gens retenus sont mis pour emploi à sa disposition. Ils reçoivent
+une affectation dans une direction départementale de l'agriculture et de la forêt qui peut, dans les conditions fixées par
+arrêté du ministre, les mettre à disposition de l'Office national des forêts ou des collectivités territoriales qui en font
+la demande et qui justifient d'une structure d'encadrement adaptée.
+
+Pendant l'accomplissement de leur service actif, les forestiers auxiliaires sont soumis à l'autorité du ministre chargé des
+forêts exercée, par délégation, par le préfet du département dans lequel ils servent et par leurs supérieurs hiérarchiques
+directs dans les services ou organismes dans lesquels ils sont affectés.
+
+Les appelés sont réputés incorporés le jour où répondant à l'ordre d'appel du ministre chargé des forêts ils sont enregistrés
+sur les contrôles de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L6 (M)
+
+
+###### Article R*201-38
+
+Les appelés font, dès leur incorporation, un stage de formation à leur emploi dans les services du ministère chargé des
+forêts ou dans les organismes placés sous sa tutelle. Les modalités de ce stage sont définies par arrêté du ministre chargé
+des forêts. La formation dispensée comporte notamment une information sur le sens du service national qu'ils effectuent et
+doit permettre l'acquisition des notions indispensables sur la défense, la sécurité et les devoirs civiques de tout citoyen.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-39
+
+Une convention établie entre le préfet du département et le responsable de l'organisme d'accueil des forestiers auxiliaires
+fixe les obligations et les contributions financières des parties relatives notamment à l'hébergement, l'entretien,
+l'alimentation, l'équipement et la formation des forestiers auxiliaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-40
+
+Le nombre de forestiers auxiliaires ne peut excéder 10 p. 100 des effectifs en activité dans les corps techniques forestiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+##### PARAGRAPHE 2 : Missions - Obligations.
+
+###### Article R*201-41
+
+Après la formation prévue à l'article R. 201-38, les forestiers auxiliaires participent, dans les zones à risque, à la
+surveillance et à la protection des massifs forestiers, à la prévention contre les feux de forêt, et à la restauration des
+terrains instables et dangereux dans les zones de montagne ou sur le littoral.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-38
+
+
+###### Article R*201-42
+
+Les modalités d'accomplissement de ces missions et les conditions d'encadrement des forestiers auxiliaires, assuré
+prioritairement par l'Office national des forêts, sont définies par l'arrêté du ministre chargé des forêts prévu à l'article
+R. 201-37.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-37
+
+
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.
+
+###### Article R*201-43
+
+La hiérarchie des grades des forestiers auxiliaires, en correspondance avec la hiérarchie militaire, est fixée comme suit :
+
+1° Forestier auxiliaire de 2e classe : soldat de 2e classe ;
+
+2° Forestier auxiliaire de 1re classe : soldat de 1re classe ;
+
+3° Caporal forestier auxiliaire : caporal ;
+
+4° Caporal-chef forestier auxiliaire : caporal-chef.
+
+Lors de leur affectation, les jeunes gens sont incorporés au grade de forestier auxiliaire de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-44
+
+Les forestiers auxiliaires de 2e classe peuvent être nommés forestiers auxiliaires de 1re classe après avoir accompli quatre
+mois de service à compter de leur date d'incorporation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-45
+
+Les forestiers auxiliaires peuvent être nommés caporaux forestiers auxiliaires après avoir accompli au moins quatre mois de
+service à compter de la date de leur incorporation et avoir subi avec succès l'examen visé à l'article R. 201-47 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-47
+
+
+###### Article R*201-46
+
+Les caporaux forestiers auxiliaires peuvent être nommés caporaux-chefs forestiers auxiliaires après avoir accompli deux mois
+de service actif dans leur grade.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-47
+
+Les modalités d'organisation de l'examen prévu à l'article R. 201-45, la nature et le programme des épreuves ainsi que les
+qualifications requises pour présenter cet examen sont définis par arrêté du ministre chargé des forêts.
+
+Les nominations visées aux articles R. 201-44 à R. 201-46 sont prononcées par le ministre chargé des forêts après avis du
+chef du service d'affectation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-44 à R201-46
+
+
+##### PARAGRAPHE 4.
+
+###### Article R*201-48
+
+Les dispositions des articles R.* 201-6 à R.* 201-20 sont applicables aux jeunes gens qui effectuent le service de sécurité
+civile en qualité de forestier auxiliaire, le ministre chargé des forêts exerçant les attributions prévues aux-dits articles
+au ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national R201-6 à R201-20
+
+
+###### Article R*201-49
+
+Les sanctions disciplinaires qui peuvent être infligées aux forestiers auxiliaires sont fixées à l'article L. 149-1.
+
+Ces sanctions sont prononcées par le ministre chargé des forêts ou, par délégation, par le préfet du département dans lequel
+est affecté le forestier auxiliaire sanctionné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cite**:
+
+	  - Code du service national - art. L149-1 (M)
 
 
 ### CHAPITRE III : Service de l'aide technique et service de la coopération
@@ -11569,11 +13028,12 @@ convoqués sont appelés au service dans les conditions fixées à l'article L. 
 
 ###### Article R205
 
-En vue de leur préparation à leur mission d'aide technique ou de coopération, les intéressés peuvent, avant leur mise en
-route sur le lieu ou l'État d'affectation, ^etre astreints à suivre un stage organisé par le ministre responsable. La durée
-de ce stage n'excède pas deux semaines sauf en ce qui concerne l'aide technique, exceptions décidées par arr^eté du ministre
-responsable. La durée de ce stage peut ^etre portée à quatre semaines pour les médecins, pharmaciens, dentistes et
-vétérinaires affectés au service de la coopération.
+En vue de leur préparation à leur mission d'aide technique ou de coopération, les intéressés doivent, avant leur mise en
+route sur le lieu ou l'Etat d'affectation, suivre un stage organisé par le ministre responsable. La durée de ce stage
+n'excède pas deux semaines sauf exceptions décidées par arrêté du ministre responsable.
+
+Il comporte notamment une information sur le sens du service national qu'ils effectuent et l'acquisition des notions
+indispensables sur la défense, la sécurité et les devoirs civiques de tout citoyen.
 
 Le ministre responsable du service de l'aide technique ou du service de la coopération fixe les conditions particulières de
 mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aide technique ou de coopération.
@@ -11584,6 +13044,10 @@ mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aid
 
 	  - Décret n°67-210 1967-03-10 art. 8 al. 1
 	  - Décret n°67-209 1967-03-10 art. 8 al. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 16 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11598,21 +13062,33 @@ mise à disposition et d'emploi des jeunes gens accomplissant leur mission d'aid
 
 ###### Article R206
 
-Pour la détermination de l'indemnité forfaitaire d'entretien qui, par application de l'article L. 104, est allouée aux jeunes
-gens servant au titre de l'aide technique ou de la coopération pendant toute la période à laquelle ils appartiennent à l'un
-de ces services, les départements, les territoires d'outre-mer, ainsi que les États de séjour et, le cas échéant, certaines
-régions de ces États, sont classés en groupe répondant à des sujétions comparables d'éloignement, de climat et de servitudes
-diverses.
+I. - Pour la détermination de l'indemnité forfaitaire d'entretien qui, par application de l'article L. 104, est allouée aux
+jeunes gens servant au titre de l'aide technique pendant toute la période de ce service, les départements, les territoires et
+les collectivités territoriales d'outre-mer sont classés en groupe répondant à des sujétions comparables d'éloignement, de
+climat et de servitudes diverses.
 
 A chaque groupe correspond un taux de base.
 
-Pour le service de l'aide technique, l'indemnité forfaitaire est ajustée aux variations du co^ut de la vie par l'application
-aux taux de base des majorations applicables aux rémunérations de la fonction publique.
+L'indemnité forfaitaire est ajustée aux variations du coût de la vie par l'application aux taux de base des majorations
+applicables aux rémunérations de la fonction publique.
 
-Pour le service de la coopération, l'indemnité forfaitaire est calculée à partir du taux de base, auquel est appliqué un
-coefficient de correction fixé par arr^eté et qui varie avec le co^ut de la vie dans l'État ou la région de séjour. Toutefois
-dans les États pour lesquels il n'est pas fixé de coefficient de correction, l'indemnité forfaitaire est ajustée par
-application au taux de base des majorations applicables aux rémunérations de la fonction publique.
+II. - L'indemnité d'entretien qui, par application de l'article L. 104, est allouée aux jeunes gens servant au titre de la
+coopération pendant toute la période de ce service comprend les deux éléments ci-après :
+
+Un élément commun attribué à l'ensemble des jeunes gens servant au titre de la coopération, quel que soit le lieu de leur
+affectation, et qui est ajusté par l'application des majorations générales applicables aux rémunérations de la fonction
+publique ;
+
+Un élément lié à l'affectation dans un pays étranger et qui évolue en fonction des conditions de vie propres au pays
+considéré.
+
+Leur montant est fixé par arrêté conjoint :
+
+Du ministre du budget et du ministre de la coopération et du développement pour les Etats étrangers qui relèvent des
+attributions de ce dernier pour la coopération ;
+
+Du ministre du budget et du ministre des affaires étrangères pour les Etats étrangers qui relèvent des attributions de ce
+dernier pour la coopération.
 
 **Liens relatifs à cet article**
 
@@ -11623,7 +13099,7 @@ application au taux de base des majorations applicables aux rémunérations de l
 
 	**Modifié par**:
 
-	  - Décret n°78-344 1978-03-17 art. 1 JORF 19 mars 1978
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 17 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11690,19 +13166,30 @@ finances.
 
 ###### Article R209
 
-Les jeunes gens affectés au service de l'aide technique ou au service de la coopération ont droit à la gratuité du voyage
-aller et retour entre leur domicile et leur lieu d'emploi ainsi qu'à la gratuité des déplacements occasionnés par le service.
+I. - Les jeunes gens affectés au service de l'aide technique ont droit à la gratuité du voyage aller et retour entre leur
+domicile et leur lieu d'emploi ainsi qu'à la gratuité des déplacements occasionnés par le service. Leur transport est assuré
+dans les conditions réglementaires applicables aux agents de l'Etat du dernier groupe et celui de leurs bagages dans les
+conditions prévues pour les militaires du rang accomplissant le service militaire, à l'exclusion de l'indemnité journalière
+de déplacement et de l'indemnité de déménagement.
+
+Les jeunes gens qui, ayant été incorporés en métropole et affectés au service de l'aide technique sont libérés outre-mer,
+conservent le droit à la gratuité du voyage de retour pendant un maximum de trois ans à compter de la date de leur libération
+du service actif.
+
+II. - Les jeunes gens affectés au service de la coopération ont droit à la gratuité du voyage aller et retour entre leur
+domicile et leur lieu d'emploi.
+
 Leur transport est assuré dans les conditions réglementaires applicables aux agents de l'Etat du dernier groupe et celui de
-leurs bagages dans les conditions prévues pour les hommes du rang accomplissant le service militaire, à l'exclusion de
+leurs bagages dans les conditions prévues pour les militaires du rang accomplissant le service militaire, à l'exclusion de
 l'indemnité journalière de déplacement et de l'indemnité de déménagement.
 
-Conservent le droit à la gratuité du voyage de retour pendant un maximum de trois ans à compter de la date de leur libération
-du service actif :
+Les jeunes gens qui, ayant été incorporés sur le territoire de la République et affectés au service de la coopération,
+demandent à être libérés dans l'Etat de séjour conservent le droit à la gratuité du voyage de retour pendant un maximum de
+trois ans à compter de la date de leur libération du service actif.
 
-- les jeunes gens qui, ayant été incorporés en métropole et affectés au service de l'aide technique, sont libérés outre-mer ;
-
-- les jeunes gens qui, ayant été incorporés sur le territoire de la République et affectés au service de la coopération,
-demandent à ^etre libérés dans l'Etat de séjour.
+Les jeunes gens affectés au service de la coopération ont droit à la gratuité des déplacements occasionnés par le service.
+Lorsque ces déplacements sont organisés à la demande des autorités françaises, ils perçoivent l'indemnité journalière de
+mission du dernier groupe prévue pour les déplacements effectués sur le territoire de l'Etat où ils exercent leurs fonctions.
 
 **Liens relatifs à cet article**
 
@@ -11710,6 +13197,10 @@ demandent à ^etre libérés dans l'Etat de séjour.
 
 	  - Décret n°67-210 1967-03-10 art. 14
 	  - Décret n°67-209 1967-03-10 art. 14
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 18 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11771,9 +13262,7 @@ Dans le service de la coopération, cette durée est de :
 
 - deux jours par mois de service effectif accompli en Europe ou en Afrique du Nord ;
 
-- trois jours par mois de service effectif accompli dans les Etats du Moyen-Orient ou au Sahara (Algérie) ;
-
-- quatre jours par mois de service effectif accompli dans les autres Etats étrangers.
+- trois jours par mois de service effectif accompli dans les autres Etats étrangers.
 
 Toute fraction de mois de service effectif supérieure à quinze jours est comptée comme un mois entier.
 
@@ -11786,7 +13275,7 @@ Toute fraction de mois de service effectif supérieure à quinze jours est compt
 
 	**Modifié par**:
 
-	  - Décret n°86-337 1986-03-05 art. 2 JORF 12 mars 1986
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 19 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11805,10 +13294,15 @@ droits acquis, soit en une fois, avant la libération du service actif.
 
 Dans le service de la coopération, les jeunes gens en service dans les Etats étrangers d'Europe ou d'Afrique du Nord peuvent
 prendre les permissions normales soit par fraction, à concurrence des droits acquis, soit en une fois, avant la libération du
-service actif. Pour ceux qui servent dans les autres Etats, les permissions normales sont prises en principe en une fois
-avant la libération du service actif.
+service actif. Pour ceux qui servent dans les autres Etats, les permissions normales peuvent être prises par fraction, à
+concurrence de quinze jours pendant le séjour à titre de détente, et le reliquat pris en principe en une fois avant la
+libération du service actif.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 20 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11823,11 +13317,16 @@ avant la libération du service actif.
 ###### Article R213
 
 Par dérogation aux dispositions de l'article précédent et en raison des nécessités inhérentes à l'emploi, les jeunes gens
-affectés au service de l'aide technique ou au service de la coopération dans un emploi d'enseignant peuvent bénéficier par
-anticipation, pendant la période séparant deux années scolaires, de leurs permissions normales calculées sur la durée totale
-du séjour qu'ils doivent effectuer au titre du service actif.
+affectés au service de l'aide technique ou au service de la coopération dans un emploi d'enseignant ou assimilé et qui, de ce
+fait, effectuent un contrat complémentaire, peuvent bénéficier par anticipation, pendant la période séparant deux années
+scolaires, de leurs permissions normales calculées sur la durée totale du séjour qu'ils doivent effectuer au titre du service
+actif.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 21 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -11988,10 +13487,15 @@ responsable.
 
 ###### Article R220
 
-En cas d'hospitalisation hors de France, l'indemnité forfaitaire est ramenée à 25 p. 100 de son montant dans le département,
-le territoire ou l'Etat de séjour.
+I. - En cas d'hospitalisation hors de métropole, l'indemnité forfaitaire des jeunes gens servant au titre de l'aide technique
+est ramenée à 25 p. 100 de son montant dans le département, le territoire ou la collectivité territoriale de séjour.
 
-En cas d'hospitalisation en métropole, cette indemnité est égale à 15 p. 100 du taux de base minimum.
+En cas d'hospitalisation en métropole, leur indemnité est égale à 15 p. 100 du taux de base minimum.
+
+II. - En cas d'hospitalisation hors de France, l'indemnité d'entretien des jeunes gens servant au titre du service de la
+coopération est ramené à 25 p. 100 de son montant dans l'Etat de séjour, au-delà du quinzième jour d'hospitalisation.
+
+En cas d'hospitalisation en métropole, leur indemnité est égale à 25 p. 100 de l'élément commun.
 
 **Liens relatifs à cet article**
 
@@ -11999,6 +13503,10 @@ En cas d'hospitalisation en métropole, cette indemnité est égale à 15 p. 100
 
 	  - Décret n°67-210 1967-03-10 art. 22
 	  - Décret n°67-209 1967-03-10 art. 22
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 22 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12008,10 +13516,6 @@ En cas d'hospitalisation en métropole, cette indemnité est égale à 15 p. 100
 
 	  - Code du service national - art. ANNEXE I (V)
 	  - Code du service national - art. R227 (V)
-
-	**Modifié par**:
-
-	  - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
 ##### PARAGRAPHE 6 : Inaptitude physique.
@@ -12048,7 +13552,7 @@ commission de réforme compétente sont fixées par instruction des ministres re
 Avant leur libération du service actif, les jeunes gens affectés au service de l'aide technique ou au service de la
 coopération sont soumis par les soins du ministre responsable à un examen médical de contr^ole constatant leur état de santé.
 
-A l'expiration d'une durée de service égale à celle fixée à l'article L. 12, les intéressés sont rayés des contr^oles du
+A l'expiration d'une durée de service égale à celle fixée à l'article L. 2, les intéressés sont rayés des contr^oles du
 service de l'aide technique ou du service de la coopération et libérés du service actif par le ministre responsable.
 
 **Liens relatifs à cet article**
@@ -12057,6 +13561,10 @@ service de l'aide technique ou du service de la coopération et libérés du ser
 
 	  - Décret n°67-210 1967-03-10 art. 25
 	  - Décret n°67-209 1967-03-10 art. 25
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 23 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12075,7 +13583,8 @@ service de l'aide technique ou du service de la coopération et libérés du ser
 
 Le décompte des services accomplis dans le service de l'aide technique ou le service de la coopération est arr^eté par le
 ministre responsable lors de la libération des jeunes gens et enregistré sur les pièces matricules. Celles-ci, à l'exception
-de la carte du service national qui est remise à l'intéressé, sont adressées au bureau de recrutement d'origine.
+de la carte du service national qui est remise à l'intéressé, sont adressées au bureau ou centre du service national
+d'origine.
 
 **Liens relatifs à cet article**
 
@@ -12083,6 +13592,10 @@ de la carte du service national qui est remise à l'intéressé, sont adressées
 
 	  - Décret n°67-210 1967-03-10 art. 26
 	  - Décret n°67-209 1967-03-10 art. 26
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12123,15 +13636,18 @@ fixée par arr^eté du ministre responsable sur proposition du représentant loc
 ###### Article R225
 
 Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité forfaitaire égale à 50 p. 100 du taux
-de base minimum. Lorsqu'ils sont en permission normale ou en permission de convalescence en tant que rapatriés sanitaires,
-soit dans un Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire égale à 15 p. 100 du taux de base
-minimum.
+de base minimum. Lorsqu'ils sont en permission normale, en congé de maternité ou en permission de convalescence, soit dans un
+Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire égale à 15 p. 100 du taux de base minimum.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-209 1967-03-10 art. 11
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 24 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12141,17 +13657,13 @@ minimum.
 
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Modifié par**:
-
-	  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
-
 
 #### SECTION III : Dispositions particulières au service de la coopération.
 
 ###### Article R226
 
 L'indemnité forfaitaire d'entretien mentionnée à l'article R. 206 est versée aux intéressés lorsqu'ils sont en service dans
-l'Etat de séjour ou en permission dans cet Etat.
+l'Etat de séjour, en permission ou en congé de maternité dans cet Etat.
 
 Lorsque les intéressés reçoivent une allocation ou des prestations de l'Etat ou de l'organisme employeur, l'indemnité
 forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en nature, cette indemnité subit un abattement de
@@ -12162,6 +13674,10 @@ forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en n
 	**Anciens textes**:
 
 	  - Décret n°67-210 1967-03-10 art. 10
+
+	**Modifié par**:
+
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 25 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12181,11 +13697,16 @@ forfaitaire est réduite à due concurrence. Lorsque le logement est fourni en n
 Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité égale à 75 p. 100 du montant de
 l'élément commun.
 
-Lorsque, hors de l'Etat de séjour, ils sont en permission, les intéressés reçoivent une indemnité égale à 25 p. 100 du
-montant de l'élément commun.
+Lorsqu'ils sont en permission libérable en France, les intéressés reçoivent une indemnité égale à 25 p. 100 du montant de
+l'élément commun. Toutefois, les ministres responsables définissent par arrêté conjoint les conditions applicables à ceux qui
+bénéficient des dispositions prévues à l'article R. 213.
 
-Lorsque, hors de l'Etat de séjour, ils sont en permission de convalescence en tant que rapatriés sanitaires, les intéressés
-reçoivent une indemnité égale au montant de l'élément commun.
+Lorsque, hors de l'Etat de séjour, ils sont en permission de convalescence ou en congé de maternité, les intéressés reçoivent
+une indemnité égale au montant de l'élément commun.
+
+Lorsque les intéressés sont hospitalisés, ils reçoivent application de l'article R. 220.
+
+Dans tous les autres cas, les intéressés perçoivent l'indemnité forfaitaire d'entretien, au taux du pays d'affectation.
 
 **Liens relatifs à cet article**
 
@@ -12195,8 +13716,7 @@ reçoivent une indemnité égale au montant de l'élément commun.
 
 	**Modifié par**:
 
-	  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
-	  - Décret n°87-527 1987-07-08 art. 1 JORF 14 juillet 1987
+	  - Décret n°92-1250 du 1 décembre 1992 - art. 26 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12205,6 +13725,11 @@ reçoivent une indemnité égale au montant de l'élément commun.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. R213 (M)
+	  - Code du service national - art. R220 (M)
 
 
 ### CHAPITRE IV : Service des objecteurs de conscience.
@@ -12393,9 +13918,9 @@ dans l'administration ou l'organisme d'affectation, ne compte pas pour la durée
 
 ###### Article R227-10
 
-Des permissions dites << de détente <> peuvent ^etre accordées par l'organisme d'affectation en fonction de son activité dans
-la limite de seize jours par an. Si un dimanche ou un jour férié se situe au début ou à la fin de la permission, il s'ajoute
-à la durée de celle-ci.
+Les permissions normales dont peuvent bénéficier les objecteurs de conscience sont fixées à treize jours par période de dix
+mois de service. Les samedis, les dimanches et les jours de fêtes légales ne viennent pas en déduction de ces droits à
+permission. Elles peuvent être prises soit par fraction, soit en une fois avant la fin du service actif.
 
 Vient en déduction de la durée de ces permissions un nombre de jours égal à celui :
 
@@ -12404,6 +13929,10 @@ Vient en déduction de la durée de ces permissions un nombre de jours égal à 
 - des jours d'absence sans autorisation.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 56 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12417,10 +13946,17 @@ Vient en déduction de la durée de ces permissions un nombre de jours égal à 
 
 ###### Article R227-11
 
-Des permissions dites << de détente <> peuvent ^etre accordées dans les m^emes conditions à l'occasion d'un événement
-familial important selon les règles applicables à l'ensemble des jeunes gens accomplissant leur service national actif.
+Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent être accordées pour la naissance d'un
+enfant, le mariage de l'intéressé, le décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents, beaux-parents,
+frère, soeur). Un supplément de huit jours de permission peut être également accordé aux appelés qui exerçaient la profession
+d'agriculteur lors de leur incorporation ou qui, fils d'agriculteur et n'exerçant aucune profession, étaient employés chez
+leurs parents en qualité d'aide familial agricole.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 57 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12429,18 +13965,19 @@ familial important selon les règles applicables à l'ensemble des jeunes gens a
 
 ###### Article R227-12
 
-Les jeunes gens visés à l'article R. 227-1 sortant d'un établissement hospitalier peuvent bénéficier de permissions de
-convalescence dont la durée est fixée par le médecin agréé par le ministre.
+Des permissions de convalescence peuvent être accordées aux objecteurs de conscience dont l'état de santé le nécessite. Leur
+durée, fixée par le médecin agréé par le ministre, au plus égale à trente jours, est renouvelable. Elles ne viennent pas en
+déduction des autres permissions.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 58 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°72-806 1972-08-31
-
-	**Cite**:
-
-	  - Code du service national - art. R227-1 (M)
 
 
 ###### Article R227-13
@@ -12448,10 +13985,14 @@ convalescence dont la durée est fixée par le médecin agréé par le ministre.
 Le ministre peut accorder, à titre de récompense, des permissions individuelles de caractère exceptionnel, dans la limite de
 cinq jours par an, pour acte exceptionnel de courage et de dévouement.
 
-Un ou plusieurs congés de formation, dont la durée totale ne peut pas excéder douze jours ouvrables, peuvent ^etre accordés
-par le ministre dont dépend l'organisme auprès duquel le demandeur est affecté.
+Un ou plusieurs congés de formation, dont la durée totale ne peut pas excéder dix jours ouvrables, peuvent ^etre accordés par
+le ministre dont dépend l'organisme auprès duquel le demandeur est affecté.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 59 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12613,9 +14154,9 @@ service national.
 
 ###### Article R*228
 
-Les personnes de sexe féminin et de nationalité française qui font acte de volontariat pour servir au titre de l'une des
-formes du service national doivent jouir de leurs droits civils et satisfaire aux conditions d'^age et d'aptitude exigées par
-le code du service national pour l'accomplissement du service actif. Elles n'ont pas accès au service des objecteurs de
+Les Françaises, les étrangères sans nationalité et celles qui bénéficient du droit d'asile qui font acte de volontariat pour
+servir au titre de l'une des formes du service national doivent jouir de leurs droits civils et satisfaire aux conditions
+d'âge et d'aptitude exigées pour l'accomplissement du service actif. Elles n'ont pas accès au service des objecteurs de
 conscience.
 
 Les modalités de constatation et de vérification de l'aptitude au service national sont fixées par le ministre de la défense.
@@ -12628,8 +14169,7 @@ Les modalités de constatation et de vérification de l'aptitude au service nati
 
 	**Modifié par**:
 
-	  - Décret n°75-828 1975-09-02 art. 4 JORF 7 septembre 1975
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 60 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12702,6 +14242,9 @@ Les candidates dont le volontariat a été accepté rejoignent leur affectation 
 Les candidates volontaires pour servir dans les armées ne peuvent accéder qu'aux emplois ouverts aux femmes et en fonction
 des recrutements annuels fixés par le ministre de la défense.
 
+Les obligations militaires des volontaires féminines comprennent le service actif, la disponibilité et la réserve dans les
+conditions fixées par les articles L. 67, L. 69 et L. 71 à L. 85.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12710,7 +14253,7 @@ des recrutements annuels fixés par le ministre de la défense.
 
 	**Modifié par**:
 
-	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 61 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
@@ -12719,6 +14262,59 @@ des recrutements annuels fixés par le ministre de la défense.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L67 (M)
+	  - Code du service national - art. L69 (M)
+	  - Code du service national L67, L69, L71 à L85
+
+
+###### Article R*232
+
+Le ministre de la défense peut mettre fin, par anticipation, à l'accomplissement du service national d'une volontaire dans
+les cas suivants :
+
+a) Si l'intéressée fait l'objet d'une condamnation comportant une peine d'emprisonnement sans sursis ;
+
+b) Après l'avis du conseil de discipline si, accomplissant son service militaire, l'intéressée a commis une faute grave
+contre la discipline ou contre l'honneur ;
+
+c) Si la commission de réforme prévue à l'article L. 61 propose une suspension temporaire des obligations résultant du
+volontariat ;
+
+d) Si l'intéressée ne satisfait plus aux dispositions prévues par l'article R. 228 ou, sur sa demande, pour un motif grave
+fondé sur des événements personnels ou familiaux survenus depuis son entrée au service ;
+
+e) Si les circonstances prévues aux articles L. 111, L. 150 et L. 151 du code du service national conduisent le ministre
+responsable à en faire la proposition au ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-919 1971-11-17 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984 rectificatif JORF 4 septembre 1984
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 63 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L111 (M)
+	  - Code du service national - art. L150 (M)
+	  - Code du service national - art. L151 (M)
+	  - Code du service national - art. L61 (M)
+	  - Code du service national L61, R228, L111, L150, L151
 
 
 ###### Article R*233
@@ -12748,6 +14344,44 @@ ont accompli le service national.
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*233-1
+
+Nonobstant les régimes de protection sociale qui leur sont propres, les volontaires féminines en état de grossesse sont
+soumises aux examens prévus par l'article L. 154 du code de la santé publique. Dans les armées, le carnet de maternité leur
+est délivré par le service de santé des armées.
+
+Elles bénéficient des dispositions de l'article L. 122-26 du code du travail en matière de congé lié à l'accouchement et ont
+droit à la prise en charge des frais de soins liés à la maternité dans les conditions prévues à l'article L. 331-2 du code de
+la sécurité sociale.
+
+Elles peuvent prétendre à l'allocation pour jeune enfant définie aux articles L. 531-1 et R. 531-1 du code de la sécurité
+sociale dans les conditions prévues par ces articles et par l'article L. 534-1 dudit code. Le versement de cette prestation
+est assuré par la caisse d'allocations familiales du lieu de résidence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 62 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
+
+	**Cité par**:
+
+	  - Code du service national - art. ANNEXE I (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-26 (M)
+	  - Code de la santé publique - art. L154 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+	  - Code de la sécurité sociale. - art. L531-1 (M)
+	  - Code de la sécurité sociale. - art. L534-1 (M)
+	  - Code de la sécurité sociale. - art. R531-1 (M)
 
 
 ## TITRE V : Dispositions communes aux formes civiles du service national
@@ -12785,319 +14419,594 @@ selon les modalités fixées par instruction du ministre responsable.
 
 # Annexes
 
-###### Article ANNEXE II
-
-Catégories d'activités au titre desquelles sont prononcées les affectations de défense.
-
-Tableau I : activités industrielles.
-
-Ministère de l'intérieur.
-
-Services de distribution d'eau.
-
-Services d'assainissements.
-
-Service de collecte et de traitement des ordures ménagères.
-
-Chauffage urbain.
-
-Régies communales d'électricité.
-
-Compagnie parisienne de l'air comprimé.
-
-Ministère d'état chargé de la défense nationale.
-
-Industries d'armement et autres industries nécessaires à la mise en condition des armées (1).
-
-Organismes d'études et de recherches intéressant la défense nationale (2).
-
-Ministère de l'équipement et du logement.
-
-Bâtiment et travaux publics.
-
-Entreprises de recherches techniques et de travaux spéciaux et bureaux spécialisés dans les travaux publics et le bâtiment.
-
-Organismes professionnels des travaux publics et du bâtiment participant aux activités de défense.
-
-Route ou pont à péage.
-
-Entreprises de manutention pour le chargement ou le déchargement de marchandises dans les ports fluviaux ou maritimes.
-
-Construction de bâtiments fluviaux.
-
-Transitaires maritimes.
-
-Ministère des transports.
-
-Entreprises de transports publics routiers.
-
-Transports ferroviaires et assimilés, transports urbains et suburbains.
-
-Transports de navigation intérieure.
-
-Transports maritimes.
-
-Transports aériens.
-
-Auxiliaires de transports (3).
-
-Pêche en mer et conchyliculture.
-
-Entreprises de transmissions spécialisées dans les télécommunications aériennes.
-
-Activités de réparation navale.
-
-Entreprises diverses travaillant directement en vue de la réparation navale (4).
-
-Entreprises de recherches techniques spécialisées dans les transports et la pêche.
-
-Activités de transports routiers des entreprises industrielles utilisant des véhicules entrant dans la composition du parc
-d'intérêt national (5).
-
-Ministère du développement industriel et scientifique.
-
-Industries extractives :
-
-Recherche et extraction d'hydrocarbures liquides ou gazeux ;
-
-Extraction de combustibles minéraux solides ;
-
-Extraction de minerai de fer et de minerais métalliques autres que de fer ;
-
-Extraction de matériaux de construction ;
-
-Extraction et préparation de minéraux divers.
-
-Industries et commerces des combustibles minéraux solides.
-
-Industries céramiques et matériaux de construction.
-
-Industries et commerces des carburants.
-
-Production, transport et distribution d'électricité et de gaz.
-
-Industries sidérurgiques, métallurgiques, mécaniques et électriques :
-
-Sidérurgie et commerce du fer et de la ferraille ;
-
-Production, récupération et affinage de métaux non ferreux, de silicium, de ferro-alliages, d'alumine, d'électrodes ;
-
-Métallurgie générale ;
-
-Première transformation des métaux, fonderie ;
-
-Grosse et moyenne mécanique générale, construction métallique ;
-
-Construction et réparation de machines-outils, machines, outillage et matériels mécaniques pour l'industrie, l'agriculture,
-les transports ferroviaires ;
-
-Fabrication d'articles métalliques divers ;
-
-Fabrication et réparation d'automobiles et cycles ;
-
-Construction électrique et électronique ;
-
-Précision, horlogerie et optique.
-
-Industries chimiques et parachimiques :
-
-Industries chimiques et électrochimiques ;
-
-Industries du caoutchouc et de l'amiante ;
-
-Industries des corps gras ;
-
-Industries des produits amylacés ;
-
-Industries du verre.
-
-Industries textiles et industries annexes. Habillement et travail des étoffes.
-
-Industries des cuirs et peaux.
-
-Chaussures.
-
-Industries diverses :
-
-Bois et ameublement ;
-
-Papier et carton ;
-
-Industries polygraphiques ;
-
-Articles de campement ;
-
-Brosserie ;
-
-Transformation des matières plastiques.
-
-Organismes divers :
-
-Organismes professionnels industriels visés à l'article 19 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation
-générale de la défense concernant les industries ci-dessus.
-
-Organismes de recherche, laboratoires, bureaux d'études et centres de documentation.
-
-Assemblée permanente des chambres de métiers.
-
-Chambres de métiers.
-
-Ministère de l'agriculture.
-
-Industries agricoles et alimentaires (6) :
-
-Travail des grains et farines ;
-
-Boulangerie, biscuiterie et produits de régime ;
-
-Sucrerie, distillerie, fabrication de boissons ;
-
-Industries du lait ;
-
-Conserverie ;
-
-Industries alimentaires diverses.
-
-Industries du froid.
-
-Industrie du bois (scieries).
-
-Industrie textile (rouissage et teillage du lin et du chanvre).
-
-Industries diverses (travail du liège).
-
-Organismes professionnels industriels visés à l'article 19 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation
-générale de la défense concernant les industries ci-dessus.
-
-Ministère des postes et télécommunications.
-
-Transmissions (entreprises privées de transmissions).
-
-Tableau II : activités agricoles.
-
-Ministère du développement industriel et scientifique.
-
-Entreprises du secteur des métiers travaillant en milieu rural.
-
-Ministère de l'agriculture.
-
-Assemblée permanente des chambres d'agriculture.
-
-Chambres d'agriculture.
-
-Exploitation forestière.
-
-Agriculture et production animale.
-
-Activités annexes de l'agriculture.
-
-Abattoirs.
-
-Vétérinaires.
-
-Récupération de déchets animaux et végétaux.
-
-Marais salants.
-
-Organismes professionnels agricoles visés à l'article 19 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation
-générale de la défense.
-
-Ministère des transports.
-
-Activités de transport routier des entreprises agricoles qui utilisent des véhicules entrant dans la composition du parc
-d'intérêt national (7).
-
-Tableau III : activités commerciales.
-
-Premier ministre.
-
-Agence France-Presse.
-
-Havas et sociétés filiales.
-
-Société nationale des entreprises de presse.
-
-Société professionnelle des papiers de presse.
-
-Entreprises, imprimeries et messageries de presse.
-
-Société financière de radiodiffusion.
-
-Ministère de l'économie et des finances.
-
-Etablissements de crédits et banques.
-
-Compagnies d'assurances.
-
-Entrepôts, docks et magasins généraux.
-
-Ministère de l'équipement et du logement.
-
-Entrepôts, docks et magasins généraux dans les ports maritimes et fluviaux (8).
-
-Ministère des transports.
-
-Etablissements et caisses de crédit spécialisées dans les opérations maritimes (8).
-
-Courtiers jurés d'assurances maritimes.
-
-Expertises en matière maritime et aérienne.
-
-Wagons-lits, wagons-restaurants.
-
-Activité de transport routier des entreprises commerciales qui utilisent des véhicules entrant dans la composition du parc
-d'intérêt national)(9).
-
-Ministère du développement industriel et scientifique.
-
-Organismes professionnels commerciaux visés à l'article 19 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation
-générale de la défense.
-
-Chambres régionales de commerce et d'industrie.
-
-Chambres de commerce et d'industrie.
-
-Entrepôts, docks et magasins généraux gérés par les chambres de commerce et d'industrie.
-
-Ministère de l'agriculture.
-
-Activités commerciales indispensables au ravitaillement général.
-
-Entrepôts, docks et magasins généraux.
-
-Organismes professionnels commerciaux visés à l'article 19 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation
-générale de la défense.
-
-(1) Il s'agit des entreprises relevant de ces industries, pour lesquelles une délégation d'attributions a été donnée au
-ministre chargé de la défense nationale par le ministre chargé de la mobilisation industrielle.
-
-(2) En liaison, le cas échéant, avec le ministère dont ils relèvent.
-
-(3) En liaison avec le ministère de l'équipement et du logement.
-
-(4) En liaison avec le ministère chargé de la défense nationale et le ministère chargé du développement industriel et
-scientifique.
-
-(5) En liaison avec le ministère dont relèvent les entreprises en question.
-
-(6) Pour les industries alimentaires relevant du ministère chargé de la marine marchande, celui-ci opère en liaison avec le
-ministère de l'agriculture.
-
-(7) En liaison avec le ministère dont relèvent les entreprises en question.
-
-(8) En liaison avec le ministère de l'économie et des finances.
-
-(9) En liaison avec le ministère dont ces entreprises relèvent.
+###### Article ANNEXE I
+
+Sont codifiés dans la deuxième partie du code du service national :
+
+- dans la forme de décrets en Conseil d'Etat, les articles :
+
+R.* 1, R.* 5, R.* 6, R.* 7, R.* 8, R.* 10, R.* 11, R.* 12, R.* 15, R.* 16, R.* 17, R.* 18, R.* 23, R.* 24, R.* 25, R.* 26,
+R.* 27, R.* 28, R.* 29, R.* 30, R.* 31, R.* 32, R.* 33, R.* 34, R.* 35, R.* 36, R.* 37, R.* 38, R.* 39, R.* 40, R.* 41, R.*
+42, R.* 43, R.* 43-1, R.* 43-2, R.* 43-3, R.* 44, R.* 44-1, R.* 45, R.* 45-1, R.* 45-2, R.* 46, R.* 47, R.* 47-1, R.* 47-2,
+R.* 48, R.* 49, R.* 49-1, R.* 50, R.* 50-1, R.* 50-2, R.* 50-3, R.* 50-4, R.* 50-5, R.* 50-6, R.* 51, R.* 52, R.* 53, R.* 54,
+R.* 55, R.* 56, R.* 57, R.* 58, R.* 59, R.* 60, R.* 61, R.* 62, R.* 63, R.* 64, R.* 65, R.* 66, R.* 67, R.* 68, R.* 69, R.*
+70, R.* 71, R.* 73, R.* 98, R.* 99, R.* 100, R.* 105, R.* 106, R.* 107, R.* 108, R.* 109, R.* 127, R.* 128, R.* 129, R.* 130,
+R.* 131, R.* 132, R.* 149, R.* 150, R.* 151, R.* 152, R.* 153, R.* 154, R.* 156, R.* 157, R.* 158, R.* 159, R.* 160, R.* 161,
+R.* 162, R.* 163, R.* 164, R.* 165, R.* 166, R.* 167, R.* 169, R.* 170, R.* 171, R.* 172, R.* 173, R.* 174, R.* 175, R.* 176,
+R.* 178, R.* 179, R.* 180, R.* 181, R.* 182, R.* 183, R.* 184, R.* 185, R.* 186, R.* 187, R.* 188, R.* 189, R.* 190, R.* 191,
+R.* 192, R.* 193, R.* 194, R.* 195, R.* 196, R.* 197, R.* 198, R.* 199, R.* 200, R.* 200-1 à R.* 200-49, R.* 228, R.* 229,
+R.* 230, R.* 231, R.* 232, R.* 233, R.* 233-1, R.* 234, R.* 235, R.* 236, R.* 237, R.* 238.
+
+- dans la forme de décrets, les articles :
+
+R. 2, R. 3, R. 4, R. 9, R. 13, R. 14, R. 19, R. 20, R. 21, R. 22, R. 72, R. 74, R. 75, R. 76, R. 77, R. 78, R. 79, R. 80, R.
+81, R. 82, R. 83, R. 84, R. 85, R. 86, R. 87, R. 88, R. 89, R. 90, R. 91, R. 92, R. 93, R. 94, R. 95, R. 96, R. 97, R. 101,
+R. 102, R. 103, R. 104, R. 110, R. 111, R. 112, R. 113, R. 114, R. 115, R. 116, R. 117, R. 118, R. 119, R. 120, R. 121, R.
+122, R. 126, R. 133, R. 134, R. 135, R. 136, R. 137, R. 138, R. 139, R. 140, R. 141, R. 142, R. 143, R. 144, R. 145, R. 146,
+R. 147, R. 148, R. 202, R. 203, R. 204, R. 205, R. 206, R. 207, R. 208, R. 209, R. 210, R. 211, R. 212, R. 213, R. 214, R.
+215, R. 216, R. 217, R. 218, R. 219, R. 220, R. 221, R. 222, R. 223, R. 224, R. 225, R. 226, R. 227, R. 234.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°78-1019 1978-10-17 art. 1 et 2 JORF 22 octobre 1978
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 64 () JORF 3 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°72-806 1972-08-31
 
 	**Cite**:
 
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 19 (Ab)
+	  - Code du service national - art. R*1 (M)
+	  - Code du service national - art. R*10 (M)
+	  - Code du service national - art. R*100 (M)
+	  - Code du service national - art. R*105 (M)
+	  - Code du service national - art. R*106 (Ab)
+	  - Code du service national - art. R*107 (Ab)
+	  - Code du service national - art. R*108 (Ab)
+	  - Code du service national - art. R*109 (Ab)
+	  - Code du service national - art. R*11 (M)
+	  - Code du service national - art. R*12 (M)
+	  - Code du service national - art. R*127 (M)
+	  - Code du service national - art. R*128 (M)
+	  - Code du service national - art. R*129 (M)
+	  - Code du service national - art. R*130 (M)
+	  - Code du service national - art. R*131 (M)
+	  - Code du service national - art. R*132 (M)
+	  - Code du service national - art. R*149 (M)
+	  - Code du service national - art. R*15 (M)
+	  - Code du service national - art. R*150 (M)
+	  - Code du service national - art. R*151 (M)
+	  - Code du service national - art. R*152 (M)
+	  - Code du service national - art. R*153 (M)
+	  - Code du service national - art. R*154 (M)
+	  - Code du service national - art. R*156 (M)
+	  - Code du service national - art. R*157 (M)
+	  - Code du service national - art. R*158 (M)
+	  - Code du service national - art. R*159 (M)
+	  - Code du service national - art. R*16 (M)
+	  - Code du service national - art. R*160 (M)
+	  - Code du service national - art. R*161 (M)
+	  - Code du service national - art. R*162 (M)
+	  - Code du service national - art. R*163 (M)
+	  - Code du service national - art. R*164 (M)
+	  - Code du service national - art. R*165 (M)
+	  - Code du service national - art. R*166 (M)
+	  - Code du service national - art. R*167 (M)
+	  - Code du service national - art. R*169 (M)
+	  - Code du service national - art. R*17 (M)
+	  - Code du service national - art. R*170 (M)
+	  - Code du service national - art. R*171 (M)
+	  - Code du service national - art. R*172 (M)
+	  - Code du service national - art. R*173 (M)
+	  - Code du service national - art. R*174 (M)
+	  - Code du service national - art. R*175 (M)
+	  - Code du service national - art. R*176 (M)
+	  - Code du service national - art. R*178 (M)
+	  - Code du service national - art. R*179 (M)
+	  - Code du service national - art. R*18 (M)
+	  - Code du service national - art. R*180 (M)
+	  - Code du service national - art. R*181 (M)
+	  - Code du service national - art. R*182 (M)
+	  - Code du service national - art. R*183 (M)
+	  - Code du service national - art. R*184 (M)
+	  - Code du service national - art. R*185 (M)
+	  - Code du service national - art. R*186 (M)
+	  - Code du service national - art. R*187 (M)
+	  - Code du service national - art. R*188 (M)
+	  - Code du service national - art. R*189 (M)
+	  - Code du service national - art. R*190 (M)
+	  - Code du service national - art. R*191 (M)
+	  - Code du service national - art. R*192 (M)
+	  - Code du service national - art. R*193 (M)
+	  - Code du service national - art. R*194 (M)
+	  - Code du service national - art. R*195 (M)
+	  - Code du service national - art. R*196 (M)
+	  - Code du service national - art. R*197 (M)
+	  - Code du service national - art. R*198 (M)
+	  - Code du service national - art. R*199 (M)
+	  - Code du service national - art. R*200 (M)
+	  - Code du service national - art. R*228 (M)
+	  - Code du service national - art. R*229 (M)
+	  - Code du service national - art. R*23 (M)
+	  - Code du service national - art. R*230 (M)
+	  - Code du service national - art. R*231 (M)
+	  - Code du service national - art. R*232 (M)
+	  - Code du service national - art. R*233 (M)
+	  - Code du service national - art. R*233-1 (M)
+	  - Code du service national - art. R*234 (M)
+	  - Code du service national - art. R*235 (Ab)
+	  - Code du service national - art. R*236 (Ab)
+	  - Code du service national - art. R*237 (Ab)
+	  - Code du service national - art. R*238 (Ab)
+	  - Code du service national - art. R*24 (M)
+	  - Code du service national - art. R*25 (M)
+	  - Code du service national - art. R*26 (M)
+	  - Code du service national - art. R*27 (M)
+	  - Code du service national - art. R*28 (Ab)
+	  - Code du service national - art. R*29 (M)
+	  - Code du service national - art. R*30 (Ab)
+	  - Code du service national - art. R*31 (M)
+	  - Code du service national - art. R*32 (Ab)
+	  - Code du service national - art. R*33 (Ab)
+	  - Code du service national - art. R*34 (M)
+	  - Code du service national - art. R*35 (Ab)
+	  - Code du service national - art. R*36 (M)
+	  - Code du service national - art. R*37 (M)
+	  - Code du service national - art. R*38 (Ab)
+	  - Code du service national - art. R*39 (Ab)
+	  - Code du service national - art. R*40 (M)
+	  - Code du service national - art. R*41 (M)
+	  - Code du service national - art. R*42 (M)
+	  - Code du service national - art. R*43 (M)
+	  - Code du service national - art. R*43-1 (M)
+	  - Code du service national - art. R*43-2 (M)
+	  - Code du service national - art. R*43-3 (M)
+	  - Code du service national - art. R*44 (M)
+	  - Code du service national - art. R*44-1 (M)
+	  - Code du service national - art. R*45 (M)
+	  - Code du service national - art. R*45-1 (M)
+	  - Code du service national - art. R*45-2 (M)
+	  - Code du service national - art. R*46 (M)
+	  - Code du service national - art. R*47 (M)
+	  - Code du service national - art. R*47-1 (M)
+	  - Code du service national - art. R*47-2 (M)
+	  - Code du service national - art. R*48 (M)
+	  - Code du service national - art. R*49 (M)
+	  - Code du service national - art. R*49-1 (M)
+	  - Code du service national - art. R*5 (M)
+	  - Code du service national - art. R*50 (M)
+	  - Code du service national - art. R*50-1 (M)
+	  - Code du service national - art. R*50-2 (M)
+	  - Code du service national - art. R*50-3 (M)
+	  - Code du service national - art. R*50-4 (M)
+	  - Code du service national - art. R*50-5 (M)
+	  - Code du service national - art. R*50-6 (M)
+	  - Code du service national - art. R*51 (MMN)
+	  - Code du service national - art. R*52 (MMN)
+	  - Code du service national - art. R*53 (MMN)
+	  - Code du service national - art. R*54 (MMN)
+	  - Code du service national - art. R*55 (M)
+	  - Code du service national - art. R*56 (M)
+	  - Code du service national - art. R*57 (M)
+	  - Code du service national - art. R*58 (M)
+	  - Code du service national - art. R*59 (M)
+	  - Code du service national - art. R*6 (M)
+	  - Code du service national - art. R*60 (M)
+	  - Code du service national - art. R*61 (M)
+	  - Code du service national - art. R*62 (M)
+	  - Code du service national - art. R*63 (M)
+	  - Code du service national - art. R*64 (M)
+	  - Code du service national - art. R*65 (M)
+	  - Code du service national - art. R*66 (M)
+	  - Code du service national - art. R*67 (M)
+	  - Code du service national - art. R*68 (M)
+	  - Code du service national - art. R*69 (M)
+	  - Code du service national - art. R*7 (M)
+	  - Code du service national - art. R*70 (M)
+	  - Code du service national - art. R*71 (M)
+	  - Code du service national - art. R*73 (M)
+	  - Code du service national - art. R*8 (M)
+	  - Code du service national - art. R*98 (M)
+	  - Code du service national - art. R*99 (M)
+	  - Code du service national - art. R101 (M)
+	  - Code du service national - art. R102 (M)
+	  - Code du service national - art. R103 (M)
+	  - Code du service national - art. R104 (M)
+	  - Code du service national - art. R110 (M)
+	  - Code du service national - art. R111 (M)
+	  - Code du service national - art. R112 (M)
+	  - Code du service national - art. R113 (M)
+	  - Code du service national - art. R114 (M)
+	  - Code du service national - art. R115 (M)
+	  - Code du service national - art. R116 (M)
+	  - Code du service national - art. R117 (M)
+	  - Code du service national - art. R118 (M)
+	  - Code du service national - art. R119 (Ab)
+	  - Code du service national - art. R120 (M)
+	  - Code du service national - art. R121 (M)
+	  - Code du service national - art. R122 (M)
+	  - Code du service national - art. R126 (Ab)
+	  - Code du service national - art. R13 (M)
+	  - Code du service national - art. R133 (M)
+	  - Code du service national - art. R134 (M)
+	  - Code du service national - art. R135 (M)
+	  - Code du service national - art. R136 (M)
+	  - Code du service national - art. R137 (M)
+	  - Code du service national - art. R138 (M)
+	  - Code du service national - art. R139 (M)
+	  - Code du service national - art. R14 (M)
+	  - Code du service national - art. R140 (M)
+	  - Code du service national - art. R141 (M)
+	  - Code du service national - art. R142 (M)
+	  - Code du service national - art. R143 (M)
+	  - Code du service national - art. R144 (M)
+	  - Code du service national - art. R145 (M)
+	  - Code du service national - art. R146 (M)
+	  - Code du service national - art. R147 (M)
+	  - Code du service national - art. R148 (M)
+	  - Code du service national - art. R19 (M)
+	  - Code du service national - art. R2 (M)
+	  - Code du service national - art. R20 (M)
+	  - Code du service national - art. R202 (M)
+	  - Code du service national - art. R203 (M)
+	  - Code du service national - art. R204 (M)
+	  - Code du service national - art. R205 (M)
+	  - Code du service national - art. R206 (M)
+	  - Code du service national - art. R207 (M)
+	  - Code du service national - art. R208 (M)
+	  - Code du service national - art. R209 (M)
+	  - Code du service national - art. R21 (M)
+	  - Code du service national - art. R210 (M)
+	  - Code du service national - art. R211 (M)
+	  - Code du service national - art. R212 (M)
+	  - Code du service national - art. R213 (M)
+	  - Code du service national - art. R214 (M)
+	  - Code du service national - art. R215 (M)
+	  - Code du service national - art. R216 (M)
+	  - Code du service national - art. R217 (M)
+	  - Code du service national - art. R218 (M)
+	  - Code du service national - art. R219 (M)
+	  - Code du service national - art. R22 (M)
+	  - Code du service national - art. R220 (M)
+	  - Code du service national - art. R221 (M)
+	  - Code du service national - art. R222 (M)
+	  - Code du service national - art. R223 (M)
+	  - Code du service national - art. R224 (M)
+	  - Code du service national - art. R225 (M)
+	  - Code du service national - art. R226 (M)
+	  - Code du service national - art. R227 (M)
+	  - Code du service national - art. R3 (M)
+	  - Code du service national - art. R4 (M)
+	  - Code du service national - art. R72 (M)
+	  - Code du service national - art. R74 (M)
+	  - Code du service national - art. R75 (M)
+	  - Code du service national - art. R76 (M)
+	  - Code du service national - art. R77 (M)
+	  - Code du service national - art. R78 (Ab)
+	  - Code du service national - art. R79 (Ab)
+	  - Code du service national - art. R80 (Ab)
+	  - Code du service national - art. R81 (Ab)
+	  - Code du service national - art. R82 (Ab)
+	  - Code du service national - art. R83 (Ab)
+	  - Code du service national - art. R84 (Ab)
+	  - Code du service national - art. R85 (Ab)
+	  - Code du service national - art. R86 (Ab)
+	  - Code du service national - art. R87 (Ab)
+	  - Code du service national - art. R88 (Ab)
+	  - Code du service national - art. R89 (Ab)
+	  - Code du service national - art. R9 (M)
+	  - Code du service national - art. R90 (Ab)
+	  - Code du service national - art. R91 (Ab)
+	  - Code du service national - art. R92 (Ab)
+	  - Code du service national - art. R93 (Ab)
+	  - Code du service national - art. R94 (Ab)
+	  - Code du service national - art. R95 (Ab)
+	  - Code du service national - art. R96 (Ab)
+	  - Code du service national - art. R97 (Ab)
+	  - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
+
+
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE
+
+###### Article ANNEXE II
+
+TABLEAU   I
+
+Activités industrielles
+
+Ministère de l'intérieur
+
+Distribution de l'eau.
+
+Assainissement.
+
+Collecte et traitement des ordures ménagères.
+
+Production d'air comprimé.
+
+Ministère de la défense
+
+Industries d'armement et autres industries nécessaires à la mise en condition des armées (1).
+
+Organismes d'études et de recherches intéressant la défense nationale (2).
+
+Ministère de l'équipement
+
+Industries de mise en oeuvre du bâtiment et du génie civil.
+
+Extraction des matériaux de construction.
+
+Cabinets d'études techniques.
+
+Location de matériel pour le bâtiment et les travaux publics.
+
+Ministère des transports
+
+Exploitation d'ouvrages routiers à péage.
+
+Manutention portuaire fluviale et aéroportuaire.
+
+Activités spécifiques d'auxiliaires des transports aériens.
+
+Transports urbains de voyageurs.
+
+Transports routiers de marchandises.
+
+Transports fluviaux de marchandises.
+
+Transports ferroviaires.
+
+Location de véhicules industriels.
+
+Collecte du fret terrestre et fluvial.
+
+Location de wagons.
+
+Transports aériens.
+
+Réparation de navires.
+
+Réparation d'aviation générale.
+
+Entrepôts.
+
+Gestion des gares routières, ports fluviaux, aéroports.
+
+Secrétariat d'Etat à la mer
+
+Manutention portuaire maritime.
+
+Transports maritimes.
+
+Transitaires maritimes.
+
+Pêche en mer et conchyliculture.
+
+Auxiliaires de transport maritime (3).
+
+Ministère de l'industrie
+
+Extraction, production et transformation des minerais et combustibles solides.
+
+Industries céramiques.
+
+Production, raffinage et répartition des carburants.
+
+Production, transport et distribution d'électricité et de gaz.
+
+Industries sidérurgiques, mécaniques, électriques et électroniques.
+
+Fabrication de matériaux plastiques et composites.
+
+Transformation en produits chimiques et parachimiques.
+
+Production pharmaceutique.
+
+Production de caoutchouc et d'amiante.
+
+Production de corps gras et produits amylacés.
+
+Fabrication de verre et produits dérivés.
+
+Industries textiles et industries annexes.
+
+Industries des cuirs et peaux.
+
+Ministère de l'agriculture
+
+Industries agricoles et alimentaires :
+
+- industrie de la viande : abattage, découpe, préparations diverses (bovins, porcins, ovins, équins, volaille) ;
+
+- industrie laitière ;
+
+- fabrication de conserves ;
+
+- boulangerie, pâtisserie ;
+
+- travail du grain ;
+
+- fabrication de produits alimentaires divers ;
+
+- fabrication de boissons et alcools (dont production d'eaux minérales et de source).
+
+Industrie textile (rouissage et teillage du lin et du chanvre).
+
+Travail mécanique du bois et produits de transformation.
+
+Travail du liège.
+
+Récupération de produits divers : équarrissage.
+
+TABLEAU   II
+
+Activités agricoles
+
+Ministère de l'agriculture
+
+Productions végétales et grandes cultures.
+
+Productions animales :
+
+- élevage : bovins, porcins, volailles, etc. ;
+
+- production laitière ;
+
+- productions diverses : oeufs, etc.
+
+Sylviculture et exploitation forestière.
+
+Aquaculture continentale et pisciculture.
+
+Extraction saline (marais salants).
+
+Santé animale (contrôles vétérinaires) et autres services affectés au profit de l'élevage (insémination).
+
+Ministère des transports
+
+Activités de transport routier des entreprises agricoles qui utilisent des véhicules entrant dans la composition du parc
+d'intérêt national (4).
+
+Ministère de l'économie et des finances
+
+(Commerce et artisanat)
+
+Entreprises du secteur des métiers travaillant en milieu rural.
+
+TABLEAU   III
+
+Activités commerciales
+
+Premier ministre
+
+Agence de presse.
+
+Fourniture de papiers de presse.
+
+Imprimerie, presse, édition.
+
+Communication par audiovisuel.
+
+Ministère de l'économie et des finances
+
+Opérations de crédit et de banque.
+
+Opérations d'assurances.
+
+Opérations d'entreposage et de stockage.
+
+Ministère de l'équipement
+
+Opérations d'entreposage et stockage dans les ports fluviaux (5).
+
+Secrétariat d'Etat à la mer
+
+Opérations de crédit et d'assurance maritimes (6).
+
+Expertise en matière maritime.
+
+Opération de stockage et d'entreposage dans les ports maritimes (6).
+
+Ministère des transports
+
+Expertise en matière aérienne.
+
+Exploitation de wagons-lits et de wagons-restaurants.
+
+Activité de transport routier des entreprises commerciales qui utilisent des véhicules entrant dans la composition du parc
+d'intérêt national (7).
+
+Ministère de la défense
+
+Services d'approvisionnement des forces françaises sur le territoire français et à l'étranger.
+
+Ministère de l'agriculture
+
+Activités commerciales indispensables au ravitaillement général.
+
+Stockage et conservation des réserves agro-alimentaires (entrepôts frigorifiques ou non, docks et magasins généraux).
+
+Restauration collective.
+
+Ministère de l'industrie
+
+Stockage et conservation des réserves gérées par les chambres de commerce et d'industrie.
+
+TABLEAU   IV
+
+Autres activités
+
+Ministère de la santé
+
+Prestations sanitaires et sociales privées.
+
+Production et distribution de sérums, vaccins, sang et produits sanguins.
+
+Distribution des produits pharmaceutiques et matériels médico-chirurgicaux.
+
+Ministère de la défense
+
+Activités culturelles, sociales et sportives au profit du personnel des armées sur le territoire français et à l'étranger.
+
+Ministère de l'intérieur
+
+Surveillance et gardiennage.
+
+Ministère des affaires étrangères
+
+Activités exercées par le personnel affecté au ministère des affaires étrangères pour mise à disposition des agences créées
+en temps de crise dans le cadre de l'alliance atlantique.
+
+Ministère chargé des postes et télécommunications
+
+Exploitation et gestion du service public du courrier et des activités financières associées.
+
+Exploitation et gestion des réseaux publics de télécommunication.
+
+Ministère de l'environnement
+
+Gestion des ressources en eau.
+
+Surveillance, prévention et lutte contre les pollutions des milieux naturels, eau, air, sol.
+
+Protection de la nature.
+
+Protection des personnes et des biens vis-à-vis des risques technologiques et naturels.
+
+Tous ministères
+
+Représentation professionnelle.
+
+Activités de recherche, d'études et de documentation.
+
+(1) Il s'agit des entreprises relevant de ces industries, pour lesquelles une délégation d'attributions a été donnée au
+ministre chargé des armées par le ministre chargé de la mobilisation industrielle.
+
+(2) En liaison, le cas échéant, avec le ministère dont ils relèvent.
+
+(3) En liaison avec le ministère de l'équipement, du logement, des transports et de l'espace.
+
+(4) En liaison avec le ministère dont relèvent les entreprises en question.
+
+(5) En liaison avec le ministère de l'économie et des finances.
+
+(6) En liaison avec le ministère de l'économie et des finances.
+
+(7) En liaison avec le ministère dont ces entreprises relèvent.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II
+du code du service national s'appliquent aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit
+d'asile, nés avant le 1er janvier 1979.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1249 du 1 décembre 1992 - art. 55 () JORF 3 décembre 1992
 
 	**Codifié par**:
 
