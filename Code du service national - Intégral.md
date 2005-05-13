@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-14
 
 # Partie législative
 
@@ -579,7 +579,7 @@ invalidante, d'une infirmité ou d'un handicap les rendant définitivement inapt
 
 ###### Article L114-8
 
-Les Français âgés de moins de vingt-cinq ans qui résident à l'étranger participent, sous la responsabilité du chef du poste
+Les Français établis hors de France âgés de moins de vingt-cinq ans participent, sous la responsabilité du chef du poste
 diplomatique ou consulaire accrédité, à l'appel de préparation à la défense aménagé en fonction des contraintes de leur pays
 de résidence.
 
@@ -589,9 +589,9 @@ de résidence.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Ordonnance n°2005-461 du 13 mai 2005 - art. 5 () JORF 14 mai 2005
 
 
 ###### Article L114-9
