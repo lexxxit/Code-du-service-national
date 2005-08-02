@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -1508,6 +1508,145 @@ accidents du travail est celle applicable localement.
 	  - Code du service national - art. L122-16
 	  - Code du service national - art. L122-17
 	  - Code du service national - art. L122-20
+
+
+#### Chapitre III : Le volontariat pour l'insertion
+
+###### Article L130-1
+
+Il est créé un contrat de droit public intitulé : "contrat de volontariat pour l'insertion", qui permet de recevoir une
+formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
+
+Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
+personne de dix-huit à vingt et un ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
+l'issue de la journée d'appel de préparation à la défense, qu'elle rencontre des difficultés particulières d'insertion
+sociale et professionnelle.
+
+Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
+défense, dont le régime est l'internat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
+	  - Décret n°2005-885 du 2 août 2005 - art. 1 (V)
+	  - Code du travail - art. L6241-10 (V)
+	  - Code général des impôts, CGI. - art. 244 quater G (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+
+###### Article L130-2
+
+Le volontariat est souscrit initialement pour une durée de six mois à un an. Il peut être prolongé sans que la durée totale
+du volontariat puisse excéder vingt-quatre mois.
+
+Le contrat, qui comprend une période probatoire, peut notamment comporter une ou plusieurs périodes de stage en entreprise ou
+en administration.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
+d'exécution et de résiliation du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-885 du 2 août 2005 - art. 6 (V)
+	  - Code du service national - art. L130-5 (V)
+
+
+###### Article L130-3
+
+L'accomplissement du volontariat pour l'insertion ouvre droit :
+
+1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
+
+2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
+
+Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
+
+L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
+généralisée et de la contribution au remboursement de la dette sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
+	  - Décret n°2017-858 du 9 mai 2017 - art. 7
+	  - Code de la sécurité sociale. - art. R372-3 (V)
+	  - Code du service national - art. L130-2 (M)
+	  - Code du service national - art. L130-4 (V)
+	  - Code du service national - art. L130-5 (V)
+	  - Code général des impôts, CGI. - art. 81 (VT)
+
+
+###### Article L130-4
+
+I. - Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
+maladie, maternité et invalidité du régime général de sécurité sociale.
+
+La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret.
+
+II. - Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
+l'insertion, des dispositions du livre IV du code de la sécurité sociale.
+
+La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret.
+
+III. - Le bénéfice des dispositions de l'article L. 130-4 est maintenu durant la période de volontariat au profit du
+volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident
+ou une maladie survenu par le fait ou à l'occasion du service.
+
+IV. - Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
+l'allocation mentionnée à l'article L. 351-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+	  - Code de la sécurité sociale. - art. D372-2 (Ab)
+	  - Code de la sécurité sociale. - art. D412-98-1 (V)
+	  - Code de la sécurité sociale. - art. L412-8 (VT)
+	  - Code de la sécurité sociale. - art. R412-20 (V)
+	  - Code du service national - art. L130-2 (V)
 
 
 ## LIVRE II
