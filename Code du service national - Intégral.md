@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2006-04-02
+Version Consolidée au 2006-04-19
 
 # Partie législative
 
@@ -154,29 +154,6 @@ Les jeunes hommes nés en 1980 et 1981 sont recensés à l'âge de dix-sept ans.
 	  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
 
 
-###### Article L112-4
-
-Les jeunes hommes nés en 1979 sont exemptés de l'appel de préparation à la défense. Ils peuvent néanmoins demander à y
-participer et se porter alors candidats à une préparation militaire.
-
-Jusqu'au 31 décembre 2001, les jeunes hommes nés en 1980, 1981 et 1982 sont convoqués pour participer à l'appel de
-préparation à la défense entre la date de leur recensement et leur dix-neuvième anniversaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-	**Abrogé par**:
-
-	  - Loi n°2006-449 du 18 avril 2006 - art. 24 () JORF 19 avril 2006
-
-
 ###### Article L112-5
 
 Lorsqu'ils ont été incorporés, les jeunes hommes nés après le 31 décembre 1978 ainsi que ceux rattachés aux mêmes classes de
@@ -199,7 +176,8 @@ recensement demeurent soumis aux articles L. 1er à L. 159 du présent code.
 
 ###### Article L112-6
 
-Les jeunes femmes nées après le 31 décembre 1981 peuvent se porter candidates à une préparation militaire.
+Les jeunes femmes nées après le 31 décembre 1981 peuvent se porter candidates à une période militaire d'initiation ou de
+perfectionnement à la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -207,9 +185,9 @@ Les jeunes femmes nées après le 31 décembre 1981 peuvent se porter candidates
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
 #### Chapitre III : Le recensement.
@@ -453,9 +431,9 @@ A l'issue de l'appel de préparation à la défense, il est délivré un certifi
 Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation et
 respectueux de l'égalité entre les sexes, qui permet de présenter les enjeux et les objectifs généraux de la défense
 nationale, les moyens civils et militaires de la défense et leur organisation, les formes de volontariats ainsi que les
-préparations militaires et les possibilités d'engagement dans les forces armées et les forces de réserve. Ils bénéficient
-également d'une sensibilisation à la prévention des risques et aux missions des services de secours ainsi que d'un
-apprentissage des gestes élémentaires de premier secours.
+périodes militaires d'initiation ou de perfectionnement à la défense nationale et les possibilités d'engagement dans les
+forces armées et les forces de réserve. Ils bénéficient également d'une sensibilisation à la prévention des risques et aux
+missions des services de secours ainsi que d'un apprentissage des gestes élémentaires de premier secours.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française. Il est délivré
 une information sur les modalités de consentement au don d'organes à fins de greffe et sur la possibilité pour une personne
@@ -475,7 +453,7 @@ examen de santé gratuit tel que prévu à l'article L. 321-3 du code de la séc
 
 	**Modifié par**:
 
-	  - Loi n°2004-811 du 13 août 2004 - art. 5 () JORF 17 août 2004
+	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 	**Cité par**:
 
@@ -656,7 +634,8 @@ service national, des conventions fixant les modalités de mise à disposition d
 
 ###### Article L114-12
 
-Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la défense par une préparation militaire.
+Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la défense par une période militaire d'initiation
+ou de perfectionnement à la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -666,7 +645,7 @@ Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la
 
 	**Modifié par**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
+	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
 ###### Article L114-13
@@ -687,16 +666,16 @@ l'intervalle des sessions du conseil.
 	  - Loi n°2004-805 du 9 août 2004 - art. 3 () JORF 11 août 2004
 
 
-#### Chapitre V : La préparation militaire.
+#### Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.
 
 ###### Article L115-1
 
-La préparation militaire et la préparation militaire supérieure sont accessibles aux Français libérés des obligations du
-service national âgés de moins de trente ans et ayant l'aptitude reconnue par le service de santé des armées pour suivre le
-cycle de formation correspondant.
+Une période militaire d'initiation ou de perfectionnement à la défense nationale est organisée sur l'initiative du ministre
+chargé de la défense nationale qui en définit les modalités.
 
-Cette préparation militaire consiste en une formation militaire dont la durée est fixée par l'autorité militaire en fonction
-des besoins de chaque force armée, arme et spécialité.
+La période militaire d'initiation ou de perfectionnement à la défense nationale est accessible aux Français âgés de plus de
+seize ans et de moins de trente ans et ayant l'aptitude reconnue par le service de santé des armées pour suivre le cycle de
+formation correspondant.
 
 **Liens relatifs à cet article**
 
@@ -704,9 +683,9 @@ des besoins de chaque force armée, arme et spécialité.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
+	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 	**Cité par**:
 
@@ -716,9 +695,9 @@ des besoins de chaque force armée, arme et spécialité.
 ###### Article L115-2
 
 Tout Français victime de dommages subis pendant une période d'instruction ou à l'occasion d'une période d'instruction
-accomplie au titre d'un cycle de formation de la préparation militaire, et, en cas de décès, ses ayants droit, obtiennent de
-l'Etat, lorsque la responsabilité de ce dernier est engagée, la réparation intégrale du dommage subi, suivant les règles du
-droit commun.
+accomplie au titre d'un cycle de formation de la période militaire d'initiation ou de perfectionnement à la défense
+nationale, et, en cas de décès, ses ayants droit, obtiennent de l'Etat, lorsque la responsabilité de ce dernier est engagée,
+la réparation intégrale du dommage subi, suivant les règles du droit commun.
 
 **Liens relatifs à cet article**
 
@@ -726,9 +705,9 @@ droit commun.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 52 () JORF 23 octobre 1999
+	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
 ### TITRE II : Dispositions relatives aux volontariats
