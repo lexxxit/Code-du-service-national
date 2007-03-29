@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2006-04-19
+Version Consolidée au 2007-03-30
 
 # Partie législative
 
@@ -716,8 +716,8 @@ la réparation intégrale du dommage subi, suivant les règles du droit commun.
 
 ###### Article L121-1
 
-Les Français peuvent servir avec la qualité de militaire comme volontaires dans les armées dans les conditions prévues par
-les articles 25, 30 et 31 de la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires.
+Les Français et les Françaises peuvent servir avec la qualité de militaire comme volontaires dans les armées dans les
+conditions prévues aux articles L. 4132-6, L. 4132-11 et L. 4132-12 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -730,13 +730,15 @@ les articles 25, 30 et 31 de la loi n° 2005-270 du 24 mars 2005 portant statut 
 
 	  - Loi n°71-424 1971-06-10
 
-	**Cite**:
-
-	  - Loi n°2005-270 2005-03-24 art. 25, art. 30, art. 31
-
 	**Modifié par**:
 
-	  - Loi n°2005-270 du 24 mars 2005 - art. 100 () JORF 26 mars 2005 en vigueur au  1er juillet 2005
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 6 () JORF 30 mars 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4132-11 (V)
+	  - Code de la défense. - art. L4132-12 (V)
+	  - Code de la défense. - art. L4132-6 (V)
 
 
 ###### Article L121-2
