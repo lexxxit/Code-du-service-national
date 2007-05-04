@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-05-05
 
 # Partie législative
 
@@ -10968,13 +10968,13 @@ La date de participation à cette session est fixée par accord avec le bureau d
 	  - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la préparation militaire.
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale
 
 ###### Article R*112-18
 
-Les Français désireux d'accomplir une préparation militaire en font la demande par écrit auprès du bureau du service national
-dont ils relèvent en précisant la force armée ou le service commun qu'ils choisissent. Leur admission est prononcée par
-l'autorité militaire après reconnaissance de l'aptitude des intéressés.
+Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
+demande par écrit auprès du bureau du service national dont ils relèvent en précisant la force armée ou le service commun
+qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des intéressés.
 
 **Liens relatifs à cet article**
 
@@ -10982,21 +10982,21 @@ l'autorité militaire après reconnaissance de l'aptitude des intéressés.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ###### Article R*112-19
 
-Les cycles de formation de la préparation militaire sont organisés dans chaque armée, dans la gendarmerie nationale et dans
-les services communs, sous forme d'une ou plusieurs périodes d'instruction, selon les modalités fixées par arrêté du ministre
-de la défense.
+Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
+dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
+d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -11004,14 +11004,14 @@ de la défense.
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ###### Article R*112-20
@@ -11024,14 +11024,9 @@ Pendant la période d'instruction, les intéressés sont bénéficiaires obligé
 
 	  - Loi n°71-424 1971-06-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ## LIVRE II
