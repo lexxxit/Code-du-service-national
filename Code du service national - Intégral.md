@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -133,25 +133,6 @@ assignés aux armées le nécessitent.
 	**Créé par**:
 
 	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-
-###### Article L112-3
-
-Les jeunes hommes nés en 1980 et 1981 sont recensés à l'âge de dix-sept ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
 
 
 ###### Article L112-5
