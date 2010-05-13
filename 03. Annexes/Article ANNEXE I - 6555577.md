@@ -20,268 +20,269 @@ R.* 230, R.* 231, R.* 232, R.* 233, R.* 233-1, R.* 234, R.* 235, R.* 236, R.* 23
 
 R. 2, R. 3, R. 4, R. 9, R. 13, R. 14, R. 19, R. 20, R. 21, R. 22, R. 72, R. 74, R. 75, R. 76, R. 77, R. 78, R. 79, R. 80, R.
 81, R. 82, R. 83, R. 84, R. 85, R. 86, R. 87, R. 88, R. 89, R. 90, R. 91, R. 92, R. 93, R. 94, R. 95, R. 96, R. 97, R. 101,
-R. 102, R. 103, R. 104, R. 110, R. 111, R. 112, R. 113, R. 114, R. 115, R. 116, R. 117, R. 118, R. 119, R. 120, R. 121, R.
-122, R. 126, R. 133, R. 134, R. 135, R. 136, R. 137, R. 138, R. 139, R. 140, R. 141, R. 142, R. 143, R. 144, R. 145, R. 146,
-R. 147, R. 148, R. 202, R. 203, R. 204, R. 205, R. 206, R. 207, R. 208, R. 209, R. 210, R. 211, R. 212, R. 213, R. 214, R.
-215, R. 216, R. 217, R. 218, R. 219, R. 220, R. 221, R. 222, R. 223, R. 224, R. 225, R. 226, R. 227, R. 234.
+R. 102, R. 103, R. 104, R. 110, R. 111, R. 112, R. 113, R. 114, R. 115, R. 116, R. 117, R. 118, R. 119, R. 120, R. 120-1, R
+120-2, R. 120-3, R. 120-4, R. 120-5, R. 120-6, R. 120-7, R. 120-8, R. 120-9, R. 120-10, R. 120-11, R. 121-10, R121-12, R.
+121-13, R. 121-14, R. R121-15, R. 121-16, R. 121-17, R. 121-18, R. 121-19, R. 121-20, D. 121-21, R. 121-22, R. 121-23, R.
+121-24, R. 121-25, R. 121-26, R. 121-27, R. 121-28, R. 121-29, R. 121-30, R. 121-31, R. 121-32, R. 121-33, R. 121-34, R.
+121-35, R. 121-36, R. 121-37, R. 121-38, R. 121-39, R. 121-40, R. 121-41, R. 121-42, R. 121-43, R. 121-44, R. 121-45, R.
+121-46, R. 121-47, R. 121-48, R. 121-49, R. 121-50, R. 121, R. 122, R. 126, R. 133, R. 134, R. 135, R. 136, R. 137, R. 138,
+R. 139, R. 140, R. 141, R. 142, R. 143, R. 144, R. 145, R. 146, R. 147, R. 148, R. 202, R. 203, R. 204, R. 205, R. 206, R.
+207, R. 208, R. 209, R. 210, R. 211, R. 212, R. 213, R. 214, R. 215, R. 216, R. 217, R. 218, R. 219, R. 220, R. 221, R. 222,
+R. 223, R. 224, R. 225, R. 226, R. 227, R. 234.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-1249 du 1 décembre 1992 - art. 64 () JORF 3 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°72-806 1972-08-31
+	  - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 	**Cite**:
 
-	  - Code du service national - art. R*1 (M)
-	  - Code du service national - art. R*10 (M)
-	  - Code du service national - art. R*100 (M)
-	  - Code du service national - art. R*105 (M)
-	  - Code du service national - art. R*106 (Ab)
-	  - Code du service national - art. R*107 (Ab)
-	  - Code du service national - art. R*108 (Ab)
-	  - Code du service national - art. R*109 (Ab)
-	  - Code du service national - art. R*11 (M)
-	  - Code du service national - art. R*12 (M)
-	  - Code du service national - art. R*127 (M)
-	  - Code du service national - art. R*128 (M)
-	  - Code du service national - art. R*129 (M)
-	  - Code du service national - art. R*130 (M)
-	  - Code du service national - art. R*131 (M)
-	  - Code du service national - art. R*132 (M)
-	  - Code du service national - art. R*149 (M)
-	  - Code du service national - art. R*15 (M)
-	  - Code du service national - art. R*150 (M)
-	  - Code du service national - art. R*151 (M)
-	  - Code du service national - art. R*152 (M)
-	  - Code du service national - art. R*153 (M)
-	  - Code du service national - art. R*154 (M)
-	  - Code du service national - art. R*156 (M)
-	  - Code du service national - art. R*157 (M)
-	  - Code du service national - art. R*158 (M)
-	  - Code du service national - art. R*159 (M)
-	  - Code du service national - art. R*16 (M)
-	  - Code du service national - art. R*160 (M)
-	  - Code du service national - art. R*161 (M)
-	  - Code du service national - art. R*162 (M)
-	  - Code du service national - art. R*163 (M)
-	  - Code du service national - art. R*164 (M)
-	  - Code du service national - art. R*165 (M)
-	  - Code du service national - art. R*166 (M)
-	  - Code du service national - art. R*167 (M)
-	  - Code du service national - art. R*169 (M)
-	  - Code du service national - art. R*17 (M)
-	  - Code du service national - art. R*170 (M)
-	  - Code du service national - art. R*171 (M)
-	  - Code du service national - art. R*172 (M)
-	  - Code du service national - art. R*173 (M)
-	  - Code du service national - art. R*174 (M)
-	  - Code du service national - art. R*175 (M)
-	  - Code du service national - art. R*176 (M)
-	  - Code du service national - art. R*178 (M)
-	  - Code du service national - art. R*179 (M)
-	  - Code du service national - art. R*18 (M)
-	  - Code du service national - art. R*180 (M)
-	  - Code du service national - art. R*181 (M)
-	  - Code du service national - art. R*182 (M)
-	  - Code du service national - art. R*183 (M)
-	  - Code du service national - art. R*184 (M)
-	  - Code du service national - art. R*185 (M)
-	  - Code du service national - art. R*186 (M)
-	  - Code du service national - art. R*187 (M)
-	  - Code du service national - art. R*188 (M)
-	  - Code du service national - art. R*189 (M)
-	  - Code du service national - art. R*190 (M)
-	  - Code du service national - art. R*191 (M)
-	  - Code du service national - art. R*192 (M)
-	  - Code du service national - art. R*193 (M)
-	  - Code du service national - art. R*194 (M)
-	  - Code du service national - art. R*195 (M)
-	  - Code du service national - art. R*196 (M)
-	  - Code du service national - art. R*197 (M)
-	  - Code du service national - art. R*198 (M)
-	  - Code du service national - art. R*199 (M)
-	  - Code du service national - art. R*200 (M)
-	  - Code du service national - art. R*228 (M)
-	  - Code du service national - art. R*229 (M)
-	  - Code du service national - art. R*23 (M)
-	  - Code du service national - art. R*230 (M)
-	  - Code du service national - art. R*231 (M)
-	  - Code du service national - art. R*232 (M)
-	  - Code du service national - art. R*233 (M)
-	  - Code du service national - art. R*233-1 (M)
-	  - Code du service national - art. R*234 (M)
-	  - Code du service national - art. R*235 (Ab)
-	  - Code du service national - art. R*236 (Ab)
-	  - Code du service national - art. R*237 (Ab)
-	  - Code du service national - art. R*238 (Ab)
-	  - Code du service national - art. R*24 (M)
-	  - Code du service national - art. R*25 (M)
-	  - Code du service national - art. R*26 (M)
-	  - Code du service national - art. R*27 (M)
-	  - Code du service national - art. R*28 (Ab)
-	  - Code du service national - art. R*29 (M)
-	  - Code du service national - art. R*30 (Ab)
-	  - Code du service national - art. R*31 (M)
-	  - Code du service national - art. R*32 (Ab)
-	  - Code du service national - art. R*33 (Ab)
-	  - Code du service national - art. R*34 (M)
-	  - Code du service national - art. R*35 (Ab)
-	  - Code du service national - art. R*36 (M)
-	  - Code du service national - art. R*37 (M)
-	  - Code du service national - art. R*38 (Ab)
-	  - Code du service national - art. R*39 (Ab)
-	  - Code du service national - art. R*40 (M)
-	  - Code du service national - art. R*41 (M)
-	  - Code du service national - art. R*42 (M)
-	  - Code du service national - art. R*43 (M)
-	  - Code du service national - art. R*43-1 (M)
-	  - Code du service national - art. R*43-2 (M)
-	  - Code du service national - art. R*43-3 (M)
-	  - Code du service national - art. R*44 (M)
-	  - Code du service national - art. R*44-1 (M)
-	  - Code du service national - art. R*45 (M)
-	  - Code du service national - art. R*45-1 (M)
-	  - Code du service national - art. R*45-2 (M)
-	  - Code du service national - art. R*46 (M)
-	  - Code du service national - art. R*47 (M)
-	  - Code du service national - art. R*47-1 (M)
-	  - Code du service national - art. R*47-2 (M)
-	  - Code du service national - art. R*48 (M)
-	  - Code du service national - art. R*49 (M)
-	  - Code du service national - art. R*49-1 (M)
-	  - Code du service national - art. R*5 (M)
-	  - Code du service national - art. R*50 (M)
-	  - Code du service national - art. R*50-1 (M)
-	  - Code du service national - art. R*50-2 (M)
-	  - Code du service national - art. R*50-3 (M)
-	  - Code du service national - art. R*50-4 (M)
-	  - Code du service national - art. R*50-5 (M)
-	  - Code du service national - art. R*50-6 (M)
-	  - Code du service national - art. R*51 (MMN)
-	  - Code du service national - art. R*52 (MMN)
-	  - Code du service national - art. R*53 (MMN)
-	  - Code du service national - art. R*54 (MMN)
-	  - Code du service national - art. R*55 (M)
-	  - Code du service national - art. R*56 (M)
-	  - Code du service national - art. R*57 (M)
-	  - Code du service national - art. R*58 (M)
-	  - Code du service national - art. R*59 (M)
-	  - Code du service national - art. R*6 (M)
-	  - Code du service national - art. R*60 (M)
-	  - Code du service national - art. R*61 (M)
-	  - Code du service national - art. R*62 (M)
-	  - Code du service national - art. R*63 (M)
-	  - Code du service national - art. R*64 (M)
-	  - Code du service national - art. R*65 (M)
-	  - Code du service national - art. R*66 (M)
-	  - Code du service national - art. R*67 (M)
-	  - Code du service national - art. R*68 (M)
-	  - Code du service national - art. R*69 (M)
-	  - Code du service national - art. R*7 (M)
-	  - Code du service national - art. R*70 (M)
-	  - Code du service national - art. R*71 (M)
-	  - Code du service national - art. R*73 (M)
-	  - Code du service national - art. R*8 (M)
-	  - Code du service national - art. R*98 (M)
-	  - Code du service national - art. R*99 (M)
-	  - Code du service national - art. R101 (M)
-	  - Code du service national - art. R102 (M)
-	  - Code du service national - art. R103 (M)
-	  - Code du service national - art. R104 (M)
-	  - Code du service national - art. R110 (M)
-	  - Code du service national - art. R111 (M)
-	  - Code du service national - art. R112 (M)
-	  - Code du service national - art. R113 (M)
-	  - Code du service national - art. R114 (M)
-	  - Code du service national - art. R115 (M)
-	  - Code du service national - art. R116 (M)
-	  - Code du service national - art. R117 (M)
-	  - Code du service national - art. R118 (M)
-	  - Code du service national - art. R119 (Ab)
-	  - Code du service national - art. R120 (M)
-	  - Code du service national - art. R121 (M)
-	  - Code du service national - art. R122 (M)
-	  - Code du service national - art. R126 (Ab)
-	  - Code du service national - art. R13 (M)
-	  - Code du service national - art. R133 (M)
-	  - Code du service national - art. R134 (M)
-	  - Code du service national - art. R135 (M)
-	  - Code du service national - art. R136 (M)
-	  - Code du service national - art. R137 (M)
-	  - Code du service national - art. R138 (M)
-	  - Code du service national - art. R139 (M)
-	  - Code du service national - art. R14 (M)
-	  - Code du service national - art. R140 (M)
-	  - Code du service national - art. R141 (M)
-	  - Code du service national - art. R142 (M)
-	  - Code du service national - art. R143 (M)
-	  - Code du service national - art. R144 (M)
-	  - Code du service national - art. R145 (M)
-	  - Code du service national - art. R146 (M)
-	  - Code du service national - art. R147 (M)
-	  - Code du service national - art. R148 (M)
-	  - Code du service national - art. R19 (M)
-	  - Code du service national - art. R2 (M)
-	  - Code du service national - art. R20 (M)
-	  - Code du service national - art. R202 (M)
-	  - Code du service national - art. R203 (M)
-	  - Code du service national - art. R204 (M)
-	  - Code du service national - art. R205 (M)
-	  - Code du service national - art. R206 (M)
-	  - Code du service national - art. R207 (M)
-	  - Code du service national - art. R208 (M)
-	  - Code du service national - art. R209 (M)
-	  - Code du service national - art. R21 (M)
-	  - Code du service national - art. R210 (M)
-	  - Code du service national - art. R211 (M)
-	  - Code du service national - art. R212 (M)
-	  - Code du service national - art. R213 (M)
-	  - Code du service national - art. R214 (M)
-	  - Code du service national - art. R215 (M)
-	  - Code du service national - art. R216 (M)
-	  - Code du service national - art. R217 (M)
-	  - Code du service national - art. R218 (M)
-	  - Code du service national - art. R219 (M)
-	  - Code du service national - art. R22 (M)
-	  - Code du service national - art. R220 (M)
-	  - Code du service national - art. R221 (M)
-	  - Code du service national - art. R222 (M)
-	  - Code du service national - art. R223 (M)
-	  - Code du service national - art. R224 (M)
-	  - Code du service national - art. R225 (M)
-	  - Code du service national - art. R226 (M)
-	  - Code du service national - art. R227 (M)
-	  - Code du service national - art. R3 (M)
-	  - Code du service national - art. R4 (M)
-	  - Code du service national - art. R72 (M)
-	  - Code du service national - art. R74 (M)
-	  - Code du service national - art. R75 (M)
-	  - Code du service national - art. R76 (M)
-	  - Code du service national - art. R77 (M)
-	  - Code du service national - art. R78 (Ab)
-	  - Code du service national - art. R79 (Ab)
-	  - Code du service national - art. R80 (Ab)
-	  - Code du service national - art. R81 (Ab)
-	  - Code du service national - art. R82 (Ab)
-	  - Code du service national - art. R83 (Ab)
-	  - Code du service national - art. R84 (Ab)
-	  - Code du service national - art. R85 (Ab)
-	  - Code du service national - art. R86 (Ab)
-	  - Code du service national - art. R87 (Ab)
-	  - Code du service national - art. R88 (Ab)
-	  - Code du service national - art. R89 (Ab)
-	  - Code du service national - art. R9 (M)
-	  - Code du service national - art. R90 (Ab)
-	  - Code du service national - art. R91 (Ab)
-	  - Code du service national - art. R92 (Ab)
-	  - Code du service national - art. R93 (Ab)
-	  - Code du service national - art. R94 (Ab)
-	  - Code du service national - art. R95 (Ab)
-	  - Code du service national - art. R96 (Ab)
-	  - Code du service national - art. R97 (Ab)
-	  - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
+	  - Code du service national
+	  - Code du service national - art. R*1
+	  - Code du service national - art. R*10
+	  - Code du service national - art. R*100
+	  - Code du service national - art. R*105
+	  - Code du service national - art. R*106
+	  - Code du service national - art. R*107
+	  - Code du service national - art. R*108
+	  - Code du service national - art. R*109
+	  - Code du service national - art. R*11
+	  - Code du service national - art. R*12
+	  - Code du service national - art. R*127
+	  - Code du service national - art. R*128
+	  - Code du service national - art. R*129
+	  - Code du service national - art. R*130
+	  - Code du service national - art. R*131
+	  - Code du service national - art. R*132
+	  - Code du service national - art. R*149
+	  - Code du service national - art. R*15
+	  - Code du service national - art. R*150
+	  - Code du service national - art. R*151
+	  - Code du service national - art. R*152
+	  - Code du service national - art. R*153
+	  - Code du service national - art. R*154
+	  - Code du service national - art. R*156
+	  - Code du service national - art. R*157
+	  - Code du service national - art. R*158
+	  - Code du service national - art. R*159
+	  - Code du service national - art. R*16
+	  - Code du service national - art. R*160
+	  - Code du service national - art. R*161
+	  - Code du service national - art. R*162
+	  - Code du service national - art. R*163
+	  - Code du service national - art. R*164
+	  - Code du service national - art. R*165
+	  - Code du service national - art. R*166
+	  - Code du service national - art. R*167
+	  - Code du service national - art. R*169
+	  - Code du service national - art. R*17
+	  - Code du service national - art. R*170
+	  - Code du service national - art. R*171
+	  - Code du service national - art. R*172
+	  - Code du service national - art. R*173
+	  - Code du service national - art. R*174
+	  - Code du service national - art. R*175
+	  - Code du service national - art. R*176
+	  - Code du service national - art. R*178
+	  - Code du service national - art. R*179
+	  - Code du service national - art. R*18
+	  - Code du service national - art. R*180
+	  - Code du service national - art. R*181
+	  - Code du service national - art. R*182
+	  - Code du service national - art. R*183
+	  - Code du service national - art. R*184
+	  - Code du service national - art. R*185
+	  - Code du service national - art. R*186
+	  - Code du service national - art. R*187
+	  - Code du service national - art. R*188
+	  - Code du service national - art. R*189
+	  - Code du service national - art. R*190
+	  - Code du service national - art. R*191
+	  - Code du service national - art. R*192
+	  - Code du service national - art. R*193
+	  - Code du service national - art. R*194
+	  - Code du service national - art. R*195
+	  - Code du service national - art. R*196
+	  - Code du service national - art. R*197
+	  - Code du service national - art. R*198
+	  - Code du service national - art. R*199
+	  - Code du service national - art. R*200
+	  - Code du service national - art. R*228
+	  - Code du service national - art. R*229
+	  - Code du service national - art. R*23
+	  - Code du service national - art. R*230
+	  - Code du service national - art. R*231
+	  - Code du service national - art. R*232
+	  - Code du service national - art. R*233
+	  - Code du service national - art. R*233-1
+	  - Code du service national - art. R*234
+	  - Code du service national - art. R*235
+	  - Code du service national - art. R*236
+	  - Code du service national - art. R*237
+	  - Code du service national - art. R*238
+	  - Code du service national - art. R*24
+	  - Code du service national - art. R*25
+	  - Code du service national - art. R*26
+	  - Code du service national - art. R*27
+	  - Code du service national - art. R*28
+	  - Code du service national - art. R*29
+	  - Code du service national - art. R*30
+	  - Code du service national - art. R*31
+	  - Code du service national - art. R*32
+	  - Code du service national - art. R*33
+	  - Code du service national - art. R*34
+	  - Code du service national - art. R*35
+	  - Code du service national - art. R*36
+	  - Code du service national - art. R*37
+	  - Code du service national - art. R*38
+	  - Code du service national - art. R*39
+	  - Code du service national - art. R*40
+	  - Code du service national - art. R*41
+	  - Code du service national - art. R*42
+	  - Code du service national - art. R*43
+	  - Code du service national - art. R*43-1
+	  - Code du service national - art. R*43-2
+	  - Code du service national - art. R*43-3
+	  - Code du service national - art. R*44
+	  - Code du service national - art. R*44-1
+	  - Code du service national - art. R*45
+	  - Code du service national - art. R*45-1
+	  - Code du service national - art. R*45-2
+	  - Code du service national - art. R*46
+	  - Code du service national - art. R*47
+	  - Code du service national - art. R*47-1
+	  - Code du service national - art. R*47-2
+	  - Code du service national - art. R*48
+	  - Code du service national - art. R*49
+	  - Code du service national - art. R*49-1
+	  - Code du service national - art. R*5
+	  - Code du service national - art. R*50
+	  - Code du service national - art. R*50-1
+	  - Code du service national - art. R*50-2
+	  - Code du service national - art. R*50-3
+	  - Code du service national - art. R*50-4
+	  - Code du service national - art. R*50-5
+	  - Code du service national - art. R*50-6
+	  - Code du service national - art. R*51
+	  - Code du service national - art. R*52
+	  - Code du service national - art. R*53
+	  - Code du service national - art. R*54
+	  - Code du service national - art. R*55
+	  - Code du service national - art. R*56
+	  - Code du service national - art. R*57
+	  - Code du service national - art. R*58
+	  - Code du service national - art. R*59
+	  - Code du service national - art. R*6
+	  - Code du service national - art. R*60
+	  - Code du service national - art. R*61
+	  - Code du service national - art. R*62
+	  - Code du service national - art. R*63
+	  - Code du service national - art. R*64
+	  - Code du service national - art. R*65
+	  - Code du service national - art. R*66
+	  - Code du service national - art. R*67
+	  - Code du service national - art. R*68
+	  - Code du service national - art. R*69
+	  - Code du service national - art. R*7
+	  - Code du service national - art. R*70
+	  - Code du service national - art. R*71
+	  - Code du service national - art. R*73
+	  - Code du service national - art. R*8
+	  - Code du service national - art. R*9
+	  - Code du service national - art. R*98
+	  - Code du service national - art. R*99
+	  - Code du service national - art. R101
+	  - Code du service national - art. R102
+	  - Code du service national - art. R103
+	  - Code du service national - art. R104
+	  - Code du service national - art. R110
+	  - Code du service national - art. R111
+	  - Code du service national - art. R112
+	  - Code du service national - art. R113
+	  - Code du service national - art. R114
+	  - Code du service national - art. R115
+	  - Code du service national - art. R116
+	  - Code du service national - art. R117
+	  - Code du service national - art. R118
+	  - Code du service national - art. R119
+	  - Code du service national - art. R120
+	  - Code du service national - art. R121
+	  - Code du service national - art. R122
+	  - Code du service national - art. R126
+	  - Code du service national - art. R13
+	  - Code du service national - art. R133
+	  - Code du service national - art. R134
+	  - Code du service national - art. R135
+	  - Code du service national - art. R136
+	  - Code du service national - art. R137
+	  - Code du service national - art. R138
+	  - Code du service national - art. R139
+	  - Code du service national - art. R14
+	  - Code du service national - art. R140
+	  - Code du service national - art. R141
+	  - Code du service national - art. R142
+	  - Code du service national - art. R143
+	  - Code du service national - art. R144
+	  - Code du service national - art. R145
+	  - Code du service national - art. R146
+	  - Code du service national - art. R147
+	  - Code du service national - art. R148
+	  - Code du service national - art. R19
+	  - Code du service national - art. R2
+	  - Code du service national - art. R20
+	  - Code du service national - art. R202
+	  - Code du service national - art. R203
+	  - Code du service national - art. R204
+	  - Code du service national - art. R205
+	  - Code du service national - art. R206
+	  - Code du service national - art. R207
+	  - Code du service national - art. R208
+	  - Code du service national - art. R209
+	  - Code du service national - art. R21
+	  - Code du service national - art. R210
+	  - Code du service national - art. R211
+	  - Code du service national - art. R212
+	  - Code du service national - art. R213
+	  - Code du service national - art. R214
+	  - Code du service national - art. R215
+	  - Code du service national - art. R216
+	  - Code du service national - art. R217
+	  - Code du service national - art. R218
+	  - Code du service national - art. R219
+	  - Code du service national - art. R22
+	  - Code du service national - art. R220
+	  - Code du service national - art. R221
+	  - Code du service national - art. R222
+	  - Code du service national - art. R223
+	  - Code du service national - art. R224
+	  - Code du service national - art. R225
+	  - Code du service national - art. R226
+	  - Code du service national - art. R227
+	  - Code du service national - art. R3
+	  - Code du service national - art. R4
+	  - Code du service national - art. R72
+	  - Code du service national - art. R74
+	  - Code du service national - art. R75
+	  - Code du service national - art. R76
+	  - Code du service national - art. R77
+	  - Code du service national - art. R78
+	  - Code du service national - art. R79
+	  - Code du service national - art. R80
+	  - Code du service national - art. R81
+	  - Code du service national - art. R82
+	  - Code du service national - art. R83
+	  - Code du service national - art. R84
+	  - Code du service national - art. R85
+	  - Code du service national - art. R86
+	  - Code du service national - art. R87
+	  - Code du service national - art. R88
+	  - Code du service national - art. R89
+	  - Code du service national - art. R90
+	  - Code du service national - art. R91
+	  - Code du service national - art. R92
+	  - Code du service national - art. R93
+	  - Code du service national - art. R94
+	  - Code du service national - art. R95
+	  - Code du service national - art. R96
+	  - Code du service national - art. R97
