@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -286,8 +286,6 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
-
-#### Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense.
 
 #### Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté.
 
@@ -1607,7 +1605,19 @@ Toute personne française âgée de seize à dix-huit ans ayant conclu le contra
 	  - Code du service national - art. L120-3 (VD)
 
 
-### TITRE II : Dispositions relatives aux volontariats
+### TITRE II : Dispositions relatives aux autres formes de volontariat.
+
+###### Article L120-37
+
+Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
+d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 12
+
 
 #### Chapitre Ier : Le volontariat dans les armées.
 
@@ -1684,246 +1694,6 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 	  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
-
-#### Chapitre II : Les volontariats civils
-
-##### Section II : Droits et obligations du volontaire civil.
-
-##### Section III : Dispositions diverses.
-
-###### Article L122-18
-
-En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
-récursoire à l'encontre de la personne morale auprès de laquelle le volontariat est effectué, est substituée à celle du
-volontaire international affecté à l'étranger. 
-
-Le volontaire international affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat,
-d'une protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits
-et obligations des fonctionnaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-634 du 13 juillet 1983 - art. 11
-
-	**Modifié par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-	**Cité par**:
-
-	  - Code du service national - art. L122-7 (VD)
-
-
-###### Article L122-19
-
-Les dispositions des articles L. 122-1 à L. 122-18 du présent code ne font pas obstacle à des dispositions spécifiques
-définies pour des volontaires non visés par l'article L. 111-3 dudit code. Ces dispositions spécifiques peuvent organiser des
-formes contractuelles d'engagement volontaire pour l'accomplissement de missions d'intérêt général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Loi n°2000-242 du 14 mars 2000 - art. 20 () JORF 15 mars 2000
-
-	**Cite**:
-
-	  - Code du service national - art. L111-3 (V)
-	  - Code du service national L122-1 à L122-18, L111-3
-
-
-###### Article L122-20
-
-Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
-réglementaires relatives à l'accomplissement du volontariat international à l'étranger sont prises après consultation de
-l'Assemblée des Français de l'étranger.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-	**Cite**:
-
-	  - Code du service national - art. L122-1
-
-	**Cité par**:
-
-	  - Code du service national - art. L122-21 (VT)
-
-
-#### Chapitre III : Le volontariat pour l'insertion
-
-###### Article L130-1
-
-Il est créé un contrat de droit public intitulé : "contrat de volontariat pour l'insertion", qui permet de recevoir une
-formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
-
-Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
-personne de seize ans à vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
-l'issue de la journée défense et citoyenneté, qu'elle rencontre des difficultés particulières d'insertion sociale et
-professionnelle.
-
-Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
-défense, dont le régime est l'internat.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10 (V)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
-	  - Décret n°2005-885 du 2 août 2005 - art. 1 (V)
-	  - Code du travail - art. L6241-10 (V)
-	  - Code général des impôts, CGI. - art. 244 quater G (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
-
-	**Modifié par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 2
-
-
-###### Article L130-2
-
-Le volontariat est souscrit initialement pour une durée de six mois à un an. Il peut être prolongé sans que la durée totale
-du volontariat puisse excéder vingt-quatre mois.
-
-Le contrat, qui comprend une période probatoire, peut notamment comporter une ou plusieurs périodes de stage en entreprise ou
-en administration. Il prend fin avant son terme à la date d'effet d'un contrat de travail souscrit par le volontaire.
-Toutefois, lorsque ce contrat est un contrat de travail mentionné à l'article L. 117-1, L. 124-2 ou L. 981-1 du code du
-travail, le volontaire peut bénéficier, pendant une période de trois mois au plus, des prestations auxquelles ouvre droit le
-statut de volontaire pour l'insertion, à l'exception de l'allocation mensuelle et de la prime respectivement mentionnées aux
-1° et 2° de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
-d'exécution et de résiliation du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Cité par**:
-
-	  - Décret n°2005-885 du 2 août 2005 - art. 6 (V)
-	  - Code du service national - art. L130-5 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2006-396 du 31 mars 2006 - art. 15 () JORF 2 avril 2006
-
-	**Cite**:
-
-	  - Code du service national - art. L130-3 (V)
-	  - Code du service national - art. L130-4 (V)
-	  - Code du service national L130-4, L117-1, L130-3
-	  - Code du travail - art. L117-1 (M)
-	  - Code du travail - art. L124-2 (M)
-	  - Code du travail - art. L981-1 (M)
-
-
-###### Article L130-3
-
-L'accomplissement du volontariat pour l'insertion ouvre droit :
-
-1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
-
-2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
-
-Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
-
-L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
-généralisée et de la contribution au remboursement de la dette sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
-	  - Décret n°2017-858 du 9 mai 2017 - art. 7
-	  - Code de la sécurité sociale. - art. R372-3 (V)
-	  - Code du service national - art. L130-2 (M)
-	  - Code du service national - art. L130-4 (V)
-	  - Code du service national - art. L130-5 (V)
-	  - Code général des impôts, CGI. - art. 81 (VT)
-
-
-###### Article L130-4
-
-I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
-maladie, maternité et invalidité du régime général de sécurité sociale. 
-
-La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret. 
-
-II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
-l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
-
-La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret. 
-
-III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la période de volontariat au profit du volontaire
-en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
-maladie survenu par le fait ou à l'occasion du service. 
-
-IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
-l'allocation mentionnée à l'article L. 351-3 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
-	  - Code de la sécurité sociale. - art. D372-2 (Ab)
-	  - Code de la sécurité sociale. - art. D412-98-1 (V)
-	  - Code de la sécurité sociale. - art. L412-8 (VT)
-	  - Code de la sécurité sociale. - art. R412-20 (V)
-	  - Code du service national - art. L130-2 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 9
-
-	**Cite**:
-
-	  - Code du service national - art. L130-3
-	  - Code du travail - art. L351-12
-	  - Code du travail - art. L351-3
-
-
-### TITRE II : Dispositions relatives aux autres formes de volontariat.
-
-###### Article L120-37
-
-Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
-d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 12
-
-
-#### Chapitre Ier : Le volontariat dans les armées.
 
 #### Chapitre II : Dispositions relatives aux volontariats internationaux
 
@@ -2432,7 +2202,223 @@ ou d'un titre professionnel.
 
 ##### Section III : Dispositions diverses.
 
+###### Article L122-18
+
+En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
+récursoire à l'encontre de la personne morale auprès de laquelle le volontariat est effectué, est substituée à celle du
+volontaire international affecté à l'étranger. 
+
+Le volontaire international affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat,
+d'une protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits
+et obligations des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 11
+
+	**Modifié par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-7 (VD)
+
+
+###### Article L122-19
+
+Les dispositions des articles L. 122-1 à L. 122-18 du présent code ne font pas obstacle à des dispositions spécifiques
+définies pour des volontaires non visés par l'article L. 111-3 dudit code. Ces dispositions spécifiques peuvent organiser des
+formes contractuelles d'engagement volontaire pour l'accomplissement de missions d'intérêt général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Loi n°2000-242 du 14 mars 2000 - art. 20 () JORF 15 mars 2000
+
+	**Cite**:
+
+	  - Code du service national - art. L111-3 (V)
+	  - Code du service national L122-1 à L122-18, L111-3
+
+
+###### Article L122-20
+
+Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
+réglementaires relatives à l'accomplissement du volontariat international à l'étranger sont prises après consultation de
+l'Assemblée des Français de l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+	**Cite**:
+
+	  - Code du service national - art. L122-1
+
+	**Cité par**:
+
+	  - Code du service national - art. L122-21 (VT)
+
+
 #### Chapitre III : Le volontariat pour l'insertion
+
+###### Article L130-1
+
+Il est créé un contrat de droit public intitulé : "contrat de volontariat pour l'insertion", qui permet de recevoir une
+formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
+
+Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
+personne de seize ans à vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
+l'issue de la journée défense et citoyenneté, qu'elle rencontre des difficultés particulières d'insertion sociale et
+professionnelle.
+
+Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
+défense, dont le régime est l'internat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
+	  - Décret n°2005-885 du 2 août 2005 - art. 1 (V)
+	  - Code du travail - art. L6241-10 (V)
+	  - Code général des impôts, CGI. - art. 244 quater G (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 2
+
+
+###### Article L130-2
+
+Le volontariat est souscrit initialement pour une durée de six mois à un an. Il peut être prolongé sans que la durée totale
+du volontariat puisse excéder vingt-quatre mois.
+
+Le contrat, qui comprend une période probatoire, peut notamment comporter une ou plusieurs périodes de stage en entreprise ou
+en administration. Il prend fin avant son terme à la date d'effet d'un contrat de travail souscrit par le volontaire.
+Toutefois, lorsque ce contrat est un contrat de travail mentionné à l'article L. 117-1, L. 124-2 ou L. 981-1 du code du
+travail, le volontaire peut bénéficier, pendant une période de trois mois au plus, des prestations auxquelles ouvre droit le
+statut de volontaire pour l'insertion, à l'exception de l'allocation mensuelle et de la prime respectivement mentionnées aux
+1° et 2° de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
+d'exécution et de résiliation du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Cité par**:
+
+	  - Décret n°2005-885 du 2 août 2005 - art. 6 (V)
+	  - Code du service national - art. L130-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 15 () JORF 2 avril 2006
+
+	**Cite**:
+
+	  - Code du service national - art. L130-3 (V)
+	  - Code du service national - art. L130-4 (V)
+	  - Code du service national L130-4, L117-1, L130-3
+	  - Code du travail - art. L117-1 (M)
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L981-1 (M)
+
+
+###### Article L130-3
+
+L'accomplissement du volontariat pour l'insertion ouvre droit :
+
+1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
+
+2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
+
+Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
+
+L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
+généralisée et de la contribution au remboursement de la dette sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
+	  - Décret n°2017-858 du 9 mai 2017 - art. 7
+	  - Code de la sécurité sociale. - art. R372-3 (V)
+	  - Code du service national - art. L130-2 (M)
+	  - Code du service national - art. L130-4 (V)
+	  - Code du service national - art. L130-5 (V)
+	  - Code général des impôts, CGI. - art. 81 (VT)
+
+
+###### Article L130-4
+
+I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
+maladie, maternité et invalidité du régime général de sécurité sociale. 
+
+La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret. 
+
+II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
+l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
+
+La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret. 
+
+III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la période de volontariat au profit du volontaire
+en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
+maladie survenu par le fait ou à l'occasion du service. 
+
+IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
+l'allocation mentionnée à l'article L. 351-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+	  - Code de la sécurité sociale. - art. D372-2 (Ab)
+	  - Code de la sécurité sociale. - art. D412-98-1 (V)
+	  - Code de la sécurité sociale. - art. L412-8 (VT)
+	  - Code de la sécurité sociale. - art. R412-20 (V)
+	  - Code du service national - art. L130-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 9
+
+	**Cite**:
+
+	  - Code du service national - art. L130-3
+	  - Code du travail - art. L351-12
+	  - Code du travail - art. L351-3
+
 
 ## LIVRE II
 
@@ -12048,13 +12034,13 @@ dérogation accordée sur la durée d'existence par l'Agence du service civique.
 L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 est accordé pour une durée
 maximale de cinq ans renouvelable à l'association de droit français, à la fondation reconnue d'utilité publique, à l'union
 d'associations ou à la fédération d'associations constituée sous la forme d'association qui répond aux conditions visées aux
-1°, 5° et 6° de l'article R. 121-33 et :
+1°,5° et 6° de l'article R. 121-33 et : 
 
 1° Assure une mission ou un programme de missions d'intérêt général et justifie de sa capacité à les exercer dans de bonnes
-conditions ;
+conditions ; 
 
 2° Dispose d'une organisation compatible avec l'accueil du nombre de volontaires qu'elle envisage d'accueillir ou de mettre à
-disposition ;
+disposition ; 
 
 2° Dispose de ressources d'origine privée supérieures à 15 % de son budget annuel au cours du dernier exercice clos.
 
@@ -12063,15 +12049,16 @@ alinéa exerçant des missions reconnues prioritaires pour la nation pour accuei
 dix-huit ans et de moins de vingt-cinq ans. Dans ce cas, l'agrément délivré par l'Agence du service civique précise les
 missions destinées à ces volontaires en sus des missions mentionnées au 1°.
 
-L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 et à l'article L. 120-34
-est accordé pour une durée maximale de cinq ans renouvelable à la personne morale de droit public dont le siège se situe dans
-les départements et territoires d'outre-mer qui répond aux conditions prévues à l'article R. 121-33.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. L120-1
+	  - Code du service national - art. R121-33
 
 	**Cité par**:
 
@@ -12383,6 +12370,107 @@ servies aux organismes d'accueil dans le cadre du service civique.
 	  - Arrêté du 28 avril 2011 - art. 4 (V)
 	  - Arrêté du 26 septembre 2011 - art. 1 (V)
 	  - Arrêté du 26 septembre 2011 - art. 4 (V)
+
+
+#### Section VI : Dispositions relatives à l'outre-mer
+
+###### Article R121-51
+
+Les dispositions des sections I à V du présent chapitre sont applicables sur l'ensemble du territoire de la République, à
+l'exception des articles R. 121-27 à R. 121-32, qui ne sont pas applicables à Mayotte, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du service national - art. R121-52 (V)
+
+
+###### Article R121-52
+
+Pour leur application dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes
+et antarctiques françaises, les dispositions mentionnées à l'article R. 121-51 font l'objet des adaptations suivantes : 
+
+1° L'article R. 120-9 est ainsi rédigé : 
+
+" Art.R. 120-9. ― Dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et
+antarctiques françaises, le représentant de l'Etat est le délégué territorial de l'agence. Il assure la coordination des
+politiques de promotion, d'évaluation et de contrôle du service civique avec l'appui des services placés sous son autorité et
+du délégué territorial adjoint qu'il désigne. 
+
+Dans les départements d'outre-mer et à Mayotte, il désigne un délégué territorial adjoint parmi les chefs de services
+déconcentrés chargés de la jeunesse et de la cohésion sociale ou les membres du corps préfectoral, placés sous son autorité. 
+
+Dans les autres collectivités, il désigne un délégué territorial adjoint parmi les chefs de services ou les membres du corps
+préfectoral placés sous son autorité. ” ; 
+
+2° Pour l'application de l'article R. 121-26, le montant de l'indemnité supplémentaire mentionnée à l'article L. 120-20 est
+fixé par arrêté conjoint du ministre chargé de la jeunesse, du ministre chargé du budget et du ministre chargé de l'outre-
+mer. 
+
+Lorsque le logement est fourni en nature, l'indemnité supplémentaire subit un abattement dont le taux spécifique à chaque
+collectivité d'affectation est fixé par l'arrêté mentionné à l'alinéa précédent ; 
+
+3° La personne volontaire a droit à la prise en charge par l'organisme d'accueil du voyage aller et retour et du transport
+des bagages à concurrence de 50 kg (0,3 m ³) d'effets personnels par voie aérienne ou 130 kg (1 m ³) par voie maritime entre
+son domicile et son lieu d'affectation, par la voie la plus directe et la plus économique. 
+
+La personne volontaire, qui à la fin de son contrat de service civique, souhaite prolonger à titre personnel son séjour dans
+son lieu d'affectation conserve le droit à la gratuité du voyage retour, avec bagages, vers son lieu de résidence habituelle
+pendant un délai de trois mois ; 
+
+4° La personne volontaire doit, avant sa prise de fonctions, être à jour des vaccinations nécessaires à l'accomplissement de
+son contrat de service civique ; 
+
+5° Pour l'application de l'article R. 121-34, l'agrément de volontariat de service civique prévu au troisième alinéa du II de
+l'article L. 120-1 et à l'article L. 120-34 peut être accordé pour une durée maximale de cinq ans renouvelable à la personne
+morale de droit public qui répond aux conditions prévues à l'article R. 121-33 et dont le siège se situe dans un département
+ou une collectivité d'outre-mer, en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna, en Polynésie française ou
+dans les Terres australes et antarctiques françaises. 
+
+Dans les mêmes conditions et à titre dérogatoire, l'agrément de volontariat de service civique peut être accordé,
+conformément aux dispositions de l'article L. 120-30, en vue d'accueillir des personnes volontaires âgées de plus de dix-huit
+ans et de moins de vingt-cinq ans pour exercer des missions dans les domaines suivants : 
+
+a) enseignement ; 
+
+b) médecine ; 
+
+c) sanitaire et social ; 
+
+d) environnement ; 
+
+e) sciences et techniques ; 
+
+f) vétérinaire ; 
+
+g) information et communication ; 
+
+h) administration, économie ou gestion ; 
+
+i) culturel et artistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 2011 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L120-1
+	  - Code du service national - art. R120-9
+	  - Code du service national - art. R121-26
+	  - Code du service national - art. R121-51
 
 
 ### Chapitre II : L'appel de préparation à la défense
