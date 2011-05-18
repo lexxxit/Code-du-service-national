@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -51,6 +51,28 @@ effectifs déterminés par le législateur pour assurer la défense de la Nation
 
 	  - Loi n°2010-241 du 10 mars 2010 - art. 2
 	  - Loi n°2010-241 du 10 mars 2010 - art. 3
+
+
+###### Article L111-3
+
+Nul ne peut être investi de fonctions publiques s'il ne justifie avoir satisfait aux obligations imposées par le présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 du 10 juin 1971
+
+	**Cité par**:
+
+	  - Loi n°97-1019 du 28 octobre 1997 - art. 8 (V)
+	  - Code du service national - art. L122-1 (V)
+	  - Code du service national - art. L122-19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 181
 
 
 #### Chapitre II : Champ d'application.
