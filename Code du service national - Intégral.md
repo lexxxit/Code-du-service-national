@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-08-05
 
 # Partie législative
 
@@ -10690,24 +10690,19 @@ considérés comme dispensés de leurs obligations du service national.
 
 Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du troisième mois suivant,
 de souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
-situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à l'appel de
-préparation à la défense et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
+situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à       la journée
+défense et citoyenneté et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
 cette démarche, elle peut l'être par leur représentant légal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Modifié par**:
 
-	  - Décret n°2002-446 du 29 mars 2002 - art. 1 () JORF 3 avril 2002
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 	**Cité par**:
 
@@ -10766,33 +10761,28 @@ l'exercer.
 
 ###### Article R*111-4
 
-Les Français titulaires de l'un des titres de circulation visés aux articles 2, 4 et 5 de la loi n° 69-3 du 3 janvier 1969
+Les Français titulaires de l'un des titres de circulation visés aux articles 2,4 et 5 de la loi n° 69-3 du 3 janvier 1969
 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni
-résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R.*
-111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou au bureau du service
-national dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
+résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R. *
+111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou    à l'organisme
+chargé du service national  dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°69-3 du 3 janvier 1969 - art. 2 (M)
-	  - Loi n°69-3 du 3 janvier 1969 - art. 4 (V)
-	  - Loi n°69-3 du 3 janvier 1969 - art. 5 (V)
-	  - Code du service national R111-1
+	  - Loi n°69-3 du 3 janvier 1969 - art. 2
+	  - Loi n°69-3 du 3 janvier 1969 - art. 4
+	  - Loi n°69-3 du 3 janvier 1969 - art. 5
+	  - Code du service national
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*111-5
@@ -10827,33 +10817,30 @@ l'intéressé.
 
 ###### Article R*111-6
 
-A l'occasion de la réception de la déclaration prévue à l'article R.[* 111-1, le maire appelle l'attention des recensés sur
-l'obligation qu'ils ont, jusqu'à l'âge de vingt-cinq ans, de faire connaître au bureau du service national dont ils relèvent,
-tout changement de domicile ou de résidence d'une durée supérieure à quatre mois d'une part, et de situation familiale et
-professionnelle d'autre part.
+A l'occasion de la réception de la déclaration prévue à l'article R. *111-1, le maire appelle l'attention des recensés sur
+l'obligation qu'ils ont, jusqu'à l'âge de vingt-cinq ans, de faire connaître à l'organisme chargé du service national dont
+ils relèvent, tout changement de domicile ou de résidence d'une durée supérieure à quatre mois d'une part, et de situation
+familiale et professionnelle d'autre part. 
 
-En outre, le maire leur rappelle qu'ils devront répondre dans les délais mentionnés à l'article R.*] 112-2 au préavis
-d'appel, se présenter à l'appel de préparation à la défense après réception de leur convocation. Il les informe des
-conséquences d'une absence ou d'un retard à cet appel.
+En outre, le maire leur rappelle qu'ils devront se présenter à la journée défense et citoyenneté après réception de leur
+convocation. Il les informe des conséquences d'une absence ou d'un retard à cette journée résultant des dispositions de
+l'article L. 114-6.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
+	  - Décret n°2011-929 du 1er août 2011 - art. 4
 
 	**Cite**:
 
-	  - Code du service national R112-2
+	  - Code du service national - art. L114-6
+	  - Code du service national - art. R*111-1
 
 
 ###### Article R*111-7
@@ -10869,25 +10856,20 @@ modèle fixé par l'administration chargée du service national et comporte les 
 
 - commune ou consulat de recensement ;
 
-- date d'établissement de l'attestation.
+- date d'établissement de l'attestation. 
 
-Ce document précise en outre que le recensé a été informé des conditions de participation à l'appel de préparation à la
-défense.
+Ce document précise en outre que le recensé a été informé des conditions de participation à       la journée défense et
+citoyenneté.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*111-8
@@ -10966,14 +10948,14 @@ chargé du service national territorialement compétent à la fin des mois d'avr
 
 ###### Article R*111-12
 
-A l'âge de seize ans, les Français établis à l'étranger ou leur représentant légal sont tenus de souscrire auprès des
+A l'âge de seize ans, les Français établis hors de France ou leur représentant légal sont tenus de souscrire auprès des
 autorités consulaires françaises la déclaration prévue à l'article R. 111-1. A cette occasion, ils sont informés des
-conditions dans lesquelles ils auront à accomplir l'appel de préparation à la défense. Il leur est délivré l'attestation de
-recensement prévue à l'article R. 111-7.
+conditions dans lesquelles ils auront à accomplir la journée défense et citoyenneté. Il leur est délivré l'attestation de
+recensement prévue à l'article R. 111-7. 
 
 Les autorités consulaires dressent à des dates définies par arrêté conjoint du ministre des affaires étrangères et du
 ministre de la défense, et au moins une fois par an, la liste de recensement et la liste des non-recensés. La liste de
-recensement comprend les personnes ayant souscrit la déclaration prévue par l'article R. 111-1.
+recensement comprend les personnes ayant souscrit la déclaration prévue par l'article R. 111-1. 
 
 Elles adressent la liste et les notices individuelles correspondantes à l'organisme chargé du service national à Perpignan.
 
@@ -10981,16 +10963,12 @@ Elles adressent la liste et les notices individuelles correspondantes à l'organ
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Modifié par**:
 
-	  - Décret n°2002-446 du 29 mars 2002 - art. 5 () JORF 3 avril 2002
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+	  - Décret n°2011-929 du 1er août 2011 - art. 3
 
 	**Cité par**:
 
@@ -10998,7 +10976,7 @@ Elles adressent la liste et les notices individuelles correspondantes à l'organ
 
 	**Cite**:
 
-	  - Code du service national R111-7, R111-1
+	  - Code du service national
 
 
 ###### Article R*111-13
@@ -11024,8 +11002,8 @@ maire, l'autorité consulaire ou, le cas échéant, le préfet, sur la liste de 
 
 ###### Article R*111-14
 
-Le bureau du service national territorialement compétent diligente les recherches pour déterminer l'adresse des Français
-figurant sur la liste des non-recensés.
+L'organisme chargé du service national territorialement compétent diligente les recherches pour déterminer l'adresse des
+Français figurant sur la liste des non-recensés.
 
 Dès qu'il a connaissance de cette adresse, il enjoint aux intéressés de régulariser leur situation à la mairie de leur
 domicile dans les trente jours.
@@ -11034,16 +11012,11 @@ domicile dans les trente jours.
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Modifié par**:
 
-	  - Décret n°2002-446 du 29 mars 2002 - art. 7 () JORF 3 avril 2002
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*111-15
@@ -11077,23 +11050,18 @@ L'attestation de recensement définie à l'article R. 111-7 leur est alors remis
 
 ###### Article R*111-16
 
-Les officiers de l'état civil adressent au bureau du service national territorialement compétent copie de l'acte de décès de
-toute personne dont l'âge est compris entre seize et vingt-cinq ans.
+Les officiers de l'état civil adressent    à l'organisme chargé du service national  territorialement compétent copie de
+l'acte de décès de toute personne dont l'âge est compris entre seize et vingt-cinq ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*111-16-1
@@ -12504,72 +12472,58 @@ i) culturel et artistique.
 
 ###### Article R*112-1
 
-L'appel de préparation à la défense défini aux articles L. 114-2 et L. 114-3 s'effectue au cours de sessions dont la date et
+La journée défense et citoyenneté définie aux articles L. 114-2 et L. 114-3 s'effectue au cours de sessions dont la date et
 le lieu sont précisés sur les convocations individuelles envoyées par le ministre de la défense aux Français recensés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Cité par**:
 
 	  - Arrêté du 29 juillet 2009 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+
 	**Cite**:
 
-	  - Code du service national - art. L114-2 (V)
-	  - Code du service national - art. L114-3 (M)
+	  - Code du service national - art. L114-2
+	  - Code du service national - art. L114-3
 
 
 ###### Article R*112-2
 
-Un préavis d'appel proposant au moins trois dates possibles de participation à l'appel de préparation à la défense avant leur
-dix-huitième anniversaire, est adressé aux personnes recensées.
-
-Les intéressés sont tenus de répondre dans les trente jours qui suivent la date de l'envoi du préavis d'appel, en indiquant
-parmi les dates proposées celle qu'ils ont choisie.
-
-A défaut de réponse au préavis d'appel, l'administration peut fixer la date de convocation, dans un délai de deux à six mois
-à compter de la date d'expiration du délai de réponse mentionné à l'alinéa ci-dessus.
-
 Les personnes qui, en vertu des lois sur la nationalité, n'ont pas exercé leur droit de décliner ou de répudier la
-nationalité française reçoivent leur préavis d'appel dans les conditions fixées par l'article L. 114-4, pour participer à
-l'appel de préparation à la défense avant leur vingtième anniversaire.
+nationalité française reçoivent leur convocation dans les conditions fixées par l'article L. 114-4, pour participer à la
+journée défense et citoyenneté avant leur vingtième anniversaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Modifié par**:
 
-	  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
+	  - Décret n°2011-929 du 1er août 2011 - art. 5
 
 	**Cite**:
 
-	  - Code du service national - art. L114-4 (V)
+	  - Code du service national - art. L114-4
 
 
 ###### Article R*112-3
 
-Une convocation écrite pour la session choisie est adressée aux intéressés dix jours au moins avant la date de celle-ci.
+Une convocation proposant une première date de participation à la journée défense et citoyenneté avant leur dix-huitième
+anniversaire est adressée aux personnes recensées, quarante-cinq jours au moins avant la première date proposée.
+
+Dans le cas où cette date ne leur conviendrait pas, les intéressés sont tenus de répondre à l'administration chargée du
+service national dans les quinze jours qui suivent la date de l'envoi de la convocation, afin que leur soient proposées au
+moins deux autres dates.
 
 En cas de force majeure, interdisant aux intéressés de participer à cette session, ils doivent sans délai en informer
 l'administration chargée du service national et formuler une demande motivée de report.
@@ -12580,129 +12534,100 @@ Après examen de la demande, l'administration fixe la date de la session à laqu
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 6
 
 
 ###### Article R*112-4
 
-Les appelés du service national justifient de leur identité en se présentant à l'appel de préparation à la défense.
+Les appelés du service national justifient de leur identité en se présentant à       la journée défense et citoyenneté.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-5
 
-Au cours de l'appel de préparation à la défense, lorsqu'un médecin constate, à l'initiative du responsable de la session, que
+Au cours de la journée défense et citoyenneté, lorsqu'un médecin constate, à l'initiative du responsable de la session, que
 l'état de santé d'un appelé du service national est incompatible avec sa participation à la session, l'intéressé est invité à
-regagner son domicile ou, le cas échéant, hospitalisé.
+regagner son domicile ou, le cas échéant, hospitalisé. 
 
-Dans ce cas l'administration procède comme indiqué au troisième alinéa de l'article R.* 112-3.
+Dans ce cas l'administration procède comme indiqué au quatrième alinéa de l'article R.* 112-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code du service national R112-3
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+	  - Décret n°2011-929 du 1er août 2011 - art. 7
 
 
 ###### Article R*112-6
 
-Sur leur demande, ou celle de leur représentant légal, les grands infirmes au sens de l'article 169 du code de la famille et
-de l'aide sociale ne sont pas soumis à l'obligation de l'appel de préparation à la défense. Ils présentent à cet effet la
-carte d'invalidité prévue à l'article 173 du même code au moment du recensement. Si cette qualité leur est reconnue après le
-recensement, ils présentent ce document au bureau du service national dont ils dépendent.
+Les personnes handicapées titulaires d'une carte d'invalidité délivrée en application de l'article L. 241-3 du code de
+l'action sociale et des familles ne sont pas soumises à l'obligation de la journée défense et citoyenneté. Elles-mêmes ou
+leur représentant légal présentent à cet effet leur carte d'invalidité au moment du recensement. Si cette qualité leur est
+reconnue après le recensement, elles présentent ce document à l'organisme chargé du service national dont elles relèvent. 
 
-Sont également exemptés de l'obligation de l'appel de préparation à la défense les Français qui présentent à leur bureau du
-service national un certificat médical délivré par un médecin agréé auprès du ministre de la défense, indiquant qu'ils sont
-atteints d'une maladie invalidante ou d'un handicap les rendant définitivement inaptes à participer à cette obligation.
+Sont également exemptés de l'obligation de la journée défense et citoyenneté les Français qui présentent à l'organisme chargé
+du service national dont ils relèvent un certificat médical délivré par un médecin agréé auprès du ministre de la défense
+indiquant qu'ils sont atteints d'un handicap les rendant définitivement inaptes à participer à cette obligation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 8
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 169 (M)
-	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+	  - Code de l'action sociale et des familles - art. L241-3
 
 
 ###### Article R*112-7
 
-L'administration chargée du service national fait parvenir aux Français mentionnés à l'article R.* 112-6 l'information
-correspondant à l'appel de préparation à la défense sous forme d'un dossier individuel et l'attestation leur signifiant
+L'administration chargée du service national fait parvenir aux Français mentionnés à l'article R. * 112-6 l'information
+correspondant à       la journée défense et citoyenneté sous forme d'un dossier individuel et l'attestation leur signifiant
 qu'ils sont en règle au regard des obligations du code du service national.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du service national R112-6
+	  - Code du service national
 
 
 ###### Article R*112-8
 
-Les Français qui, pour un motif reconnu valable, ne peuvent pas accomplir l'appel de préparation à la défense avant leur dix-
-huitième anniversaire et dont la convocation interviendra à une date ultérieure, reçoivent une attestation précisant qu'ils
-sont en règle et en instance de convocation.
+Les Français qui, pour un motif reconnu valable, ne peuvent pas accomplir       la journée défense et citoyenneté avant leur
+dix-huitième anniversaire et dont la convocation interviendra à une date ultérieure, reçoivent une attestation précisant
+qu'ils sont en règle et en instance de convocation. 
 
 Cette attestation mentionne sa durée de validité.
 
@@ -12710,16 +12635,11 @@ Cette attestation mentionne sa durée de validité.
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 	**Cité par**:
 
@@ -12730,9 +12650,9 @@ Cette attestation mentionne sa durée de validité.
 
 ###### Article R*112-9
 
-Le certificat individuel de participation à l'appel de préparation à la défense défini par l'article L. 114-2 est remis à
+Le certificat individuel de participation à       la journée défense et citoyenneté défini par l'article L. 114-2 est remis à
 chaque appelé, au moment de la clôture officielle de la session après constatation de la participation de l'intéressé à
-l'ensemble des activités de la session.
+l'ensemble des activités de la session. 
 
 Le ministre de la défense arrête le modèle de ce certificat.
 
@@ -12740,27 +12660,22 @@ Le ministre de la défense arrête le modèle de ce certificat.
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du service national - art. L114-2 (V)
+	  - Code du service national - art. L114-2
 
 
 ###### Article R*112-10
 
-Tout appelé qui, ayant répondu à la convocation prévue par l'article R.* 112-3, refuse de participer à une partie des
+Tout appelé qui, ayant répondu à la convocation prévue par l'article R. * 112-3, refuse de participer à une partie des
 activités de la session, ou qui adopte une attitude de nature à perturber son bon déroulement, est immédiatement invité à
-regagner son domicile. Il ne lui est pas délivré de certificat de participation à l'appel de préparation à la défense.
+regagner son domicile. Il ne lui est pas délivré de certificat de participation à       la journée défense et citoyenneté. 
 
 Sur sa demande, il est convoqué dans les conditions fixées par l'article L. 114-5.
 
@@ -12768,28 +12683,23 @@ Sur sa demande, il est convoqué dans les conditions fixées par l'article L. 11
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du service national - art. L114-5 (V)
-	  - Code du service national R112-3, L114-5
+	  - Code du service national
+	  - Code du service national - art. L114-5
 
 
 ###### Article R*112-11
 
 Tout Français qui, dans les conditions prévues à l'article L. 114-5 du présent code, entend régulariser sa situation au
-regard de l'appel de préparation à la défense adresse au bureau du service national dont il relève une demande écrite de
-participation.
+regard de la journée défense et citoyenneté adresse    à l'organisme chargé du service national  dont il relève une demande
+écrite de participation. 
 
 L'administration convoque l'intéressé à la date qu'elle fixe dans les trois mois à compter du jour de réception de la
 demande.
@@ -12798,48 +12708,39 @@ demande.
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du service national - art. L114-5 (V)
+	  - Code du service national - art. L114-5
 
 
 #### Section 2 : Règles applicables aux appelés du service national.
 
 ###### Article R*112-12
 
-La convocation pour l'appel de préparation à la défense ouvre droit à un bon de transport ou à une indemnité de déplacement
-fixée par arrêté du ministre de la défense.
+La convocation pour       la journée défense et citoyenneté ouvre droit à un bon de transport ou à une indemnité de
+déplacement fixée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Cité par**:
 
 	  - Arrêté du 31 décembre 1993 - art. 6 (Ab)
 	  - Arrêté du 20 avril 2012 - art. 6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-13
@@ -12864,24 +12765,19 @@ Pendant la durée de la session les appelés bénéficient de l'alimentation fou
 
 ###### Article R*112-14
 
-L'appel de préparation à la défense ne compte ni pour la constitution du droit à pension de retraite, ni pour la
-détermination du montant des pensions allouées au titre de l'ancienneté des services éventuels. Il ne vient pas en déduction
-de la durée des services effectués dans les fonctions publiques.
+La journée défense et citoyenneté ne compte ni pour la constitution du droit à pension de retraite, ni pour la détermination
+du montant des pensions allouées au titre de l'ancienneté des services éventuels. Il ne vient pas en déduction de la durée
+des services effectués dans les fonctions publiques.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-15
@@ -12916,98 +12812,24 @@ lesquelles ils sont portés, constitueraient une manifestation extérieure de pr
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.
-
-###### Article R*112-16
-
-L'appel de préparation à la défense des Français qui résident en permanence à l'étranger entre seize et vingt-cinq ans est
-accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions soit par envoi d'un dossier
-individuel d'information. En cas d'impossibilité, les Français de l'étranger sont provisoirement dispensés de l'appel de
-préparation à la défense. Selon les cas il leur est délivré le certificat prévu à l'article L. 114-2 du présent code, ou une
-attestation établie dans les conditions prévues à l'article R.* 112-8.
-
-Un arrêté conjoint du ministre des affaires étrangères et du ministre de la défense précise les conditions d'application du
-présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 11 janvier 2016 (V)
-
-	**Cite**:
-
-	  - Code du service national - art. L114-2 (V)
-	  - Code du service national L114-2, R112-8
-
-
-###### Article R*112-17
-
-Les Français de l'étranger qui, compte tenu de leur résidence à l'étranger, n'ont pu participer à une session de l'appel de
-préparation à la défense, sont tenus, dès lors qu'ils viennent résider habituellement sur le territoire national avant l'âge
-de vingt-cinq ans, de participer à une session de l'appel de préparation à la défense.
-
-Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion
-d'un séjour sur le territoire national, à participer à une session de l'appel de préparation à la défense.
-
-La date de participation à cette session est fixée par accord avec le bureau du service national dont ils relèvent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Créé par**:
-
-	  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 11 janvier 2016 - art. 13 (V)
-	  - Arrêté du 11 janvier 2016 - art. 7 (V)
-
-
 #### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale
 
 ###### Article R*112-18
 
 Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
-demande par écrit auprès du bureau du service national dont ils relèvent en précisant la force armée ou le service commun
-qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des intéressés.
+demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
+commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
+intéressés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Modifié par**:
 
-	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*112-19
@@ -13046,6 +12868,72 @@ Pendant la période d'instruction, les intéressés sont bénéficiaires obligé
 
 	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
+
+### Chapitre II : La journée défense et citoyenneté
+
+#### Section 1 : Dispositions générales.
+
+#### Section 2 : Règles applicables aux appelés du service national.
+
+#### Section 3 : Dispositions particulières applicables aux Français établis hors de France.
+
+###### Article R*112-16
+
+La journée défense et citoyenneté des Français qui résident en permanence à l'étranger entre seize et vingt-cinq ans est
+accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions soit par envoi d'un dossier
+individuel d'information. En cas d'impossibilité, les Français établis hors de France sont provisoirement dispensés de la
+journée défense et citoyenneté. Selon les cas il leur est délivré le certificat prévu à l'article L. 114-2 du présent code,
+ou une attestation établie dans les conditions prévues à l'article R. * 112-8. 
+
+Un arrêté conjoint du ministre des affaires étrangères et du ministre de la défense précise les conditions d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 du 10 juin 1971
+
+	**Modifié par**:
+
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+	  - Décret n°2011-929 du 1er août 2011 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 (V)
+
+
+###### Article R*112-17
+
+les Français établis hors de France qui, compte tenu de leur résidence à l'étranger, n'ont pu participer à une session de la
+journée défense et citoyenneté, sont tenus, dès lors qu'ils viennent résider habituellement sur le territoire national avant
+l'âge de vingt-cinq ans, de participer à une session de la journée défense et citoyenneté. 
+
+Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion
+d'un séjour sur le territoire national, à participer à une session de la journée défense et citoyenneté. 
+
+La date de participation à cette session est fixée par accord avec l'organisme chargé du service national dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 du 10 juin 1971
+
+	**Modifié par**:
+
+	  - Décret n°2011-929 du 1er août 2011 - art. 1
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
+	  - Décret n°2011-929 du 1er août 2011 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2016 - art. 13 (V)
+	  - Arrêté du 11 janvier 2016 - art. 7 (V)
+
+
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale
 
 ## LIVRE II
 
