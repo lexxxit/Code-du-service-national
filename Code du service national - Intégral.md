@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-08-05
+Version Consolidée au 2011-08-27
 
 # Partie législative
 
@@ -11529,26 +11529,52 @@ mentionnées à l'article L. 120-14 ;
 	  - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-###### Article R121-12
+###### Article R121-11
 
 Lorsque la personne volontaire est un mineur de plus de seize ans, le contrat de service civique indique également l'identité
 et l'adresse du domicile de la personne ou des personnes titulaires de l'autorité parentale.
 
-Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire.
+Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire et notamment
+du totorat renforcé que l'organisme d'accueil réserve à la personne mineure.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-1004 du 24 août 2011 - art. 1
+
 	**Créé par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2011-1004 du 24 août 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-1004 du 24 août 2011 - art. 1
+	  - Code du service national - art. R121-12 (T)
 
-	**Nouveaux textes**:
 
-	  - Code du service national - art. R121-11 (M)
+###### Article R121-12
+
+La nature ou l'exercice des missions ne peuvent exposer les personnes mineures aux risques et activités mentionnés aux
+articles D. 4153-15 à D. 4153-40 du code du travail. 
+
+Les missions effectuées entre 22 heures et 6 heures sont interdites aux mineurs. 
+
+La durée quotidienne de la mission confiée à un mineur est égale à sept heures au maximum et une pause de trente minutes doit
+être appliquée pour toute période de mission ininterrompue atteignant quatre heures et demie. 
+
+Le repos hebdomadaire des personnes volontaires mineures est fixé à deux jours consécutifs. 
+
+Le repos des jours fériés est obligatoire pour les personnes mineures.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1004 du 24 août 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. D4153-15 (V)
 
 
 ###### Article R121-13
@@ -12466,7 +12492,7 @@ i) culturel et artistique.
 	  - Code du service national - art. R121-51
 
 
-### Chapitre II : L'appel de préparation à la défense
+### Chapitre II : La journée défense et citoyenneté
 
 #### Section 1 : Dispositions générales.
 
@@ -12812,69 +12838,6 @@ lesquelles ils sont portés, constitueraient une manifestation extérieure de pr
 	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale
-
-###### Article R*112-18
-
-Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
-demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
-commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
-intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 du 10 juin 1971
-
-	**Modifié par**:
-
-	  - Décret n°2011-929 du 1er août 2011 - art. 2
-
-
-###### Article R*112-19
-
-Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
-dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
-d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
-
-
-###### Article R*112-20
-
-Pendant la période d'instruction, les intéressés sont bénéficiaires obligés du service de santé des armées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°71-424 1971-06-10
-
-	**Modifié par**:
-
-	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
-
-
-### Chapitre II : La journée défense et citoyenneté
-
-#### Section 1 : Dispositions générales.
-
-#### Section 2 : Règles applicables aux appelés du service national.
-
 #### Section 3 : Dispositions particulières applicables aux Français établis hors de France.
 
 ###### Article R*112-16
@@ -12934,6 +12897,61 @@ La date de participation à cette session est fixée par accord avec l'organisme
 
 
 #### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale
+
+###### Article R*112-18
+
+Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
+demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
+commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
+intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 du 10 juin 1971
+
+	**Modifié par**:
+
+	  - Décret n°2011-929 du 1er août 2011 - art. 2
+
+
+###### Article R*112-19
+
+Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
+dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
+d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+
+
+###### Article R*112-20
+
+Pendant la période d'instruction, les intéressés sont bénéficiaires obligés du service de santé des armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-424 1971-06-10
+
+	**Modifié par**:
+
+	  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+
 
 ## LIVRE II
 
