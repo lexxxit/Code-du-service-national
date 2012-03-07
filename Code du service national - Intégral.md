@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-12-28
+Version Consolidée au 2012-03-08
 
 # Partie législative
 
@@ -12371,6 +12371,45 @@ l'indemnité due à la personne volontaire.
 	**Créé par**:
 
 	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-47-1
+
+Les organismes agréés en application de l'article L. 120-30 perçoivent une aide pour l'organisation de la formation civique
+et citoyenne prévue à l'article L. 120-14. 
+
+Le montant de l'aide pour chaque personne volontaire ayant souscrit un engagement de service civique est fixé : 
+
+― à 100 euros lorsque la formation à l'unité d'enseignement " prévention et secours civiques de niveau 1 ” prévue par le
+référentiel de la formation civique et citoyenne mentionné à l'article R. 121-15 est prise en charge financièrement par
+l'Agence du service civique ; 
+
+― à 150 euros dans les autres cas. 
+
+L'aide fait l'objet d'un versement unique, au terme du deuxième mois de réalisation effective de la mission. 
+
+L'aide est subordonnée à la délivrance effective de la formation civique et citoyenne à la personne volontaire.
+
+**Nota:**
+
+Décret n° 2012-310 du 6 mars 2012, art. 2 : Ces dispositions sont applicables aux contrats d'engagement de service civique en
+cours à la date d'entrée en vigueur du présent décret.
+
+Pour ces contrats, l'aide est versée au plus tard un mois après l'entrée en vigueur du présent décret ou si, à cette date, le
+deuxième mois de réalisation effective de la mission n'est pas achevé, au terme du deuxième mois de réalisation effective de
+la mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-310 du 6 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. L120-14
+	  - Code du service national - art. L120-30
+	  - Code du service national - art. R121-15
 
 
 ###### Article R121-48
