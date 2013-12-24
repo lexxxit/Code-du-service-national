@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2013-12-25
 
 # Partie législative
 
@@ -1280,15 +1280,22 @@ sociale et bénéficie des dispositions du livre IV du même code en application
 
 ###### Article L120-26
 
-Lorsque le service est accompli en France, la couverture des risques maladie, maternité, invalidité, décès et accidents du
-travail et maladies professionnelles est assurée par le versement, par la personne morale agréée ou l'organisme versant
-l'indemnité pour le compte de l'Agence du service civique, de cotisations forfaitaires dont les modalités sont fixées par
-décret. 
+Lorsque le service est accompli en France, l'assiette des cotisations au titre des assurances sociales, des accidents du
+travail et des maladies professionnelles et des allocations familiales, ainsi que des contributions définies aux articles L.
+136-2 du code de la sécurité sociale et 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette
+sociale, est constituée des indemnités prévues à la section 4 du présent chapitre.
 
-Les autres cotisations et contributions d'origine légale ou conventionnelle rendues obligatoires par la loi, à l'exception
-des contributions définies aux articles L. 136-2 du code de la sécurité sociale et 14 de l'ordonnance n° 96-50 du 24 janvier
-1996 relative au remboursement de la dette sociale, ne sont pas dues au titre des indemnités et prestations prévues à la
-section 4 du présent chapitre. 
+Les taux de ces cotisations et contributions sont fixés selon les modalités prévues aux articles L. 136-8, L. 241-2, L. 241-3
+et L. 241-6 du code de la sécurité sociale, ainsi qu'à l'article 19 de l'ordonnance n° 96-50 du 24 janvier 1996 précitée.
+Pour la cotisation au titre des accidents du travail et des maladies professionnelles, un taux forfaitaire est fixé par
+arrêté.
+
+Leur versement, y compris celui des cotisations et contributions à la charge de la personne volontaire, est assuré par la
+personne morale agréée en application de l'article L. 120-30 du présent code ou par l'organisme versant l'indemnité pour le
+compte de l'Agence du service civique.
+
+Les cotisations et contributions d'origine légale ou conventionnelle autres que celles mentionnées au premier alinéa du
+présent article ne sont pas dues.
 
 La personne morale agréée en vertu de l'article L. 120-30 du présent code assure à la personne volontaire affectée dans un
 département d'outre-mer le bénéfice d'une couverture complémentaire pour les risques mentionnés au premier alinéa du présent
@@ -1297,21 +1304,19 @@ de rapatriement de corps. Le ministre chargé de l'outre-mer fixe par arrêté l
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance n°96-50 du 24 janvier 1996
-	  - Code du service national - art. L120-30 (VD)
-	  - Code de la sécurité sociale. - art. L136-2
-
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
-
 	**Cité par**:
 
 	  - Arrêté du 25 janvier 2011 - art. 2 (V)
 	  - Arrêté du 28 avril 2011 - art. 1 (V)
 	  - Code du service national - art. L120-27 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1203 du 23 décembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L120-30
 
 
 ###### Article L120-27
@@ -1347,26 +1352,19 @@ d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatri
 
 La couverture du risque vieillesse est assurée dans les conditions prévues à l'article L. 241-3 du code de la sécurité
 sociale. Les personnes volontaires ne sont pas soumises, au titre de leur contrat de service civique, à l'obligation
-d'affiliation mentionnée à l'article L. 921-1 du même code. 
-
-Les cotisations à la charge de la personne morale agréée et de la personne volontaire sont dues par la personne morale agréée
-en vertu de l'article L. 120-30 du présent code ou par l'organisme versant l'indemnité pour le compte de l'Agence du service
-civique. Ce versement ne peut être inférieur à un montant fixé par décret.
-
-L'Etat prend à sa charge, dans des conditions fixées par décret, le versement des cotisations complémentaires nécessaires
-pour valider auprès du régime général un nombre de trimestres correspondant à la durée du service civique.
+d'affiliation mentionnée à l'article L. 921-1 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2013-1203 du 23 décembre 2013 - art. 20 (M)
 
 	**Cite**:
 
-	  - Code du service national - art. L120-30 (VD)
+	  - Code du service national - art. L120-30
 	  - Code de la sécurité sociale. - art. L241-3
-	  - Code de la sécurité sociale. - art. L921-1 (V)
+	  - Code de la sécurité sociale. - art. L921-1
 
 
 ###### Article L120-29
