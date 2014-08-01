@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2014-03-07
+Version Consolidée au 2014-08-02
 
 # Partie législative
 
@@ -626,7 +626,7 @@ la réparation intégrale du dommage subi, suivant les règles du droit commun.
 
 ###### Article L120-1
 
-I. ― Le service civique a pour objet de renforcer la cohésion nationale et la mixité sociale et offre à toute personne
+I. - Le service civique a pour objet de renforcer la cohésion nationale et la mixité sociale et offre à toute personne
 volontaire l'opportunité de servir les valeurs de la République et de s'engager en faveur d'un projet collectif en effectuant
 une mission d'intérêt général auprès d'une personne morale agréée. 
 
@@ -635,7 +635,7 @@ philanthropique, éducatif, environnemental, scientifique, social, humanitaire, 
 des missions de défense et de sécurité civile ou de prévention, de promotion de la francophonie et de la langue française ou
 à la prise de conscience de la citoyenneté française et européenne. 
 
-II. ― Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
+II. - Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
 indemnisation prise en charge par l'Etat, ouvert aux personnes âgées de seize à vingt-cinq ans, en faveur de missions
 d'intérêt général reconnues prioritaires pour la Nation. Cet engagement est effectué auprès de personnes morales agréées dans
 les conditions prévues à la section 6 du chapitre II du présent titre. La personne morale agréée est un organisme sans but
@@ -644,25 +644,25 @@ une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agr�
 
 Le service civique peut également prendre les formes suivantes : 
 
-1° Un volontariat de service civique, d'une durée de six à vingt-quatre mois ouvert aux personnes âgées de plus de vingt-cinq
-ans auprès de personnes morales agréées dans les conditions prévues à la section 6 du chapitre II du présent titre. La
-personne morale agréée est une association de droit français ou une fondation reconnue d'utilité publique ; 
+1° Un volontariat associatif, d'une durée de six à vingt-quatre mois, ouvert aux personnes âgées de plus de vingt-cinq ans,
+auprès d'associations de droit français ou de fondations reconnues d'utilité publique agréées dans les conditions prévues à
+la section 6 du chapitre II du présent titre ;
 
 2° Le volontariat international en administration et le volontariat international en entreprise mentionnés au chapitre II du
 titre II du présent livre, le volontariat de solidarité internationale régi par la loi n° 2005-159 du 23 février 2005
 relative au contrat de volontariat de solidarité internationale ou le service volontaire européen défini par la décision n°
-1031/2000/ CE du Parlement européen et du Conseil, du 13 avril 2000, établissant le programme d'action communautaire "
-Jeunesse ” et par la décision n° 1719/2006/ CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
-programme " Jeunesse en action ” pour la période 2007-2013. 
+1031/2000/CE du Parlement européen et du Conseil, du 13 avril 2000, établissant le programme d'action communautaire "
+Jeunesse ” et par la décision n° 1719/2006/CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
+programme "Jeunesse en action" pour la période 2007-2013. 
 
-III. ― L'Etat délivre à la personne volontaire, à l'issue de sa mission, une attestation de service civique et un document
+III. - L'Etat délivre à la personne volontaire, à l'issue de sa mission, une attestation de service civique et un document
 qui décrit les activités exercées et évalue les aptitudes, les connaissances et les compétences acquises pendant la durée du
-service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du contrat de service civique prévues
-par l'article L. 120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la personne morale
-agréée et la personne volontaire. Si la personne volontaire le souhaite, ce document est intégré à son livret de compétences
-mentionné à l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation
-professionnelle tout au long de la vie et à son passeport d'orientation, de formation et de compétences mentionné au II de
-l'article L. 6323-8 du code du travail. 
+service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du contrat prévues par l'article L.
+120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la personne morale agréée et la
+personne volontaire. Si la personne volontaire le souhaite, ce document est intégré à son livret de compétences mentionné à
+l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au
+long de la vie et à son passeport d'orientation, de formation et de compétences mentionné au II de l'article L. 6323-8 du
+code du travail. 
 
 Le service civique est valorisé dans les cursus des établissements secondaires et des établissements dispensant des
 formations sanctionnées par un diplôme d'études supérieures selon des modalités fixées par décret. 
@@ -698,7 +698,7 @@ la sixième partie du code du travail.
 	  - Code du service national - art. L120-2 (V)
 	  - Code du service national - art. L120-30 (V)
 	  - Code du service national - art. L120-34 (V)
-	  - Code du service national - art. L120-7 (VD)
+	  - Code du service national - art. L120-7 (V)
 	  - Code du service national - art. R121-33 (V)
 	  - Code du service national - art. R121-34 (V)
 	  - Code du service national - art. R121-49 (VD)
@@ -711,15 +711,15 @@ la sixième partie du code du travail.
 
 	  - Loi n°2005-159 du 23 février 2005
 	  - Loi n°2009-1437 du 24 novembre 2009 - art. 11
-	  - Code de l'éducation - art. L335-5
-	  - Code de l'éducation - art. L613-3
+	  - Code de l'éducation - art. L335-5 (VT)
+	  - Code de l'éducation - art. L613-3 (M)
 	  - Code du service national - art. L120-12
 	  - Code du service national - art. L120-14
 	  - Code du travail - art. L6323-8
 
 	**Modifié par**:
 
-	  - Loi n°2014-288 du 5 mars 2014 - art. 5
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 #### Chapitre Ier : L'Agence du service civique.
@@ -743,7 +743,7 @@ d'orientation des jeunes, des établissements d'enseignement et des branches pro
 4° De veiller à l'égal accès des citoyens au service civique ; 
 
 5° De favoriser la mise en relation des personnes intéressées par un service civique avec les personnes morales agréées
-proposant un contrat de service civique ; 
+proposant un contrat mentionné à l'article L. 120-3 ; 
 
 6° De contrôler et d'évaluer la mise en œuvre du service civique ; 
 
@@ -754,15 +754,15 @@ civique ;
 
 9° De définir le contenu de la formation civique et citoyenne prévue à l'article L. 120-14. 
 
-Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale.
+Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale. 
 
 L'agence est un groupement d'intérêt public constitué, sans capital, entre l'Etat, l'Agence nationale pour la cohésion
 sociale et l'égalité des chances, l'Institut national de la jeunesse et de l'éducation populaire et l'association France
-Volontaires.D'autres personnes morales peuvent, dans des conditions fixées par la convention constitutive, devenir membres
-constitutifs du groupement. 
+Volontaires. D'autres personnes morales peuvent, dans des conditions fixées par la convention constitutive, devenir membres
+constitutifs du groupement. Le groupement est constitué sans limitation de durée. 
 
 Elle est dotée de la personnalité morale et de l'autonomie financière. Elle ne donne lieu ni à la réalisation, ni au partage
-de bénéfices. Elle peut recruter, sur décision de son conseil d'administration, des agents contractuels de droit public.
+de bénéfices. Elle peut recruter, sur décision de son conseil d'administration, des agents contractuels de droit public. 
 
 L'Agence du service civique est administrée par un conseil d'administration composé de représentants de ses membres
 constitutifs ainsi que de personnalités qualifiées. Le conseil d'administration est assisté d'un comité stratégique
@@ -775,20 +775,20 @@ comité stratégique sont précisées dans la convention constitutive.
 Pour l'exercice de son activité, le groupement s'appuie sur les représentants de l'Etat dans la région et le département
 ainsi que sur le réseau de correspondants à l'étranger de l'association France Volontaires. 
 
-Un décret précise les modalités d'application du présent article, notamment la durée pour laquelle le groupement est
-constitué et les conditions dans lesquelles la délivrance des agréments et le soutien financier de l'Etat sont mis en œuvre
-pour le compte de l'agence.
+Un décret précise les modalités d'application du présent article, notamment les conditions dans lesquelles la délivrance des
+agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte de l'agence.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (VD)
-	  - Code du service national - art. L120-14 (VD)
+	  - Code du service national - art. L120-1
+	  - Code du service national - art. L120-14
+	  - Code du service national - art. L120-3 (V)
 
 	**Cité par**:
 
@@ -808,7 +808,7 @@ pour le compte de l'agence.
 ###### Article L120-3
 
 Toute personne remplissant les conditions mentionnées à la section 2 du présent chapitre peut souscrire avec une personne
-morale agréée un contrat de service civique.
+morale agréée un contrat de service civique ou de volontariat associatif dans les conditions fixées au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -819,13 +819,13 @@ morale agréée un contrat de service civique.
 	  - Code du service national - art. L120-2 (M)
 	  - Code du service national - art. L120-28 (V)
 	  - Code du service national - art. L120-32 (V)
-	  - Code du service national - art. L120-36 (VD)
+	  - Code du service national - art. L120-36 (V)
 	  - Code du service national - art. L120-7 (V)
 	  - Code du service national - art. R121-28 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ##### Section 2 : Les conditions relatives à la personne volontaire.
@@ -897,39 +897,39 @@ mandat de dirigeant bénévole.
 
 ###### Article L120-7
 
-Le contrat de service civique, conclu par écrit, organise une collaboration exclusive de tout lien de subordination entre
-l'un des organismes ou l'une des personnes morales agréées mentionnées au II de l'article L. 120-1 et la personne
-volontaire. 
+Le contrat mentionné à l'article L. 120-3, conclu par écrit, organise une collaboration exclusive de tout lien de
+subordination entre l'un des organismes ou l'une des personnes morales agréées mentionnées au II de l'article L. 120-1 et la
+personne volontaire. 
 
-Le contrat de service civique ne relève pas des dispositions du code du travail.
+Le contrat ne relève pas des dispositions du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (VD)
+	  - Code du service national - art. L120-1 (M)
+	  - Code du service national - art. L120-3 (V)
 
 
 ###### Article L120-8
 
 Sauf dérogation accordée par l'Etat dans le cadre de la procédure d'agrément prévue à la section 6, l'accomplissement des
-missions afférentes au contrat de service civique représente, sur la durée du contrat, au moins vingt-quatre heures par
-semaine. 
+missions afférentes au contrat représente, sur la durée du contrat, au moins vingt-quatre heures par semaine. 
 
 Sans préjudice des dispositions prévues à l'article L. 433-1 du code de l'action sociale et des familles, la durée
-hebdomadaire du contrat de service civique ne peut dépasser quarante-huit heures, réparties au maximum sur six jours. Pour
-les mineurs âgés de seize à dix-huit ans, la durée hebdomadaire du contrat de service civique ne peut dépasser trente-cinq
-heures, réparties au maximum sur cinq jours.
+hebdomadaire du contrat ne peut dépasser quarante-huit heures, réparties au maximum sur six jours. Pour les mineurs âgés de
+seize à dix-huit ans, la durée hebdomadaire du contrat ne peut dépasser trente-cinq heures, réparties au maximum sur cinq
+jours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cité par**:
 
@@ -942,7 +942,7 @@ heures, réparties au maximum sur cinq jours.
 
 ###### Article L120-9
 
-Un contrat de service civique ne peut être souscrit auprès d'une personne morale agréée :
+Un contrat ne peut être souscrit auprès d'une personne morale agréée :
 
 1° Lorsque les missions confiées à la personne volontaire ont été exercées par un salarié de la personne morale agréée ou de
 l'organisme d'accueil dont le contrat de travail a été rompu moins d'un an avant la date de signature du contrat ;
@@ -952,58 +952,57 @@ signature du contrat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-10
 
-La rupture de son contrat de travail, à l'initiative du salarié, aux fins de souscrire un contrat de service civique, ne peut
-avoir pour effet de le priver de ses droits à l'assurance chômage à l'issue de son service civique.
+La rupture de son contrat de travail, à l'initiative du salarié, aux fins de souscrire un contrat, ne peut avoir pour effet
+de le priver de ses droits à l'assurance chômage à l'issue de son service civique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-11
 
 Le versement des allocations prévues au titre II du livre IV de la cinquième partie du code du travail est suspendu à compter
-de la date d'effet du contrat de service civique. Ni le montant, ni la durée des allocations ne sont remis en cause et le
-versement des allocations est repris au terme du contrat.
+de la date d'effet du contrat. Ni le montant, ni la durée des allocations ne sont remis en cause et le versement des
+allocations est repris au terme du contrat.
 
-Le versement du revenu de solidarité active est suspendu à compter de la date d'effet du contrat de service civique et repris
-au terme du contrat.
+Le versement du revenu de solidarité active est suspendu à compter de la date d'effet du contrat et repris au terme du
+contrat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 	**Cité par**:
 
 	  - Arrêté du 6 octobre 2011 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+
 
 ###### Article L120-12
 
-Dans le cadre du projet d'intérêt général de l'organisme d'accueil, le contrat de service civique mentionne les modalités
-d'exécution de la collaboration entre la personne morale agréée et la personne volontaire, notamment le lieu et la durée de
-la mission effectuée par la personne volontaire ou leur mode de détermination, ainsi que la nature des tâches qu'elle
-accomplit.
+Dans le cadre du projet d'intérêt général de l'organisme d'accueil, le contrat mentionne les modalités d'exécution de la
+collaboration entre la personne morale agréée et la personne volontaire, notamment le lieu et la durée de la mission
+effectuée par la personne volontaire ou leur mode de détermination, ainsi que la nature des tâches qu'elle accomplit.
 
 La mission de service civique peut être effectuée auprès d'une collectivité territoriale française dans le cadre d'un projet
 de coopération décentralisée qu'elle mène avec une collectivité d'un pays étranger.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cité par**:
 
@@ -1120,7 +1119,8 @@ civique.
 ###### Article L120-18
 
 Une indemnité est versée, selon une périodicité mensuelle, par la personne morale agréée à la personne effectuant un
-volontariat de service civique. Son montant et les conditions de son versement sont prévus par le contrat de service civique.
+volontariat associatif. Son montant et les conditions de son versement sont prévus par le contrat mentionné à l'article L.
+120-3. La durée cumulée des contrats de volontariat associatif pour un même individu ne peut excéder trente-six mois.
 
 Les montants maximaux et minimaux de cette indemnité sont fixés par décret.
 
@@ -1130,13 +1130,13 @@ conditions de modulation et de versement, sont fixés par décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
-
 	**Cité par**:
 
 	  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-19
@@ -1158,9 +1158,9 @@ leur domicile.
 
 ###### Article L120-20
 
-Lorsqu'elle est affectée hors du territoire métropolitain, la personne volontaire ayant souscrit un contrat de service
-civique peut percevoir des prestations servies notamment sous forme d'une indemnité supplémentaire, dont le montant est fixé
-à un taux uniforme, pour chacun des pays ou régions de ces pays ou zones géographiques.
+Lorsqu'elle est affectée hors du territoire métropolitain, la personne volontaire ayant souscrit un contrat peut percevoir
+des prestations servies notamment sous forme d'une indemnité supplémentaire, dont le montant est fixé à un taux uniforme,
+pour chacun des pays ou régions de ces pays ou zones géographiques.
 
 Celle résidant dans un département d'outre-mer ou une collectivité d'outre-mer et affectée sur le territoire métropolitain
 peut recevoir des prestations servies notamment sous forme d'une indemnité supplémentaire dont le montant est fixé à un taux
@@ -1168,15 +1168,15 @@ uniforme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
-
 	**Cité par**:
 
 	  - Arrêté du 25 janvier 2011 - art. 1 (V)
 	  - Arrêté du 26 septembre 2011 - art. 2 (V)
 	  - Code du service national - art. R121-52 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-21
@@ -1207,8 +1207,8 @@ d'éducation de l'enfant handicapé.
 
 ###### Article L120-22
 
-La personne volontaire accomplissant un contrat de service civique en France peut bénéficier de titres-repas pour lui
-permettre d'acquitter en tout ou partie le prix de repas consommés au restaurant ou préparés par un restaurateur. 
+La personne volontaire accomplissant un contrat en France peut bénéficier de titres-repas pour lui permettre d'acquitter en
+tout ou partie le prix de repas consommés au restaurant ou préparés par un restaurateur. 
 
 La personne morale agréée en vertu de l'article L. 120-30 autre que l'Etat contribue à l'acquisition des titres-repas du
 volontaire à concurrence de leur valeur libératoire, dont le montant correspond à la limite fixée par le 19° de l'article 81
@@ -1220,14 +1220,14 @@ volontaire, n'est pas assujetti à l'impôt sur le revenu.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 81
-	  - Code du service national - art. L120-30 (VD)
+	  - Code du service national - art. L120-30
 
 	**Cité par**:
 
@@ -1236,15 +1236,15 @@ volontaire, n'est pas assujetti à l'impôt sur le revenu.
 
 ###### Article L120-23
 
-Le bénéfice des dispositions de la présente section est maintenu durant la période d'accomplissement du contrat de service
-civique au profit de la personne volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité
-temporaire liée à un accident imputable au service ou à une maladie professionnelle.
+Le bénéfice des dispositions de la présente section est maintenu durant la période d'accomplissement du contrat au profit de
+la personne volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire liée à un accident
+imputable au service ou à une maladie professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-24
@@ -1351,18 +1351,19 @@ d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatri
 ###### Article L120-28
 
 La couverture du risque vieillesse est assurée dans les conditions prévues à l'article L. 241-3 du code de la sécurité
-sociale. Les personnes volontaires ne sont pas soumises, au titre de leur contrat de service civique, à l'obligation
-d'affiliation mentionnée à l'article L. 921-1 du même code.
+sociale. Les personnes volontaires ne sont pas soumises, au titre de leur contrat mentionné à l'article L. 120-3, à
+l'obligation d'affiliation mentionnée à l'article L. 921-1 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1203 du 23 décembre 2013 - art. 20 (M)
+	  - Loi n°2013-1203 du 23 décembre 2013 - art. 20 (V)
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
-	  - Code du service national - art. L120-30
+	  - Code du service national - art. L120-3 (V)
 	  - Code de la sécurité sociale. - art. L241-3
 	  - Code de la sécurité sociale. - art. L921-1
 
@@ -1455,18 +1456,18 @@ Futuna et les Terres australes et antarctiques françaises ou à l'étranger, so
 
 ###### Article L120-32
 
-Le contrat de service civique souscrit auprès d'un organisme sans but lucratif de droit français agréé peut prévoir la mise à
-disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'une ou, de manière successive, de
-plusieurs personnes morales tierces non agréées, mais qui remplissent les conditions d'agrément prévues au deuxième alinéa de
-l'article L. 120-30. 
+Le contrat mentionné à l'article L. 120-3 souscrit auprès d'un organisme sans but lucratif de droit français agréé peut
+prévoir la mise à disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'une ou, de
+manière successive, de plusieurs personnes morales tierces non agréées, mais qui remplissent les conditions d'agrément
+prévues au deuxième alinéa de l'article L. 120-30. 
 
-Dans ce cas, le contrat de service civique mentionne les modalités d'exécution de la collaboration entre l'organisme sans but
-lucratif agréé en vertu de l'article L. 120-30, la personne volontaire et les personnes morales au sein desquelles est
-effectué le service civique, notamment le lieu et la durée de chaque mission effectuée par la personne volontaire ou leur
-mode de détermination ainsi que la nature ou le mode de détermination des tâches qu'elle accomplit. 
+Dans ce cas, le contrat mentionne les modalités d'exécution de la collaboration entre l'organisme sans but lucratif agréé en
+vertu de l'article L. 120-30, la personne volontaire et les personnes morales au sein desquelles est effectué le service
+civique, notamment le lieu et la durée de chaque mission effectuée par la personne volontaire ou leur mode de détermination
+ainsi que la nature ou le mode de détermination des tâches qu'elle accomplit. 
 
 Une convention est conclue entre la personne volontaire, l'organisme sans but lucratif agréé en vertu de l'article L. 120-30
-auprès duquel est souscrit le contrat de service civique et les personnes morales accueillant la personne volontaire.
+auprès duquel est souscrit le contrat et les personnes morales accueillant la personne volontaire. 
 
 L'ensemble des dispositions du présent titre est applicable au service civique accompli dans ces conditions. 
 
@@ -1474,13 +1475,14 @@ Cette mise à disposition est effectuée sans but lucratif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
-	  - Code du service national - art. L120-30 (VD)
+	  - Code du service national - art. L120-3 (V)
+	  - Code du service national - art. L120-30
 
 	**Cité par**:
 
@@ -1530,8 +1532,9 @@ Le présent titre est applicable sur l'ensemble du territoire de la République,
 mer régies par l'article 74 de la Constitution, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises, des
 dispositions suivantes : 
 
-1° Par exception à l'article L. 120-1, le volontariat de service civique peut être effectué dans les départements et
-collectivités d'outre-mer auprès de personnes morales de droit public ; 
+1° Par exception à l'article L. 120-1, le volontariat associatif peut être effectué dans les départements et collectivités
+d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, auprès de personnes morales de
+droit public, sous le nom de volontariat de service civique ; 
 
 2° Une convention entre l'Etat, d'une part, et la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
 conditions d'application du présent titre dans ces deux collectivités. Elle précise : 
@@ -1542,8 +1545,8 @@ l'indemnité mensuelle et de l'indemnité supplémentaire ;
 b) Les conditions dans lesquelles les personnes volontaires affectées en Nouvelle-Calédonie ou en Polynésie française et
 leurs ayants droit bénéficient des prestations du régime local de sécurité sociale et de couverture complémentaire, notamment
 en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de
-corps lorsque le contrat de service civique est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou
-privé, y compris lorsqu'il s'agit d'une association ; 
+corps lorsque le contrat est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou privé, y compris
+lorsqu'il s'agit d'une association ; 
 
 c) La prise en compte de la durée du service accompli au titre du service civique par le régime de retraite de base ou
 spécial de la Nouvelle-Calédonie ou de la Polynésie française auquel la personne volontaire est affiliée à titre obligatoire
@@ -1573,20 +1576,20 @@ applicables localement ;
 
 5° A Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna et les Terres
 australes et antarctiques françaises, la protection sociale prévue au présent titre est assurée dans les conditions prévues
-par la réglementation applicable localement lorsque le contrat de service civique est accompli auprès d'un service de l'Etat
-ou d'un organisme d'accueil public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme d'accueil
-assure à la personne volontaire une couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques
-d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps, le ministre chargé de l'outre-mer fixe par
-arrêté les modalités de cette couverture ainsi que les règles particulières lorsque la personne volontaire est affectée à
-l'étranger. La législation sur les accidents du travail est celle applicable localement.
+par la réglementation applicable localement lorsque le contrat est accompli auprès d'un service de l'Etat ou d'un organisme
+d'accueil public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme d'accueil assure à la personne
+volontaire une couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation
+sanitaire, de rapatriement sanitaire et de rapatriement de corps, le ministre chargé de l'outre-mer fixe par arrêté les
+modalités de cette couverture ainsi que les règles particulières lorsque la personne volontaire est affectée à l'étranger. La
+législation sur les accidents du travail est celle applicable localement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Constitution du 4 octobre 1958 - art. 74 (V)
-	  - Code du service national - art. L120-1 (VD)
-	  - Code du service national - art. L120-27 (VD)
+	  - Constitution du 4 octobre 1958 - art. 74
+	  - Code du service national - art. L120-1
+	  - Code du service national - art. L120-27
 
 	**Cité par**:
 
@@ -1596,37 +1599,53 @@ l'étranger. La législation sur les accidents du travail est celle applicable l
 	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 	  - Code du service national - art. R121-52 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-35
 
-Les litiges relatifs à un contrat de service civique relèvent de la compétence de la juridiction judiciaire.
+Les litiges relatifs à un contrat relèvent de la compétence de la juridiction judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 
 ###### Article L120-36
 
-Toute personne française âgée de seize à dix-huit ans ayant conclu le contrat de service civique mentionné à l'article L.
-120-3 est réputée être inscrite dans un parcours lui permettant de préparer son entrée dans la vie active.
+Toute personne française âgée de seize à dix-huit ans ayant conclu le contrat mentionné à l'article L. 120-3 est réputée être
+inscrite dans un parcours lui permettant de préparer son entrée dans la vie active.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
 
 	**Cite**:
 
-	  - Code du service national - art. L120-3 (VD)
+	  - Code du service national - art. L120-3 (M)
 
+
+#### Chapitre II : L'engagement de service civique et le volontariat associatif.
+
+##### Section 1 : Dispositions générales.
+
+##### Section 2 : Les conditions relatives à la personne volontaire.
+
+##### Section 3 : Les relations entre la personne volontaire et la personne morale agréée.
+
+##### Section 4 : Indemnité.
+
+##### Section 5 : Protection sociale.
+
+##### Section 6 : Agrément.
+
+##### Section 7 : Dispositions diverses.
 
 ### TITRE II : Dispositions relatives aux autres formes de volontariat.
 
