@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2014-08-02
+Version Consolidée au 2015-02-28
 
 # Partie législative
 
@@ -795,13 +795,7 @@ agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte d
 	  - Code du service national - art. R120-11 (V)
 
 
-#### Chapitre II : L'engagement et le volontariat de service civique.
-
-
-
-
-
-
+#### Chapitre II : L'engagement de service civique et le volontariat associatif.
 
 ##### Section 1 : Dispositions générales.
 
@@ -1630,22 +1624,6 @@ inscrite dans un parcours lui permettant de préparer son entrée dans la vie ac
 
 	  - Code du service national - art. L120-3 (M)
 
-
-#### Chapitre II : L'engagement de service civique et le volontariat associatif.
-
-##### Section 1 : Dispositions générales.
-
-##### Section 2 : Les conditions relatives à la personne volontaire.
-
-##### Section 3 : Les relations entre la personne volontaire et la personne morale agréée.
-
-##### Section 4 : Indemnité.
-
-##### Section 5 : Protection sociale.
-
-##### Section 6 : Agrément.
-
-##### Section 7 : Dispositions diverses.
 
 ### TITRE II : Dispositions relatives aux autres formes de volontariat.
 
@@ -17257,51 +17235,35 @@ considérés comme dispensés de leurs obligations du service national.
 ###### Article R101
 
 Pour l'application des dispositions des articles L. 25 et L. 61, une ou plusieurs commissions de réforme du service national
-sont instituées, en fonction des besoins, sur décision du ministre chargé des armées auprès du commandement de la région
-terre Ile-de-France, auprès de chaque région terre, auprès de chaque arrondissement maritime, auprès des centres de sélection
-ou centres du service national et, en ce qui concerne les départements et territoires d'outre-mer, auprès des bureaux ou
-centres du service national.
+sont instituées, en fonction des besoins, sur décision du ministre chargé des armées auprès de chaque commandant de zone
+terre, auprès de chaque commandant d'arrondissement maritime, auprès des centres de sélection ou centres du service national
+et, en ce qui concerne les départements et territoires d'outre-mer, auprès des bureaux ou centres du service national. 
 
 En outre, des commissions de réforme du service national peuvent être instituées, sur décision du ministre chargé des armées,
-auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-mer.
+auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-mer. 
 
 Les séances de la commission de réforme du service national ne sont pas publiques. La commission peut entendre toute personne
 dont elle estime l'audition utile.
 
-**Nota:**
-
-Décret n° 98-180 du 17 mars 1998 art. 5 : 
-
-Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
-aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-81 1972-01-24 art. 1
 
 	**Cité par**:
 
 	  - Décret n°90-758 du 24 août 1990 - art. 11 (Ab)
 	  - Code du service national - art. ANNEXE I (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2000-559 du 21 juin 2000 - art. 11 () JORF 24 juin 2000 en vigueur le 1er juillet 2000
+	  - Décret n°2015-211 du 25 février 2015 - art. 28
 
 	**Codifié par**:
 
-	  - Décret n°72-806 1972-08-31
+	  - Décret n°72-806 du 31 août 1972
 
 	**Cite**:
 
-	  - Code du service national - art. L25 (M)
-	  - Code du service national - art. L61 (M)
+	  - Code du service national - art. L25
+	  - Code du service national - art. L61
 
 
 ###### Article R102
