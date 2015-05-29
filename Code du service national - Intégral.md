@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2015-02-28
+Version Consolidée au 2015-05-30
 
 # Partie législative
 
@@ -11285,22 +11285,6 @@ La période de recensement est alors fixée par l'ambassadeur compétent.
 
 
 
-###### Article R120-1
-
-Le groupement d'intérêt public dénommé "Agence du service civique" et instituée par l'article L. 120-2 est créé pour une
-durée de cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2015-581 du 27 mai 2015 - art. 1
-
-
 ###### Article R120-2
 
 La convention constitutive du groupement d'intérêt public et ses annexes sont approuvées par arrêté du ministre chargé de la
@@ -11519,7 +11503,7 @@ portée à dix jours pour le décès d'un ascendant ou descendant au premier deg
 
 ###### Article R121-10
 
-Le contrat de service civique mentionné à l'article L. 120-7 comprend obligatoirement les éléments suivants :
+Le contrat d'engagement de service civique ou de volontariat associatif comprend obligatoirement les éléments suivants :
 
 1° L'identité des parties et l'adresse de leur domicile ;
 
@@ -11550,15 +11534,15 @@ mentionnées à l'article L. 120-14 ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-11
 
-Lorsque la personne volontaire est un mineur de plus de seize ans, le contrat de service civique indique également l'identité
-et l'adresse du domicile de la personne ou des personnes titulaires de l'autorité parentale.
+Lorsque la personne volontaire est un mineur de plus de seize ans, le contrat indique également l'identité et l'adresse du
+domicile de la personne ou des personnes titulaires de l'autorité parentale.
 
 Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire et notamment
 du totorat renforcé que l'organisme d'accueil réserve à la personne mineure.
@@ -11567,15 +11551,7 @@ du totorat renforcé que l'organisme d'accueil réserve à la personne mineure.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1004 du 24 août 2011 - art. 1
-
-	**Créé par**:
-
-	  - Décret n°2011-1004 du 24 août 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du service national - art. R121-12 (T)
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-12
@@ -11605,14 +11581,14 @@ Le repos des jours fériés est obligatoire pour les personnes mineures.
 
 ###### Article R121-13
 
-L'organisme agréé transmet sans délai à l'organisme désigné à l'article R. 121-50 les éléments du contrat de service civique
-lorsque ce dernier est relatif à un engagement de service civique.
+L'organisme agréé transmet sans délai à l'organisme désigné à l'article R. 121-50 les éléments du contrat lorsque ce dernier
+est relatif à un engagement de service civique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-14
@@ -11660,8 +11636,8 @@ service civique, de la personne volontaire et de définir les étapes de son par
 
 ###### Article R121-17
 
-Toute personne effectuant un engagement de service civique ou un volontariat de service civique bénéficie d'un droit à congé
-dès lors qu'elle a exercé la mission définie par son contrat de service civique au minimum durant dix jours ouvrés.
+Toute personne effectuant un engagement de service civique ou un volontariat associatif bénéficie d'un droit à congé dès lors
+qu'elle a exercé la mission définie par son contrat au minimum durant dix jours ouvrés.
 
 Elle a droit à un congé annuel d'une durée fixée à deux jours ouvrés par mois de service effectif, y compris dans le cadre
 d'une pluralité de missions.
@@ -11671,9 +11647,9 @@ pour maternité ou d'adoption sont considérés, pour l'application de l'alinéa
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-18
@@ -11716,10 +11692,10 @@ Un congé non pris ne donne lieu à aucune indemnité compensatrice.
 
 ###### Article R121-22
 
-Dans le cadre d'un volontariat de service civique, l'indemnité brute versée chaque mois, en espèce ou en nature, par la
-personne morale agréée à la personne volontaire est comprise entre 8,07 % et 54,04 % de la rémunération mensuelle afférente à
-l'indice brut 244 de la fonction publique prévu par le décret n° 82-1105 du 23 décembre 1982 relatif aux indices de la
-fonction publique. Le montant servi en nature ne peut excéder 50 % du montant total de l'indemnité. Le montant de l'indemnité
+Dans le cadre d'un volontariat associatif, l'indemnité brute versée chaque mois, en espèce ou en nature, par la personne
+morale agréée à la personne volontaire est comprise entre 8,07 % et 54,04 % de la rémunération mensuelle afférente à l'indice
+brut 244 de la fonction publique prévu par le décret n° 82-1105 du 23 décembre 1982 relatif aux indices de la fonction
+publique. Le montant servi en nature ne peut excéder 50 % du montant total de l'indemnité. Le montant de l'indemnité
 mensuelle versée tient compte du temps de service effectif de la personne volontaire.
 
 **Liens relatifs à cet article**
@@ -11728,9 +11704,9 @@ mensuelle versée tient compte du temps de service effectif de la personne volon
 
 	  - Décret n°82-1105 du 23 décembre 1982
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-23
@@ -11872,48 +11848,49 @@ association mentionnée à l'article 12 de la loi du 23 mai 2006 précitée cont
 ###### Article R121-28
 
 Les titres-repas du volontaire acquis par la personne morale mentionnée au premier alinéa de l'article R. 121-27 ne peuvent
-être utilisés que par les volontaires de cette personne morale accomplissant en France un contrat de service civique
-mentionné à l'article L. 120-6 du code du service national et pour la durée de sa mission.
+être utilisés que par les volontaires de cette personne morale accomplissant en France un contrat mentionné à l'article L.
+120-3 du code du service national et pour la durée de sa mission. 
 
 Les chèques-repas du bénévole acquis par une association ne peuvent être utilisés que par les bénévoles de cette association
-y exerçant, dans le cadre de son objet social, une activité bénévole régulière.
+y exerçant, dans le cadre de son objet social, une activité bénévole régulière. 
 
 Un même volontaire ou bénévole ne peut recevoir respectivement qu'un titre-repas ou un chèque-repas par repas compris dans le
-cadre de son activité journalière.
+cadre de son activité journalière. 
 
 Ce titre ou ce chèque ne peut être utilisé que par le volontaire ou le bénévole auquel la personne morale mentionnée au
-premier alinéa de l'article R. 121-27 ou l'association l'a remis.
+premier alinéa de l'article R. 121-27 ou l'association l'a remis. 
 
 Les titres-repas et les chèques-repas ne sont pas utilisables les dimanches et jours fériés sauf s'ils portent de manière
 très apparente une mention contraire apposée selon le cas par la personne morale précitée ou l'association, sous sa
-responsabilité, au bénéfice exclusif des volontaires ou bénévoles travaillant pendant ces mêmes jours.
+responsabilité, au bénéfice exclusif des volontaires ou bénévoles travaillant pendant ces mêmes jours. 
 
 Les titres-repas et les chèques-repas ne peuvent être utilisés que dans le département du lieu de travail des volontaires ou
 bénévoles bénéficiaires et les départements limitrophes, à moins qu'ils ne portent de manière très apparente une mention
 contraire apposée selon le cas par la personne morale précitée ou l'association, sous sa responsabilité, au bénéfice exclusif
-de ceux de ces volontaires ou bénévoles qui sont, du fait de leur fonction, appelés à des déplacements à longue distance.
+de ceux de ces volontaires ou bénévoles qui sont, du fait de leur fonction, appelés à des déplacements à longue distance. 
 
 Ces titres ou ces chèques ne peuvent être présentés en paiement d'un repas à un restaurateur ou assimilé que pendant l'année
-civile et la période d'utilisation dont ils font mention.
+civile et la période d'utilisation dont ils font mention. 
 
 Les titres ou chèques non utilisés au cours de cette période et rendus par les volontaires ou bénévoles bénéficiaires à la
 personne morale précitée ou l'association au plus tard au cours de la quinzaine suivante sont échangés gratuitement
-respectivement contre un nombre égal de titres ou de chèques valables pour la période ultérieure.
+respectivement contre un nombre égal de titres ou de chèques valables pour la période ultérieure. 
 
 Un même titre ou un même chèque ne peut être utilisé que pour acquitter en tout ou partie le prix d'un seul repas
-correspondant au moins aux normes fixées par l'arrêté prévu par l'article R. 3262-4 du code du travail.
+correspondant au moins aux normes fixées par l'arrêté prévu par l'article R. 3262-4 du code du travail. 
 
 Un même repas ne peut être payé avec plusieurs titres ou chèques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du service national - art. L120-6
+	  - Code du service national - art. L120-3
+	  - Code du service national - art. R121-27
 	  - Code du travail - art. R3262-4
 
 
@@ -12076,7 +12053,7 @@ dérogation accordée sur la durée d'existence par l'Agence du service civique.
 
 ###### Article R121-34
 
-L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 est accordé pour une durée
+L'agrément de volontariat associatif prévu au troisième alinéa du II de l'article L. 120-1 est accordé pour une durée
 maximale de cinq ans renouvelable à l'association de droit français, à la fondation reconnue d'utilité publique, à l'union
 d'associations ou à la fédération d'associations constituée sous la forme d'association qui répond aux conditions visées aux
 1°,5° et 6° de l'article R. 121-33 et : 
@@ -12089,16 +12066,20 @@ disposition ;
 
 2° Dispose de ressources d'origine privée supérieures à 15 % de son budget annuel au cours du dernier exercice clos.
 
-A titre dérogatoire, l'agrément de volontariat de service civique peut être accordé aux organismes mentionnés au premier
-alinéa exerçant des missions reconnues prioritaires pour la nation pour accueillir des personnes volontaires âgées de plus de
-dix-huit ans et de moins de vingt-cinq ans. Dans ce cas, l'agrément délivré par l'Agence du service civique précise les
-missions destinées à ces volontaires en sus des missions mentionnées au 1°.
+A titre dérogatoire, l'agrément de volontariat associatif peut être accordé aux organismes mentionnés au premier alinéa
+exerçant des missions reconnues prioritaires pour la nation pour accueillir des personnes volontaires âgées de plus de dix-
+huit ans et de moins de vingt-cinq ans. Dans ce cas, l'agrément délivré par l'Agence du service civique précise les missions
+destinées à ces volontaires en sus des missions mentionnées au 1°.
+
+Par exception, l'agrément de volontariat associatif peut être délivré dans les départements et collectivités d'outre-mer, en
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, aux personnes morales de droit public, sous le
+nom d'agrément de volontariat de service civique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 	**Cite**:
 
@@ -12108,26 +12089,31 @@ missions destinées à ces volontaires en sus des missions mentionnées au 1°.
 	**Cité par**:
 
 	  - Code du service national - art. R121-35 (V)
+	  - Code du service national - art. R121-52 (V)
 
 
 ###### Article R121-35
 
-Les agréments de service civique sont délivrés, dans les conditions et selon les priorités et limites définies par le conseil
-d'administration de l'Agence du service civique, par le président de l'Agence du service civique et les délégués territoriaux
-de l'Agence du service civique.
+Les agréments mentionnés aux articles R. 121-33 et R. 121-34 du code du service national sont délivrés, dans les conditions
+et selon les priorités et limites définies par le conseil d'administration de l'Agence du service civique, par le président
+de l'Agence du service civique et les délégués territoriaux de l'Agence du service civique. 
 
 Le directeur de l'Agence du service civique peut, pour la délivrance des agréments, recevoir délégation du président de
-l'Agence du service civique.
+l'Agence du service civique. 
 
-Le président de l'Agence du service civique rend régulièrement compte au conseil d'administration des agréments délivrés.
+Le président de l'Agence du service civique rend régulièrement compte au conseil d'administration des agréments délivrés. 
 
-L'Agence du service civique peut accueillir des personnes en service civique.
+L'Agence du service civique peut accueillir des personnes en engagement de service civique ou en volontariat associatif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. R121-33
 
 
 ###### Article R121-36
@@ -12184,32 +12170,37 @@ Lorsque le dossier remis à l'administration est complet, il en est délivré r�
 
 ###### Article R121-38
 
-L'agrément précise :
+L'agrément précise : 
 
-1° La forme du service civique ;
+1° La forme d'engagement de service civique ou de volontariat associatif ; 
 
-2° La dénomination de la structure et le numéro SIREN ;
+2° La dénomination de la structure et le numéro SIREN ; 
 
-3° La durée de l'agrément ;
+3° La durée de l'agrément ; 
 
 4° Le cas échéant, la liste des associations, des syndicats ou des mutuelles membres des unions ou fédérations mentionnés à
-l'article R. 121-36 ;
+l'article R. 121-36 ; 
 
-5° La liste des établissements secondaires susceptibles d'accueillir des volontaires ;
+5° La liste des établissements secondaires susceptibles d'accueillir des volontaires ; 
 
 6° Le nombre maximum de volontaires que l'organisme est autorisé à mettre à disposition auprès d'une ou plusieurs personnes
-morales tierces non agréées dans les conditions définies à l'article L. 120-32 ;
+morales tierces non agréées dans les conditions définies à l'article L. 120-32 ; 
 
-7° La mission ou le programme de missions ;
+7° La mission ou le programme de missions ; 
 
 8° Pour l'engagement de service civique, le niveau de l'autorisation de recrutement de volontaires dont dispose l'organisme
 agréé et la période au cours de laquelle ces recrutements peuvent intervenir.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. L120-32
+	  - Code du service national - art. R121-36
 
 
 ###### Article R121-39
@@ -12253,20 +12244,26 @@ Le refus d'agrément est motivé.
 
 ###### Article R121-42
 
-Toute modification des statuts ou de tout autre acte constitutif de l'organisme agréé postérieure à la délivrance des
-agréments de service civique ou toute modification des conditions d'accueil des volontaires déclarées en vue de la délivrance
-de l'un des agréments de service civique sont notifiées sans délai à l'autorité administrative ayant délivré l'agrément.
+Toute modification des statuts ou de tout autre acte constitutif de l'organisme agréé postérieure à la délivrance de l'un des
+agréments ou toute modification des conditions d'accueil des volontaires déclarées en vue de leur délivrance sont notifiées
+sans délai à l'autorité administrative ayant délivré l'agrément. 
 
-Lorsque les agréments de service civique sont délivrés au titre de l'article R. 121-36, l'union ou la fédération est tenue de
-notifier sans délai à l'autorité administrative ayant délivré l'agrément les modifications apportées à ses statuts ou à ceux
-de ses membres postérieurement à la délivrance de l'agrément ainsi que les modifications apportées aux conditions d'accueil
-des volontaires déclarées en vue de la délivrance de l'agrément.
+Lorsque les agréments mentionnés aux articles R. 121-33 et R. 121-34 du code du service national sont délivrés au titre de
+l'article R. 121-36, l'union ou la fédération est tenue de notifier sans délai à l'autorité administrative ayant délivré
+l'agrément les modifications apportées à ses statuts ou à ceux de ses membres postérieurement à la délivrance de l'agrément
+ainsi que les modifications apportées aux conditions d'accueil des volontaires déclarées en vue de la délivrance de
+l'agrément.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. R121-33
+	  - Code du service national - art. R121-36
 
 
 ###### Article R121-43
@@ -12285,43 +12282,48 @@ disposition de volontaires.
 
 ###### Article R121-44
 
-L'autorité administrative ayant délivré l'agrément peut à tout moment contrôler les conditions d'exercice de la mission de
-service civique, y compris le contenu et la réalisation des formations prévues à l'article L. 120-14 au sein de l'organisme
-agréé ou des organismes membres de l'union ou de la fédération agréées ou des organismes auprès desquels les volontaires ont
-été mis à disposition.
+L'autorité administrative ayant délivré l'agrément peut à tout moment contrôler les conditions d'exercice de la mission, y
+compris le contenu et la réalisation des formations prévues à l'article L. 120-14 au sein de l'organisme agréé ou des
+organismes membres de l'union ou de la fédération agréées ou des organismes auprès desquels les volontaires ont été mis à
+disposition. 
 
 Les organismes doivent tenir à cet effet à la disposition de cette autorité les documents probants ou les pièces
 justificatives nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. L120-14
 
 
 ###### Article R121-45
 
-Les agréments de service civique peuvent faire l'objet d'un retrait :
+Les agréments mentionnés aux articles R. 121-33 et R. 121-34 du code du service national peuvent faire l'objet d'un
+retrait : 
 
-1° Lorsque l'une des conditions relatives à sa délivrance n'est plus satisfaite ;
+1° Lorsque l'une des conditions relatives à sa délivrance n'est plus satisfaite ; 
 
 2° En cas d'atteinte à l'ordre public ou à la moralité publique ou de non-respect des obligations générales qui incombent à
-l'organisme ;
+l'organisme ; 
 
-3° Ou pour un motif grave tiré de la violation du contrat d'engagement de service civique ou de volontariat de service
-civique conclu avec une personne volontaire ou de conditions d'accueil ou d'exercice des activités constituant un danger
-immédiat pour la santé ou la sécurité de l'intéressé ou celle des tiers.
+3° Ou pour un motif grave tiré de la violation du contrat d'engagement de service civique ou de volontariat associatif conclu
+avec une personne volontaire ou de conditions d'accueil ou d'exercice des activités constituant un danger immédiat pour la
+santé ou la sécurité de l'intéressé ou celle des tiers. 
 
 Dans ce cas, l'organisme peut sans délai se mettre en conformité ou apporter des éléments probants justifiant de sa mise en
-conformité sous un délai de deux mois.
+conformité sous un délai de deux mois. 
 
 Lorsque le motif du retrait tient à la situation d'un organisme membre d'une union ou d'une fédération agréée, l'autorité
-administrative ayant délivré l'agrément prononce le retrait de celui-ci à raison des membres concernés par cette situation.
+administrative ayant délivré l'agrément prononce le retrait de celui-ci à raison des membres concernés par cette situation. 
 
 Lorsque le motif du retrait tient à la situation d'un ou plusieurs établissements secondaires d'un organisme agréé,
 l'autorité administrative ayant délivré l'agrément prononce le retrait de celui-ci à raison des membres concernés par cette
-situation.
+situation. 
 
 Lorsque le motif du retrait tient à la situation d'une ou plusieurs personnes morales accueillant des volontaires mis à
 disposition par un organisme agréé, l'autorité administrative ayant délivré l'agrément prononce le retrait de l'autorisation
@@ -12329,9 +12331,13 @@ de mise à disposition à raison des personnes morales en cause.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du service national - art. R121-33
 
 
 ###### Article R121-46
@@ -12410,13 +12416,13 @@ la mission.
 
 La mise à disposition ne peut se réaliser simultanément auprès de plusieurs personnes morales sur une même mission d'intérêt
 général. Il est toutefois possible d'organiser cette mise à disposition auprès de plusieurs personnes morales durant la même
-période de service civique sur des missions distinctes agréées.
+période  d'engagement de service civique sur des missions distinctes agréées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 ###### Article R121-49
@@ -12441,19 +12447,19 @@ période d'engagement.
 
 L'Agence de service et de paiement est chargée de la mise en œuvre, en lien avec l'Agence du service civique, des procédures
 de gestion relatives aux aides accordées aux personnes volontaires, à la protection sociale des volontaires et aux aides
-servies aux organismes d'accueil dans le cadre du service civique.
+servies aux organismes d'accueil.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 28 avril 2011 - art. 4 (V)
 	  - Arrêté du 26 septembre 2011 - art. 1 (V)
 	  - Arrêté du 26 septembre 2011 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
 
 
 #### Section VI : Dispositions relatives à l'outre-mer
@@ -12482,7 +12488,7 @@ et antarctiques françaises, les dispositions mentionnées à l'article R. 121-5
 
 1° L'article R. 120-9 est ainsi rédigé : 
 
-" Art.R. 120-9. ― Dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et
+" Art. R. 120-9. ― Dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et
 antarctiques françaises, le représentant de l'Etat est le délégué territorial de l'agence. Il assure la coordination des
 politiques de promotion, d'évaluation et de contrôle du service civique avec l'appui des services placés sous son autorité et
 du délégué territorial adjoint qu'il désigne. 
@@ -12504,18 +12510,18 @@ collectivité d'affectation est fixé par l'arrêté mentionné à l'alinéa pr�
 des bagages à concurrence de 50 kg (0,3 m ³) d'effets personnels par voie aérienne ou 130 kg (1 m ³) par voie maritime entre
 son domicile et son lieu d'affectation, par la voie la plus directe et la plus économique. 
 
-La personne volontaire, qui à la fin de son contrat de service civique, souhaite prolonger à titre personnel son séjour dans
-son lieu d'affectation conserve le droit à la gratuité du voyage retour, avec bagages, vers son lieu de résidence habituelle
-pendant un délai de trois mois ; 
+La personne volontaire, qui à la fin de son contrat, souhaite prolonger à titre personnel son séjour dans son lieu
+d'affectation conserve le droit à la gratuité du voyage retour, avec bagages, vers son lieu de résidence habituelle pendant
+un délai de trois mois ; 
 
 4° La personne volontaire doit, avant sa prise de fonctions, être à jour des vaccinations nécessaires à l'accomplissement de
 son contrat de service civique ; 
 
-5° Pour l'application de l'article R. 121-34, l'agrément de volontariat de service civique prévu au troisième alinéa du II de
-l'article L. 120-1 et à l'article L. 120-34 peut être accordé pour une durée maximale de cinq ans renouvelable à la personne
-morale de droit public qui répond aux conditions prévues à l'article R. 121-33 et dont le siège se situe dans un département
-ou une collectivité d'outre-mer, en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna, en Polynésie française ou
-dans les Terres australes et antarctiques françaises. 
+5° Pour l'application de l'article R. 121-34, l'agrément de volontariat de service civique ou de volontariat associatif prévu
+au troisième alinéa du II de l'article L. 120-1 et à l'article L. 120-34 peut être accordé pour une durée maximale de cinq
+ans renouvelable à la personne morale de droit public qui répond aux conditions prévues à l'article R. 121-33 et dont le
+siège se situe dans un département ou une collectivité d'outre-mer, en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et
+Futuna, en Polynésie française ou dans les Terres australes et antarctiques françaises. 
 
 Dans les mêmes conditions et à titre dérogatoire, l'agrément de volontariat de service civique peut être accordé,
 conformément aux dispositions de l'article L. 120-30, en vue d'accueillir des personnes volontaires âgées de plus de dix-huit
@@ -12541,19 +12547,23 @@ i) culturel et artistique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 25 janvier 2011 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
 	**Cite**:
 
 	  - Code du service national - art. L120-1
-	  - Code du service national - art. R120-9
+	  - Code du service national - art. L120-20
+	  - Code du service national - art. L120-30
+	  - Code du service national - art. L120-34 (V)
 	  - Code du service national - art. R121-26
+	  - Code du service national - art. R121-33
+	  - Code du service national - art. R121-34 (M)
 	  - Code du service national - art. R121-51
 
 
