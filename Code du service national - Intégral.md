@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2015-07-30
+Version Consolidée au 2015-08-07
 
 # Partie législative
 
@@ -623,15 +623,15 @@ une mission d'intérêt général auprès d'une personne morale agréée.
 Les missions d'intérêt général susceptibles d'être accomplies dans le cadre d'un service civique revêtent un caractère
 philanthropique, éducatif, environnemental, scientifique, social, humanitaire, sportif, familial ou culturel, ou concourent à
 des missions de défense et de sécurité civile ou de prévention, de promotion de la francophonie et de la langue française ou
-à la prise de conscience de la citoyenneté française et européenne. 
+à la prise de conscience de la citoyenneté française et européenne.
 
 II. - Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
-indemnisation prise en charge par l'Agence du service civique, ouvert aux personnes âgées de seize à vingt-cinq ans, en
-faveur de missions d'intérêt général reconnues prioritaires pour la Nation. Cet engagement est effectué auprès de personnes
-morales agréées dans les conditions prévues à la section 6 du chapitre II du présent titre. La personne morale agréée est un
-organisme sans but lucratif de droit français ou une personne morale de droit public. Une association cultuelle, politique,
-une congrégation, une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agrément pour organiser le
-service civique. 
+indemnisation prise en charge par l'Agence du service civique, ouvert aux personnes âgées de seize à vingt-cinq ans ou aux
+personnes reconnues handicapées âgées de seize à trente ans, en faveur de missions d'intérêt général reconnues prioritaires
+pour la Nation. Cet engagement est effectué auprès de personnes morales agréées dans les conditions prévues à la section 6 du
+chapitre II du présent titre. La personne morale agréée est un organisme sans but lucratif de droit français ou une personne
+morale de droit public. Une association cultuelle, politique, une congrégation, une fondation d'entreprise ou un comité
+d'entreprise ne peuvent recevoir d'agrément pour organiser le service civique. 
 
 Le service civique peut également prendre les formes suivantes : 
 
@@ -710,7 +710,7 @@ la sixième partie du code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
+	  - Loi n°2015-988 du 5 août 2015 - art. 11
 
 
 #### Chapitre Ier : L'Agence du service civique.
@@ -1379,16 +1379,12 @@ l'accompagnement et la prise en charge des personnes volontaires.
 
 L'Agence du service civique octroie également, dans le cadre d'une procédure d'agrément, les éventuelles dérogations qui
 peuvent être demandées par les personnes morales visées au 1° du II de l'article L. 120-1 pour accueillir des personnes
-volontaires âgées de plus de dix-huit ans et de moins de vingt-cinq ans. Un décret fixe la liste des missions qui peuvent
-faire l'objet de telles dérogations. 
+volontaires âgées de dix-huit à trente  ans. Un décret fixe la liste des missions qui peuvent faire l'objet de telles
+dérogations. 
 
 Un décret fixe les conditions de délivrance et de retrait de l'agrément.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -1405,9 +1401,13 @@ Un décret fixe les conditions de délivrance et de retrait de l'agrément.
 	  - Code du service national - art. R121-47-1 (V)
 	  - Code du service national - art. R121-52 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-988 du 5 août 2015 - art. 11
+
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (VD)
+	  - Code du service national - art. L120-1 (M)
 
 
 ##### Section 7 : Dispositions diverses.
