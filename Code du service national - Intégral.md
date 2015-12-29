@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2015-12-28
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -1076,19 +1076,18 @@ la rupture.
 L'attestation de service civique mentionnée à l'article L. 120-1 peut également être délivrée, dans des conditions prévues
 par décret, aux pompiers volontaires. 
 
-Une attestation de service civique senior peut être délivrée, dans des conditions définies par l'Agence du service civique, à
-la personne qui contribue à la formation civique et citoyenne ou au tutorat des personnes effectuant un engagement de service
-civique.
+Une attestation de    tutorat est délivrée, dans des conditions définies par l'Agence du service civique, à la personne qui
+contribue à la formation civique et citoyenne ou au tutorat des personnes effectuant un engagement de service civique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (VD)
+	  - Code du service national - art. L120-1
 
 	**Cité par**:
 
