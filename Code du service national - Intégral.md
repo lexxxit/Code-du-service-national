@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -729,12 +729,12 @@ Il est créé une Agence du service civique qui a pour missions :
 civique ; 
 
 3° De promouvoir et de valoriser le service civique auprès notamment des publics concernés, des organismes d'accueil et
-d'orientation des jeunes, des établissements d'enseignement et des branches professionnelles ; 
+d'orientation des jeunes, des établissements d'enseignement et des branches professionnelles ;
 
 4° De veiller à l'égal accès des citoyens au service civique ; 
 
 5° De favoriser la mise en relation des personnes intéressées par un service civique avec les personnes morales agréées
-proposant un contrat mentionné à l'article L. 120-3 ; 
+proposant un contrat de service civique ; 
 
 6° De contrôler et d'évaluer la mise en œuvre du service civique ; 
 
@@ -745,15 +745,17 @@ civique ;
 
 9° De définir le contenu de la formation civique et citoyenne prévue à l'article L. 120-14. 
 
-Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale. 
+10° De mettre en œuvre le volet jeunesse du programme européen Erasmus +.  
 
-L'agence est un groupement d'intérêt public constitué, sans capital, entre l'Etat, l'Agence nationale pour la cohésion
-sociale et l'égalité des chances, l'Institut national de la jeunesse et de l'éducation populaire et l'association France
-Volontaires. D'autres personnes morales peuvent, dans des conditions fixées par la convention constitutive, devenir membres
-constitutifs du groupement. Le groupement est constitué sans limitation de durée. 
+Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale.
+
+L'agence est un groupement d'intérêt public constitué, sans capital, entre l'Etat, et l'association France Volontaires.
+D'autres personnes morales peuvent, dans des conditions fixées par la convention constitutive, devenir membres constitutifs
+du groupement. Le groupement est constitué sans limitation de durée.
 
 Elle est dotée de la personnalité morale et de l'autonomie financière. Elle ne donne lieu ni à la réalisation, ni au partage
-de bénéfices. Elle peut recruter, sur décision de son conseil d'administration, des agents contractuels de droit public. 
+de bénéfices. Elle peut recruter, sur décision de son conseil d'administration, des agents contractuels de droit public.
+L'Etat assure l'équilibre en dépenses et en recettes du budget de l'Agence du service civique. 
 
 L'Agence du service civique est administrée par un conseil d'administration composé de représentants de ses membres
 constitutifs ainsi que de personnalités qualifiées. Le conseil d'administration est assisté d'un comité stratégique
@@ -771,9 +773,13 @@ agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte d
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
+
 	**Cite**:
 
-	  - Code du service national - art. L120-1
+	  - Code du service national - art. L120-1 (M)
 	  - Code du service national - art. L120-14
 
 	**Cité par**:
@@ -956,8 +962,8 @@ Le versement des allocations prévues au titre II du livre IV de la cinquième p
 de la date d'effet du contrat. Ni le montant, ni la durée des allocations ne sont remis en cause et le versement des
 allocations est repris au terme du contrat.
 
-Le versement du revenu de solidarité active est suspendu à compter de la date d'effet du contrat et repris au terme du
-contrat.
+Le versement du revenu de solidarité active et de la prime d'activité est suspendu à compter de la date d'effet du contrat et
+repris au terme du contrat.
 
 **Liens relatifs à cet article**
 
@@ -967,7 +973,7 @@ contrat.
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2015-994 du 17 août 2015 - art. 59
 
 
 ###### Article L120-12
@@ -1165,15 +1171,15 @@ Les indemnités et les prestations mentionnées à la présente section ne sont 
 
 Elles ne sont pas prises en compte pour la détermination des droits de l'aide à l'enfance, de l'aide à la famille, de
 l'allocation personnalisée d'autonomie, de l'aide à domicile et au placement, du revenu de solidarité active, de l'allocation
-de logement familiale ou sociale, de l'aide personnalisée au logement, de la protection complémentaire en matière de santé
-mentionnée à l'article L. 861-1 du code de la sécurité sociale, de l'allocation aux adultes handicapés et de l'allocation
-d'éducation de l'enfant handicapé.
+de logement familiale ou sociale, de l'aide personnalisée au logement, de la prime d'activité, de la protection
+complémentaire en matière de santé mentionnée à l'article L. 861-1 du code de la sécurité sociale, de l'allocation aux
+adultes handicapés et de l'allocation d'éducation de l'enfant handicapé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2015-994 du 17 août 2015 - art. 59
 
 	**Cité par**:
 
@@ -2319,7 +2325,7 @@ en administration. Il prend fin avant son terme à la date d'effet d'un contrat 
 Toutefois, lorsque ce contrat est un contrat de travail mentionné à l'article L. 117-1, L. 124-2 ou L. 981-1 du code du
 travail, le volontaire peut bénéficier, pendant une période de trois mois au plus, des prestations auxquelles ouvre droit le
 statut de volontaire pour l'insertion, à l'exception de l'allocation mensuelle et de la prime respectivement mentionnées aux
-1° et 2° de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
+1° et 2° du I de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
 d'exécution et de résiliation du contrat.
@@ -2328,7 +2334,7 @@ d'exécution et de résiliation du contrat.
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
 	**Cité par**:
 
@@ -2337,62 +2343,70 @@ d'exécution et de résiliation du contrat.
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 15 () JORF 2 avril 2006
+	  - Loi n°2016-1088 du 8 août 2016 - art. 48 (V)
 
 	**Cite**:
 
+	  - Code du service national
 	  - Code du service national - art. L130-3 (V)
-	  - Code du service national - art. L130-4 (V)
-	  - Code du service national L130-4, L117-1, L130-3
-	  - Code du travail - art. L117-1 (M)
-	  - Code du travail - art. L124-2 (M)
-	  - Code du travail - art. L981-1 (M)
+	  - Code du service national - art. L130-4
+	  - Code du travail - art. L117-1
+	  - Code du travail - art. L124-2
+	  - Code du travail - art. L981-1
 
 
 ###### Article L130-3
 
-L'accomplissement du volontariat pour l'insertion ouvre droit :
+I.-L'accomplissement du volontariat pour l'insertion ouvre droit :
 
 1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
 
 2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
 
-Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
+Les conditions d'attribution et le montant, net des contributions mentionnées au II de l'allocation mensuelle et de la prime
+sont fixés par décret.
 
-L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
-généralisée et de la contribution au remboursement de la dette sociale.
+II.-L'allocation et la prime sont soumises aux contributions prévues à l'article L. 136-1 du code de la sécurité sociale et à
+l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale. 
+
+Le versement de ces contributions est assuré par l'établissement public d'insertion de la défense mentionné à l'article L.
+3414-1 du code de la défense. 
+
+III.-L'allocation et la prime sont exonérées de l'impôt sur le revenu.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°71-424 1971-06-10
+	  - Loi n°71-424 du 10 juin 1971
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 14 (M)
+	  - Code de la défense. - art. L3414-1 (M)
+	  - Code de la sécurité sociale. - art. L136-1 (M)
 
 	**Cité par**:
 
 	  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
 	  - Décret n°2017-858 du 9 mai 2017 - art. 7
 	  - Code de la sécurité sociale. - art. R372-3 (V)
-	  - Code du service national - art. L130-2 (M)
+	  - Code du service national - art. L130-2 (V)
 	  - Code du service national - art. L130-4 (V)
 	  - Code du service national - art. L130-5 (V)
 	  - Code général des impôts, CGI. - art. 81 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1088 du 8 août 2016 - art. 48 (V)
+
 
 ###### Article L130-4
 
-I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
-maladie, maternité et invalidité du régime général de sécurité sociale. 
+I.-(abrogé) 
 
-La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret. 
-
-II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
-l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
+II.-Le volontaire pour l'insertion relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au
+titre du volontariat pour l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
 
 La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
 public d'insertion de la défense et dont le montant est fixé par décret. 
@@ -2401,8 +2415,8 @@ III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la
 en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
 maladie survenu par le fait ou à l'occasion du service. 
 
-IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
-l'allocation mentionnée à l'article L. 351-3 du même code.
+IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 5424-1 du code du travail et ne peuvent bénéficier de
+l'allocation mentionnée à l'article L. 5422-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -2411,19 +2425,19 @@ l'allocation mentionnée à l'article L. 351-3 du même code.
 	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
 	  - Code de la sécurité sociale. - art. D372-2 (Ab)
 	  - Code de la sécurité sociale. - art. D412-98-1 (V)
-	  - Code de la sécurité sociale. - art. L412-8 (VT)
+	  - Code de la sécurité sociale. - art. L412-8 (V)
 	  - Code de la sécurité sociale. - art. R412-20 (V)
 	  - Code du service national - art. L130-2 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 9
+	  - Loi n°2016-1088 du 8 août 2016 - art. 48 (V)
 
 	**Cite**:
 
 	  - Code du service national - art. L130-3
-	  - Code du travail - art. L351-12
-	  - Code du travail - art. L351-3
+	  - Code du travail - art. L5422-1 (V)
+	  - Code du travail - art. L5424-1 (V)
 
 
 ###### Article L130-5
@@ -2444,7 +2458,7 @@ magistrat ou la juridiction qui prescrit l'accomplissement d'un contrat de servi
 défense valide le contenu du projet, sur proposition de la protection judiciaire de la jeunesse, au regard de son caractère
 formateur. 
 
-III.-Le contrat de service en établissement public d'insertion de la défense ouvre droit à la seule prime visée au 2° de
+III.-Le contrat de service en établissement public d'insertion de la défense ouvre droit à la seule prime visée au 2° du I de
 l'article L. 130-3, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
@@ -2458,9 +2472,9 @@ l'article L. 130-3, dans des conditions fixées par décret.
 	  - Code du service national - art. L130-2
 	  - Code du service national - art. L130-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1940 du 26 décembre 2011 - art. 4
+	  - Loi n°2016-1088 du 8 août 2016 - art. 48 (V)
 
 
 ## LIVRE II
@@ -11983,30 +11997,34 @@ a déjà été effectuée pour les titres-restaurant.
 ###### Article R121-33
 
 L'agrément d'engagement de service civique prévu au premier alinéa du II de l'article L. 120-1 est accordé pour une durée
-maximale de deux ans renouvelable à l'organisme sans but lucratif ou à la personne morale de droit public de droit français
-qui :
+maximale de trois ans renouvelable à l'organisme sans but lucratif ou à la personne morale de droit public de droit français
+qui : 
 
 1° Justifie d'au moins une année d'existence, sauf dérogation accordée par l'Agence du service civique au regard de l'intérêt
-des missions présentées par l'organisme d'accueil ;
+des missions présentées par l'organisme d'accueil ; 
 
-2° Prévoit d'accueillir des volontaires âgés de dix-huit à vingt-cinq ans ;
+2° Prévoit d'accueillir des volontaires âgés de dix-huit à vingt-cinq ans ; 
 
-3° Justifie, le cas échéant, des conditions particulières d'accueil de volontaires mineurs de plus de seize ans ;
+3° Justifie, le cas échéant, des conditions particulières d'accueil de volontaires mineurs de plus de seize ans ; 
 
 4° Propose des missions d'intérêt général reconnues prioritaires pour la nation et justifie de sa capacité à les exercer dans
-de bonnes conditions ;
+de bonnes conditions ; 
 
 5° Dispose, y compris lorsque les missions se déroulent à l'étranger, d'une organisation et des moyens compatibles avec la
-formation, l'accompagnement et la prise en charge des volontaires qu'il envisage d'accueillir ou de mettre à disposition ;
+formation, l'accompagnement et la prise en charge des volontaires qu'il envisage d'accueillir ou de mettre à disposition ; 
 
 6° Présente un budget en équilibre et une situation financière saine dans la limite des trois derniers exercices clos, sauf
 dérogation accordée sur la durée d'existence par l'Agence du service civique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2015-1772 du 24 décembre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code du service national - art. L120-1
 
 	**Cité par**:
 
