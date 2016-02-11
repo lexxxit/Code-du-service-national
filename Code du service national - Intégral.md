@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-02-12
 
 # Partie législative
 
@@ -11391,17 +11391,19 @@ I. - Dans chaque région, le préfet de région est le délégué territorial de
 
 Il désigne un délégué territorial adjoint parmi les chefs de service déconcentrés ou les membres du corps préfectoral.
 
-Il assure, avec l'appui de la direction régionale de la jeunesse, des sports et de la cohésion sociale, la coordination des
-politiques de promotion, d'évaluation et de contrôle du service civique.
+Il pilote, avec l'appui du service déconcentré régional de la jeunesse, des sports et de la cohésion sociale, le
+développement du service civique en assurant la promotion, l'animation, l'évaluation et le contrôle du service civique à
+l'échelon de la région. Il répartit dans le ressort de sa circonscription territoriale, le nombre de missions susceptibles
+d'être agréées, décidé pour chaque région par l'Agence du service civique. Il veille au respect des objectifs fixés. 
 
 II. - Le préfet de département, avec les services placés sous son autorité, notamment la direction départementale
 interministérielle chargée de la cohésion sociale, concourt à l'exercice des compétences du délégué territorial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2016-137 du 9 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -12078,9 +12080,14 @@ nom d'agrément de volontariat de service civique.
 
 ###### Article R121-35
 
-Les agréments mentionnés aux articles R. 121-33 et R. 121-34 du code du service national sont délivrés, dans les conditions
-et selon les priorités et limites définies par le conseil d'administration de l'Agence du service civique, par le président
-de l'Agence du service civique et les délégués territoriaux de l'Agence du service civique. 
+Les agréments mentionnés aux articles R. 121-33 et R. 121-34 du code du service national sont délivrés selon les priorités et
+dans les limites définies par le conseil d'administration de l'Agence du service civique :
+
+- par le président de l'Agence, s'il s'agit d'un agrément national ;
+
+- par le préfet de région, si le demandeur exerce une activité à l'échelon régional ou interdépartemental ;
+
+- par le préfet de département, si le demandeur exerce une activité à l'échelon départemental ou local. 
 
 Le directeur général de l'Agence du service civique peut, pour la délivrance des agréments, recevoir délégation du président
 de l'Agence du service civique. 
@@ -12093,11 +12100,12 @@ L'Agence du service civique peut accueillir des personnes en engagement de servi
 
 	**Modifié par**:
 
-	  - Décret n°2015-1772 du 24 décembre 2015 - art. 1
+	  - Décret n°2016-137 du 9 février 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du service national - art. R121-33 (M)
+	  - Code du service national - art. R121-33
+	  - Code du service national - art. R121-34
 
 
 ###### Article R121-36
