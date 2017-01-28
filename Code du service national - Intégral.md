@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -613,41 +613,94 @@ la réparation intégrale du dommage subi, suivant les règles du droit commun.
 	  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
+#### Chapitre VI : Les cadets de la défense 
+
+
+###### Article L116-1
+
+I.-A compter de la promulgation de la loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté et pour les
+années 2017 et 2018, l'Etat peut autoriser, à titre expérimental, la création d'un programme des cadets de la défense. 
+
+II.-Le programme des cadets de la défense est un programme civique mis en œuvre par le ministre de la défense pour renforcer
+la cohésion nationale, la mixité sociale et le lien entre la Nation et son armée. 
+
+III.-Il est accessible aux Français âgés de douze à dix-huit ans et ayant l'aptitude reconnue par le service de santé des
+armées pour suivre la période d'instruction correspondante. 
+
+IV.-Il comporte une découverte des armées et de leurs métiers, un enseignement moral et civique en complément de celui
+délivré par l'éducation nationale, ainsi que la pratique d'activités culturelles et sportives. 
+
+V.-Tout Français victime de dommages subis pendant une période d'instruction ou à l'occasion d'une période d'instruction
+accomplie dans le cadre du programme des cadets de la défense et, en cas de décès, ses ayants droit, obtiennent de l'Etat,
+lorsque la responsabilité de ce dernier est engagée, la réparation intégrale du dommage subi, suivant les règles du droit
+commun. 
+
+VI.-Les conditions d'application du présent article sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 (V)
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 26
+
+
 ### TITRE Ier bis : Dispositions relatives au service civique.
 
 ###### Article L120-1
 
-I. - Le service civique a pour objet de renforcer la cohésion nationale et la mixité sociale et offre à toute personne
+I.-Le service civique a pour objet de renforcer la cohésion nationale et la mixité sociale et offre à toute personne
 volontaire l'opportunité de servir les valeurs de la République et de s'engager en faveur d'un projet collectif en effectuant
-une mission d'intérêt général auprès d'une personne morale agréée. 
+une mission d'intérêt général en France ou à l'étranger auprès d'une personne morale agréée. 
 
 Les missions d'intérêt général susceptibles d'être accomplies dans le cadre d'un service civique revêtent un caractère
 philanthropique, éducatif, environnemental, scientifique, social, humanitaire, sportif, familial ou culturel, ou concourent à
 des missions de défense et de sécurité civile ou de prévention, de promotion de la francophonie et de la langue française ou
-à la prise de conscience de la citoyenneté française et européenne.
+à la prise de conscience de la citoyenneté française et européenne. Elles sont complémentaires des activités confiées aux
+salariés ou aux agents publics et ne peuvent se substituer ni à un emploi ni à un stage. 
 
-II. - Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
-indemnisation prise en charge par l'Agence du service civique, ouvert aux personnes âgées de seize à vingt-cinq ans ou aux
-personnes reconnues handicapées âgées de seize à trente ans, en faveur de missions d'intérêt général reconnues prioritaires
-pour la Nation. Cet engagement est effectué auprès de personnes morales agréées dans les conditions prévues à la section 6 du
-chapitre II du présent titre. La personne morale agréée est un organisme sans but lucratif de droit français ou une personne
-morale de droit public. Une association cultuelle, politique, une congrégation, une fondation d'entreprise ou un comité
-d'entreprise ne peuvent recevoir d'agrément pour organiser le service civique. 
+II.-Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une indemnisation
+prise en charge par l'Agence du service civique, ouvert aux personnes âgées de seize à vingt-cinq ans ou aux personnes
+reconnues handicapées âgées de seize à trente ans, en faveur de missions d'intérêt général reconnues prioritaires pour la
+Nation. Cet engagement est effectué auprès de personnes morales agréées dans les conditions prévues à la section 6 du
+chapitre II du présent titre. La personne morale agréée est un organisme sans but lucratif de droit français, une personne
+morale de droit public, un organisme d'habitations à loyer modéré mentionné à l'article L. 411-2 du code de la construction
+et de l'habitation, une société d'économie mixte mentionnée à l'article L. 481-1 du même code ou une société publique locale
+mentionnée à l'article L. 1531-1 du code général des collectivités territoriales, une société dont l'Etat ou la Banque de
+France détient la totalité du capital ou à laquelle le ministre chargé de la culture a attribué un label en application de
+l'article 5 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine,
+une organisation internationale dont le siège est implanté en France ou une entreprise solidaire d'utilité sociale agréée en
+application du II de l'article L. 3332-17-1 du code du travail. La structure agréée recrute les volontaires en fonction de
+leur seule motivation et accueille en service civique des jeunes de tous niveaux de formation initiale. Une association
+cultuelle, politique, une congrégation, une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agrément
+pour organiser le service civique. 
 
 Le service civique peut également prendre les formes suivantes : 
 
 1° Un volontariat associatif, d'une durée de six à vingt-quatre mois, ouvert aux personnes âgées de plus de vingt-cinq ans,
 auprès d'associations de droit français ou de fondations reconnues d'utilité publique agréées dans les conditions prévues à
-la section 6 du chapitre II du présent titre ;
+la section 6 du chapitre II du présent titre ; 
 
 2° Le volontariat international en administration et le volontariat international en entreprise mentionnés au chapitre II du
 titre II du présent livre, le volontariat de solidarité internationale régi par la loi n° 2005-159 du 23 février 2005
 relative au contrat de volontariat de solidarité internationale ou le service volontaire européen défini par la décision n°
-1031/2000/CE du Parlement européen et du Conseil, du 13 avril 2000, établissant le programme d'action communautaire "
-Jeunesse ” et par la décision n° 1719/2006/CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
-programme "Jeunesse en action" pour la période 2007-2013. 
+1031/2000/ CE du Parlement européen et du Conseil, du 13 avril 2000, établissant le programme d'action communautaire "
+Jeunesse ” et par la décision n° 1719/2006/ CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
+programme " Jeunesse en action " pour la période 2007-2013 ; 
 
-III. - L'Agence du service civique délivre à la personne volontaire, à l'issue de sa mission, une attestation de service
+3° Le service civique des sapeurs-pompiers qui comporte une phase de formation initiale d'une durée maximale de deux mois
+dispensée sur le temps de mission du volontaire, au sein de son unité d'affectation ou dans une structure adaptée, à la
+charge de l'organisme d'accueil du volontaire. 
+
+Au terme de sa formation initiale, le volontaire peut concourir, sous la surveillance d'un sapeur-pompier répondant à des
+conditions fixées par voie réglementaire, aux activités de protection et de lutte contre les incendies et autres accidents,
+sinistres et catastrophes, à l'évaluation et à la prévention des risques technologiques ou naturels ainsi qu'aux secours
+d'urgence, en complément des sapeurs-pompiers. 
+
+III.-L'Agence du service civique délivre à la personne volontaire, à l'issue de sa mission, une attestation de service
 civique et un document qui décrit les activités exercées et évalue les aptitudes, les connaissances et les compétences
 acquises pendant la durée du service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du
 contrat prévues par l'article L. 120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la
@@ -697,21 +750,28 @@ la sixième partie du code du travail.
 	  - Code du service national - art. R121-52 (V)
 	  - Code du travail - art. D2254-14 (V)
 	  - Code du travail - art. L1221-13 (V)
-	  - Code du travail - art. L5151-9 (VD)
+	  - Code du travail - art. L5151-9 (V)
 
 	**Cite**:
 
-	  - Loi n°2005-159 du 23 février 2005
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 11
-	  - Code de l'éducation - art. L335-5
-	  - Code de l'éducation - art. L613-3
-	  - Code du service national - art. L120-12
-	  - Code du service national - art. L120-14
-	  - Code du travail - art. L6323-8
+	  - Loi n°2005-159 du 23 février 2005 (V)
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 11 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 5 (V)
+	  - Code général des collectivités territoriales - art. L1531-1 (V)
+	  - Code de l'éducation - art. L335-5 (VT)
+	  - Code de l'éducation - art. L613-3 (V)
+	  - Code du service national - art. L120-12 (V)
+	  - Code du service national - art. L120-14 (V)
+	  - Code du travail - art. L3332-17-1 (V)
+	  - Code du travail - art. L6323-8 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L481-1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2015-988 du 5 août 2015 - art. 11
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 17
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 18
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 22
 
 
 #### Chapitre Ier : L'Agence du service civique.
@@ -746,7 +806,7 @@ civique ;
 
 9° De définir le contenu de la formation civique et citoyenne prévue à l'article L. 120-14. 
 
-10° De mettre en œuvre le volet jeunesse du programme européen Erasmus +.  
+10° De mettre en œuvre les volets jeunesse et sport du programme européen Erasmus +. 
 
 Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale.
 
@@ -776,16 +836,41 @@ agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte d
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 28
 
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (M)
+	  - Code du service national - art. L120-1
 	  - Code du service national - art. L120-14
 
 	**Cité par**:
 
 	  - Code du service national - art. R120-11 (V)
+
+
+###### Article L120-2-1
+
+Le représentant de l'Etat dans le département anime le développement du service civique avec l'appui des associations, des
+collectivités territoriales et de leurs groupements et des personnes morales susceptibles de recevoir l'agrément mentionné à
+l'article L. 120-30 afin : 
+
+1° De promouvoir et de valoriser le service civique ; 
+
+2° De veiller à l'égal accès des citoyens au service civique ; 
+
+3° D'assurer la mixité sociale des engagés du service civique ; 
+
+4° De contribuer à l'organisation de la formation civique et citoyenne dans le département. 
+
+Il coordonne ces actions en lien avec les engagés du service civique et leurs représentants, les organisations syndicales de
+salariés reconnues représentatives au niveau national et interprofessionnel et les organismes d'accueil et d'information des
+jeunes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 22
 
 
 #### Chapitre II : L'engagement de service civique et le volontariat associatif.
@@ -797,6 +882,13 @@ agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte d
 Toute personne remplissant les conditions mentionnées à la section 2 du présent chapitre peut souscrire avec une personne
 morale agréée un contrat de service civique ou de volontariat associatif dans les conditions fixées au présent chapitre.
 
+L'Agence du service civique remet à la personne qui effectue soit un engagement de service civique, soit un service
+volontaire européen en France, un document intitulé " carte du volontaire " lui permettant de justifier de son statut auprès
+des tiers, pendant toute la durée de sa mission, afin que lui soient appliqués les conditions contractuelles et les avantages
+financiers dont bénéficient les étudiants des établissements d'enseignement supérieur. 
+
+Ce document est établi et délivré selon des modalités fixées par voie réglementaire.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -806,36 +898,48 @@ morale agréée un contrat de service civique ou de volontariat associatif dans 
 	  - Code du service national - art. L120-2 (M)
 	  - Code du service national - art. L120-28 (V)
 	  - Code du service national - art. L120-32 (V)
-	  - Code du service national - art. L120-36 (V)
+	  - Code du service national - art. L120-36 (VD)
 	  - Code du service national - art. L120-7 (V)
 	  - Code du service national - art. R121-28 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 22
 
 
 ##### Section 2 : Les conditions relatives à la personne volontaire.
 
 ###### Article L120-4
 
-La personne volontaire doit posséder la nationalité française, celle d'un Etat membre de l'Union européenne, celle d'un Etat
-partie à l'accord sur l'Espace économique européen ou justifier être en séjour régulier en France depuis plus d'un an sous
-couvert de l'un des titres de séjour prévus aux articles L. 313-8 et L. 313-9, aux 1°, 2° et 3° de l'article L. 313-10, aux
-1° à 10° de l'article L. 313-11, ainsi qu'aux articles L. 314-8, L. 314-9 et L. 314-11 du code de l'entrée et du séjour des
-étrangers et du droit d'asile. 
+La personne volontaire doit posséder la nationalité française, celle d'un Etat membre de l'Union européenne ou celle d'un
+Etat partie à l'accord sur l'Espace économique européen. 
 
-La condition de durée de résidence ne s'applique pas aux personnes étrangères volontaires lorsque des volontaires français
-sont affectés dans les pays dont ces personnes sont ressortissantes, sous réserve des dispositions régissant l'entrée et le
-séjour des étrangers en France. 
+Peut également souscrire l'un des contrats mentionnés à l'article L. 120-3 : 
+
+1° L'étranger auquel un titre de séjour a été délivré dans les conditions prévues à l'article L. 311-3 du code de l'entrée et
+du séjour des étrangers et du droit d'asile et qui séjourne en France depuis plus d'un an ; 
+
+2° L'étranger âgé de seize ans révolus qui séjourne en France depuis plus d'un an sous couvert de l'un des titres de séjour
+prévus à l'article L. 313-10, aux 1° à 10° de l'article L. 313-11, aux articles L. 313-20, L. 313-21, L. 314-8 ou L. 314-9
+ainsi qu'aux 2° à 7°, 9° ou 10° de l'article L. 314-11 du même code ; 
+
+3° L'étranger âgé de seize ans révolus détenteur de l'un des titres de séjour prévus aux articles L. 313-7, L. 313-13 et L.
+313-17 ou au 8° de l'article L. 314-11 dudit code. 
+
+La souscription d'un des contrats mentionnés à l'article L. 120-3 du présent code par un ressortissant étranger ne peut avoir
+pour effet de prolonger la durée de validité de son titre de séjour. 
+
+La condition de durée de résidence mentionnée aux 1° et 2° du présent article ne s'applique pas aux personnes étrangères
+volontaires lorsque des volontaires français sont affectés dans les pays dont ces personnes sont ressortissantes, sous
+réserve des dispositions régissant l'entrée et le séjour des étrangers en France. 
 
 Une visite médicale préalable à la souscription du contrat est obligatoire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 19
 
 	**Cité par**:
 
@@ -843,8 +947,8 @@ Une visite médicale préalable à la souscription du contrat est obligatoire.
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
 
 
 ###### Article L120-5
@@ -936,13 +1040,15 @@ Un contrat ne peut être souscrit auprès d'une personne morale agréée :
 l'organisme d'accueil dont le contrat de travail a été rompu moins d'un an avant la date de signature du contrat ;
 
 2° Lorsque les missions confiées à la personne volontaire ont été exercées par un agent public moins d'un an avant la date de
-signature du contrat.
+signature du contrat ;
+
+3° Lorsque les missions confiées à la personne volontaire relèvent du fonctionnement général de l'organisme d'accueil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 22
 
 
 ###### Article L120-10
@@ -983,14 +1089,11 @@ Dans le cadre du projet d'intérêt général de l'organisme d'accueil, le contr
 collaboration entre la personne morale agréée et la personne volontaire, notamment le lieu et la durée de la mission
 effectuée par la personne volontaire ou leur mode de détermination, ainsi que la nature des tâches qu'elle accomplit.
 
-La mission de service civique peut être effectuée auprès d'une collectivité territoriale française dans le cadre d'un projet
-de coopération décentralisée qu'elle mène avec une collectivité d'un pays étranger.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 21
 
 	**Cité par**:
 
@@ -1016,21 +1119,19 @@ des indemnités mentionnées à la section 4.
 ###### Article L120-14
 
 Dans des conditions prévues par décret, la personne morale agréée assure à la personne volontaire, notamment à travers la
-désignation d'un tuteur, une phase de préparation aux missions qui lui sont confiées, au cours de laquelle est précisé le
-caractère civique de celles-ci, ainsi qu'un accompagnement dans la réalisation de ses missions.
+désignation d'un tuteur formé à cette fonction, une phase de préparation aux missions qui lui sont confiées, au cours de
+laquelle est précisé le caractère civique de celles-ci, ainsi qu'un accompagnement dans la réalisation de ses missions.
 
 La personne morale agréée assure en outre à la personne volontaire effectuant un engagement de service civique une formation
-civique et citoyenne et un accompagnement dans sa réflexion sur son projet d'avenir. Les personnes effectuant un engagement
-de volontariat international en administration ou en entreprise reçoivent cette formation. A leur retour sur le territoire
-national, elles participent à la formation et à l'accompagnement prévus au présent alinéa.
+civique et citoyenne et un accompagnement dans sa réflexion sur son projet d'avenir. La formation civique et citoyenne, dont
+la durée minimale est fixée par décret, est délivrée au moins pour la moitié de cette durée dans les trois mois suivant le
+début de l'engagement de service civique. Les personnes effectuant un engagement de volontariat international en
+administration ou en entreprise reçoivent cette formation. A leur retour sur le territoire national, elles participent à la
+formation et à l'accompagnement prévus au présent alinéa.
 
 Cette formation peut être mutualisée au niveau local.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -1041,6 +1142,10 @@ Cette formation peut être mutualisée au niveau local.
 	  - Code du service national - art. R121-15 (V)
 	  - Code du service national - art. R121-44 (V)
 	  - Code du service national - art. R121-47-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 22
 
 
 ###### Article L120-15
@@ -1376,16 +1481,16 @@ contributions de sécurité sociale.
 
 ###### Article L120-30
 
-L'agrément prévu par le présent titre ne peut être délivré qu'à des organismes sans but lucratif de droit français ou des
-personnes morales de droit public. 
+L'agrément prévu au présent titre ne peut être délivré qu'aux organismes mentionnés au premier alinéa du II de l'article L.
+120-1.
 
-Ces personnes morales sont agréées par l'Agence du service civique, pour une durée déterminée, au vu notamment de la nature
-des missions confiées aux personnes volontaires, de l'âge des personnes volontaires et de leur capacité à assurer
+Ces organismes sont agréés par l'Agence du service civique, pour une durée déterminée, au vu notamment de la nature des
+missions confiées aux personnes volontaires, de l'âge des personnes volontaires et de leur capacité à assurer
 l'accompagnement et la prise en charge des personnes volontaires.
 
 L'Agence du service civique octroie également, dans le cadre d'une procédure d'agrément, les éventuelles dérogations qui
 peuvent être demandées par les personnes morales visées au 1° du II de l'article L. 120-1 pour accueillir des personnes
-volontaires âgées de dix-huit à trente  ans. Un décret fixe la liste des missions qui peuvent faire l'objet de telles
+volontaires âgées de dix-huit à trente ans. Un décret fixe la liste des missions qui peuvent faire l'objet de telles
 dérogations. 
 
 Un décret fixe les conditions de délivrance et de retrait de l'agrément.
@@ -1409,11 +1514,11 @@ Un décret fixe les conditions de délivrance et de retrait de l'agrément.
 
 	**Modifié par**:
 
-	  - Loi n°2015-988 du 5 août 2015 - art. 11
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 18
 
 	**Cite**:
 
-	  - Code du service national - art. L120-1 (M)
+	  - Code du service national - art. L120-1
 
 
 ##### Section 7 : Dispositions diverses.
@@ -1444,17 +1549,26 @@ dans les îles Wallis et Futuna et les Terres australes et antarctiques françai
 ###### Article L120-32
 
 Le contrat mentionné à l'article L. 120-3 souscrit auprès d'un organisme sans but lucratif de droit français agréé peut
-prévoir la mise à disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'une ou, de
-manière successive, de plusieurs personnes morales tierces non agréées, mais qui remplissent les conditions d'agrément
-prévues au deuxième alinéa de l'article L. 120-30. 
+prévoir la mise à disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'un ou, de
+manière successive, de plusieurs organismes sans but lucratif de droit français, personnes morales de droit public français,
+collectivités territoriales étrangères ou organismes sans but lucratif de droit étranger, non agréés, s'ils satisfont aux
+conditions d'agrément mentionnées au deuxième alinéa de l'article L. 120-30. Ces personnes morales tierces non agréées ne
+peuvent avoir des activités cultuelles, politiques ou syndicales. 
 
-Dans ce cas, le contrat mentionne les modalités d'exécution de la collaboration entre l'organisme sans but lucratif agréé en
-vertu de l'article L. 120-30, la personne volontaire et les personnes morales au sein desquelles est effectué le service
-civique, notamment le lieu et la durée de chaque mission effectuée par la personne volontaire ou leur mode de détermination
-ainsi que la nature ou le mode de détermination des tâches qu'elle accomplit. 
+Le contrat mentionné à l'article L. 120-3 souscrit auprès d'une personne morale de droit public agréée peut prévoir la mise à
+disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'une ou, de manière successive, de
+plusieurs autres personnes morales de droit public français ou collectivités territoriales étrangères, non agréées, si elles
+satisfont aux conditions d'agrément mentionnées au deuxième alinéa de l'article L. 120-30. 
 
-Une convention est conclue entre la personne volontaire, l'organisme sans but lucratif agréé en vertu de l'article L. 120-30
-auprès duquel est souscrit le contrat et les personnes morales accueillant la personne volontaire. 
+Dans les cas prévus aux deux premiers alinéas du présent article, le contrat mentionne les modalités d'exécution de la
+collaboration entre l'organisme sans but lucratif ou la personne morale de droit public agréé en vertu de l'article L.
+120-30, la personne volontaire et les personnes morales au sein desquelles est effectué le service civique, notamment le lieu
+et la durée de chaque mission effectuée par la personne volontaire ou leur mode de détermination ainsi que la nature ou le
+mode de détermination des tâches qu'elle accomplit. 
+
+Une convention est conclue entre la personne volontaire, l'organisme sans but lucratif ou la personne morale de droit public
+agréé en vertu de l'article L. 120-30 auprès duquel est souscrit le contrat et les personnes morales accueillant la personne
+volontaire. 
 
 L'ensemble des dispositions du présent titre est applicable au service civique accompli dans ces conditions. 
 
@@ -1464,12 +1578,11 @@ Cette mise à disposition est effectuée sans but lucratif.
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 21
 
 	**Cite**:
 
 	  - Code du service national - art. L120-3 (V)
-	  - Code du service national - art. L120-30
 
 	**Cité par**:
 
@@ -1482,12 +1595,25 @@ Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des éta
 dont le personnel est soumis à un statut défini par la loi ou le règlement, la limite d'âge est reculée d'un temps égal au
 temps effectif du service civique accompli par la personne souhaitant accéder à cet emploi.
 
-Ce temps effectif est également pris en compte dans le calcul de l'ancienneté dans les fonctions publiques de l'Etat,
-territoriale et hospitalière et de la durée d'expérience professionnelle requise pour le bénéfice de la validation des acquis
-de l'expérience en vue de la délivrance d'un diplôme de l'enseignement supérieur ou technologique ou d'un titre
-professionnel.
+Ce temps effectif est également pris en compte dans le calcul : 
+
+1° De l'ancienneté exigée pour l'accès aux concours mentionnés au 2° de l'article 19 de la loi n° 84-16 du 11 janvier 1984
+portant dispositions statutaires relatives à la fonction publique de l'Etat, au 2° de l'article 36 de la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et au 2° de l'article 29 de la
+loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ; 
+
+2° De la durée d'expérience professionnelle requise pour le bénéfice de la validation des acquis de l'expérience en vue de la
+délivrance d'un diplôme de l'enseignement supérieur ou technologique ou d'un titre professionnel ; 
+
+3° De l'ancienneté exigée pour l'avancement.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 19 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 36 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 29 (M)
 
 	**Cité par**:
 
@@ -1508,9 +1634,9 @@ professionnel.
 	  - Décret n°2014-1585 du 23 décembre 2014 - art. 18 (V)
 	  - Décret n°2015-802 du 1er juillet 2015 - art. 12 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 8
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 23
 
 
 ###### Article L120-34
@@ -1522,6 +1648,9 @@ dispositions suivantes :
 1° Par exception à l'article L. 120-1, le volontariat associatif peut être effectué dans les départements et collectivités
 d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, auprès de personnes morales de
 droit public, sous le nom de volontariat de service civique ; 
+
+1° bis Les deuxième à septième alinéas de l'article L. 120-4 ne sont pas applicables dans les îles Wallis et Futuna, en
+Polynésie française et en Nouvelle-Calédonie ;
 
 2° Une convention entre l'Etat, d'une part, et la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
 conditions d'application du présent titre dans ces deux collectivités. Elle précise : 
@@ -1570,6 +1699,9 @@ sanitaire, de rapatriement sanitaire et de rapatriement de corps, le ministre ch
 modalités de cette couverture ainsi que les règles particulières lorsque la personne volontaire est affectée à l'étranger. La
 législation sur les accidents du travail est celle applicable localement.
 
+6° Le 3° du II de l'article L. 120-1 ne s'applique pas à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie et dans les îles
+Wallis et Futuna.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -1588,7 +1720,7 @@ législation sur les accidents du travail est celle applicable localement.
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 
 ###### Article L120-35
@@ -2165,12 +2297,24 @@ charge par le fonds de solidarité vieillesse mentionné à l'article L. 135-1 d
 
 Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
 dont le personnel est soumis à un statut réglementaire, la limite d'âge est reculée d'un temps égal au temps effectif du
-volontariat international. 
+volontariat international.  
 
-Ce temps effectif de volontariat est compté dans le calcul de l'ancienneté de service exigée dans les fonctions publiques de
-l'Etat, des collectivités territoriales et des établissements publics hospitaliers.
+Ce temps effectif de volontariat est pris en compte dans le calcul : 
+
+1° De l'ancienneté de service exigée pour l'accès aux concours mentionnés au 2° de l'article 19 de la loi n° 84-16 du 11
+janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, au 2° de l'article 36 de la loi n°
+84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et au 2° de l'article
+29 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ; 
+
+2° De l'ancienneté exigée pour l'avancement.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 19 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 36 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 29 (M)
 
 	**Cité par**:
 
@@ -2193,7 +2337,7 @@ l'Etat, des collectivités territoriales et des établissements publics hospital
 
 	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 15
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 23
 
 
 ###### Article L122-17
