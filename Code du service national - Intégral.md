@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-05-01
 
 # Partie législative
 
@@ -11684,7 +11684,7 @@ du totorat renforcé que l'organisme d'accueil réserve à la personne mineure.
 ###### Article R121-12
 
 La nature ou l'exercice des missions ne peuvent exposer les personnes mineures aux risques et activités mentionnés aux
-articles D. 4153-15 à D. 4153-40 du code du travail. 
+articles D. 4153-15 à D. 4153-37 du code du travail. 
 
 Les missions effectuées entre 22 heures et 6 heures sont interdites aux mineurs. 
 
@@ -11699,11 +11699,12 @@ Le repos des jours fériés est obligatoire pour les personnes mineures.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1004 du 24 août 2011 - art. 2
+	  - Décret n°2017-689 du 28 avril 2017 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. D4153-15 (V)
+	  - Code du travail - art. D4153-15
+	  - Code du travail - art. D4153-37
 
 
 ###### Article R121-13
@@ -11733,18 +11734,24 @@ mis à la charge de la personne volontaire.
 ###### Article R121-15
 
 Le référentiel de la formation civique et citoyenne mentionnée à l'article L. 120-14 ainsi que les modalités de mise en œuvre
-de cette formation sont définis par l'Agence du service civique.
+de cette formation sont définis par l'Agence du service civique. 
+
+La durée minimale de la formation civique et citoyenne est de deux jours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Décret n°2017-689 du 28 avril 2017 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2017-689 du 28 avril 2017 - art. 3
 	  - Code du service national - art. R121-47-1 (V)
+
+	**Cite**:
+
+	  - Code du service national - art. L120-14
 
 
 ###### Article R121-16
@@ -12143,31 +12150,30 @@ a déjà été effectuée pour les titres-restaurant.
 
 ###### Article R121-33
 
-L'agrément d'engagement de service civique prévu au premier alinéa du II de l'article L. 120-1 est accordé pour une durée
-maximale de trois ans renouvelable à l'organisme sans but lucratif ou à la personne morale de droit public de droit français
-qui : 
+L'agrément d'engagement de service civique est accordé pour une durée maximale de trois ans renouvelable aux organismes
+mentionnés au premier alinéa du II de l'article L. 120-1 qui :
 
-1° Justifie d'au moins une année d'existence, sauf dérogation accordée par l'Agence du service civique au regard de l'intérêt
-des missions présentées par l'organisme d'accueil ; 
+1° Justifient d'au moins une année d'existence, sauf dérogation accordée par l'Agence du service civique au regard de
+l'intérêt des missions présentées par l'organisme d'accueil ;
 
-2° Prévoit d'accueillir des volontaires âgés de dix-huit à vingt-cinq ans ; 
+2° Précisent le nombre de volontaires qu'ils entendent accueillir et les modalités de leur accompagnement ;
 
-3° Justifie, le cas échéant, des conditions particulières d'accueil de volontaires mineurs de plus de seize ans ; 
+3° Précisent, le cas échéant, les modalités d'accompagnement spécifiques des volontaires mineurs de plus de seize ans ;
 
-4° Propose des missions d'intérêt général reconnues prioritaires pour la nation et justifie de sa capacité à les exercer dans
-de bonnes conditions ; 
+4° Proposent des missions d'intérêt général reconnues prioritaires pour la nation et justifient de leur capacité à les
+exercer dans de bonnes conditions ;
 
-5° Dispose, y compris lorsque les missions se déroulent à l'étranger, d'une organisation et des moyens compatibles avec la
-formation, l'accompagnement et la prise en charge des volontaires qu'il envisage d'accueillir ou de mettre à disposition ; 
+5° Disposent, y compris lorsque les missions se déroulent à l'étranger, d'une organisation et des moyens compatibles avec la
+formation, l'accompagnement et la prise en charge des volontaires qu'ils envisagent d'accueillir ou de mettre à disposition ;
 
-6° Présente un budget en équilibre et une situation financière saine dans la limite des trois derniers exercices clos, sauf
+6° Présentent un budget en équilibre et une situation financière saine dans la limite des trois derniers exercices clos, sauf
 dérogation accordée sur la durée d'existence par l'Agence du service civique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1772 du 24 décembre 2015 - art. 4
+	  - Décret n°2017-689 du 28 avril 2017 - art. 4
 
 	**Cite**:
 
@@ -12515,17 +12521,12 @@ l'indemnité due à la personne volontaire.
 ###### Article R121-47-1
 
 Les organismes agréés en application de l'article L. 120-30 perçoivent une aide pour l'organisation de la formation civique
-et citoyenne prévue à l'article L. 120-14. 
+et citoyenne prévue à l'article L. 120-14.
 
-Le montant de l'aide pour chaque personne volontaire ayant souscrit un engagement de service civique est fixé : 
+Le montant de l'aide pour chaque personne volontaire ayant souscrit un engagement de service civique est fixé par arrêté du
+ministre chargé de la jeunesse et du ministre chargé du budget.
 
-― à 100 euros lorsque la formation à l'unité d'enseignement " prévention et secours civiques de niveau 1 ” prévue par le
-référentiel de la formation civique et citoyenne mentionné à l'article R. 121-15 est prise en charge financièrement par
-l'Agence du service civique ; 
-
-― à 150 euros dans les autres cas. 
-
-L'aide fait l'objet d'un versement unique, au terme du deuxième mois de réalisation effective de la mission. 
+L'aide fait l'objet d'un versement unique, au terme du deuxième mois de réalisation effective de la mission.
 
 L'aide est subordonnée à la délivrance effective de la formation civique et citoyenne à la personne volontaire.
 
@@ -12540,9 +12541,9 @@ la mission.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-310 du 6 mars 2012 - art. 1
+	  - Décret n°2017-689 du 28 avril 2017 - art. 5
 
 	**Cite**:
 
@@ -12605,20 +12606,366 @@ servies aux organismes d'accueil.
 
 ###### Article R121-51
 
-Les dispositions des sections I à V du présent chapitre sont applicables sur l'ensemble du territoire de la République, à
-l'exception des articles R. 121-27 à R. 121-32, qui ne sont pas applicables dans les îles Wallis et Futuna, en Polynésie
-française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et
+antarctiques françaises, sous réserve des adaptations prévues aux articles R. 121-52 et R. 121-53, les dispositions du
+présent chapitre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
+droite du même tableau :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 120-2 à R. 120-6</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 120-7</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-1772 du 24 décembre 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 120-9</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2016-137 du 9 février 2016
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 120-10</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2012-1247 du 7 novembre 2012
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 120-11</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-1772 du 24 décembre 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-10 et R. 121-11</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-12</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-689 du 28 avril 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-13</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-14</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-15</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-689 du 28 avril 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-16</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-17</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-18 à D. 121-21</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-22</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-23 à R. 121-26</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-33</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-689 du 28 avril 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-34</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-1772 du 24 décembre 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-35</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2016-137 du 9 février 2016
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-36 et R. 121-37</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-38</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-39 à R. 121-41</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-42</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-43</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-44</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-45 et R. 121-46</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-1772 du 24 décembre 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-47</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-47-1 et R. 121-47-2</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2017-689 du 28 avril 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-48</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2015-581 du 27 mai 2015
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-49</td>
+      <td align="justify">
+
+Résultant du 
+décret n° 2010-485 du 12 mai 2010
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-50</td>
+      <td align="justify">
+
+Résultant du  décret n° 2015-581 du 27 mai 2015
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2016-1623 du 29 novembre 2016 - art. 2 (V)
-
 	**Cite**:
 
-	  - Code du service national - art. R121-27 (V)
-	  - Code du service national - art. R121-32 (V)
+	  - Décret n°2010-485 du 12 mai 2010
+	  - Décret n°2012-1247 du 7 novembre 2012
+	  - Décret n°2015-581 du 27 mai 2015
+	  - Décret n°2015-1772 du 24 décembre 2015
+	  - Décret n°2016-137 du 9 février 2016
+	  - Décret n°2017-689 du 28 avril 2017
+
+	**Modifié par**:
+
+	  - Décret n°2017-689 du 28 avril 2017 - art. 6
 
 	**Cité par**:
 
