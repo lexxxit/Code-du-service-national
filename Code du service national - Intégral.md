@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-08
 
 # Partie législative
 
@@ -15945,12 +15945,12 @@ aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du 
 
 ###### Article R*50
 
-Une commission locale d'aptitude est créée auprès de chaque bureau ou centre du service national. La direction du service
-national organise ses séances qui ne sont pas publiques. Le secrétariat de la commission est assuré par le bureau ou le
-centre du service national.
+Une commission locale d'aptitude est créée auprès de chaque bureau ou centre du service national. La   direction du service
+national et de la jeunesse organise ses séances qui ne sont pas publiques. Le secrétariat de la commission est assuré par le
+bureau ou le centre du service national. 
 
 Le président de la commission locale d'aptitude et son suppléant sont médecins en chef des armées. Son assesseur et le
-suppléant de celui-ci sont médecins principaux des armées ou médecins des armées.
+suppléant de celui-ci sont médecins principaux des armées ou médecins des armées. 
 
 Le président est désigné par le directeur du service de santé des armées. Son suppléant, son assesseur et le suppléant de
 celui-ci sont désignés par le directeur local du service de santé des armées territorialement compétent pour le siège du
@@ -15965,29 +15965,21 @@ aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1341 1970-12-23 art. 11
-
 	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
 
 	**Codifié par**:
 
-	  - Décret n°72-806 1972-08-31
+	  - Décret n°72-806 du 31 août 1972
+
+	**Cite**:
+
+	  - Code du service national
 
 	**Cité par**:
 
 	  - Code du service national - art. ANNEXE I (V)
-
-	**Cite**:
-
-	  - Code du service national R44
 
 
 ###### Article R*50-1
@@ -16759,17 +16751,17 @@ aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du 
 
 La commission régionale siège au chef-lieu de la circonscription de région. Le préfet de région arrête la liste des membres
 de la commission régionale, dont la composition est fixée à l'article L. 32. En cas d'empêchement, le président et les
-membres titulaires peuvent être remplacés par des suppléants désignés suivant les mêmes règles que les titulaires.
+membres titulaires peuvent être remplacés par des suppléants désignés suivant les mêmes règles que les titulaires. 
 
 Le conseiller général est désigné par le conseil général de son département. L'ordre de représentation des départements de la
-région est déterminé chaque année par tirage au sort.
+région est déterminé chaque année par tirage au sort. 
 
 Le magistrat de l'ordre judiciaire est désigné par le premier président de la cour d'appel dans le ressort de laquelle est
 situé le chef-lieu de région. Il est choisi parmi les magistrats du siège en fonction dans l'une des juridictions de ce
-ressort ou parmi des magistrats honoraires.
+ressort ou parmi des magistrats honoraires. 
 
-Un officier de la direction du service national assiste aux séances à titre consultatif. Les jeunes gens sont avisés des
-lieu, date et heure de la séance au cours de laquelle leur demande sera examinée.
+Un officier de la   direction du service national et de la jeunesse assiste aux séances à titre consultatif. Les jeunes gens
+sont avisés des lieu, date et heure de la séance au cours de laquelle leur demande sera examinée. 
 
 Pour la région Ile-de-France, il est constitué deux commissions dont les ressorts respectifs comprennent, d'une part, les
 départements de Paris, de la Seine-et-Marne, de la Seine-Saint-Denis et du Val-de-Marne et, d'autre part, les départements
@@ -16786,23 +16778,13 @@ aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-237 1972-03-29 art. 10
-
 	**Modifié par**:
 
-	  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-	  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+	  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
 
 	**Codifié par**:
 
-	  - Décret n°72-806 1972-08-31
+	  - Décret n°72-806 du 31 août 1972
 
 	**Cité par**:
 
@@ -16810,7 +16792,7 @@ aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du 
 
 	**Cite**:
 
-	  - Code du service national - art. L32 (M)
+	  - Code du service national - art. L32
 
 
 ###### Article R*64-1
@@ -17802,31 +17784,27 @@ dont elle estime l'audition utile.
 
 ###### Article R102
 
-La composition des commissions de réforme du service national est fixée comme suit :
+La composition des commissions de réforme du service national est fixée comme suit : 
 
-Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ;
+Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ; 
 
-Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ;
+Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ; 
 
-Un représentant de la direction du service national.
+Un représentant de la   direction du service national et de la jeunesse. 
 
 Toutefois, s'il s'agit d'une commission instituée auprès de troupes en opérations ou stationnées en dehors de la métropole ou
-des départements et territoires d'outre-mer, le représentant de la direction du service national est remplacé par un officier
-des corps de troupe désigné par le commandant des troupes.
+des départements et territoires d'outre-mer, le représentant de la   direction du service national et de la jeunesse est
+remplacé par un officier des corps de troupe désigné par le commandant des troupes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-81 1972-01-24 art. 2 et art. 3
-
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
 
 	**Codifié par**:
 
-	  - Décret n°72-806 1972-08-31
+	  - Décret n°72-806 du 31 août 1972
 
 	**Cité par**:
 
