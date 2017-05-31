@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-06-01
 
 # Partie législative
 
@@ -12567,20 +12567,37 @@ période  d'engagement de service civique sur des missions distinctes agréées.
 
 ###### Article R121-49
 
-En application de l'article L. 120-17 du code du service national et de l'article 8 du décret n° 99-1039 du 10 décembre 1999
-relatif aux sapeurs-pompiers volontaires, une attestation de service civique pourra être délivrée à l'issue de la première
-période d'engagement.
+I. – Le service civique des sapeurs-pompiers mentionné au 3° du II de l'article L. 120-1 est régi par les dispositions du
+présent chapitre relatives à l'engagement de service civique. 
+
+Toute personne effectuant un service civique des sapeurs-pompiers doit avoir validé, en complément de sa formation civique et
+citoyenne, la formation initiale d'équipier de sapeur-pompier volontaire définie par arrêté du ministre chargé de la sécurité
+civile. 
+
+Au terme de ces formations, la personne volontaire peut concourir, en complément des sapeurs-pompiers, aux activités
+mentionnées au deuxième alinéa du 3° du II de l'article L. 120-1, si elle est placée pendant toute la durée de celles-ci sous
+la surveillance d'un sapeur-pompier ayant la qualité de chef d'agrès ou, à défaut, comptant au moins cinq années de service
+effectif. 
+
+II. – En application de l'article L. 120-17 et de l'article R. 723-9 du code de la sécurité intérieure, une attestation de
+service civique pourra être délivrée à l'issue de la première période d'engagement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-1028 du 10 mai 2017, les dispositions du présent article entrent en vigueur le
+1er juin 2017.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2017-1028 du 10 mai 2017 - art. 1
+
 	**Cite**:
 
-	  - Décret n°99-1039 du 10 décembre 1999 - art. 8
+	  - Code du service national - art. L120-1
 	  - Code du service national - art. L120-17
-
-	**Créé par**:
-
-	  - Décret n°2010-485 du 12 mai 2010 - art. 1
+	  - Code de la sécurité intérieure - art. R723-9
 
 
 ###### Article R121-50
@@ -12932,21 +12949,10 @@ décret n° 2015-581 du 27 mai 2015
     <tr>
       <td align="left">
 
-R. 121-49</td>
-      <td align="justify">
-
-Résultant du 
-décret n° 2010-485 du 12 mai 2010
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
 R. 121-50</td>
       <td align="justify">
 
-Résultant du  décret n° 2015-581 du 27 mai 2015
+Résultant du décret n° 2015-581 du 27 mai 2015
 </td>
     </tr>
   </tbody>
@@ -12965,11 +12971,69 @@ Résultant du  décret n° 2015-581 du 27 mai 2015
 
 	**Modifié par**:
 
-	  - Décret n°2017-689 du 28 avril 2017 - art. 6
+	  - Décret n°2017-1028 du 10 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code du service national - art. R121-52 (V)
+
+
+###### Article R121-51-1
+
+Sont applicables en Polynésie française les dispositions du présent chapitre mentionnées dans la colonne de gauche du tableau
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left">
+
+R. 121-49
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1028 du 10 mai 2017
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-1028 du 10 mai 2017 - art. 1
+
+
+###### Article R121-51-2
+
+Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent chapitre mentionnées dans
+la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left">
+
+R. 121-49
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1028 du 10 mai 2017
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-1028 du 10 mai 2017 - art. 1
 
 
 ###### Article R121-52
